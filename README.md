@@ -1,3 +1,5 @@
+<pre>
+
 === [gen7ou] Ash Greninja balance by Finchinator ===
 
 Toxapex @ Black Sludge
@@ -2897,3 +2899,5 @@ IVs: 0 Atk
 - Defog
 - Haze
 - Roost
+
+</pre>
