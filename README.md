@@ -1163,7 +1163,7 @@ EVs: 4 Atk / 252 SpA / 252 Spe
 Naive Nature
 - Clanging Scales
 - Flamethrower
-- Close Combat / Earthquake
+- Earthquake
 - Taunt
 
 Heracross @ Choice Scarf
