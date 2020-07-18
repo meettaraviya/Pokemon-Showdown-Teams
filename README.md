@@ -1,5 +1,3 @@
-<pre>
-
 === [gen7ou] Ash Greninja balance by Finchinator ===
 
 Toxapex @ Black Sludge
@@ -2961,5 +2959,3 @@ Impish Nature
 - Pursuit  
 - Roar  
 - Rest
-
-</pre>
