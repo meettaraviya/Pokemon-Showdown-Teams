@@ -2429,7 +2429,7 @@ Sassy Nature
 - Leech Seed
 - Protect
 - Heavy Slam
-- Flamethrower / Earthquake
+- Flamethrower
 
 Excadrill @ Choice Scarf
 Ability: Mold Breaker
