@@ -1,0 +1,360 @@
+=== [gen8ou] Swords Dance Garchomp + Specs Magnezone Balance by Finchinator ===
+
+Pheromosa @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Triple Axel  
+- Drill Run  
+- U-turn  
+
+Slowbro @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Future Sight  
+- Scald  
+- Slack Off  
+- Teleport  
+
+Garchomp @ Life Orb  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Stone Edge  
+- Scale Shot  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 148 Def / 8 SpA / 96 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Soft-Boiled  
+- Moonblast  
+- Wish  
+
+Magnezone @ Choice Specs  
+Ability: Magnet Pull  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Flash Cannon  
+- Thunderbolt  
+- Toxic  
+
+Mandibuzz (F) @ Heavy-Duty Boots  
+Ability: Overcoat  
+EVs: 248 HP / 92 Def / 60 SpD / 108 Spe  
+Careful Nature  
+- Knock Off  
+- Roost  
+- U-turn  
+- Defog  
+
+
+
+=== [gen8ou] Choice Band Urshifu + Choice Specs Magearna VoltTurn by Ruft ===
+
+Urshifu @ Choice Band  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Wicked Blow  
+- Close Combat  
+- Sucker Punch  
+- U-turn  
+
+Slowking @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 248 HP / 28 Def / 232 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport  
+
+Magearna @ Choice Specs  
+Ability: Soul-Heart  
+EVs: 24 HP / 252 SpA / 4 SpD / 228 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Aura Sphere  
+- Trick  
+- Volt Switch  
+
+Toxapex @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+- Knock Off  
+- Toxic Spikes  
+- Haze  
+- Recover  
+
+Mandibuzz (F) @ Heavy-Duty Boots  
+Ability: Overcoat  
+EVs: 248 HP / 116 Def / 144 SpD  
+Impish Nature  
+IVs: 27 Spe  
+- Foul Play  
+- Defog  
+- Roost  
+- U-turn  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 8 HP / 252 Atk / 4 Def / 244 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+
+
+
+=== [gen8ou] Nasty Plot Spectrier + Swords Dance Kartana Sand Balance by Finchinator ===
+
+Spectrier @ Leftovers  
+Ability: Grim Neigh  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Hex  
+- Will-O-Wisp  
+- Substitute  
+
+Kartana @ Life Orb  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Leaf Blade  
+- Sacred Sword  
+- Knock Off  
+
+Tyranitar @ Heavy-Duty Boots  
+Ability: Sand Stream  
+EVs: 248 HP / 240 SpD / 20 Spe  
+Careful Nature  
+- Stealth Rock  
+- Rock Blast  
+- Earthquake  
+- Thunder Wave  
+
+Excadrill @ Leftovers  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Iron Head  
+- Toxic  
+
+Toxapex @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+- Scald  
+- Knock Off  
+- Recover  
+- Haze  
+
+Moltres @ Heavy-Duty Boots  
+Ability: Flame Body  
+EVs: 248 HP / 104 Def / 16 SpA / 84 SpD / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Roost  
+- Scorching Sands  
+- Defog  
+
+
+
+=== [gen8ou] Choice Band Pheromosa + Future Sight Slowbro Sand Balance by Jordy ===
+
+Pheromosa @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- U-turn  
+- Triple Axel  
+- Drill Run  
+
+Slowbro @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpA  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Scald  
+- Slack Off  
+- Teleport  
+- Future Sight  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 216 SpD / 40 Spe  
+Careful Nature  
+- Crunch  
+- Stealth Rock  
+- Toxic  
+- Earthquake  
+
+Moltres @ Heavy-Duty Boots  
+Ability: Flame Body  
+EVs: 248 HP / 108 Def / 152 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Roost  
+- Defog  
+- Scorching Sands  
+
+Excadrill @ Leftovers  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Rock Slide  
+- Swords Dance  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 HP / 208 Def / 48 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Soft-Boiled  
+- Thunder
+- Calm Mind  
+
+
+
+=== [gen8ou] Nasty Plot Tornadus-Therian + Choice Band Barraskewda Rain Offense by Finchinator ===
+
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+EVs: 248 HP / 252 Def / 8 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Scald  
+- Roost  
+- U-turn  
+- Defog  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Stealth Rock  
+- Spikes  
+- Knock Off  
+- Power Whip  
+
+Tornadus-Therian (M) @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Hurricane  
+- Weather Ball  
+- Focus Blast  
+
+Garchomp @ Life Orb  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Aqua Tail  
+- Scale Shot  
+
+Barraskewda @ Choice Band  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Liquidation  
+- Close Combat  
+- Psychic Fangs  
+- Flip Turn  
+
+Urshifu @ Choice Band  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wicked Blow  
+- Close Combat  
+- Sucker Punch  
+- U-turn  
+
+
+
+=== [gen8ou] Pivot Cinderace + Future Sight Slowbro Balance by FINCHTOUR30 (TPP) ===
+
+Cinderace (M) @ Heavy-Duty Boots  
+Ability: Libero  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Pyro Ball  
+- U-turn  
+- Gunk Shot  
+- High Jump Kick  
+
+Excadrill (M) @ Leftovers  
+Ability: Mold Breaker  
+EVs: 44 Atk / 224 SpD / 240 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Iron Head  
+- Toxic  
+
+Slowbro (M) @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpA  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Future Sight  
+- Scald  
+- Slack Off  
+- Teleport  
+
+Clefable (M) @ Leftovers  
+Ability: Magic Guard  
+EVs: 208 HP / 252 Def / 48 Spe  
+Bold Nature  
+- Calm Mind  
+- Knock Off  
+- Moonblast  
+- Soft-Boiled  
+
+Dragapult (M) @ Heavy-Duty Boots  
+Ability: Infiltrator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- U-turn  
+- Thunder Wave  
+- Hex  
+- Draco Meteor  
+
+Mandibuzz (F) @ Heavy-Duty Boots  
+Ability: Overcoat 
+EVs: 252 HP / 160 SpD / 96 Spe  
+Careful Nature  
+- Defog  
+- Foul Play  
+- Roost  
+- U-turn  
+
