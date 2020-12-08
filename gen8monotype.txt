@@ -1,7 +1,6 @@
 === [gen8monotype] HO Bug - Splash ===
 
 Shuckle @ Mental Herb
-Ability: Sturdy
 EVs: 248 HP / 252 Def / 8 SpD
 Bold Nature
 IVs: 0 Atk
@@ -910,7 +909,7 @@ Timid Nature
 - Sunny Day
 - Moonblast
 - Encore
-- Memento / U-turn
+- Memento
 
 Shiftry @ Black Glasses
 Ability: Chlorophyll
@@ -1385,7 +1384,7 @@ Jolly Nature
 - Stone Edge
 - Close Combat
 - Earthquake
-- Iron Head / Megahorn
+- Iron Head
 
 Tyranitar @ Lum Berry
 Ability: Sand Stream
@@ -1413,7 +1412,7 @@ Impish Nature
 - Sticky Web
 - Stealth Rock
 - Encore
-- Knock Off / Final Gambit
+- Final Gambit
 
 Rhyperior @ Leftovers
 Ability: Solid Rock
