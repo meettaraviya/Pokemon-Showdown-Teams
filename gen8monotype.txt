@@ -1160,7 +1160,7 @@ Diggersby @ Choice Band
 Ability: Huge Power
 EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature
-- Mega Kick / Facade / Body Slam
+- Body Slam
 - Earthquake
 - Fire Punch
 - Quick Attack
