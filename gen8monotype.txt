@@ -654,7 +654,7 @@ IVs: 0 Atk
 - Nasty Plot
 - Thunderbolt
 - Overheat
-- Substitute / Defog
+- Defog
 
 
 === [gen8monotype] Balanced Flying - Attribute ===
@@ -757,7 +757,7 @@ IVs: 0 Atk
 - Foul Play
 - Roost
 - Defog
-- Toxic / U-turn
+- Toxic
 
 Togekiss @ Leftovers
 Ability: Serene Grace
@@ -978,7 +978,7 @@ Calm Nature
 - Apple Acid
 - Recover
 - Leech Seed
-- Dragon Pulse / Protect
+- Dragon Pulse
 
 Rillaboom @ Life Orb
 Ability: Grassy Surge
