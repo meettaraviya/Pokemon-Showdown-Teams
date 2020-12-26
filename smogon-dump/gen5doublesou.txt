@@ -1,0 +1,121 @@
+=== [gen5doublesou] BW Doubles/#25557 1 Likes 0 Score posted by Stratos http://www.smogon.com/forums/threads/team-whitewater-smogon-doubles-peaked-1.3477599/page-1#post-4542220 ===
+
+Politoed @ Leftovers
+Trait: Drizzle
+EVs: 252 Def / 252 HP / 4 SAtk
+Relaxed Nature
+IVs: 0 Spd
+- Protect
+- Helping Hand
+- Icy Wind
+- Scald
+
+Kingdra @ Dragon Gem
+Trait: Swift Swim
+EVs: 216 Spd / 252 SAtk / 40 HP
+Modest Nature
+- Draco Meteor
+- Muddy Water
+- Substitute
+- Protect
+
+Rotom-Wash @ Choice Scarf
+Trait: Levitate
+EVs: 252 SAtk / 248 Spd / 8 HP
+Timid Nature
+- Hydro Pump
+- Volt Switch
+- Thunder
+- Hidden Power [Ice]
+
+Scizor @ Life Orb
+Trait: Technician
+EVs: 252 Atk / 252 HP / 4 SDef
+Adamant Nature
+- Protect
+- Bug Bite
+- Bullet Punch
+- Feint
+
+Hitmontop (M) @ Fighting Gem
+Trait: Intimidate
+EVs: 252 Atk / 248 HP / 8 Spd
+Adamant Nature
+- Close Combat
+- Sucker Punch
+- Wide Guard
+- Fake Out
+
+Kyurem-Black @ Choice Band
+Trait: Teravolt
+EVs: 252 Atk / 32 HP / 224 Spd
+Adamant Nature
+- Fusion Bolt
+- Dragon Claw
+- Outrage
+- Ice Beam
+
+
+
+
+=== [gen5doublesou] BW Doubles/#25558 0 Likes 0 Score posted by Audiosurfer http://www.smogon.com/forums/threads/rushing-through-the-sand.3477477/page-1#post-4540011 ===
+
+Excadrill @ Life Orb
+Trait: Sand Rush
+EVs: 60 HP / 252 Atk / 196 Spd
+Adamant Nature
+- Earthquake
+- Rock Slide
+- X-Scissor
+- Protect
+
+Tyranitar @ Chople Berry
+Trait: Sand Stream
+EVs: 252 HP / 252 Atk / 4 SDef
+Brave Nature
+- Rock Slide
+- Crunch
+- Low Kick
+- Protect
+
+Cresselia @ Chesto Berry
+Trait: Levitate
+EVs: 252 HP / 40 SAtk / 216 SDef
+Calm Nature
+IVs: 0 Atk
+- Psyshock
+- Icy Wind
+- Rest
+- Helping Hand
+
+Rotom-Wash @ Sitrus Berry
+Trait: Levitate
+EVs: 252 HP / 252 SAtk / 4 SDef
+Modest Nature
+IVs: 0 Atk
+- Hydro Pump
+- Thunderbolt
+- Thunder Wave
+- Protect
+
+Hitmontop (M) @ Fighting Gem
+Trait: Intimidate
+EVs: 252 HP / 252 Atk / 4 Spd
+Adamant Nature
+- Fake Out
+- Close Combat
+- Sucker Punch
+- Wide Guard
+
+Latias (F) @ Draco Plate
+Trait: Levitate
+EVs: 4 HP / 252 SAtk / 252 Spd
+Timid Nature
+- Dragon Pulse
+- Psyshock
+- Tailwind
+- Protect
+
+
+
+

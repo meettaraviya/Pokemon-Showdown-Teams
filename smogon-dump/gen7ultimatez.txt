@@ -1,0 +1,64 @@
+=== [gen7ultimatez] Anything Goes/#18937 2 Likes 0 Score posted by BananaLaddersPS Untitled 259 http://www.smogon.com/forums/threads/ag-team-bazaar-and-showcase.3646732/page-2#post-8128445 ===
+
+Kartana @ Fightinium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Giga Impact  
+- Sacred Sword  
+
+Leavanny @ Waterium Z  
+Ability: Overcoat  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Sticky Web  
+- Leaf Blade  
+- Swords Dance  
+- X-Scissor  
+
+Yanmega @ Flyinium Z  
+Ability: Tinted Lens  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Bug Buzz  
+- Air Slash  
+- Tailwind  
+
+Porygon-Z @ Normalium Z  
+Ability: Adaptability  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Beam  
+- Dark Pulse  
+- Recover  
+- Nasty Plot  
+
+Noivern @ Flyinium Z  
+Ability: Infiltrator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Boomburst  
+- Draco Meteor  
+- Focus Blast  
+- U-turn  
+
+Kommo-o @ Kommonium Z  
+Ability: Bulletproof  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Clanging Scales  
+- Focus Blast  
+- Flamethrower  
+- Flash Cannon  
+
+
+
+
+
+

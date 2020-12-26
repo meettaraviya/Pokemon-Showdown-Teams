@@ -1,0 +1,1161 @@
+=== [gen5nu] Ruins of Alph/#23591 11 Likes 0 Score posted by Arai Alomomola Balance http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Alomomola @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 104 HP / 252 Def / 152 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Wish  
+- Protect  
+- Healing Wish  
+
+Charizard @ Choice Specs  
+Ability: Blaze  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Air Slash  
+- Hidden Power [Grass]
+- Flamethrower  
+
+Eelektross @ Leftovers  
+Ability: Levitate  
+EVs: 224 HP / 252 SpA / 32 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Giga Drain  
+- Flamethrower  
+
+Serperior @ Life Orb  
+Ability: Overgrow  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Giga Drain  
+- Hidden Power [Rock]
+- Calm Mind  
+- Substitute  
+
+Golurk @ Leftovers  
+Ability: Iron Fist  
+EVs: 252 HP / 84 Atk / 76 Def / 96 SpD  
+Adamant Nature  
+- Earthquake  
+- Ice Punch  
+- Toxic  
+- Stealth Rock  
+
+Skuntank @ Lum Berry  
+Ability: Aftermath  
+EVs: 252 Atk / 72 SpD / 184 Spe  
+Adamant Nature  
+- Pursuit  
+- Crunch  
+- Sucker Punch  
+- Taunt  
+
+
+
+
+
+
+=== [gen5nu] Ruins of Alph/#23592 11 Likes 0 Score posted by Arai Cased's Normal Spam http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Swellow @ Toxic Orb  
+Ability: Guts  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Facade  
+- U-turn  
+- Quick Attack  
+- Tailwind  
+
+Kangaskhan @ Silk Scarf  
+Ability: Scrappy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Fake Out  
+- Sucker Punch  
+- Double-Edge  
+
+Zangoose @ Toxic Orb  
+Ability: Toxic Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Facade  
+- Quick Attack  
+- Night Slash  
+- Close Combat  
+
+Gothorita (M) @ Choice Specs  
+Ability: Shadow Tag  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Modest Nature  
+- Trick  
+- Psychic  
+- Grass Knot  
+- Hidden Power [Ground]
+
+Golurk @ Yache Berry  
+Ability: Iron Fist  
+EVs: 60 HP / 252 Atk / 196 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Shadow Punch  
+- Ice Punch  
+
+Rotom-Frost @ Wide Lens  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Blizzard  
+- Thunderbolt  
+- Will-O-Wisp  
+- Volt Switch  
+
+
+
+
+
+
+=== [gen5nu] Ruins of Alph/#23593 11 Likes 0 Score posted by Arai SD Charizard Offense http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Charizard (M) @ Flying Gem  
+Ability: Blaze  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Acrobatics  
+- Swords Dance  
+- Earthquake  
+- Roost  
+
+Piloswine (M) @ Eviolite  
+Ability: Thick Fat  
+EVs: 240 HP / 96 Def / 156 SpD / 16 Spe  
+Impish Nature  
+- Stealth Rock  
+- Toxic  
+- Ice Shard  
+- Earthquake  
+
+Serperior (M) @ Life Orb  
+Ability: Overgrow  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def / 30 SpD / 30 Spe  
+- Taunt  
+- Calm Mind  
+- Giga Drain  
+- Hidden Power [Rock]
+
+Gothorita (M) @ Choice Specs  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Grass Knot  
+- Signal Beam  
+- Trick  
+
+Alomomola (M) @ Leftovers  
+Ability: Regenerator  
+EVs: 120 HP / 124 Def / 252 SpD / 12 Spe  
+Careful Nature  
+- Wish  
+- Waterfall  
+- Healing Wish  
+- Protect  
+
+Garbodor (M) @ Choice Scarf  
+Ability: Aftermath  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Gunk Shot  
+- Seed Bomb  
+- Drain Punch  
+- Explosion  
+
+
+
+
+
+
+=== [gen5nu] Ruins of Alph/#23594 11 Likes 0 Score posted by Arai Rotom-S Offense http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Rotom-Fan @ Expert Belt  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Volt Switch  
+- Will-O-Wisp  
+- Air Slash  
+- Hidden Power [Grass]
+
+Gardevoir (M) @ Leftovers  
+Ability: Trace  
+EVs: 248 HP / 164 Def / 96 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Will-O-Wisp  
+- Psychic  
+- Signal Beam  
+
+Golurk @ Passho Berry  
+Ability: Iron Fist  
+EVs: 200 HP / 224 Atk / 84 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Thunder Punch  
+- Earthquake  
+- Shadow Punch  
+
+Alomomola (M) @ Leftovers  
+Ability: Regenerator  
+EVs: 104 HP / 144 Def / 252 SpD / 8 Spe  
+Careful Nature  
+- Wish  
+- Waterfall  
+- Mirror Coat  
+- Protect  
+
+Garbodor (M) @ Rocky Helmet  
+Ability: Aftermath  
+EVs: 240 HP / 160 Def / 108 Spe  
+Impish Nature  
+- Toxic Spikes  
+- Spikes  
+- Seed Bomb  
+- Gunk Shot  
+
+Kangaskhan @ Silk Scarf  
+Ability: Scrappy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Fake Out  
+- Earthquake  
+- Sucker Punch  
+- Double-Edge  
+
+
+
+
+
+
+=== [gen5nu] Ruins of Alph/#23595 11 Likes 0 Score posted by Arai Lure Seismitoad Offense http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Skuntank (M) @ Black Glasses  
+Ability: Aftermath  
+EVs: 252 Atk / 112 SpD / 144 Spe  
+Adamant Nature  
+- Sucker Punch  
+- Crunch  
+- Pursuit  
+- Taunt  
+
+Gardevoir (M) @ Life Orb  
+Ability: Trace  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Thunderbolt  
+- Destiny Bond  
+
+Regirock @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 240 Atk / 16 Def  
+Impish Nature  
+- Stealth Rock  
+- Thunder Wave  
+- Earthquake  
+- Stone Edge  
+
+Misdreavus (M) @ Eviolite  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Shadow Ball  
+- Thunderbolt  
+- Will-O-Wisp  
+
+Seismitoad (M) @ Leftovers  
+Ability: Water Absorb  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Grass Knot  
+- Earth Power  
+- Sludge Wave  
+
+Braviary @ Choice Scarf  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Superpower  
+- U-turn  
+- Return  
+
+
+
+
+
+
+=== [gen5nu] Ruins of Alph/#23596 11 Likes 0 Score posted by Arai Fraxure Offense http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Charizard (F) @ Life Orb  
+Ability: Blaze  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Air Slash  
+- Roost  
+- Focus Blast  
+
+Torterra (M) @ Life Orb  
+Ability: Overgrow  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Rock Polish  
+- Earthquake  
+- Wood Hammer  
+- Swords Dance  
+
+Samurott (M) @ Life Orb  
+Ability: Torrent  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Grass]
+- Taunt  
+
+Piloswine (M) @ Eviolite  
+Ability: Thick Fat  
+EVs: 252 HP / 200 Def / 56 SpD  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Roar  
+- Ice Shard  
+
+Fraxure (M) @ Eviolite  
+Ability: Mold Breaker  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Outrage  
+- Low Kick  
+- Taunt  
+
+Musharna (M) @ Leftovers  
+Ability: Synchronize  
+EVs: 240 HP / 244 Def / 24 Spe  
+Bold Nature  
+- Baton Pass  
+- Moonlight  
+- Psychic  
+- Thunder Wave
+
+
+
+=== [gen5nu] Ruins of Alph/#23597 77 Likes 0 Score posted by gorgie DD_CHAR http://www.smogon.com/forums/threads/gorgie-old-gens-team-dump.3618023/page-1#post-7546019 ===
+
+
+Dorothy (Roselia) (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 120 SpA / 136 Spe  
+Modest Nature  
+- Synthesis  
+- Sludge Bomb  
+- Spikes  
+- Energy Ball  
+
+MAN (Charizard) (F) @ Life Orb  
+Ability: Blaze  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Earthquake  
+- Flare Blitz  
+- Thunder Punch  
+
+sonic (Sandslash) (M) @ Leftovers  
+Ability: Sand Veil  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Stone Edge  
+- Swords Dance  
+
+deep frz (Regice) @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Rest  
+- Ice Beam  
+- Sleep Talk  
+- Thunderbolt  
+
+hey baby (Floatzel) (F) @ Life Orb  
+Ability: Swift Swim  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Bulk Up  
+- Ice Beam  
+- Return  
+
+big mamas (Nidoqueen) @ Leftovers  
+Ability: Poison Point  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Earth Power  
+- Ice Beam  
+- Stealth Rock  
+- Toxic Spikes  
+
+
+
+
+
+
+=== [gen5nu] Ruins of Alph/#23598 77 Likes 0 Score posted by gorgie Hyper Offense http://www.smogon.com/forums/threads/gorgie-old-gens-team-dump.3618023/page-1#post-7546019 ===
+
+
+pick 1 (Slaking) (M) @ Choice Band  
+Ability: Truant  
+Happiness: 0  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Lonely Nature  
+- Earthquake  
+- Night Slash  
+- Frustration  
+- Pursuit  
+
+Big Fan (Rotom-Fan) @ Choice Scarf  
+Ability: Levitate  
+Happiness: 0  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Trick  
+- Volt Switch  
+- Thunderbolt  
+- Air Slash  
+
+Big (Golurk) @ Leftovers  
+Ability: Iron Fist  
+Happiness: 0  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Shadow Punch  
+- Ice Punch  
+
+la chula grande (Ludicolo) (M) @ Life Orb  
+Ability: Swift Swim  
+Happiness: 0  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Giga Drain  
+- Hydro Pump  
+- Ice Beam  
+- Rain Dance  
+
+Father Donk (Tauros) @ Life Orb  
+Ability: Sheer Force  
+Happiness: 0  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Zen Headbutt  
+- Pursuit  
+- Rock Climb  
+
+hot pocket (Floatzel) (M) @ Life Orb  
+Ability: Swift Swim  
+Happiness: 0  
+EVs: 140 Atk / 116 SpA / 252 Spe  
+Naive Nature  
+- Hydro Pump  
+- Ice Punch  
+- Crunch  
+- Low Kick
+
+
+
+=== [gen5nu] BW NU/#23599 30 Likes 0 Score posted by soulgazer http://www.smogon.com/forums/threads/%C3%9Fasedvictory-sucks.3504820/page-1#post-5388212 ===
+
+Gamagoori (Golurk) @ Passho Berry
+Ability: Iron Fist
+Shiny: Yes
+EVs: 248 HP / 84 Atk / 76 SDef / 92 Def / 8 Spd
+Adamant Nature
+- Earthquake
+- Ice Punch
+- Toxic
+- Stealth Rock
+
+Ryuuko (Skuntank) (F) @ Life Orb
+Ability: Aftermath
+EVs: 252 Atk / 176 Spd / 80 SDef
+Lonely Nature
+- Crunch
+- Sucker Punch
+- Hidden Power [Grass]
+- Explosion
+
+Tsugumu (Gurdurr) (M) @ Eviolite
+Ability: Guts
+EVs: 252 Atk / 248 HP / 8 Spd
+Adamant Nature
+- Drain Punch
+- Mach Punch
+- Ice Punch
+- Bulk Up
+
+Sanageyama (Samurott) (M) @ Rindo Berry
+Ability: Torrent
+EVs: 80 Spd / 176 HP / 252 Atk
+Adamant Nature
+- Waterfall
+- Megahorn
+- Aqua Jet
+- Swords Dance
+
+Houka (Rotom-Frost) @ Choice Scarf
+Ability: Levitate
+EVs: 252 Spd / 252 SAtk / 4 SDef
+Timid Nature
+IVs: 0 Atk
+- Thunderbolt
+- Blizzard
+- Volt Switch
+- Trick
+
+Nonon (Leafeon) (F) @ Leftovers
+Ability: Chlorophyll
+Shiny: Yes
+EVs: 248 HP / 44 Atk / 216 Spd
+Jolly Nature
+- Leaf Blade
+- Substitute
+- Swords Dance
+- Baton Pass
+
+
+
+
+=== [gen5nu] BW NU/#23600 27 Likes 0 Score posted by Cased http://www.smogon.com/forums/threads/ainsley-harriots-fresh-and-fabulous-spl-team-in-minutes.3504823/page-1#post-5388285 ===
+
+Swellow (M) @ Toxic Orb
+Trait: Guts
+EVs: 252 Atk / 4 Def / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Facade
+- U-turn
+- Quick Attack
+- Tailwind
+
+Kangaskhan (F) @ Silk Scarf
+Trait: Scrappy
+EVs: 252 Atk / 4 SDef / 252 Spd
+Adamant Nature (+Atk, -SAtk)
+- Earthquake
+- Fake Out
+- Sucker Punch
+- Double-Edge
+
+Zangoose (M) @ Toxic Orb
+Trait: Toxic Boost
+EVs: 252 Atk / 4 SDef / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Facade
+- Quick Attack
+- Night Slash
+- Close Combat
+
+Gothorita (M) @ Choice Specs
+Trait: Shadow Tag
+EVs: 40 HP / 252 SAtk / 216 Spd
+Modest Nature (+SAtk, -Atk)
+- Trick
+- Psychic
+- Grass Knot
+- Hidden Power [Ground]
+
+Golurk @ Yache Berry
+Trait: Iron Fist
+EVs: 60 HP / 252 Atk / 196 Spd
+Adamant Nature (+Atk, -SAtk)
+- Stealth Rock
+- Earthquake
+- Shadow Punch
+- Ice Punch
+
+Rotom-F @ Wide Lens
+Trait: Levitate
+EVs: 252 SAtk / 4 SDef / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Blizzard
+- Thunderbolt
+- Will-O-Wisp
+- Volt Switch
+
+
+
+
+=== [gen5nu] BW NU/#23601 7 Likes 0 Score posted by ebeast http://www.smogon.com/forums/threads/evioliters.3481093/page-1#post-4631579 ===
+
+Tuxedo Mask (Roselia) (M) @ Eviolite
+Trait: Natural Cure
+EVs: 248 HP / 236 SDef / 24 Spd
+Calm Nature
+- Spikes
+- Synthesis
+- Giga Drain
+- Sludge Bomb
+
+Tsuna (Metang) @ Eviolite
+Trait: Clear Body
+EVs: 244 HP / 236 Def / 28 Spd
+Impish Nature
+- Stealth Rock
+- Meteor Mash
+- Toxic
+- Psych Up
+
+Kokoro-chan (Alomomola) (F) @ Leftovers
+Trait: Regenerator
+EVs: 248 HP / 236 Def / 24 Spd
+Impish Nature
+- Wish
+- Protect
+- Waterfall
+- Toxic
+
+Alice (Misdreavus) (F) @ Eviolite
+Trait: Levitate
+EVs: 248 HP / 220 Def / 40 Spd
+Bold Nature
+- Will-O-Wisp
+- Pain Split
+- Shadow Ball
+- Taunt
+
+Echo (Zweilous) (F) @ Eviolite
+Trait: Hustle
+EVs: 248 HP / 196 SDef / 64 Spd
+Careful Nature
+- Rest
+- Sleep Talk
+- Roar
+- Dragon Tail
+
+Wretched Egg (Musharna) (F) @ Leftovers
+Trait: Synchronize
+EVs: 240 HP / 252 Def / 16 SDef
+Bold Nature
+- Calm Mind
+- Moonlight
+- Psychic
+- Heal Bell
+
+
+
+
+=== [gen5nu] BW NU/#23602 2 Likes 0 Score posted by ebeast http://www.smogon.com/forums/threads/cloudy-with-a-chance-of-draco-spam.3471503/page-1#post-4372459 ===
+
+Azure Rain (Altaria) (F) @ Life Orb
+Trait: Cloud Nine
+EVs: 80 HP / 252 SAtk / 176 Spd
+Timid Nature
+- Draco Meteor
+- Roost
+- Hidden Power [Ground]
+- Power Swap
+
+MC HAMmer (Emboar) (M) @ Choice Band
+Trait: Blaze
+Shiny: Yes
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature
+- Flare Blitz
+- Superpower
+- Wild Charge
+- Fire Punch
+
+IT'S ROTT TIME (Samurott) (M) @ Lum Berry
+Trait: Torrent
+EVs: 252 Atk / 4 Def / 252 Spd
+Jolly Nature
+- Swords Dance
+- Waterfall
+- Megahorn
+- Aqua Jet
+
+Shaqtus (Cacturne) (M) @ Yache Berry
+Trait: Sand Veil
+EVs: 72 HP / 252 Atk / 184 Spd
+Adamant Nature
+- Spikes
+- Encore
+- Bullet Seed
+- Sucker Punch
+
+NOSEPATH (Probopass) (F) @ Leftovers
+Trait: Sturdy
+Shiny: Yes
+EVs: 248 HP / 64 Def / 100 SAtk / 96 Spd
+Modest Nature
+- Stealth Rock
+- Thunder Wave
+- Flash Cannon
+- Volt Switch
+
+Hide Yo Kids! (Haunter) (F) @ Leftovers
+Trait: Levitate
+EVs: 4 Def / 252 SAtk / 252 Spd
+Timid Nature
+- Substitute
+- Disable
+- Shadow Ball
+- Sludge Bomb
+
+
+
+
+=== [gen5nu] BW NU/#23603 1 Likes 0 Score posted by jake http://www.smogon.com/forums/threads/the-heist.3474237/page-1#post-4455706 ===
+
+Can't Hold Us (Braviary) @ Leftovers
+Trait: Defiant
+EVs: 252 HP / 176 SDef / 80 Spd
+Careful Nature
+- Substitute
+- Roost
+- Bulk Up
+- Brave Bird
+
+Thrift Shop (Garbodor) @ Rocky Helmet
+Trait: Aftermath
+EVs: 252 HP / 144 Def / 112 Spd
+Impish Nature
+- Spikes
+- Toxic
+- Rock Blast
+- Pain Split
+
+Neon Cathedral (Gurdurr) @ Eviolite
+Trait: Guts
+EVs: 252 HP / 252 Atk / 4 SDef
+Adamant Nature
+- Toxic
+- Drain Punch
+- Ice Punch
+- Mach Punch
+
+Make the Money (Skuntank) @ Leftovers
+Trait: Aftermath
+EVs: 252 Atk / 4 Def / 252 Spd
+Adamant Nature
+IVs: 30 SAtk / 30 SDef
+- Poison Jab
+- Taunt
+- Pursuit
+- Sucker Punch
+
+Thin Line (Ludicolo) @ Life Orb
+Trait: Swift Swim
+EVs: 4 HP / 252 SAtk / 252 Spd
+Timid Nature
+- Giga Drain
+- Hydro Pump
+- Ice Beam
+- Rain Dance
+
+Jimmy Iovine (Golem) @ Lum Berry
+Trait: Sturdy
+EVs: 92 HP / 252 Atk / 164 Spd
+Adamant Nature
+- Earthquake
+- Stealth Rock
+- Rock Blast
+- Sucker Punch
+
+
+
+
+=== [gen5nu] BW NU/#23604 7 Likes 0 Score posted by marilli http://www.smogon.com/forums/threads/too-many-mices.3461213/page-1#post-4076846 ===
+
+Golem (F) @ Normal Gem
+Trait: Sturdy
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Stealth Rock
+- Rock Blast
+- Earthquake
+- Explosion
+
+Pikachu (F) @ Light Ball
+Trait: Static
+EVs: 252 SAtk / 252 Spd
+Naive Nature (+Spd, -SDef)
+- Thunderbolt
+- Substitute
+- Focus Punch
+- Grass Knot
+
+Dodrio (F) @ Choice Scarf
+Trait: Early Bird
+EVs: 252 Atk / 4 Def / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Brave Bird
+- Return
+- Pursuit
+- Drill Peck
+
+Raticate (F) @ Toxic Orb
+Trait: Guts
+EVs: 252 Atk / 4 SDef / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Facade
+- Crunch
+- Sucker Punch
+- U-turn
+
+Gorebyss (F) @ Life Orb
+Trait: Swift Swim
+EVs: 4 Def / 252 SAtk / 252 Spd
+Timid Nature (+SAtk, -Atk)
+- Shell Smash
+- Surf
+- Ice Beam
+- Hidden Power Grass
+
+Butterfree (F) @ Focus Sash
+Trait: Compoundeyes
+EVs: 248 HP / 8 SDef / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Sleep Powder
+- U-turn
+- Tailwind 
+- Stun Spore
+
+
+
+
+=== [gen5nu] BW NU/#23605 0 Likes 0 Score posted by MMF http://www.smogon.com/forums/threads/king-for-a-day.3471398/page-1#post-4369288 ===
+
+Kangaskhan @ Life Orb
+Trait: Scrappy
+EVs: 252 Spd / 252 Atk / 6 Def
+Jolly Nature
+- Fake Out
+- Double-Edge
+- Sucker Punch
+- Drain Punch
+
+Zangoose @ Toxic Orb
+Trait: Toxic Boost
+EVs: 252 Atk / 252 Spd / 6 Def
+Jolly Nature
+- Facade
+- Close Combat
+- Night Slash
+- Quick Attack
+
+Amoonguss @ Life Orb
+Trait: Regenerator
+EVs: 248 HP / 180 SAtk / 68 Def / 12 Spd
+Modest Nature
+- Spore
+- Giga Drain
+- Sludge Bomb
+- Hidden Power [Ground]
+
+Regirock @ Rocky Helmet
+Trait: Clear Body
+EVs: 248 HP / 252 Atk / 8 Spd
+Adamant Nature
+- Stealth Rock
+- Thunder Wave
+- Drain Punch
+- Rock Slide
+
+Gurdurr @ Eviolite
+Trait: Guts
+EVs: 248 HP / 252 Atk / 8 Spd
+Adamant Nature
+- Drain Punch
+- Mach Punch
+- Ice Punch
+- Knock Off
+
+Musharna @ Leftovers
+Trait: Synchronize
+EVs: 240 HP / 252 Def / 18 Spd
+Bold Nature
+- Calm Mind
+- Psychic
+- Moonlight
+- Heal Bell
+
+
+
+
+=== [gen5nu] BW NU/#23606 0 Likes 0 Score posted by Honus http://www.smogon.com/forums/threads/the-neon-hail-mary-peaked-1.3462627/page-1#post-4118708 ===
+
+Tentacool (M) @ Eviolite
+Trait: Liquid Ooze
+EVs: 252 HP / 200 Def / 56 SDef
+Calm Nature (+SDef, -Atk)
+- Toxic
+- Toxic Spikes
+- Rapid Spin
+- Giga Drain
+
+Hypno (M) @ Leftovers
+Trait: Insomnia
+EVs: 252 HP / 252 SDef / 4 Spd
+Careful Nature (+SDef, -SAtk)
+- Seismic Toss
+- Wish
+- Taunt
+- Psychic
+
+Lickilicky (F) @ Leftovers
+Trait: Own Tempo
+EVs: 252 HP / 252 SDef / 4 Spd
+Careful Nature (+SDef, -SAtk)
+- Return
+- Wish
+- Protect
+- Heal Bell
+
+Quagsire (F) @ Leftovers
+Trait: Unaware
+EVs: 252 HP / 252 Def / 4 Spd
+Relaxed Nature (+Def, -Spd)
+- Scald
+- Earthquake
+- Recover
+- Toxic
+
+Probopass (F) @ Leftovers
+Trait: Sturdy
+EVs: 252 HP / 216 Def / 40 SDef
+Calm Nature (+SDef, -Atk)
+- Stealth Rock
+- Volt Switch
+- Power Gem
+- Toxic
+
+Tangela (F) @ Eviolite
+Trait: Regenerator
+EVs: 252 HP / 192 Def / 64 SDef
+Bold Nature (+Def, -Atk)
+- Giga Drain
+- Hidden Power [Ice]
+- Leech Seed
+- Sleep Powder
+
+
+
+
+=== [gen5nu] BW NU/#23607 0 Likes 0 Score posted by Honus http://www.smogon.com/forums/threads/the-neon-hail-mary-peaked-1.3462627/page-1#post-4118708 ===
+
+Tentacool (M) @ Eviolite
+Trait: Liquid Ooze
+EVs: 252 HP / 200 Def / 56 SDef
+Calm Nature (+SDef, -Atk)
+- Toxic
+- Toxic Spikes
+- Rapid Spin
+- Giga Drain
+
+Misdreavus (M) @ Eviolite
+Trait: Levitate
+EVs: 252 HP / 4 Def / 252 SDef
+Calm Nature (+SDef, -Atk)
+- Pain Split
+- Perish Song
+- Heal Bell
+- Shadow Ball
+
+Lickilicky (F) @ Leftovers
+Trait: Own Tempo
+EVs: 252 HP / 252 SDef / 4 Spd
+Careful Nature (+SDef, -SAtk)
+- Return
+- Wish
+- Protect
+- Toxic
+
+Quagsire (F) @ Leftovers
+Trait: Unaware
+EVs: 252 HP / 252 Def / 4 Spd
+Relaxed Nature (+Def, -Spd)
+- Scald
+- Earthquake
+- Recover
+- Toxic
+
+Probopass (F) @ Leftovers
+Trait: Sturdy
+EVs: 252 HP / 216 Def / 40 SDef
+Calm Nature (+SDef, -Atk)
+- Stealth Rock
+- Volt Switch
+- Power Gem
+- Toxic
+
+Tangela (F) @ Eviolite
+Trait: Regenerator
+EVs: 252 HP / 192 Def / 64 SDef
+Bold Nature (+Def, -Atk)
+- Giga Drain
+- Hidden Power [Ice]
+- Leech Seed
+- Sleep Powder
+
+
+
+
+=== [gen5nu] BW NU/#23608 0 Likes 0 Score posted by Molk http://www.smogon.com/forums/threads/the-little-lizard-that-could-peaked-1.3463161/page-1#post-4134677 ===
+
+Golem (M) @ Lum Berry
+Trait: Sturdy
+EVs: 252 Atk / 4 SDef / 252 Spd
+Adamant Nature (+Atk, -SAtk)
+- Stealth Rock
+- Rock Blast
+- Earthquake
+- Sucker Punch
+
+Quagsire (F) @ Leftovers
+Trait: Unaware
+EVs: 252 HP / 252 Def / 4 SDef
+Relaxed Nature (+Def, -Spd)
+- Scald
+- Earthquake
+- Toxic
+- Recover
+
+Jynx (F) @ Choice Scarf
+Trait: Dry Skin
+EVs: 252 SAtk / 4 SDef / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Ice Beam
+- Psychic
+- Focus Blast
+- Lovely Kiss
+
+Scraggy (M) @ Eviolite
+Trait: Shed Skin
+EVs: 252 HP / 4 Def / 252 SDef
+Careful Nature (+SDef, -SAtk)
+- Bulk Up
+- Drain Punch
+- Crunch
+- Rest
+
+Flareon (F) @ Leftovers
+Trait: Flash Fire
+EVs: 248 HP / 8 Def / 252 SDef
+Calm Nature (+SDef, -Atk)
+- Wish
+- Protect
+- Heal Bell
+- Lava Plume
+
+Tangela (F) @ Eviolite
+Trait: Regenerator
+EVs: 252 HP / 252 Def / 4 SDef
+Bold Nature (+Def, -Atk)
+- Sleep Powder
+- Leech Seed
+- Giga Drain
+- Hidden Power [Ice]
+
+
+
+
+=== [gen5nu] BW NU/#23609 0 Likes 0 Score posted by jake http://www.smogon.com/forums/threads/goodbye-peaked-1.3460010/page-1#post-4033709 ===
+
+Klinklang @ Leftovers
+Trait: Plus
+EVs: 252 HP / 188 Atk / 40 SDef / 28 Spd
+Adamant Nature (+Atk, -SAtk)
+- Substitute
+- Shift Gear
+- Gear Grind
+- Frustration
+
+Smeargle (M) @ Focus Sash
+Trait: Own Tempo
+EVs: 252 HP / 4 Def / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Spore
+- Spikes
+- Magic Coat
+- Whirlwind
+
+Misdreavus (M) @ Eviolite
+Trait: Levitate
+EVs: 252 HP / 232 Def / 24 SDef
+Bold Nature (+Def, -Atk)
+- Shadow Ball
+- Pain Split
+- Toxic
+- Heal Bell
+
+Swellow (M) @ Toxic Orb
+Trait: Guts
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Facade
+- Brave Bird
+- U-turn
+- Protect
+
+Camerupt (M) @ Leftovers
+Trait: Solid Rock
+EVs: 252 HP / 252 Def / 4 SDef
+Bold Nature (+Def, -Atk)
+- Lava Plume
+- Earth Power
+- Roar
+- Stealth Rock
+
+Lanturn (M) @ Leftovers
+Trait: Volt Absorb
+EVs: 176 HP / 252 SAtk / 48 SDef / 32 Spd
+Modest Nature (+SAtk, -Atk)
+- Toxic
+- Surf
+- Ice Beam
+- Thunderbolt
+
+
+
+

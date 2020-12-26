@@ -1,0 +1,63 @@
+=== [gen7megamons] OM Archives/#20471 23 Likes 5 Score posted by Chazm megamons http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Lucario-Mega @ Life Orb  
+Ability: Adaptability  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Meteor Mash  
+- Bullet Punch  
+- Swords Dance  
+
+Salamence-Mega @ Sky Plate  
+Ability: Aerilate  
+EVs: 44 HP / 252 Atk / 212 Spe  
+Adamant Nature  
+- Double-Edge  
+- Facade  
+- Roost  
+- Dragon Dance  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Thousand Arrows  
+- Dragon Tail  
+- Toxic  
+- Protect  
+
+Mewtwo-Mega-X @ Psychium Z  
+Ability: Steadfast  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psystrike  
+- Focus Blast  
+- Shadow Ball  
+- Calm Mind  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 HP / 156 Def / 84 SpA / 16 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Hex  
+- Thunder Wave  
+- Defog  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 HP / 160 Def / 96 SpD  
+Relaxed Nature  
+- Lava Plume  
+- Dragon Tail  
+- Precipice Blades  
+- Stealth Rock  
+
+
+
+
+
+

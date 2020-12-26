@@ -1,0 +1,689 @@
+=== [gen7letsgoou] Pok??mon Let&#039;s Go!/#19839 6 Likes 1 Score posted by Hayburner lgpe team dump/bee chans http://www.smogon.com/forums/threads/lgpe-sample-teams.3645829/page-1#post-8216472 ===
+
+Beedrill-Mega @ Beedrillite  
+Ability: Adaptability  
+Level: 50  
+Jolly Nature  
+IVs: 29 HP  
+- U-turn  
+- Poison Jab  
+- X-Scissor  
+- Drill Run  
+
+Chansey (F)  
+Ability: Natural Cure  
+Level: 50  
+IVs: 0 Atk  
+- Psychic  
+- Thunder Wave  
+- Teleport  
+- Soft-Boiled  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Taunt  
+- Roost  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Impish Nature  
+- Double Iron Bash  
+- Earthquake  
+- Ice Punch  
+- Superpower  
+
+Rhydon  
+Ability: Lightning Rod  
+Level: 50  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Rock Slide  
+- Toxic  
+
+Zapdos  
+Ability: Pressure  
+Level: 50  
+Bold Nature  
+- Thunderbolt  
+- U-turn  
+- Substitute  
+- Roost  
+
+
+
+
+
+
+=== [gen7letsgoou] Pok??mon Let&#039;s Go!/#19840 6 Likes 1 Score posted by Hayburner lgpe team dump/lead aero http://www.smogon.com/forums/threads/lgpe-sample-teams.3645829/page-1#post-8216472 ===
+
+Aerodactyl @ Aerodactylite  
+Ability: Rock Head  
+Level: 50  
+Jolly Nature  
+- Taunt  
+- Stealth Rock  
+- Rock Slide  
+- Earthquake  
+
+Zapdos  
+Ability: Pressure  
+Level: 50  
+Calm Nature  
+- Thunderbolt  
+- U-turn  
+- Toxic  
+- Roost  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Impish Nature  
+- Double Iron Bash  
+- Earthquake  
+- Ice Punch  
+- Self-Destruct  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Taunt  
+- Roost  
+
+Dugtrio-Alola  
+Ability: Sand Veil  
+Level: 50  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Sucker Punch  
+- Toxic  
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+Level: 50  
+Adamant Nature  
+- Waterfall  
+- Crunch  
+- Earthquake  
+- Substitute  
+
+
+
+
+
+
+=== [gen7letsgoou] Pok??mon Let&#039;s Go!/#19841 6 Likes 1 Score posted by Hayburner lgpe team dump/u know what this is http://www.smogon.com/forums/threads/lgpe-sample-teams.3645829/page-1#post-8216472 ===
+
+Ikuno Emiru (Venusaur-Mega) @ Venusaurite  
+Ability: Thick Fat  
+Level: 50  
+Bold Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Leech Seed  
+- Mega Drain  
+- Sludge Bomb  
+
+Rias Gremory (Chansey)  
+Ability: Natural Cure  
+Level: 50  
+Calm Nature  
+- Toxic  
+- Psychic  
+- Soft-Boiled  
+- Seismic Toss  
+
+Akeno Himejima (Zapdos)  
+Ability: Pressure  
+Level: 50  
+Bold Nature  
+- Thunderbolt  
+- U-turn  
+- Roost  
+- Toxic  
+
+Ayame Kajou (Rhydon)  
+Ability: Lightning Rod  
+Level: 50  
+Impish Nature  
+- Stealth Rock  
+- Rock Slide  
+- Earthquake  
+- Toxic  
+
+Sakurajima Mai (Mew)  
+Ability: Synchronize  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Taunt  
+- Toxic  
+- Roost  
+
+Kyou Fujibayashi (Melmetal)  
+Ability: Iron Fist  
+Level: 50  
+Impish Nature  
+- Double Iron Bash  
+- Earthquake  
+- Ice Punch  
+- Toxic  
+
+
+
+
+
+
+=== [gen7letsgoou] Pok??mon Let&#039;s Go!/#19842 6 Likes 1 Score posted by Hayburner lgpe team dump/pinsir http://www.smogon.com/forums/threads/lgpe-sample-teams.3645829/page-1#post-8216472 ===
+
+Pinsir-Mega @ Pinsirite  
+Ability: Aerilate  
+Level: 50  
+Jolly Nature  
+IVs: 29 HP  
+- Swords Dance  
+- X-Scissor  
+- Earthquake  
+- Rock Slide  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Impish Nature  
+- Double Iron Bash  
+- Earthquake  
+- Thunder Punch  
+- Ice Punch  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Taunt  
+- Toxic  
+- Roost  
+
+Poliwrath  
+Ability: Water Absorb  
+Level: 50  
+Impish Nature  
+- Superpower  
+- Waterfall  
+- Earthquake  
+- Toxic  
+
+Dugtrio-Alola  
+Ability: Sand Veil  
+Level: 50  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- Sucker Punch  
+
+Snorlax  
+Ability: Immunity  
+Level: 50  
+Careful Nature  
+- Body Slam  
+- Earthquake  
+- Ice Punch  
+- Toxic  
+
+
+
+
+
+
+=== [gen7letsgoou] Pok??mon Let&#039;s Go!/#19843 6 Likes 1 Score posted by Hayburner lgpe team dump/aeronite http://www.smogon.com/forums/threads/lgpe-sample-teams.3645829/page-1#post-8216472 ===
+
+Aerodactyl-Mega @ Aerodactylite  
+Ability: Tough Claws  
+Level: 50  
+Jolly Nature  
+- Rock Slide  
+- Earthquake  
+- Crunch  
+- Roost  
+
+Dragonite  
+Ability: Inner Focus  
+Level: 50  
+Adamant Nature  
+- Agility  
+- Outrage  
+- Earthquake  
+- Roost  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Impish Nature  
+- Double Iron Bash  
+- Earthquake  
+- Thunder Punch  
+- Ice Punch  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Taunt  
+- Toxic  
+- Roost  
+
+Poliwrath  
+Ability: Water Absorb  
+Level: 50  
+Impish Nature  
+- Superpower  
+- Waterfall  
+- Earthquake  
+- Toxic  
+
+Nidoqueen  
+Ability: Poison Point  
+Level: 50  
+Careful Nature  
+- Earthquake  
+- Super Fang  
+- Toxic  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen7letsgoou] Pok??mon Let&#039;s Go!/#19844 6 Likes 1 Score posted by Hayburner lgpe team dump/char y http://www.smogon.com/forums/threads/lgpe-sample-teams.3645829/page-1#post-8216472 ===
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Air Slash  
+- Toxic  
+- Roost  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Impish Nature  
+- Double Iron Bash  
+- Earthquake  
+- Thunder Punch  
+- Ice Punch  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Taunt  
+- Roost  
+
+Dugtrio-Alola  
+Ability: Sand Veil  
+Level: 50  
+Jolly Nature  
+- Earthquake  
+- Sucker Punch  
+- Toxic  
+- Stealth Rock  
+
+Poliwrath  
+Ability: Water Absorb  
+Level: 50  
+Impish Nature  
+- Superpower  
+- Waterfall  
+- Seismic Toss  
+- Toxic  
+
+Muk-Alola  
+Ability: Poison Touch  
+Level: 50  
+Gentle Nature  
+- Crunch  
+- Fire Blast  
+- Mega Drain  
+- Toxic  
+
+
+
+
+
+
+=== [gen7letsgoou] Pok??mon Let&#039;s Go!/#19845 6 Likes 1 Score posted by Hayburner lgpe team dump/bad mgar http://www.smogon.com/forums/threads/lgpe-sample-teams.3645829/page-1#post-8216472 ===
+
+Clefable  
+Ability: Cute Charm  
+Level: 50  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Fire Blast  
+- Calm Mind  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Sludge Bomb  
+- Thunderbolt  
+- Substitute  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Adamant Nature  
+- Double Iron Bash  
+- Earthquake  
+- Ice Punch  
+- Thunder Punch  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Taunt  
+- Roost  
+- Toxic  
+
+Nidoqueen  
+Ability: Poison Point  
+Level: 50  
+Careful Nature  
+- Stealth Rock  
+- Earthquake  
+- Super Fang  
+- Toxic  
+
+Snorlax  
+Ability: Immunity  
+Level: 50  
+Sassy Nature  
+- Body Slam  
+- Earthquake  
+- Facade  
+- Toxic  
+
+
+
+
+
+
+=== [gen7letsgoou] Pok??mon Let&#039;s Go!/#19846 6 Likes 1 Score posted by Hayburner lgpe team dump/didnt use http://www.smogon.com/forums/threads/lgpe-sample-teams.3645829/page-1#post-8216472 ===
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+Level: 50  
+Adamant Nature  
+- Waterfall  
+- Crunch  
+- Earthquake  
+- Substitute  
+
+Rapidash  
+Ability: Run Away  
+Level: 50  
+Hasty Nature  
+IVs: 29 HP  
+- Fire Blast  
+- Megahorn  
+- Drill Run  
+- Will-O-Wisp  
+
+Rhydon  
+Ability: Lightning Rod  
+Level: 50  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Rock Slide  
+- Toxic  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Impish Nature  
+- Double Iron Bash  
+- Earthquake  
+- Ice Punch  
+- Thunder Punch  
+
+Electrode  
+Ability: Soundproof  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Foul Play  
+- Thunder Wave  
+- Teleport  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Taunt  
+- Roost  
+
+
+
+
+
+
+=== [gen7letsgoou] Pok??mon Let&#039;s Go!/#19847 6 Likes 1 Score posted by Hayburner lgpe team dump/didnt use http://www.smogon.com/forums/threads/lgpe-sample-teams.3645829/page-1#post-8216472 ===
+
+Nidoqueen  
+Ability: Poison Point  
+Level: 50  
+Careful Nature  
+- Stealth Rock  
+- Super Fang  
+- Toxic  
+- Earthquake  
+
+Snorlax  
+Ability: Immunity  
+Level: 50  
+Careful Nature  
+- Facade  
+- Earthquake  
+- Toxic  
+- Ice Punch  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Jolly Nature  
+- Taunt  
+- Will-O-Wisp  
+- Roost  
+- Dragon Tail  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Impish Nature  
+- Double Iron Bash  
+- Earthquake  
+- Ice Punch  
+- Thunder Punch  
+
+Poliwrath  
+Ability: Water Absorb  
+Level: 50  
+Impish Nature  
+- Waterfall  
+- Superpower  
+- Earthquake  
+- Toxic  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Sludge Bomb  
+- Thunderbolt  
+- Substitute  
+
+
+
+
+
+
+
+=== [gen7letsgoou] Pok??mon Let&#039;s Go!/#19848 2 Likes 0 Score posted by eg0n Experimental http://www.smogon.com/forums/threads/lgpe-overused.3644015/page-15#post-7984661 ===
+
+
+Raticate-Alola
+Ability: Gluttony
+Level: 50
+- Counter
+- Protect
+- Crunch
+- Super Fang
+
+
+Hitmonlee
+Ability: Limber
+Level: 50
+- Bulk Up
+- Rock Slide
+- High Jump Kick
+- Earthquake
+
+
+Chansey
+Ability: Natural Cure
+Level: 50
+- Soft-Boiled
+- Thunder Wave
+- Seismic Toss
+- Stealth Rock
+
+
+Kingler
+Ability: Hyper Cutter
+Level: 50
+- Agility
+- Substitute
+- Crabhammer
+- Rock Slide
+
+
+Slowbro @ Slowbronite
+Ability: Oblivious
+Level: 50
+- Calm Mind
+- Disable
+- Psychic
+- Scald
+
+
+Rapidash
+Ability: Run Away
+Level: 50
+- Flare Blitz
+- Will-O-Wisp
+- Reflect
+- Drill Run
+
+
+
+
+
+=== [gen7letsgoou] Pok??mon Let&#039;s Go!/#19849 0 Likes 0 Score posted by PumpedAaron Untitled 34 http://www.smogon.com/forums/threads/lgpe-overused.3644015/page-2#post-7964890 ===
+
+Machamp  
+Ability: Guts  
+Level: 50  
+Adamant Nature  
+- Bulk Up  
+- Rock Slide  
+- Brick Break  
+- Light Screen  
+
+Alakazam-Mega @ Alakazite  
+Ability: Trace  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Calm Mind  
+- Recover  
+- Taunt  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Careful Nature  
+- Bulk Up  
+- Brick Break  
+- Earthquake  
+- Roost  
+
+Chansey  
+Ability: Natural Cure  
+Level: 50  
+Bold Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Stealth Rock  
+- Seismic Toss  
+- Soft-Boiled  
+
+Arcanine  
+Ability: Intimidate  
+Level: 50  
+Adamant Nature  
+- Will-O-Wisp  
+- Flare Blitz  
+- Outrage  
+- Roar  
+
+Poliwrath  
+Ability: Water Absorb  
+Level: 50  
+Adamant Nature  
+- Waterfall  
+- Ice Punch  
+- Bulk Up  
+- Rest  
+
+
+
+
+

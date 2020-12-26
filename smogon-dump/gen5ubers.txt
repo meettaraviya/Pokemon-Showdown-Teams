@@ -1,0 +1,10242 @@
+=== [gen5ubers] Ruins of Alph/#23240 8 Likes 0 Score posted by AV Cosmoem subpass http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+Deoxys-Speed @ Leftovers  
+Ability: Magic Bounce  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Spore  
+- Substitute  
+- Spikes  
+- Baton Pass  
+
+Giratina @ Lum Berry  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Substitute  
+- Taunt  
+- Baton Pass  
+
+Gengar @ Lum Berry  
+Ability: Mold Breaker  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Spore  
+- Shell Smash  
+- Shadow Ball  
+- Secret Sword  
+
+Mewtwo @ Leftovers  
+Ability: No Guard  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sheer Cold  
+- Inferno  
+- Seed Flare  
+- Toxic  
+
+Virizion @ Lum Berry  
+Ability: Scrappy  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Seed Bomb  
+- V-create  
+- Shell Smash  
+
+Regigigas @ Lum Berry  
+Ability: Mold Breaker  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Shell Smash  
+- Extreme Speed  
+- Earthquake  
+- Spore  
+
+
+
+
+
+
+=== [gen5ubers] Ruins of Alph/#23241 11 Likes 0 Score posted by Arai BW Ubers Sample 1 http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+
+Cloyster @ Focus Sash  
+Ability: Skill Link  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Shell Smash  
+- Icicle Spear  
+- Rapid Spin  
+- Spikes  
+
+Ho-Oh @ Choice Band  
+Ability: Regenerator  
+EVs: 144 HP / 252 Atk / 112 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Brave Bird  
+- Earthquake  
+- Sleep Talk  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Earthquake  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+- Iron Head  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 164 HP / 148 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Healing Wish  
+
+
+
+
+
+
+=== [gen5ubers] Ruins of Alph/#23242 11 Likes 0 Score posted by Arai BW Ubers Sand Balance http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 252 HP / 64 Atk / 56 Def / 136 SpD  
+Brave Nature  
+- Stealth Rock  
+- Payback  
+- Superpower  
+- Fire Blast  
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Draco Meteor  
+- Outrage  
+- Fire Blast  
+- Extreme Speed  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 248 HP / 148 SpA / 112 Spe  
+Timid Nature  
+- Judgment  
+- Toxic  
+- Stone Edge  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Explosion  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Rapid Spin  
+- Iron Head  
+- Earthquake  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 112 HP / 204 SpA / 192 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Ruins of Alph/#23243 11 Likes 0 Score posted by Arai BW Ubers Rain Semi-Stall by Pi Face&Hack http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Rest  
+- Sleep Talk  
+- Scald  
+- Roar  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 112 HP / 144 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Thunder  
+- Calm Mind  
+- Roost  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Leech Seed  
+- Spikes  
+- Power Whip  
+- Knock Off  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 252 HP / 80 Def / 136 SpD / 40 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Rapid Spin  
+- Toxic  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Surf  
+- Will-O-Wisp  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 8 Atk / 248 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Ice Beam  
+- Bug Buzz  
+- Thunder  
+
+
+
+
+
+
+=== [gen5ubers] Ruins of Alph/#23244 11 Likes 0 Score posted by Arai BW Ubers Hazard Stacking by Problems&Hack http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Tyranitar @ Focus Sash  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Stealth Rock  
+- Crunch  
+- Low Kick  
+- Fire Blast  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Rest  
+- Sleep Talk  
+- Roar  
+- Scald  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Leech Seed  
+- Spikes  
+- Knock Off  
+- Power Whip  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+- Judgment  
+- Toxic  
+- Recover  
+- Stone Edge  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 156 Atk / 248 Def / 104 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Tail  
+- Earthquake  
+- Shadow Sneak  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 8 Atk / 248 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Thunder  
+- Bug Buzz  
+- Ice Beam
+
+
+
+=== [gen5ubers] Gen 3/#23245 98 Likes 0 Score posted by zf Trappins of Darkness http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 96 HP / 160 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+Shiny: Yes  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Outrage  
+- Fire Blast  
+- Draco Meteor  
+- Dragon Dance  
+
+Wobbuffet @ Leftovers  
+Ability: Shadow Tag  
+EVs: 28 HP / 248 Def / 232 SpD  
+Calm Nature  
+- Counter  
+- Encore  
+- Mirror Coat  
+- Safeguard  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 88 HP / 252 SpA / 168 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Thunder  
+- Water Spout  
+- Ice Beam  
+
+Dialga @ Choice Scarf  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Draco Meteor  
+- Aura Sphere  
+- Dragon Pulse  
+- Sleep Talk  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23246 98 Likes 0 Score posted by zf elements of the desert http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Powdon (Hippowdon) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Slack Off  
+- Whirlwind  
+
+ThanksGiving (Ho-Oh) @ Leftovers  
+Ability: Regenerator  
+EVs: 252 HP / 156 Atk / 84 SpD / 16 Spe  
+Adamant Nature  
+- Brave Bird  
+- Sacred Fire  
+- Roost  
+- Whirlwind  
+
+c4 durian (Ferrothorn) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 248 SpD / 8 Spe  
+Careful Nature  
+- Leech Seed  
+- Spikes  
+- Thunder Wave  
+- Power Whip  
+
+Splashy (Arceus-Water) @ Splash Plate  
+Ability: Multitype  
+EVs: 252 HP / 80 SpD / 176 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Recover  
+- Ice Beam  
+- Calm Mind  
+
+Giratina-Awesome (Giratina) @ Leftovers  
+Ability: Pressure  
+EVs: 244 HP / 248 SpD / 16 Spe  
+Careful Nature  
+- Will-O-Wisp  
+- Dragon Tail  
+- Rest  
+- Sleep Talk  
+
+Sk8rboy (Excadrill) @ Air Balloon  
+Ability: Sand Rush  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Rapid Spin  
+- Swords Dance  
+- Iron Head  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23247 98 Likes 0 Score posted by zf SWEET [steel] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+PHP SLAYER (Deoxys-Speed) @ Rocky Helmet  
+Ability: Pressure  
+EVs: 252 HP / 188 Def / 68 SpD  
+Bold Nature  
+- Hidden Power [Fire]
+- Spikes  
+- Stealth Rock  
+- Taunt  
+
+PHP SLAYER (Groudon) @ Life Orb  
+Ability: Drought  
+EVs: 32 HP / 236 Atk / 240 Spe  
+Adamant Nature  
+- Rock Polish  
+- Earthquake  
+- Stone Edge  
+- Fire Punch  
+
+PHP SLAYER (Darkrai) @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Void  
+- Taunt  
+- Focus Blast  
+- Dark Pulse  
+
+PHP SLAYER (Arceus-Ghost) @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Shadow Claw  
+- Brick Break  
+- Extreme Speed  
+
+PHP SLAYER (Genesect) @ Choice Scarf  
+Ability: Download  
+Shiny: Yes  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Bug Buzz  
+- Flamethrower  
+- Ice Beam  
+
+PHP SLAYER (Latias) @ Soul Dew  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 24 HP / 252 SpA / 52 SpD / 180 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23248 98 Likes 0 Score posted by zf Hatered http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Sweeper (Kyogre) @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Speener (Forretress) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Rapid Spin  
+- Stealth Rock  
+- Spikes  
+
+Keeler (Arceus) @ Lum Berry  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Brick Break  
+- Shadow Claw  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+Ur nightmare (Smeargle) @ Focus Sash  
+Ability: Own Tempo  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Spore  
+- Shell Smash  
+- Taunt  
+- Baton Pass  
+
+No Mercy (Dialga) @ White Herb  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Aura Sphere  
+- Thunder  
+- Ancient Power  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23249 98 Likes 0 Score posted by zf hyw's Los Plays http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Thunder  
+- Psyshock  
+- Roar  
+
+Dialga @ Choice Scarf  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Fire Blast  
+- Dragon Pulse  
+- Sleep Talk  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 252 HP / 156 SpA / 100 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Thunder Wave  
+- Recover  
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 252 HP / 68 Atk / 180 SpD / 8 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Payback  
+- Superpower  
+- Pursuit  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23250 98 Likes 0 Score posted by zf Skyless World (Sand) http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Bringer Light (Tyranitar) @ Focus Sash  
+Ability: Sand Stream  
+EVs: 200 Atk / 56 SpA / 252 Spe  
+Naive Nature  
+- Crunch  
+- Fire Blast  
+- Taunt  
+- Stealth Rock  
+
+Sonido (Giratina-Origin) @ Griseous Orb  
+Ability: Levitate  
+EVs: 176 Atk / 248 Def / 84 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Outrage  
+- Earthquake  
+- Shadow Sneak  
+
+Hirenkyaku (Genesect) @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Ice Beam  
+- Thunder  
+- Explosion  
+
+Shunpo (Arceus-Fighting) @ Fist Plate  
+Ability: Multitype  
+EVs: 252 HP / 156 SpA / 100 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Thunder Wave  
+- Recover  
+
+Gran Rey Cero (Latios) @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+Respira (Darkrai) @ Leftovers  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Substitute  
+- Dark Void  
+- Focus Blast  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23251 98 Likes 0 Score posted by zf Bossness Tri Weather http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Hogyoku (Tyranitar) @ Focus Sash  
+Ability: Sand Stream  
+EVs: 200 Atk / 56 SpA / 252 Spe  
+Naive Nature  
+- Crunch  
+- Low Kick  
+- Fire Blast  
+- Stealth Rock  
+
+Cascada (Kyogre) @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Surf  
+- Water Spout  
+- Thunder  
+- Ice Beam  
+
+Gran Rey Cero (Latios) @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Thunder  
+- Hidden Power [Fire]
+
+Desgarron (Groudon) @ Life Orb  
+Ability: Drought  
+EVs: 32 HP / 236 Atk / 240 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Claw  
+- Rock Polish  
+
+Hirenkyaku (Genesect) @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Explosion  
+
+Gran Caida (Arceus-Fighting) @ Fist Plate  
+Ability: Multitype  
+EVs: 252 HP / 156 SpA / 100 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Thunder Wave  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23252 98 Likes 0 Score posted by zf Anik Deo-A http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Hogyoku (Deoxys-Attack) @ Focus Sash  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Low Kick  
+- Spikes  
+- Psycho Boost  
+- Extreme Speed  
+
+Cascada (Kyogre) @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Surf  
+- Water Spout  
+- Thunder  
+- Ice Beam  
+
+Hirenkyaku (Genesect) @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Explosion  
+
+Gran Rey Cero (Latios) @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Thunder  
+- Roar  
+
+Ira! (Rayquaza) @ Life Orb  
+Ability: Air Lock  
+EVs: 252 Atk / 40 SpA / 216 Spe  
+Hasty Nature  
+- Outrage  
+- V-create  
+- Draco Meteor  
+- Extreme Speed  
+
+Gran Caida (Arceus-Fighting) @ Fist Plate  
+Ability: Multitype  
+EVs: 252 HP / 156 SpA / 100 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Thunder Wave  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23253 98 Likes 0 Score posted by zf Skyless World (Original) http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Bringer Light (Deoxys-Speed) @ Focus Sash  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Fire Punch  
+- Spikes  
+- Taunt  
+
+Sonido (Giratina-Origin) @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 172 Def / 84 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Outrage  
+- Earthquake  
+- Shadow Sneak  
+
+Hirenkyaku (Genesect) @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+Shunpo (Arceus) @ Lum Berry  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Brick Break  
+
+Gran Rey Cero (Latios) @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Roar  
+- Hidden Power [Fire]
+- Psyshock  
+
+Respira (Darkrai) @ Salac Berry  
+Ability: Bad Dreams  
+EVs: 12 HP / 244 SpA / 252 Spe  
+Timid Nature  
+- Dark Void  
+- Substitute  
+- Dark Pulse  
+- Nasty Plot  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23254 98 Likes 0 Score posted by zf Skyless World (Rocky Helm) http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Bringer Light (Deoxys-Speed) @ Rocky Helmet  
+Ability: Pressure  
+EVs: 252 HP / 188 Def / 68 SpD  
+Bold Nature  
+- Stealth Rock  
+- Hidden Power [Fire]
+- Spikes  
+- Taunt  
+
+Sonido (Giratina-Origin) @ Griseous Orb  
+Ability: Levitate  
+EVs: 176 Atk / 248 Def / 84 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Outrage  
+- Earthquake  
+- Shadow Sneak  
+
+Hirenkyaku (Genesect) @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Ice Beam  
+- Thunder  
+- Explosion  
+
+Shunpo (Arceus) @ Lum Berry  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Brick Break  
+
+Gran Rey Cero (Latios) @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Roar  
+- Hidden Power [Fire]
+- Psyshock  
+
+Respira (Darkrai) @ Salac Berry  
+Ability: Bad Dreams  
+EVs: 12 HP / 244 SpA / 252 Spe  
+Timid Nature  
+- Dark Void  
+- Substitute  
+- Dark Pulse  
+- Nasty Plot  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23255 98 Likes 0 Score posted by zf Anik Deo-A/Ghostceus http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Alien (Deoxys-Attack) @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Spikes  
+- Psycho Boost  
+- Fire Punch  
+- Extreme Speed  
+
+Bug (Genesect) @ Choice Scarf  
+Ability: Download  
+Shiny: Yes  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Flamethrower  
+
+Soul (Darkrai) @ Salac Berry  
+Ability: Bad Dreams  
+EVs: 12 HP / 244 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Dark Void  
+- Substitute  
+- Nasty Plot  
+
+Fish (Latios) @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+Rock Monster (Groudon) @ Life Orb  
+Ability: Drought  
+EVs: 12 HP / 252 Atk / 244 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Claw  
+- Rock Polish  
+
+Goat (Arceus-Ghost) @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Fire Blast  
+- Recover  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23256 98 Likes 0 Score posted by zf Poppy's Team http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Forretress (F) @ Custap Berry  
+Ability: Sturdy  
+EVs: 252 Atk  
+Brave Nature  
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Toxic Spikes  
+- Rapid Spin  
+
+Dialga @ Choice Specs  
+Ability: Pressure  
+EVs: 144 HP / 252 SpA / 112 Spe  
+Modest Nature  
+- Draco Meteor  
+- Dragon Pulse  
+- Thunder  
+- Fire Blast  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 96 HP / 236 SpA / 176 Spe  
+Timid Nature  
+- Calm Mind  
+- Focus Blast  
+- Judgment  
+- Recover  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 172 HP / 144 SpA / 192 Spe  
+Timid Nature  
+- Dragon Pulse  
+- Thunder  
+- Recover  
+- Calm Mind  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Hippowdon (F) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Slack Off  
+- Whirlwind  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23257 98 Likes 0 Score posted by zf Snype's CHALLENGE ACCEPTED http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 248 Atk / 232 SpA / 28 Spe  
+Naughty Nature  
+- Will-O-Wisp  
+- Dragon Tail  
+- Shadow Sneak  
+- Draco Meteor  
+
+Tentacruel (M) @ Black Sludge  
+Ability: Rain Dish  
+EVs: 248 HP / 236 SpD / 24 Spe  
+Calm Nature  
+- Toxic Spikes  
+- Rapid Spin  
+- Toxic  
+- Scald  
+
+Ferrothorn (M) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Spikes  
+- Leech Seed  
+- Power Whip  
+- Thunder Wave  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 52 HP / 252 SpA / 204 Spe  
+Modest Nature  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Dialga @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 32 SpA / 200 SpD / 24 Spe  
+Modest Nature  
+- Stealth Rock  
+- Draco Meteor  
+- Aura Sphere  
+- Roar  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Judgment  
+- Recover  
+- Focus Blast  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23258 98 Likes 0 Score posted by zf 6 Sandy Beasts http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 252 HP / 64 Atk / 184 SpD / 8 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Superpower  
+- Crunch  
+- Pursuit  
+
+Excadrill (M) @ Air Balloon  
+Ability: Sand Rush  
+EVs: 64 HP / 252 Atk / 192 Spe  
+Adamant Nature  
+- Swords Dance  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+
+Arceus-Rock @ Stone Plate  
+Ability: Multitype  
+EVs: 252 HP / 120 Def / 136 Spe  
+Timid Nature  
+- Will-O-Wisp  
+- Judgment  
+- Calm Mind  
+- Recover  
+
+Ferrothorn (M) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Leech Seed  
+- Spikes  
+- Protect  
+- Power Whip  
+
+Gliscor (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 200 Def / 56 Spe  
+Impish Nature  
+- Substitute  
+- Earthquake  
+- Toxic  
+- Taunt  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 244 SpD / 16 Spe  
+Calm Nature  
+- Rest  
+- Sleep Talk  
+- Will-O-Wisp  
+- Roar  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23259 98 Likes 0 Score posted by zf Illusions of Grandeur http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Focus Sash  
+Ability: Pressure  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Spikes  
+- Taunt  
+- Fire Punch  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Shadow Claw  
+- Brick Break  
+- Shadow Force  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Fire Punch  
+- Rock Polish  
+
+Dialga @ Choice Scarf  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Draco Meteor  
+- Aura Sphere  
+- Sleep Talk  
+- Dragon Pulse  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Psyshock  
+- Roar  
+- Draco Meteor  
+- Hidden Power [Fire]
+
+Darkrai @ Leftovers  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Dark Void  
+- Substitute  
+- Nasty Plot  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23260 98 Likes 0 Score posted by zf Proxima Centauri http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Jurassic Park (Groudon) @ Earth Plate  
+Ability: Drought  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+
+Kyogre Repellent (Latios) @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Grass Knot  
+
+Arceus-Normal (Arceus-Fighting) @ Fist Plate  
+Ability: Multitype  
+EVs: 252 HP / 152 SpA / 104 Spe  
+Timid Nature  
+- Judgment  
+- Toxic  
+- Stone Edge  
+- Recover  
+
+Phoenix AZ (Ho-Oh) @ Choice Band  
+Ability: Regenerator  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Sacred Fire  
+- Brave Bird  
+- Earthquake  
+- Sleep Talk  
+
+Greentails (Espeon) (F) @ Focus Sash  
+Ability: Magic Bounce  
+Shiny: Yes  
+EVs: 48 HP / 252 SpA / 208 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Yawn  
+- Shadow Ball  
+- Hidden Power [Fire]
+- Grass Knot  
+
+Genesexy (Genesect) @ Choice Scarf  
+Ability: Download  
+Shiny: Yes  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23261 98 Likes 0 Score posted by zf Droughtfest http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Ho-Oh @ Choice Band  
+Ability: Regenerator  
+EVs: 76 HP / 252 Atk / 180 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Brave Bird  
+- Earthquake  
+- Sleep Talk  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Rock Slide  
+- Dragon Tail  
+
+Cloyster (M) @ Focus Sash  
+Ability: Skill Link  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Icicle Spear  
+- Rapid Spin  
+- Spikes  
+- Shell Smash  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Focus Blast  
+- Recover  
+- Calm Mind  
+
+Palkia @ Choice Specs  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Spacial Rend  
+- Draco Meteor  
+- Thunder  
+- Hydro Pump  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Ice Beam  
+- Iron Head  
+- Flamethrower  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23262 98 Likes 0 Score posted by zf Flames of the Heavenly Light http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Sol (Groudon) @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Dragon Tail  
+- Earthquake  
+- Stealth Rock  
+- Thunder Wave  
+
+Amaterasu (Espeon) (F) @ Focus Sash  
+Ability: Magic Bounce  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Grass Knot  
+- Morning Sun  
+- Psyshock  
+- Yawn  
+
+Sunna (Palkia) @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Hydro Pump  
+- Spacial Rend  
+- Thunder  
+
+Surya (Lugia) @ Leftovers  
+Ability: Multiscale  
+EVs: 252 HP / 52 Def / 204 Spe  
+Impish Nature  
+- Recover  
+- Thunder Wave  
+- Toxic  
+- Whirlwind  
+
+Ra (Ho-Oh) @ Life Orb  
+Ability: Regenerator  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Flame Charge  
+- Recover  
+- Sacred Fire  
+
+Apollo (Reshiram) @ Choice Scarf  
+Ability: Turboblaze  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Blue Flare  
+- Draco Meteor  
+- Outrage  
+- Stone Edge  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23263 98 Likes 0 Score posted by zf The Blazing Glaciers http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+S??gyo no Kotowari (Espeon) (M) @ Focus Sash  
+Ability: Magic Bounce  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Grass Knot  
+- Hidden Power [Fighting]
+- Psyshock  
+- Yawn  
+
+Kamishini no Yari (Terrakion) @ Choice Scarf  
+Ability: Justified  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Earthquake  
+- Sleep Talk  
+- Stone Edge  
+
+Kokuj?? Tengen My??'?? (Groudon) @ Leftovers  
+Ability: Drought  
+EVs: 240 HP / 252 SpD / 16 Spe  
+Careful Nature  
+- Earthquake  
+- Stealth Rock  
+- Stone Edge  
+- Thunder Wave  
+
+Zanka no Tachi (Ho-Oh) @ Life Orb  
+Ability: Regenerator  
+Shiny: Yes  
+EVs: 208 HP / 252 Atk / 48 Spe  
+Adamant Nature  
+- Brave Bird  
+- Roost  
+- Sacred Fire  
+- Substitute  
+
+Hy??rinmaru (Kyurem-White) @ Choice Specs  
+Ability: Turboblaze  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Dragon Pulse  
+- Fusion Flare  
+- Ice Beam  
+
+Tensa Zangetsu (Arceus-Ghost) @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Brick Break  
+- Extreme Speed  
+- Shadow Claw  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23264 98 Likes 0 Score posted by zf Crimson Colossus http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Focus Sash  
+Ability: Pressure  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Spikes  
+- Taunt  
+- Fire Punch  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 60 HP / 252 SpA / 196 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 220 Atk / 248 Def / 40 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Will-O-Wisp  
+- Magic Coat  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Grass Knot  
+- Roar  
+
+Groudon @ Life Orb  
+Ability: Drought  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Claw  
+- Rock Polish  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Shadow Claw  
+- Brick Break  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23265 98 Likes 0 Score posted by zf Drain http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+ALIEN (Deoxys-Speed) @ Focus Sash  
+Ability: Pressure  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+- Stealth Rock  
+- Spikes  
+- Taunt  
+- Dark Pulse  
+
+HORSE (Arceus-Ghost) @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+FISH (Kyogre) @ Choice Specs  
+Ability: Drizzle  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+FISH (Kingdra) (M) @ Life Orb  
+Ability: Swift Swim  
+EVs: 32 HP / 8 Def / 252 SpA / 216 Spe  
+Modest Nature  
+- Hydro Pump  
+- Dragon Pulse  
+- Draco Meteor  
+- Substitute  
+
+INSECT (Genesect) @ Choice Scarf  
+Ability: Download  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Explosion  
+
+DICK (Rayquaza) @ Life Orb  
+Ability: Air Lock  
+EVs: 32 HP / 252 Atk / 8 Def / 216 Spe  
+Adamant Nature  
+- Dragon Claw  
+- V-create  
+- Extreme Speed  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23266 98 Likes 0 Score posted by zf Sweep's Rain Balance http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 248 HP / 48 Def / 212 Spe  
+Bold Nature  
+- Judgment  
+- Stealth Rock  
+- Recover  
+- Ice Beam  
+
+Omastar @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Ice Beam  
+- Earth Power  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Protect  
+- Spikes  
+- Gyro Ball  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 152 HP / 252 Atk / 104 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Earthquake  
+- Shadow Sneak  
+- Outrage  
+
+Mewtwo @ Leftovers  
+Ability: Unnerve  
+EVs: 248 HP / 84 Def / 176 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psystrike  
+- Will-O-Wisp  
+- Recover  
+- Taunt  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 252 SpD / 16 Spe  
+Calm Nature  
+- Scald  
+- Rest  
+- Sleep Talk  
+- Roar  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23267 98 Likes 0 Score posted by zf Hack's Hazard Heavy Rain http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Garchomp @ Focus Sash  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Dual Chop  
+- Earthquake  
+- Stealth Rock  
+- Fire Blast  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Rest  
+- Sleep Talk  
+- Roar  
+- Scald  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Impish Nature  
+- Taunt  
+- Spikes  
+- Whirlwind  
+- Roost  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 52 HP / 204 SpA / 252 Spe  
+Timid Nature  
+- dracometeordragonpulse  
+- Thunder  
+- Roost  
+- Calm Mind  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Judgment  
+- Focus Blast  
+- Recover  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23268 98 Likes 0 Score posted by zf FP's Megaman http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Excadrill @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- Rapid Spin  
+
+Deoxys-Attack @ Life Orb  
+Ability: Pressure  
+EVs: 72 Atk / 252 SpA / 184 Spe  
+Naive Nature  
+- Psycho Boost  
+- Ice Punch  
+- Low Kick  
+- Extreme Speed  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Explosion  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Thunder  
+- Roar  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Focus Blast  
+- Judgment  
+- Recover  
+
+Groudon @ Lum Berry  
+Ability: Drought  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Rock Polish  
+- Dragon Claw  
+- Earthquake  
+- Stone Edge  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23269 98 Likes 0 Score posted by zf Nice n Hot http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Lum Berry  
+Ability: Drought  
+EVs: 240 HP / 164 Def / 104 Spe  
+Impish Nature  
+- Earthquake  
+- Stone Edge  
+- Stealth Rock  
+- Roar  
+
+Palkia @ Choice Scarf  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Spacial Rend  
+- Sleep Talk  
+- Fire Blast  
+- Hydro Pump  
+
+Victini @ Flame Plate  
+Ability: Victory Star  
+EVs: 248 HP / 252 Atk / 8 Def  
+Brave Nature  
+- Trick Room  
+- V-create  
+- Bolt Strike  
+- U-turn  
+
+Dialga @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 SpA  
+Quiet Nature  
+- Draco Meteor  
+- Fire Blast  
+- Outrage  
+- Trick Room  
+
+Giratina (Giratina-Origin) @ Griseous Orb  
+Ability: Levitate  
+EVs: 208 Atk / 252 Def / 48 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Hidden Power [Fire]
+- Magic Coat  
+- Shadow Sneak  
+
+Arceus (Arceus-Dark) @ Dread Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Refresh  
+- Judgment  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23270 98 Likes 0 Score posted by zf Dual Ghosts http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Froslass @ Focus Sash  
+Ability: Cursed Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Icy Wind  
+- Shadow Ball  
+- Taunt  
+- Spikes  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Fire Punch  
+- Stone Edge  
+- Stealth Rock  
+
+Dialga @ Choice Scarf  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Draco Meteor  
+- Fire Blast  
+- Dragon Pulse  
+- Sleep Talk  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Void  
+- Dark Pulse  
+- Focus Blast  
+- Nasty Plot  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 48 HP / 252 SpA / 24 SpD / 184 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23271 98 Likes 0 Score posted by zf Problem http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Forretress @ Custap Berry  
+Ability: Sturdy  
+EVs: 252 Atk  
+Brave Nature  
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Gyro Ball  
+- Rapid Spin  
+- Spikes  
+- Toxic Spikes  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 96 HP / 160 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Fire Blast  
+- Calm Mind  
+- Recover  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Focus Blast  
+- Dark Void  
+- Taunt  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 60 HP / 252 SpA / 196 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Recover  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Terrakion @ Choice Scarf  
+Ability: Justified  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Stone Edge  
+- Sleep Talk  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23272 98 Likes 0 Score posted by zf Lance's Rain Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Arceus-Rock @ Stone Plate  
+Ability: Multitype  
+EVs: 252 HP / 80 Def / 176 Spe  
+Timid Nature  
+- Judgment  
+- Will-O-Wisp  
+- Recover  
+- Stealth Rock  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Leech Seed  
+- Spikes  
+- Protect  
+- Power Whip  
+
+Tentacruel @ Leftovers  
+Ability: Rain Dish  
+EVs: 252 HP / 32 Def / 224 SpD  
+Calm Nature  
+- Scald  
+- Toxic  
+- Toxic Spikes  
+- Rapid Spin  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 224 HP / 252 Def / 32 Spe  
+Impish Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+EVs: 248 HP / 56 Def / 204 Spe  
+Impish Nature  
+- Substitute  
+- Toxic  
+- Whirlwind  
+- Roost  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23273 98 Likes 0 Score posted by zf Beneluck'd v2 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Beneluck'd (Swellow) @ Fire Gem  
+Ability: Scrappy  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Substitute  
+- Toxic  
+- Endeavor  
+- Heat Wave  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Roost  
+
+Forretress @ Custap Berry  
+Ability: Sturdy  
+EVs: 252 Atk  
+Brave Nature  
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Toxic Spikes  
+- Spikes  
+- Gyro Ball  
+- Rapid Spin  
+
+Terrakion @ Choice Scarf  
+Ability: Justified  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Stone Edge  
+- Sleep Talk  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 96 HP / 160 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Fire Blast  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23274 98 Likes 0 Score posted by zf WreckDra Waterceus Sand http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 64 Atk / 184 SpD / 12 Spe  
+Adamant Nature  
+- Payback  
+- Pursuit  
+- Low Kick  
+- Stealth Rock  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Refresh  
+- Calm Mind  
+- Recover  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 48 HP / 248 SpA / 36 SpD / 176 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Roost  
+
+Dialga @ Choice Scarf  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Draco Meteor  
+- Fire Blast  
+- Dragon Pulse  
+- Sleep Talk  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Spikes  
+- Whirlwind  
+- Roost  
+- Toxic  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23275 98 Likes 0 Score posted by zf rain stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Water Spout  
+- Surf  
+- Ice Beam  
+- Thunder  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Power Whip  
+- Leech Seed  
+- Spikes  
+- Protect  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Iron Head  
+- Toxic  
+- Wish  
+- Protect  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 200 HP / 116 Def / 192 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Arceus-Rock @ Stone Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Will-O-Wisp  
+- Stealth Rock  
+- Recover  
+
+Tentacruel @ Black Sludge  
+Ability: Rain Dish  
+EVs: 236 HP / 20 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Toxic Spikes  
+- Toxic Spikes  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23276 98 Likes 0 Score posted by zf donkey ludicolo stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 236 SpD / 32 Spe  
+Calm Nature  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Ludicolo @ Leftovers  
+Ability: Rain Dish  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+- Grass Knot  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+- Spikes  
+- Whirlwind  
+- Toxic  
+- Roost  
+
+Arceus-Psychic @ Mind Plate  
+Ability: Multitype  
+EVs: 248 HP / 164 Def / 96 Spe  
+Timid Nature  
+- Ice Beam  
+- Will-O-Wisp  
+- Stone Edge  
+- Recover  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 HP / 252 Def / 88 Spe  
+Impish Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 176 HP / 60 Atk / 252 SpD / 20 Spe  
+Adamant Nature  
+- Earthquake  
+- Toxic  
+- Rapid Spin  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23277 98 Likes 0 Score posted by zf Donkey's Psyceus Sand Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar (M) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 64 Atk / 184 SpD / 12 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Superpower  
+- Rock Slide  
+- Pursuit  
+
+Excadrill (M) @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Iron Head  
+- Earthquake  
+- Rapid Spin  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Bold Nature  
+- Wish  
+- Soft-Boiled  
+- Toxic  
+- Seismic Toss  
+
+Skarmory (F) @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Whirlwind  
+- Taunt  
+- Roost  
+- Spikes  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Rest  
+- Sleep Talk  
+- Dragon Tail  
+- Roar  
+
+Arceus-Psychic @ Mind Plate  
+Ability: Multitype  
+EVs: 248 HP / 148 Def / 112 Spe  
+Timid Nature  
+- Toxic  
+- Fire Blast  
+- Ice Beam  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23278 98 Likes 0 Score posted by zf Blue Moon http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Umbreon (M) @ Leftovers  
+Ability: Inner Focus  
+Shiny: Yes  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Taunt  
+- Wish  
+- Protect  
+
+Arceus (Arceus-Rock) @ Stone Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Recover  
+- Stealth Rock  
+
+Vaporeon (M) @ Leftovers  
+Ability: Water Absorb  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic  
+- Heal Bell  
+- Wish  
+- Protect  
+
+Skarmory (M) @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Taunt  
+- Whirlwind  
+- Roost  
+- Spikes  
+
+Excadrill (M) @ Air Balloon  
+Ability: Mold Breaker  
+EVs: 96 HP / 136 Atk / 200 SpD / 76 Spe  
+Adamant Nature  
+- Earthquake  
+- Toxic  
+- Protect  
+- Rapid Spin  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 248 HP / 252 Atk / 8 Def  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Rest  
+- Sleep Talk  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23279 98 Likes 0 Score posted by zf dice shiftry team http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Extreme Speed  
+- Psycho Boost  
+- Dark Pulse  
+- Spikes  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Shiftry @ Life Orb  
+Ability: Chlorophyll  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Grass Knot  
+- Hidden Power [Fire]
+- Focus Blast  
+- Foul Play  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Flamethrower  
+- Ice Beam  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23280 98 Likes 0 Score posted by zf Steeljackal Heatran [Ice Beam] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 236 SpD / 32 Spe  
+Calm Nature  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 40 Def / 4 SpA / 40 SpD / 176 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Will-O-Wisp  
+- Recover  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Calm Nature  
+- Taunt  
+- Toxic  
+- Roar  
+- Stealth Rock  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 172 Atk / 248 Def / 88 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Aqua Tail  
+- Magic Coat  
+
+Zekrom @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- Outrage  
+- Volt Switch  
+- Draco Meteor  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23281 98 Likes 0 Score posted by zf Steeljackal Heatran [Magic Coat] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 236 SpD / 32 Spe  
+Calm Nature  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 40 Def / 4 SpA / 40 SpD / 176 Spe  
+Timid Nature  
+- Judgment  
+- Magic Coat  
+- Will-O-Wisp  
+- Recover  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Calm Nature  
+- Taunt  
+- Toxic  
+- Roar  
+- Stealth Rock  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 HP / 248 Def / 92 Spe  
+Impish Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Zekrom @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Jolly Nature  
+- Bolt Strike  
+- Outrage  
+- Volt Switch  
+- Draco Meteor  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23282 98 Likes 0 Score posted by zf Evuelf Offense [Ghosty] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Stealth Rock  
+- Extreme Speed  
+- Psycho Boost  
+- Low Kick  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Psyshock  
+- Thunder  
+- Draco Meteor  
+- Roar  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunder  
+- Water Spout  
+- Ice Beam  
+- Surf  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Ice Beam  
+- U-turn  
+- Iron Head  
+- Explosion  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Focus Blast  
+- Thunder  
+- Dark Void  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23283 98 Likes 0 Score posted by zf Steelceus v1 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 232 SpD / 36 Spe  
+Calm Nature  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Substitute  
+- Calm Mind  
+- Recover  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 88 HP / 184 SpA / 56 SpD / 180 Spe  
+Timid Nature  
+- Draco Meteor  
+- Thunder  
+- Psyshock  
+- Roost  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Spikes  
+- Taunt  
+- Whirlwind  
+- Roost  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 172 Atk / 252 Def / 84 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Aqua Tail  
+- Dragon Tail  
+- Substitute  
+
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 64 Atk / 184 SpD / 12 Spe  
+Adamant Nature  
+- Crunch  
+- Stone Edge  
+- Superpower  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23284 98 Likes 0 Score posted by zf Illusions of Grandeur [Deo-A] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Stealth Rock  
+- Extreme Speed  
+- Psycho Boost  
+- Low Kick  
+
+Groudon @ Expert Belt  
+Ability: Drought  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Earthquake  
+- Dragon Claw  
+- Stone Edge  
+- Rock Polish  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Fire Blast  
+- Calm Mind  
+- Recover  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Void  
+- Dark Pulse  
+- Focus Blast  
+- Taunt  
+
+Dialga @ Choice Scarf  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Draco Meteor  
+- Dragon Pulse  
+- Fire Blast  
+- Sleep Talk  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23285 98 Likes 0 Score posted by zf Illusions of Grandeur [Gene] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Stealth Rock  
+- Extreme Speed  
+- Psycho Boost  
+- Dark Pulse  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Earthquake  
+- Dragon Claw  
+- Stone Edge  
+- Rock Polish  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Fire Blast  
+- Calm Mind  
+- Recover  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Void  
+- Dark Pulse  
+- Focus Blast  
+- Taunt  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23286 98 Likes 0 Score posted by zf Dual Weather Fightceus http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Focus Sash  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Crunch  
+- Fire Blast  
+- Taunt  
+- Stealth Rock  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Modest Nature  
+- Judgment  
+- Ice Beam  
+- Thunder Wave  
+- Recover  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Void  
+- Dark Pulse  
+- Focus Blast  
+- Taunt  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Explosion  
+- Ice Beam  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+Groudon @ Expert Belt  
+Ability: Drought  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Earthquake  
+- Dragon Claw  
+- Stone Edge  
+- Rock Polish  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23287 98 Likes 0 Score posted by zf Fightceus Rain Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Water Spout  
+- Surf  
+- Ice Beam  
+- Thunder  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 252 HP / 144 SpA / 112 Spe  
+Timid Nature  
+- Stealth Rock  
+- Judgment  
+- Ice Beam  
+- Recover  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Spikes  
+- Leech Seed  
+- Power Whip  
+- Protect  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 248 HP / 168 Def / 92 Spe  
+Impish Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Rest  
+- Sleep Talk  
+
+Tentacruel @ Black Sludge  
+Ability: Rain Dish  
+EVs: 252 HP / 32 Def / 224 SpD  
+Calm Nature  
+- Scald  
+- Toxic  
+- Toxic Spikes  
+- Rapid Spin  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Iron Head  
+- Toxic  
+- Wish  
+- Protect  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23288 98 Likes 0 Score posted by zf Groundceus HO http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Fire Punch  
+- Extreme Speed  
+- Psycho Boost  
+- Stealth Rock  
+
+Palkia @ Lustrous Orb  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Spacial Rend  
+- Hydro Pump  
+- Fire Blast  
+- Thunder  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Recover  
+- Swords Dance  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 Atk / 248 Def / 92 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Outrage  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Focus Blast  
+- Taunt  
+- Dark Void  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23289 98 Likes 0 Score posted by zf Shadows and Dust [sasha] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Smeargle @ Focus Sash  
+Ability: Own Tempo  
+EVs: 4 HP / 252 Def / 252 Spe  
+Timid Nature  
+- Spore  
+- Shell Smash  
+- Taunt  
+- Baton Pass  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Dragon Tail  
+- Sleep Talk  
+- Stealth Rock  
+
+Cloyster @ Focus Sash  
+Ability: Skill Link  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Icicle Spear  
+- Spikes  
+- Shell Smash  
+- Rapid Spin  
+
+Dialga @ White Herb  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Dragon Pulse  
+- Thunder  
+- Flamethrower  
+- Aura Sphere  
+
+Kyurem-White @ White Herb  
+Ability: Turboblaze  
+EVs: 56 Def / 252 SpA / 200 Spe  
+Modest Nature  
+- Ice Beam  
+- Ancient Power  
+- Dragon Pulse  
+- Fusion Flare  
+
+Arceus @ Lum Berry  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Brick Break  
+- Shadow Claw  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23290 98 Likes 0 Score posted by zf ray offense http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 252 HP / 188 Def / 68 SpD  
+Bold Nature  
+- Stealth Rock  
+- Spikes  
+- Taunt  
+- Hidden Power [Fire]
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 40 Atk / 252 SpA / 216 Spe  
+Rash Nature  
+- Draco Meteor  
+- Fire Blast  
+- Outrage  
+- Extreme Speed  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Focus Blast  
+- Recover  
+- Calm Mind  
+
+Palkia @ Haban Berry  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Spacial Rend  
+- Hydro Pump  
+- Fire Blast  
+- Dragon Tail  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Focus Blast  
+- Dark Void  
+- Taunt  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23291 98 Likes 0 Score posted by zf Standard Fightceus Sand http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 252 HP / 72 Atk / 184 SpD  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Superpower  
+- Stealth Rock  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 72 HP / 240 SpA / 196 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Roar  
+- Recover  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 252 HP / 152 Def / 4 SpA / 100 Spe  
+Timid Nature  
+- Judgment  
+- Stone Edge  
+- Toxic  
+- Recover  
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 40 Atk / 252 SpA / 216 Spe  
+Rash Nature  
+- Draco Meteor  
+- Fire Blast  
+- Outrage  
+- Extreme Speed  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23292 98 Likes 0 Score posted by zf Sand Stall [Hack] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 64 Atk / 184 SpD / 12 Spe  
+Adamant Nature  
+- Payback  
+- Pursuit  
+- Superpower  
+- Stealth Rock  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+- Scald  
+- Toxic  
+- Recover  
+- Mirror Coat  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 240 HP / 252 SpD / 16 Spe  
+Careful Nature  
+- Spikes  
+- Taunt  
+- Whirlwind  
+- Roost  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 192 HP / 64 Def / 252 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Swords Dance  
+
+Arceus-Psychic @ Mind Plate  
+Ability: Multitype  
+EVs: 248 HP / 148 Def / 112 Spe  
+Timid Nature  
+- Ice Beam  
+- Fire Blast  
+- Toxic  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23293 98 Likes 0 Score posted by zf CM Steelceus Offense http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Stealth Rock  
+- Spikes  
+- Taunt  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 172 Atk / 252 Def / 84 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Magic Coat  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 88 HP / 252 SpA / 168 Spe  
+Modest Nature  
+- Hydro Pump  
+- Water Spout  
+- Ice Beam  
+- Thunder  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Substitute  
+- Calm Mind  
+- Recover  
+
+Palkia @ Haban Berry  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Spacial Rend  
+- Fire Blast  
+- Dragon Tail  
+
+Omastar @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Scald  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23294 98 Likes 0 Score posted by zf Anik Offense [Original] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Spikes  
+- Dark Pulse  
+- Superpower  
+- Extreme Speed  
+
+Groudon @ Life Orb  
+Ability: Drought  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Earthquake  
+- Dragon Claw  
+- Stone Edge  
+- Rock Polish  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Fire Blast  
+- Stealth Rock  
+- Recover  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Focus Blast  
+- Taunt  
+- Dark Void  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Flamethrower  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23295 98 Likes 0 Score posted by zf SD Steelceus http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Zekrom @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Bolt Strike  
+- Outrage  
+- Volt Switch  
+- Sleep Talk  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 168 HP / 252 SpA / 88 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Ice Beam  
+- Thunder  
+
+Dialga @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 56 SpA / 200 SpD  
+Calm Nature  
+- Draco Meteor  
+- Fire Blast  
+- Roar  
+- Stealth Rock  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 Atk / 248 Def / 92 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Substitute  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Iron Head  
+- Stone Edge  
+- Earthquake  
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Spikes  
+- Dark Pulse  
+- Psycho Boost  
+- Extreme Speed  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23296 98 Likes 0 Score posted by zf EKiller Rain http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Dialga @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 56 SpA / 200 SpD  
+Calm Nature  
+- Draco Meteor  
+- Fire Blast  
+- Roar  
+- Stealth Rock  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Water Spout  
+- Hydro Pump  
+- Ice Beam  
+- Thunder  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 176 Atk / 248 Def / 84 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Substitute  
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Extreme Speed  
+- Dark Pulse  
+- Psycho Boost  
+- Spikes  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Brick Break  
+- Shadow Claw  
+- Swords Dance  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Thunder  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23297 98 Likes 0 Score posted by zf Froslass+Zekrom http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Froslass @ Focus Sash  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Icy Wind  
+- Shadow Ball  
+- Taunt  
+- Spikes  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 Atk / 248 Def / 92 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Outrage  
+
+Palkia @ Haban Berry  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Spacial Rend  
+- Fire Blast  
+- Hydro Pump  
+- Dragon Tail  
+
+Zekrom @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Bolt Strike  
+- Outrage  
+- Volt Switch  
+- Sleep Talk  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Shadow Claw  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23298 98 Likes 0 Score posted by zf EKiller variant [sun] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Superpower  
+- Dark Pulse  
+- Extreme Speed  
+- Spikes  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 164 Def / 92 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Substitute  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+Arceus @ Lum Berry  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Shadow Claw  
+- Earthquake  
+- Swords Dance  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Flamethrower  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23299 98 Likes 0 Score posted by zf Grassceus HO http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Dialga @ Life Orb  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Fire Blast  
+- Thunder  
+- Stealth Rock  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 88 HP / 252 SpA / 168 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Ice Beam  
+- Thunder  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 Atk / 248 Def / 92 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Magic Coat  
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Extreme Speed  
+- Superpower  
+- Psycho Boost  
+- Spikes  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Thunder  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23300 98 Likes 0 Score posted by zf Sun Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 196 SpD / 60 Spe  
+Careful Nature  
+- Earthquake  
+- Stone Edge  
+- Roar  
+- Stealth Rock  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+EVs: 252 HP / 52 Def / 204 Spe  
+Bold Nature  
+- Weather Ball  
+- Toxic  
+- Whirlwind  
+- Roost  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 252 HP / 144 SpA / 112 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Spikes  
+- Toxic  
+- Rapid Spin  
+- Pain Split  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+- Flamethrower  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 216 HP / 252 SpD / 40 Spe  
+Careful Nature  
+- Dragon Tail  
+- Roar  
+- Sleep Talk  
+- Rest  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23301 98 Likes 0 Score posted by zf Sun Stall v2 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 196 SpD / 60 Spe  
+Careful Nature  
+- Earthquake  
+- Stone Edge  
+- Roar  
+- Stealth Rock  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+EVs: 252 HP / 52 Def / 204 Spe  
+Bold Nature  
+- Weather Ball  
+- Toxic  
+- Whirlwind  
+- Roost  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 252 HP / 144 SpA / 112 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Spikes  
+- Toxic  
+- Rapid Spin  
+- Pain Split  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+- Recover  
+- Toxic  
+- Scald  
+- Clear Smog  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 224 HP / 32 Def / 252 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Sleep Talk  
+- Rest  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23302 98 Likes 0 Score posted by zf tundra, arc-grass [steel] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Magic Coat  
+- Will-O-Wisp  
+- Recover  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 216 SpD / 44 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Rest  
+- Sleep Talk  
+- Roar  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Low Kick  
+- Stone Edge  
+- Rapid Spin  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 136 SpD / 124 Spe  
+Calm Nature  
+- Stealth Rock  
+- Lava Plume  
+- Taunt  
+- Toxic  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 216 HP / 252 Atk / 40 Spe  
+Adamant Nature  
+- Magic Coat  
+- Dragon Tail  
+- Aqua Tail  
+- Shadow Sneak  
+
+Zekrom @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Bolt Strike  
+- Outrage  
+- Draco Meteor  
+- Volt Switch  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23303 98 Likes 0 Score posted by zf Steelceus Offense v2 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Stealth Rock  
+- Spikes  
+- Taunt  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 Atk / 248 Def / 92 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Magic Coat  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 168 HP / 252 SpA / 88 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Ice Beam  
+- Thunder  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Substitute  
+- Calm Mind  
+- Recover  
+
+Palkia @ Haban Berry  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Spacial Rend  
+- Hydro Pump  
+- Fire Blast  
+- Dragon Tail  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23304 98 Likes 0 Score posted by zf SubSeed Skymin http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Shaymin-Sky @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Air Slash  
+- Seed Flare  
+- Leech Seed  
+- Substitute  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 240 SpD / 20 Spe  
+Careful Nature  
+- Spikes  
+- Whirlwind  
+- Roost  
+- Taunt  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 64 HP / 248 Def / 196 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Water Spout  
+- Scald  
+- Ice Beam  
+- Thunder  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 232 HP / 252 SpD / 24 Spe  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Rapid Spin  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23305 98 Likes 0 Score posted by zf SubSeed Skymin [Waterceus] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Shaymin-Sky @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Air Slash  
+- Seed Flare  
+- Leech Seed  
+- Substitute  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 240 SpD / 20 Spe  
+Careful Nature  
+- Spikes  
+- Whirlwind  
+- Roost  
+- Taunt  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 200 HP / 112 Def / 196 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Water Spout  
+- Scald  
+- Ice Beam  
+- Thunder  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Spacial Rend  
+- Will-O-Wisp  
+- Recover  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 232 HP / 252 SpD / 24 Spe  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Rapid Spin  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23306 98 Likes 0 Score posted by zf Pivot Jirachi Rain http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 Atk / 180 SpD / 76 Spe  
+Jolly Nature  
+- Stealth Rock  
+- U-turn  
+- Magic Coat  
+- Iron Head  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Focus Blast  
+- Thunder  
+- Dark Void  
+
+Zekrom @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Bolt Strike  
+- Outrage  
+- Volt Switch  
+- Sleep Talk  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 24 HP / 252 SpA / 232 Spe  
+Modest Nature  
+- Judgment  
+- Ice Beam  
+- Thunder Wave  
+- Recover  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 Atk / 248 Def / 92 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Substitute  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23307 98 Likes 0 Score posted by zf Pivot Rachi [Grassceus] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 Atk / 180 SpD / 76 Spe  
+Jolly Nature  
+- Stealth Rock  
+- U-turn  
+- Magic Coat  
+- Iron Head  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Focus Blast  
+- Thunder  
+- Dark Void  
+
+Zekrom @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Bolt Strike  
+- Outrage  
+- Volt Switch  
+- Sleep Talk  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 152 HP / 252 SpA / 104 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 Atk / 248 Def / 92 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Substitute  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23308 98 Likes 0 Score posted by zf Heatran+Deo-S [Blim] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Focus Sash  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Taunt  
+- Spikes  
+- Fire Punch  
+- Dark Pulse  
+
+Groudon @ Lum Berry  
+Ability: Drought  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Rock Polish  
+- Swords Dance  
+- Earthquake  
+- Stone Edge  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 HP / 252 Atk / 88 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Tail  
+- Earthquake  
+- Shadow Sneak  
+
+Palkia @ Haban Berry  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Spacial Rend  
+- Fire Blast  
+- Thunder  
+- Dragon Tail  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Earthquake  
+
+Heatran (F) @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Taunt  
+- Stealth Rock  
+- Lava Plume  
+- Roar  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23309 98 Likes 0 Score posted by zf Blim HO [zf edit] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Extreme Speed  
+- Dark Pulse  
+- Psycho Boost  
+- Spikes  
+
+Groudon @ Lum Berry  
+Ability: Drought  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Rock Polish  
+- Swords Dance  
+- Earthquake  
+- Stone Edge  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 HP / 252 Atk / 88 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Tail  
+- Earthquake  
+- Shadow Sneak  
+
+Palkia @ Haban Berry  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Spacial Rend  
+- Fire Blast  
+- Hydro Pump  
+- Dragon Tail  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Earthquake  
+
+Heatran (F) @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Taunt  
+- Stealth Rock  
+- Lava Plume  
+- Roar  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23310 98 Likes 0 Score posted by zf Blaziken Sun [Hack] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Forretress @ Custap Berry  
+Ability: Sturdy  
+EVs: 252 Atk  
+Brave Nature  
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Gyro Ball  
+- Rapid Spin  
+- Spikes  
+- Toxic Spikes  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Ho-Oh @ Choice Band  
+Ability: Regenerator  
+EVs: 112 HP / 252 Atk / 144 Spe  
+Adamant Nature  
+- Brave Bird  
+- Sacred Fire  
+- Earthquake  
+- Sleep Talk  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 48 HP / 4 Def / 252 SpA / 8 SpD / 196 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Healing Wish  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Shadow Claw  
+- Brick Break  
+- Swords Dance  
+
+Blaziken @ Life Orb  
+Ability: Speed Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Low Kick  
+- Swords Dance  
+- Protect  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23311 98 Likes 0 Score posted by zf Sand HO [Evuelf] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Focus Sash  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Crunch  
+- Low Kick  
+- Fire Blast  
+- Stealth Rock  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+
+Groudon @ Life Orb  
+Ability: Drought  
+EVs: 32 HP / 252 Atk / 224 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Claw  
+- Rock Polish  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Focus Blast  
+- Taunt  
+- Dark Void  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Earthquake  
+- Shadow Claw  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23312 98 Likes 0 Score posted by zf Untitled 691 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+- Psycho Boost  
+- Dark Pulse  
+- Extreme Speed  
+- Spikes  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+- Dragon Tail  
+- Earthquake  
+- Shadow Sneak  
+
+Palkia  
+Ability: Pressure  
+
+Groudon @ Life Orb  
+Ability: Drought  
+
+Genesect  
+Ability: Download  
+
+Arceus  
+Ability: Multitype  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23313 98 Likes 0 Score posted by zf Untitled 692 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Froslass @ Focus Sash  
+Ability: Cursed Body  
+- Shadow Ball  
+- Icy Wind  
+- Taunt  
+- Spikes  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Sleep Talk  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+- Dragon Tail  
+- Earthquake  
+- Shadow Sneak  
+- Substitute  
+
+Dialga @ Leftovers  
+Ability: Pressure  
+- Draco Meteor  
+- Fire Blast  
+- Roar  
+- Stealth Rock  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+- Earthquake  
+- Stone Edge  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23314 98 Likes 0 Score posted by zf IDM Sand http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 64 Atk / 184 SpD / 12 Spe  
+Adamant Nature  
+- Crunch  
+- Superpower  
+- Pursuit  
+- Stealth Rock  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Will-O-Wisp  
+- Recover  
+
+Palkia @ Lustrous Orb  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Spacial Rend  
+- Hydro Pump  
+- Fire Blast  
+- Dragon Tail  
+
+Ho-Oh @ Leftovers  
+Ability: Regenerator  
+EVs: 208 HP / 176 Atk / 28 SpD / 96 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Brave Bird  
+- Roost  
+- Substitute  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23315 98 Likes 0 Score posted by zf Untitled 695 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre  
+Ability: Drizzle  
+
+Skarmory  
+Ability: Keen Eye  
+
+Excadrill  
+Ability: Sand Rush  
+
+Ludicolo  
+Ability: Swift Swim  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+Arceus-Dark @ Dread Plate  
+Ability: Multitype  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23316 98 Likes 0 Score posted by zf Untitled 697 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre  
+Ability: Drizzle  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+
+Jirachi  
+Ability: Serene Grace  
+
+Tentacruel  
+Ability: Clear Body  
+
+Skarmory  
+Ability: Keen Eye  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23317 98 Likes 0 Score posted by zf Shiftry Offense http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Lum Berry  
+Ability: Drought  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+- Rock Polish  
+
+Shiftry @ Life Orb  
+Ability: Chlorophyll  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Grass Knot  
+- Hidden Power [Fire]
+- Focus Blast  
+- Foul Play  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Calm Nature  
+- Lava Plume  
+- Taunt  
+- Toxic  
+- Stealth Rock  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 96 HP / 160 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 168 Atk / 248 Def / 92 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Earthquake  
+- Shadow Sneak  
+- Magic Coat  
+
+Zekrom @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Bolt Strike  
+- Outrage  
+- Volt Switch  
+- Sleep Talk  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23318 98 Likes 0 Score posted by zf SubSeed Skymin [Final] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Shaymin-Sky @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Air Slash  
+- Seed Flare  
+- Leech Seed  
+- Substitute  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 240 SpD / 20 Spe  
+Careful Nature  
+- Spikes  
+- Whirlwind  
+- Roost  
+- Taunt  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 200 HP / 112 Def / 196 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Water Spout  
+- Scald  
+- Ice Beam  
+- Thunder  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Spacial Rend  
+- Will-O-Wisp  
+- Recover  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 232 HP / 252 SpD / 24 Spe  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Rapid Spin  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23319 98 Likes 0 Score posted by zf hyw Offense http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Focus Sash  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Crunch  
+- Low Kick  
+- Fire Blast  
+- Stealth Rock  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Thunder  
+- Roar  
+
+Dialga @ Choice Scarf  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Aura Sphere  
+- Dragon Pulse  
+- Sleep Talk  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Modest Nature  
+- Judgment  
+- Ice Beam  
+- Thunder Wave  
+- Recover  
+
+Kabutops @ Choice Band  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Aqua Jet  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23320 98 Likes 0 Score posted by zf hyw Offense [genesect] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Focus Sash  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Crunch  
+- Low Kick  
+- Fire Blast  
+- Stealth Rock  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Thunder  
+- Roar  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Sleep Talk  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Modest Nature  
+- Judgment  
+- Ice Beam  
+- Thunder Wave  
+- Recover  
+
+Kabutops @ Choice Band  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Aqua Jet  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23321 98 Likes 0 Score posted by zf Untitled 705 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack  
+Ability: Pressure  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Thunder  
+- Roar  
+
+Genesect  
+Ability: Download  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23322 98 Likes 0 Score posted by zf Untitled 712 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre  
+Ability: Drizzle  
+
+Dialga  
+Ability: Pressure  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+
+Gliscor  
+Ability: Hyper Cutter  
+
+Ferrothorn  
+Ability: Iron Barbs  
+
+Palkia  
+Ability: Pressure  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23323 98 Likes 0 Score posted by zf Shiftry Offense v3 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psycho Boost  
+- Dark Pulse  
+- Extreme Speed  
+- Spikes  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Shiftry @ Life Orb  
+Ability: Chlorophyll  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Grass Knot  
+- Focus Blast  
+- Hidden Power [Fire]
+- Foul Play  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 176 Atk / 240 Def / 92 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Outrage  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 96 HP / 160 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23324 98 Likes 0 Score posted by zf Groundceus+Kingdra [problems] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 152 HP / 252 SpA / 104 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 240 HP / 248 SpD / 20 Spe  
+Calm Nature  
+- Spikes  
+- Taunt  
+- Whirlwind  
+- Roost  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 240 Atk / 176 Def / 92 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Aqua Tail  
+- Substitute  
+
+Dialga @ Lum Berry  
+Ability: Pressure  
+EVs: 252 HP / 28 SpA / 208 SpD / 20 Spe  
+Modest Nature  
+- Draco Meteor  
+- Fire Blast  
+- Roar  
+- Stealth Rock  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+- Recover  
+
+Kingdra @ Life Orb  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Draco Meteor  
+- Hydro Pump  
+- Dragon Pulse  
+- Substitute  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23325 98 Likes 0 Score posted by zf Untitled 719 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Froslass  
+Ability: Snow Cloak  
+
+Zekrom  
+Ability: Teravolt  
+
+Shiftry  
+Ability: Chlorophyll  
+
+Groudon  
+Ability: Drought  
+
+Latios  
+Ability: Levitate  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23326 98 Likes 0 Score posted by zf Skymin Stack [FP Variant] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Semper Zoroark (Kyogre) @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Water Spout  
+- Scald  
+- Ice Beam  
+- Thunder  
+
+Coniux Peli (Shaymin-Sky) @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Air Slash  
+- Seed Flare  
+- Leech Seed  
+- Substitute  
+
+Pudici Haruno (Skarmory) @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 240 SpD / 20 Spe  
+Careful Nature  
+- Spikes  
+- Whirlwind  
+- Roost  
+- Taunt  
+
+Divus Orch (Giratina) @ Leftovers  
+Ability: Pressure  
+EVs: 200 HP / 112 Def / 196 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Dominus Level (Arceus-Water) @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 68 SpA / 84 SpD / 108 Spe  
+Timid Nature  
+- Judgment  
+- Spacial Rend  
+- Will-O-Wisp  
+- Recover  
+
+Praelia Pohjis (Excadrill) @ Leftovers  
+Ability: Mold Breaker  
+EVs: 232 HP / 252 SpD / 24 Spe  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Rapid Spin  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23327 98 Likes 0 Score posted by zf Skymin Stack [ttar variant] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Semper Zoroark (Kyogre) @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Water Spout  
+- Scald  
+- Ice Beam  
+- Thunder  
+
+Coniux Peli (Shaymin-Sky) @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Air Slash  
+- Seed Flare  
+- Leech Seed  
+- Substitute  
+
+Pudici Haruno (Skarmory) @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 240 SpD / 20 Spe  
+Careful Nature  
+- Spikes  
+- Whirlwind  
+- Roost  
+- Taunt  
+
+Divus Orch (Giratina) @ Leftovers  
+Ability: Pressure  
+EVs: 200 HP / 112 Def / 196 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Dominus Level (Arceus-Water) @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 68 SpA / 84 SpD / 108 Spe  
+Timid Nature  
+- Judgment  
+- Spacial Rend  
+- Will-O-Wisp  
+- Recover  
+
+Praelia Pohjis (Tyranitar) @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 72 Atk / 176 SpD / 12 Spe  
+Adamant Nature  
+- Payback  
+- Superpower  
+- Pursuit  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23328 98 Likes 0 Score posted by zf stallceus+darkceus [sweep] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Dialga @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 60 SpA / 184 SpD / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Stealth Rock  
+- Roar  
+- Draco Meteor  
+
+Mewtwo @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 80 SpD / 176 Spe  
+Timid Nature  
+- Will-O-Wisp  
+- Psystrike  
+- Recover  
+- Taunt  
+
+Arceus @ Dread Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Refresh  
+- Recover  
+- Calm Mind  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Pain Split  
+- Payback  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 160 HP / 252 Atk / 96 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Outrage  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 240 SpD / 20 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Sleep Talk  
+- Rest  
+- Roar  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23329 98 Likes 0 Score posted by zf Stalltwo http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 240 SpD / 28 Spe  
+Calm Nature  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Toxic  
+- Pain Split  
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 64 Atk / 184 SpD / 12 Spe  
+Adamant Nature  
+- Payback  
+- Pursuit  
+- Superpower  
+- Stealth Rock  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 164 Atk / 248 Def / 96 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Aqua Tail  
+- Will-O-Wisp  
+
+Mewtwo @ Leftovers  
+Ability: Unnerve  
+EVs: 252 HP / 80 SpD / 176 Spe  
+Timid Nature  
+- Will-O-Wisp  
+- Taunt  
+- Recover  
+- Psystrike  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23330 98 Likes 0 Score posted by zf Untitled 743 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Darkrai  
+Ability: Bad Dreams  
+
+Ho-Oh  
+Ability: Regenerator  
+
+Groudon  
+Ability: Drought  
+
+Espeon  
+Ability: Magic Bounce  
+
+Arceus  
+Ability: Multitype  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23331 98 Likes 0 Score posted by zf magic sun [zf edit] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Darkrai @ Focus Sash  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Focus Blast  
+- Dark Void  
+- Thunder Wave  
+
+Ho-Oh @ Choice Band  
+Ability: Regenerator  
+EVs: 112 HP / 252 Atk / 144 Spe  
+Adamant Nature  
+- Brave Bird  
+- Sacred Fire  
+- Earthquake  
+- Sleep Talk  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Espeon @ Focus Sash  
+Ability: Magic Bounce  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Grass Knot  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Yawn  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 192 HP / 252 Atk / 64 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Shadow Claw  
+- Earthquake  
+- Swords Dance  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 72 HP / 252 SpA / 184 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Healing Wish  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23332 98 Likes 0 Score posted by zf Untitled 774 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+- Scald  
+- Calm Mind  
+- Rest  
+- Sleep Talk  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+
+Tyranitar  
+Ability: Sand Stream  
+
+Forretress  
+Ability: Sturdy  
+
+Mewtwo  
+Ability: Pressure  
+
+Omastar  
+Ability: Swift Swim  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23333 98 Likes 0 Score posted by zf Palkia+Shiftry Offense http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psycho Boost  
+- Dark Pulse  
+- Extreme Speed  
+- Spikes  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Palkia @ Lustrous Orb  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Spacial Rend  
+- Hydro Pump  
+- Fire Blast  
+- Dragon Tail  
+
+Shiftry @ Life Orb  
+Ability: Chlorophyll  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Grass Knot  
+- Hidden Power [Fire]
+- Dark Pulse  
+- Foul Play  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23334 98 Likes 0 Score posted by zf Untitled 792 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon  
+Ability: Drought  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+- Lava Plume  
+- Taunt  
+- Roar  
+- Stealth Rock  
+
+Palkia @ Lustrous Orb  
+Ability: Pressure  
+- Spacial Rend  
+- Hydro Pump  
+- Fire Blast  
+- Dragon Tail  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+
+Genesect  
+Ability: Download  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+- Shadow Sneak  
+- Dragon Tail  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23335 98 Likes 0 Score posted by zf Untitled 793 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon  
+Ability: Drought  
+
+Heatran  
+Ability: Flash Fire  
+
+Latios  
+Ability: Levitate  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+
+Zekrom  
+Ability: Teravolt  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23336 98 Likes 0 Score posted by zf Untitled 794 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Dialga  
+Ability: Pressure  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+
+Kyogre  
+Ability: Drizzle  
+
+Deoxys-Attack  
+Ability: Pressure  
+
+Rayquaza  
+Ability: Air Lock  
+
+Kabutops  
+Ability: Swift Swim  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23337 98 Likes 0 Score posted by zf Untitled 795 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+- Recover  
+
+Latios  
+Ability: Levitate  
+
+Genesect  
+Ability: Download  
+
+Darkrai @ Salac Berry  
+Ability: Bad Dreams  
+EVs: 12 HP / 244 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Substitute  
+- Nasty Plot  
+- Dark Void  
+
+Deoxys-Speed @ Colbur Berry  
+Ability: Pressure  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 40 Atk / 252 SpA / 216 Spe  
+Rash Nature  
+- Draco Meteor  
+- Fire Blast  
+- Extreme Speed  
+- Outrage  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23338 98 Likes 0 Score posted by zf SD Groundceus+SR Deo-A http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+
+Palkia @ Haban Berry  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Spacial Rend  
+- Hydro Pump  
+- Fire Blast  
+- Dragon Tail  
+
+Darkrai @ Salac Berry  
+Ability: Bad Dreams  
+EVs: 12 HP / 244 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Substitute  
+- Nasty Plot  
+- Dark Void  
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psycho Boost  
+- Dark Pulse  
+- Extreme Speed  
+- Stealth Rock  
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 40 Atk / 252 SpA / 216 Spe  
+Rash Nature  
+- Draco Meteor  
+- Fire Blast  
+- Extreme Speed  
+- Outrage  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23339 98 Likes 0 Score posted by zf Untitled 797 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 72 Atk / 176 SpD / 12 Spe  
+Adamant Nature  
+- Payback  
+- Superpower  
+- Pursuit  
+- Stealth Rock  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 164 Def / 96 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 192 HP / 64 Def / 252 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 48 Def / 216 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Taunt  
+- Substitute  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 48 Atk / 212 SpD  
+Careful Nature  
+- Power Whip  
+- Spikes  
+- Leech Seed  
+- Protect  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23340 98 Likes 0 Score posted by zf BAD OFFENSE http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+DEO ANTILEAD (Kyogre) @ Choice Specs  
+Ability: Drizzle  
+EVs: 152 HP / 252 SpA / 104 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+DARKRAI SWITCHIN (Dialga) @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 32 SpA / 200 SpD / 24 Spe  
+Modest Nature  
+- Draco Meteor  
+- Fire Blast  
+- Roar  
+- Stealth Rock  
+
+LATIOS CHECK (Skarmory) @ Leftovers  
+Ability: Sturdy  
+EVs: 240 HP / 252 SpD / 16 Spe  
+Careful Nature  
+- Spikes  
+- Whirlwind  
+- Taunt  
+- Roost  
+
+GRASSCEUS CHECK (Kingdra) @ Life Orb  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Draco Meteor  
+- Hydro Pump  
+- Dragon Pulse  
+- Substitute  
+
+ZEKROM CHECK (Darkrai) @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Focus Blast  
+- Thunder  
+- Dark Void  
+
+HO-OH CHECK (Arceus-Ghost) @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23341 98 Likes 0 Score posted by zf Untitled 842 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tornadus-Therian @ Life Orb  
+Ability: Regenerator  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Focus Blast  
+- U-turn  
+- Taunt  
+
+Garchomp @ Focus Sash  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Dual Chop  
+- Toxic  
+- Stealth Rock  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Power Whip  
+- Leech Seed  
+- Spikes  
+- Protect  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 224 SpD / 44 Spe  
+Calm Nature  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 164 Atk / 248 Def / 96 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Magic Coat  
+
+Arceus-Electric @ Zap Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23342 98 Likes 0 Score posted by zf Gliscor+ScarfMence rain http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 244 Def / 24 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Calm Mind  
+- Rest  
+- Sleep Talk  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Power Whip  
+- Leech Seed  
+- Spikes  
+- Protect  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 48 Def / 216 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Taunt  
+- Substitute  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Focus Blast  
+- Extreme Speed  
+- Stealth Rock  
+
+Salamence @ Choice Scarf  
+Ability: Moxie  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Naive Nature  
+- Outrage  
+- Dragon Claw  
+- Earthquake  
+- Fire Blast  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23343 98 Likes 0 Score posted by zf Gliscor+forre http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Scald  
+- Ice Beam  
+- Thunder  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 244 HP / 12 Def / 252 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Toxic  
+- Pain Split  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 48 Def / 216 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Taunt  
+- Substitute  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+- Iron Head  
+- Thunder  
+- Wish  
+- Stealth Rock  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 112 HP / 200 Def / 196 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23344 98 Likes 0 Score posted by zf Garchomp+Kingdra Rain http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 224 SpD / 44 Spe  
+Calm Nature  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+Kingdra @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Hydro Pump  
+- Scald  
+- Draco Meteor  
+- Dragon Pulse  
+
+Garchomp @ Focus Sash  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Dual Chop  
+- Earthquake  
+- Fire Blast  
+- Stealth Rock  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 236 HP / 240 SpD / 32 Spe  
+Careful Nature  
+- Spikes  
+- Taunt  
+- Whirlwind  
+- Roost  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23345 98 Likes 0 Score posted by zf Tops+Torn-T http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 228 SpD / 40 Spe  
+Calm Nature  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+Tornadus-Therian @ Life Orb  
+Ability: Regenerator  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Hurricane  
+- Superpower  
+- U-turn  
+- Taunt  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Will-O-Wisp  
+- Magic Coat  
+- Recover  
+
+Landorus-Therian @ Earth Plate  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23346 98 Likes 0 Score posted by zf SubCM Steelceus+ScarfOgre http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 240 HP / 16 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 160 Def / 96 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Aqua Tail  
+- Substitute  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Substitute  
+- Calm Mind  
+- Recover  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Focus Blast  
+- Thunder  
+- Dark Void  
+
+Palkia @ Haban Berry  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Spacial Rend  
+- Fire Blast  
+- Dragon Tail  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23347 98 Likes 0 Score posted by zf Waterceus Offense [Cloyster] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Cloyster @ Focus Sash  
+Ability: Skill Link  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Icicle Spear  
+- Rapid Spin  
+- Shell Smash  
+- Spikes  
+
+Zekrom @ Life Orb  
+Ability: Teravolt  
+EVs: 252 Atk / 76 SpA / 180 Spe  
+Naughty Nature  
+- Bolt Strike  
+- Outrage  
+- Draco Meteor  
+- Tailwind  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 252 HP / 80 Def / 80 SpD / 96 Spe  
+Timid Nature  
+- Ice Beam  
+- Fire Blast  
+- Toxic  
+- Recover  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 160 Def / 96 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Hidden Power [Fire]
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23348 98 Likes 0 Score posted by zf Kingdra Rain [sweep] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tornadus-Therian @ Life Orb  
+Ability: Regenerator  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Hurricane  
+- Superpower  
+- U-turn  
+- Taunt  
+
+Kingdra @ Choice Specs  
+Ability: Swift Swim  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Hydro Pump  
+- Surf  
+- Dragon Pulse  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 204 Def / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Dark Pulse  
+- Superpower  
+- Extreme Speed  
+- Spikes  
+
+Dialga @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 44 SpA / 200 SpD / 16 Spe  
+Modest Nature  
+- Draco Meteor  
+- Roar  
+- Stealth Rock  
+- Fire Blast  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 160 HP / 96 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23349 98 Likes 0 Score posted by zf Untitled 908 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Froslass  
+Ability: Snow Cloak  
+
+Groudon  
+Ability: Drought  
+
+Rayquaza  
+Ability: Air Lock  
+
+Zekrom  
+Ability: Teravolt  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+
+Darkrai  
+Ability: Bad Dreams  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23350 98 Likes 0 Score posted by zf Untitled 909 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Froslass  
+Ability: Snow Cloak  
+
+Dialga  
+Ability: Pressure  
+
+Kyogre  
+Ability: Drizzle  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+Genesect  
+Ability: Download  
+
+Arceus  
+Ability: Multitype  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23351 98 Likes 0 Score posted by zf CBTar+Scarf Lando-T [Sweep] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 248 HP / 176 Atk / 76 SpD / 8 Spe  
+Adamant Nature  
+- Pursuit  
+- Crunch  
+- Low Kick  
+- Stone Edge  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Swords Dance  
+- Rapid Spin  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- U-turn  
+- Stone Edge  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 164 SpD / 96 Spe  
+Timid Nature  
+- Judgment  
+- Fire Blast  
+- Ice Beam  
+- Recover  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Calm Mind  
+- Roost  
+- Psyshock  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+- Stealth Rock  
+- Roar  
+- Lava Plume  
+- Toxic  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23352 98 Likes 0 Score posted by zf CBTops+Groundceus [Sweep] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groundceus (Arceus-Ground) @ Earth Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Dragon Claw  
+- Swords Dance  
+- Recover  
+
+Omastar Rules (Kabutops) @ Choice Band  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Low Kick  
+- Stone Edge  
+- Aqua Jet  
+
+Fail Dragon (Rayquaza) @ Life Orb  
+Ability: Air Lock  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- V-create  
+- Swords Dance  
+- Extreme Speed  
+- Dragon Claw  
+
+THREATENING (Kyogre) @ Choice Specs  
+Ability: Drizzle  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+ror (Dialga) @ Lum Berry  
+Ability: Pressure  
+EVs: 248 HP / 32 SpA / 212 SpD / 16 Spe  
+Modest Nature  
+- Stealth Rock  
+- Fire Blast  
+- Draco Meteor  
+- Thunder Wave  
+
+Michael Bay (Genesect) @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Ice Beam  
+- Iron Head  
+- Explosion  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23353 98 Likes 0 Score posted by zf Scarf Resh+Darkceus [Sweep] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Reshiram @ Choice Scarf  
+Ability: Turboblaze  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Blue Flare  
+- Draco Meteor  
+- Stone Edge  
+- Sleep Talk  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Calm Mind  
+- Roost  
+- Psyshock  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Toxic  
+- Pain Split  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 248 HP / 8 Def / 200 SpD / 52 Spe  
+Careful Nature  
+- Earthquake  
+- Stealth Rock  
+- Stone Edge  
+- Thunder Wave  
+
+Arceus-Dark @ Dread Plate  
+Ability: Multitype  
+EVs: 248 HP / 76 Def / 8 SpA / 176 Spe  
+Timid Nature  
+- Judgment  
+- Refresh  
+- Calm Mind  
+- Judgment  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 152 HP / 252 Atk / 104 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Magic Coat  
+- Earthquake  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23354 98 Likes 0 Score posted by zf Psyceus Rain [Sweep] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Arceus-Psychic @ Mind Plate  
+Ability: Multitype  
+EVs: 248 HP / 164 Def / 96 Spe  
+Timid Nature  
+- Spacial Rend  
+- Will-O-Wisp  
+- Stealth Rock  
+- Recover  
+
+Omastar @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Ice Beam  
+- Earth Power  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Protect  
+- Spikes  
+- Gyro Ball  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 152 HP / 252 Atk / 104 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Earthquake  
+- Shadow Sneak  
+- Outrage  
+
+Tentacruel @ Leftovers  
+Ability: Rain Dish  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+- Scald  
+- Toxic Spikes  
+- Rapid Spin  
+- Protect  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 252 SpD / 16 Spe  
+Calm Nature  
+- Scald  
+- Rest  
+- Sleep Talk  
+- Roar  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23355 98 Likes 0 Score posted by zf SubCM Ghosty+LO Deo-A [Sweep] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Forretress @ Custap Berry  
+Ability: Sturdy  
+EVs: 252 Atk  
+Brave Nature  
+IVs: 0 HP / 0 Def / 0 SpD / 0 Spe  
+- Gyro Ball  
+- Toxic Spikes  
+- Stealth Rock  
+- Rapid Spin  
+
+Deoxys-Attack @ Life Orb  
+Ability: Pressure  
+EVs: 180 Atk / 76 SpA / 252 Spe  
+Naughty Nature  
+- Low Kick  
+- Psycho Boost  
+- Extreme Speed  
+- Ice Punch  
+
+Dialga @ Choice Scarf  
+Ability: Pressure  
+EVs: 48 HP / 252 SpA / 208 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Aura Sphere  
+- Thunder  
+- Draco Meteor  
+- Sleep Talk  
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- V-create  
+- Dragon Claw  
+- Extreme Speed  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 236 Def / 24 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Sleep Talk  
+- Rest  
+- Calm Mind  
+
+Arceus @ Spooky Plate  
+Ability: Multitype  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Calm Mind  
+- Focus Blast  
+- Judgment  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23356 98 Likes 0 Score posted by zf Shiftry+Skarm Sun [Sweep] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Flamethrower  
+- Extreme Speed  
+- Stealth Rock  
+
+Groudon @ Life Orb  
+Ability: Drought  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Rock Polish  
+- Earthquake  
+- Dragon Claw  
+- Stone Edge  
+
+Shiftry @ Life Orb  
+Ability: Chlorophyll  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Grass Knot  
+- Hidden Power [Fire]
+- Foul Play  
+- Dark Pulse  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Naive Nature  
+- U-turn  
+- Flamethrower  
+- Bug Buzz  
+- Ice Beam  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 120 HP / 136 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Roost  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 16 Def / 236 SpD / 8 Spe  
+Bold Nature  
+- Spikes  
+- Roost  
+- Whirlwind  
+- Toxic  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23357 98 Likes 0 Score posted by zf Blaziken+Specs Dialga [Sweep] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Blaziken @ Life Orb  
+Ability: Speed Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Low Kick  
+- Flare Blitz  
+- Protect  
+- Stone Edge  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 248 HP / 244 Def / 16 Spe  
+Impish Nature  
+- Earthquake  
+- Lava Plume  
+- Stealth Rock  
+- Dragon Tail  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Calm Mind  
+- Psyshock  
+- Roost  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 192 HP / 252 Atk / 64 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Swords Dance  
+- Shadow Claw  
+- Earthquake  
+
+Darkrai @ Choice Scarf  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hidden Power [Fire]
+- Trick  
+- Dark Void  
+- Dark Pulse  
+
+Dialga @ Choice Specs  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Draco Meteor  
+- Dragon Pulse  
+- Fire Blast  
+- Aura Sphere  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23358 98 Likes 0 Score posted by zf Untitled 1069 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack  
+Ability: Pressure  
+
+Groudon  
+Ability: Drought  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+
+Latios  
+Ability: Levitate  
+
+Genesect  
+Ability: Download  
+
+Rayquaza  
+Ability: Air Lock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23359 98 Likes 0 Score posted by zf Untitled 1265 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+- Earthquake  
+- Rapid Spin  
+- Toxic  
+- Stealth Rock  
+
+Arceus-Dark @ Dread Plate  
+Ability: Multitype  
+IVs: 0 Atk  
+- Judgment  
+- Refresh  
+- Calm Mind  
+- Recover  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+IVs: 0 Atk  
+- Water Spout  
+
+Ludicolo  
+Ability: Swift Swim  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+IVs: 0 Atk  
+- Spikes  
+- Whirlwind  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23360 98 Likes 0 Score posted by zf Steelceus+Torn-T [Astounded] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Dark Pulse  
+- Superpower  
+- Extreme Speed  
+- Spikes  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Dialga @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 56 SpA / 200 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Fire Blast  
+- Roar  
+- Stealth Rock  
+
+Tornadus-Therian @ Life Orb  
+Ability: Regenerator  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Hurricane  
+- Superpower  
+- U-turn  
+- Taunt  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 172 Def / 84 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23361 98 Likes 0 Score posted by zf Garchomp+Fightceus Rain [Hack] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Garchomp @ Focus Sash  
+Ability: Rough Skin  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Earthquake  
+- Dual Chop  
+- Fire Blast  
+- Stealth Rock  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Power Whip  
+- Leech Seed  
+- Spikes  
+- Protect  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 88 HP / 252 SpA / 168 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 172 Def / 84 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 248 HP / 148 SpA / 112 Spe  
+Timid Nature  
+- Judgment  
+- Stone Edge  
+- Toxic  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23362 98 Likes 0 Score posted by zf Garchomp+Eleceus [Evuelf] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Garchomp @ Focus Sash  
+Ability: Rough Skin  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Earthquake  
+- Dual Chop  
+- Fire Blast  
+- Stealth Rock  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Power Whip  
+- Leech Seed  
+- Spikes  
+- Protect  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 216 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 172 Def / 84 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Arceus-Electric @ Zap Plate  
+Ability: Multitype  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23363 98 Likes 0 Score posted by zf Droughtfest [Hack] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+
+Cloyster @ Focus Sash  
+Ability: Skill Link  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Shell Smash  
+- Icicle Spear  
+- Rapid Spin  
+- Spikes  
+
+Ho-Oh @ Choice Band  
+Ability: Regenerator  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Brave Bird  
+- Earthquake  
+- Sleep Talk  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+- Earthquake  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+- Iron Head  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 164 HP / 148 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Healing Wish  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23364 98 Likes 0 Score posted by zf Fightceus Sand [Hack] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 252 HP / 64 Atk / 56 Def / 136 SpD  
+Brave Nature  
+- Stealth Rock  
+- Payback  
+- Superpower  
+- Fire Blast  
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Draco Meteor  
+- Outrage  
+- Fire Blast  
+- Extreme Speed  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 248 HP / 148 SpA / 112 Spe  
+Timid Nature  
+- Judgment  
+- Toxic  
+- Stone Edge  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Explosion  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Rapid Spin  
+- Iron Head  
+- Earthquake  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 112 HP / 204 SpA / 192 Spe  
+Timid Nature  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23365 98 Likes 0 Score posted by zf Fightceus+Omastar [Sweep] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 248 HP / 164 Def / 96 Spe  
+Timid Nature  
+- Judgment  
+- Stealth Rock  
+- Recover  
+- Ice Beam  
+
+Omastar @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Ice Beam  
+- Earth Power  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Protect  
+- Spikes  
+- Gyro Ball  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 152 HP / 252 Atk / 104 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Earthquake  
+- Shadow Sneak  
+- Outrage  
+
+Mewtwo @ Leftovers  
+Ability: Unnerve  
+EVs: 248 HP / 84 Def / 176 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psystrike  
+- Will-O-Wisp  
+- Recover  
+- Taunt  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 252 SpD / 16 Spe  
+Calm Nature  
+- Scald  
+- Rest  
+- Sleep Talk  
+- Roar  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23366 98 Likes 0 Score posted by zf SYRIM HO http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Dark Pulse  
+- Superpower  
+- Extreme Speed  
+- Spikes  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 24 HP / 252 SpA / 48 SpD / 184 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 248 Atk / 172 SpA / 88 Spe  
+Naughty Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Draco Meteor  
+- Hidden Power [Fire]
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Shadow Claw  
+- Earthquake  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23367 98 Likes 0 Score posted by zf Untitled 1276 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Omastar  
+Ability: Swift Swim  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+Kyogre  
+Ability: Drizzle  
+
+Ferrothorn  
+Ability: Iron Barbs  
+
+Dialga  
+Ability: Pressure  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23368 98 Likes 0 Score posted by zf Untitled 1277 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar  
+Ability: Sand Stream  
+
+Excadrill  
+Ability: Sand Rush  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+
+Dialga  
+Ability: Pressure  
+
+Skarmory  
+Ability: Keen Eye  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23369 98 Likes 0 Score posted by zf Untitled 1278 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Wobbuffet  
+Ability: Shadow Tag  
+
+Rayquaza  
+Ability: Air Lock  
+
+Tyranitar  
+Ability: Sand Stream  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+
+Palkia  
+Ability: Pressure  
+
+Excadrill  
+Ability: Sand Rush  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23370 98 Likes 0 Score posted by zf Untitled 1279 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Rayquaza  
+Ability: Air Lock  
+
+Wobbuffet  
+Ability: Shadow Tag  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+
+Tyranitar  
+Ability: Sand Stream  
+
+Excadrill  
+Ability: Sand Rush  
+
+Palkia  
+Ability: Pressure  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23371 98 Likes 0 Score posted by zf Untitled 1281 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Blaziken  
+Ability: Blaze  
+
+Wobbuffet  
+Ability: Shadow Tag  
+
+Darkrai  
+Ability: Bad Dreams  
+
+Arceus @ Silk Scarf  
+Ability: Multitype  
+IVs: 0 Atk  
+
+Groudon  
+Ability: Drought  
+
+Genesect  
+Ability: Download  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23372 98 Likes 0 Score posted by zf Untitled 1282 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Excadrill  
+Ability: Sand Rush  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+
+Kyogre  
+Ability: Drizzle  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+Skarmory  
+Ability: Keen Eye  
+
+Chansey  
+Ability: Natural Cure  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23373 98 Likes 0 Score posted by zf Excadrill Rain Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 248 HP / 64 Def / 176 SpD / 20 Spe  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Rapid Spin  
+- Protect  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Aromatherapy  
+- Soft-Boiled  
+- Stealth Rock  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 232 SpD / 28 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Spikes  
+- Taunt  
+- Whirlwind  
+- Roost  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 192 HP / 64 Def / 252 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Magic Coat  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23374 98 Likes 0 Score posted by zf Groundceus Rain Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Surf  
+- Thunder  
+- Ice Beam  
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 8 HP / 248 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Aromatherapy  
+- Stealth Rock  
+- Soft-Boiled  
+
+Tentacruel @ Black Sludge  
+Ability: Rain Dish  
+Shiny: Yes  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Toxic Spikes  
+- Rapid Spin  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 192 HP / 64 Def / 252 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 48 Atk / 208 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Leech Seed  
+- Spikes  
+- Protect  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 248 HP / 84 Def / 176 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Will-O-Wisp  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23375 98 Likes 0 Score posted by zf Arc-Electric+Deo-S Rain [dice] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 240 HP / 16 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 160 Def / 96 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Substitute  
+
+Arceus-Electric @ Zap Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+Palkia @ Lustrous Orb  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Spacial Rend  
+- Fire Blast  
+- Dragon Tail  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23376 98 Likes 0 Score posted by zf CM Grassceus+LO Dialga http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Superpower  
+- Extreme Speed  
+- Dark Pulse  
+- Spikes  
+
+Dialga @ Life Orb  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Thunder  
+- Aura Sphere  
+- Stealth Rock  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 172 Def / 84 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23377 98 Likes 0 Score posted by zf Deo-A+Arc-Ghost+Darkrai http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Dark Pulse  
+- Superpower  
+- Extreme Speed  
+- Spikes  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 24 HP / 252 SpA / 48 SpD / 184 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Focus Blast  
+- Taunt  
+- Dark Void  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 160 HP / 96 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23378 98 Likes 0 Score posted by zf CM+Roar Steelceus Rain http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 240 HP / 16 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 160 Def / 96 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Substitute  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Roar  
+- Calm Mind  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+Palkia @ Lustrous Orb  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Spacial Rend  
+- Fire Blast  
+- Dragon Tail  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23379 98 Likes 0 Score posted by zf Steelceus+Omastar http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 216 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Superpower  
+- Dark Pulse  
+- Extreme Speed  
+- Spikes  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Substitute  
+- Calm Mind  
+- Recover  
+
+Dialga @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 32 SpA / 200 SpD / 28 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Fire Blast  
+- Roar  
+- Stealth Rock  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 160 Def / 96 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Omastar @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Scald  
+- Ice Beam  
+- Earth Power  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23380 98 Likes 0 Score posted by zf Fightceus+Deo-S Rain http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 240 HP / 16 SpA / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 160 Def / 96 Spe  
+Adamant Nature  
+- Shadow Sneak  
+- Dragon Tail  
+- Earthquake  
+- Substitute  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 252 HP / 144 SpA / 112 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+Palkia @ Lustrous Orb  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Spacial Rend  
+- Fire Blast  
+- Dragon Tail  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23381 98 Likes 0 Score posted by zf HEATRAN SUN STALL http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+Shiny: Yes  
+EVs: 248 HP / 248 SpD / 12 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Toxic  
+- Taunt  
+- Protect  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+Shiny: Yes  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Toxic  
+- Heal Bell  
+- Soft-Boiled  
+
+Lugia @ Leftovers  
+Ability: Multiscale  
+Shiny: Yes  
+EVs: 248 HP / 56 Def / 204 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Toxic  
+- Whirlwind  
+- Roost  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Magic Coat  
+- Recover  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 192 HP / 64 Def / 252 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23382 98 Likes 0 Score posted by zf Froslass+Reshiram http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Reshiram @ Choice Scarf  
+Ability: Turboblaze  
+Shiny: Yes  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Mild Nature  
+- Draco Meteor  
+- Blue Flare  
+- Stone Edge  
+- Sleep Talk  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 96 HP / 160 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
+
+Froslass @ Focus Sash  
+Ability: Cursed Body  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Icy Wind  
+- Spikes  
+- Taunt  
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- V-create  
+- Extreme Speed  
+- Swords Dance  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 160 HP / 96 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23383 98 Likes 0 Score posted by zf Reshiram+Cloyster Offense http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Reshiram @ Choice Scarf  
+Ability: Turboblaze  
+Shiny: Yes  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Mild Nature  
+- Draco Meteor  
+- Blue Flare  
+- Stone Edge  
+- Sleep Talk  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 96 HP / 160 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
+
+Cloyster @ Focus Sash  
+Ability: Skill Link  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Icicle Spear  
+- Rapid Spin  
+- Shell Smash  
+- Spikes  
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Outrage  
+- V-create  
+- Extreme Speed  
+- Swords Dance  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 160 HP / 96 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23384 98 Likes 0 Score posted by zf Grassceus+Tops+Darkrai [Evuelf] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 208 Def / 52 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 192 Atk / 224 Def / 92 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Will-O-Wisp  
+- Magic Coat  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+Dialga @ Lum Berry  
+Ability: Pressure  
+EVs: 248 HP / 32 SpA / 200 SpD / 28 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Fire Blast  
+- Roar  
+- Stealth Rock  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Focus Blast  
+- Thunder  
+- Dark Void  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23385 98 Likes 0 Score posted by zf FIRST UBERS TEAM [zf edit] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 164 Def / 92 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Magic Coat  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 8 Atk / 248 SpA / 252 Spe  
+Naive Nature  
+- Bug Buzz  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Stone Edge  
+- Toxic  
+- Recover  
+
+Palkia @ Lustrous Orb  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Spacial Rend  
+- Fire Blast  
+- Dragon Tail  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Focus Blast  
+- Taunt  
+- Dark Void  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23386 98 Likes 0 Score posted by zf Untitled 1303 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psycho Boost  
+- Dark Pulse  
+- Extreme Speed  
+- Spikes  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 64 HP / 244 SpA / 200 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Roar  
+
+Darkrai @ Life Orb  
+Ability: Bad Dreams  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Focus Blast  
+- Taunt  
+- Dark Void  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Flamethrower  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 160 HP / 96 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23387 98 Likes 0 Score posted by zf Phys Def Ogre+SubCM Steelceus+LO Tops http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 240 HP / 16 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 216 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Thunder  
+- Roar  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 168 Def / 88 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Substitute  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23388 98 Likes 0 Score posted by zf Untitled 1305 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed  
+Ability: Pressure  
+
+Kyogre  
+Ability: Drizzle  
+
+Kabutops  
+Ability: Swift Swim  
+
+Latios  
+Ability: Levitate  
+
+Genesect  
+Ability: Download  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23389 98 Likes 0 Score posted by zf Grassceus+Omastar http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 240 HP / 16 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 216 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 168 Def / 88 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Omastar @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Scald  
+- Ice Beam  
+- Earth Power  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Explosion  
+- Ice Beam  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23390 98 Likes 0 Score posted by zf Fightceus+CM Latias http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 240 HP / 16 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 88 HP / 252 SpA / 168 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 160 Def / 96 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 112 HP / 200 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Calm Mind  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Explosion  
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+- Judgment  
+- Stone Edge  
+- Toxic  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23391 98 Likes 0 Score posted by zf Untitled 1311 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 216 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psycho Boost  
+- Dark Pulse  
+- Extreme Speed  
+- Spikes  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Substitute  
+- Calm Mind  
+- Recover  
+
+Dialga @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 44 SpA / 200 SpD / 16 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Fire Blast  
+- Roar  
+- Stealth Rock  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 168 Def / 88 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Omastar @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Scald  
+- Ice Beam  
+- Earth Power  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23392 98 Likes 0 Score posted by zf Untitled 1312 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 216 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psycho Boost  
+- Dark Pulse  
+- Extreme Speed  
+- Spikes  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Calm Mind  
+- Recover  
+
+Dialga @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 44 SpA / 200 SpD / 16 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Fire Blast  
+- Roar  
+- Stealth Rock  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 168 Def / 88 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23393 98 Likes 0 Score posted by zf Specs Ogre+LO Tops [Benbe] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 240 HP / 16 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+
+Kyogre @ Choice Specs  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Thunder  
+- Roar  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Stone Edge  
+- Low Kick  
+- Rapid Spin  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 252 Atk / 168 Def / 88 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Substitute  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23394 98 Likes 0 Score posted by zf Untitled 1345 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Rocky Helmet  
+Ability: Pressure  
+EVs: 240 HP / 16 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Taunt  
+- Stealth Rock  
+- Spikes  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 216 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 244 Atk / 168 Def / 96 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Omastar @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Scald  
+- Ice Beam  
+- Earth Power  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Explosion  
+- Ice Beam  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23395 98 Likes 0 Score posted by zf Untitled 1451 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack  
+Ability: Pressure  
+
+Genesect  
+Ability: Download  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+Groudon  
+Ability: Drought  
+
+Latios  
+Ability: Levitate  
+
+Arceus-Fighting  
+Ability: Multitype  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23396 98 Likes 0 Score posted by zf h a x http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Shaymin-Sky @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Seed Flare  
+- Air Slash  
+- Leech Seed  
+- Substitute  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 64 HP / 252 Def / 192 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Forretress @ Custap Berry  
+Ability: Sturdy  
+EVs: 252 Atk  
+Brave Nature  
+IVs: 0 HP / 0 Def / 0 SpD / 0 Spe  
+- Gyro Ball  
+- Rapid Spin  
+- Spikes  
+- Toxic Spikes  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Scald  
+- Thunder  
+- Ice Beam  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Calm Mind  
+- Recover  
+
+Landorus-Therian @ Earth Plate  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23397 98 Likes 0 Score posted by zf Untitled 1797 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kingdra @ Life Orb  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Hydro Pump  
+- Dragon Pulse  
+- Substitute  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 64 HP / 252 Def / 192 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Forretress @ Custap Berry  
+Ability: Sturdy  
+EVs: 252 Atk  
+Brave Nature  
+IVs: 0 HP / 0 Def / 0 SpD / 0 Spe  
+- Gyro Ball  
+- Rapid Spin  
+- Spikes  
+- Toxic Spikes  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Scald  
+- Thunder  
+- Ice Beam  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Substitute  
+- Calm Mind  
+- Recover  
+
+Landorus-Therian @ Earth Plate  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23398 98 Likes 0 Score posted by zf Untitled 1808 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Dialga @ Choice Scarf  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Fire Blast  
+- Dragon Pulse  
+- Sleep Talk  
+
+Tyranitar @ Chople Berry  
+Ability: Sand Stream  
+EVs: 248 HP / 84 Atk / 168 SpD / 8 Spe  
+Adamant Nature  
+- Crunch  
+- Low Kick  
+- Pursuit  
+- Stealth Rock  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Swords Dance  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 88 HP / 228 SpA / 192 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Recover  
+
+Skarmory @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 16 Def / 232 SpD / 12 Spe  
+Careful Nature  
+IVs: 0 Atk  
+- Taunt  
+- Spikes  
+- Whirlwind  
+- Roost  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Focus Blast  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23399 98 Likes 0 Score posted by zf CBTar + Waterceus http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- U-turn  
+- Sleep Talk  
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Superpower  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 144 Def / 4 SpA / 112 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 88 HP / 228 SpA / 192 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Recover  
+
+Excadrill @ Life Orb  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Swords Dance  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Toxic  
+- Protect  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23400 98 Likes 0 Score posted by zf Untitled 1810 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tornadus-Therian  
+Ability: Regenerator  
+
+Arceus-Steel  
+Ability: Multitype  
+IVs: 0 Atk  
+
+Kyogre  
+Ability: Drizzle  
+IVs: 0 Atk  
+
+Landorus-Therian @ Earth Plate  
+Ability: Intimidate  
+- Earthquake  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+IVs: 0 Atk  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+IVs: 0 Atk  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23401 98 Likes 0 Score posted by zf Zekrom + Froslass http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Zekrom @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Bolt Strike  
+- Outrage  
+- Volt Switch  
+- Sleep Talk  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Toxic  
+- Protect  
+- Stealth Rock  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 144 HP / 112 Def / 252 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Groudon @ Lum Berry  
+Ability: Drought  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+- Rock Polish  
+
+Froslass @ Focus Sash  
+Ability: Cursed Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Icy Wind  
+- Taunt  
+- Spikes  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 108 Def / 4 SpA / 36 SpD / 112 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23402 98 Likes 0 Score posted by zf Untitled 1812 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+- Judgment  
+- Stone Edge  
+- Toxic  
+- Recover  
+
+Tornadus-Therian @ Life Orb  
+Ability: Regenerator  
+IVs: 0 Atk  
+- Hurricane  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 248 HP / 64 Def / 176 SpD / 20 Spe  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Rapid Spin  
+- Stealth Rock  
+
+Kyogre  
+Ability: Drizzle  
+IVs: 0 Atk  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+IVs: 0 Atk  
+
+Kingdra  
+Ability: Swift Swim  
+IVs: 0 Atk  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23403 98 Likes 0 Score posted by zf Fightceus + Kingdra Rain http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Arceus-Fighting @ Fist Plate  
+Ability: Multitype  
+EVs: 252 HP / 144 SpA / 112 Spe  
+Timid Nature  
+- Judgment  
+- Stone Edge  
+- Toxic  
+- Recover  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 208 Def / 52 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Excadrill @ Leftovers  
+Ability: Mold Breaker  
+EVs: 248 HP / 64 Def / 176 SpD / 20 Spe  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Rapid Spin  
+- Stealth Rock  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 200 Atk / 212 Def / 96 Spe  
+Adamant Nature  
+- Dragon Tail  
+- Shadow Sneak  
+- Earthquake  
+- Substitute  
+
+Kingdra @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Hydro Pump  
+- Dragon Pulse  
+- Scald  
+
+Deoxys-Attack @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psycho Boost  
+- Dark Pulse  
+- Extreme Speed  
+- Spikes  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23404 98 Likes 0 Score posted by zf Untitled 1814 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Forretress  
+Ability: Sturdy  
+
+Kyogre  
+Ability: Drizzle  
+
+Ludicolo  
+Ability: Swift Swim  
+
+Arceus-Fighting  
+Ability: Multitype  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+Jirachi  
+Ability: Serene Grace  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23405 98 Likes 0 Score posted by zf Untitled 1815 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Froslass  
+Ability: Snow Cloak  
+
+Kyogre  
+Ability: Drizzle  
+
+Arceus-Fighting  
+Ability: Multitype  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+Excadrill  
+Ability: Sand Rush  
+
+Kingdra  
+Ability: Swift Swim  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23406 98 Likes 0 Score posted by zf Untitled 1913 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Landorus @ Choice Scarf  
+Ability: Sand Force  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Sleep Talk  
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Superpower  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 144 Def / 4 SpA / 112 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 88 HP / 228 SpA / 192 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Draco Meteor  
+- Psyshock  
+- Hidden Power [Fire]
+- Recover  
+
+Excadrill @ Air Balloon  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Swords Dance  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Toxic  
+- Protect  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23407 98 Likes 0 Score posted by zf Untitled 1992 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack  
+Ability: Pressure  
+
+Froslass  
+Ability: Snow Cloak  
+
+Arceus-Water  
+Ability: Multitype  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+
+Groudon  
+Ability: Drought  
+
+Genesect  
+Ability: Download  
+
+
+
+
+
+
+=== [gen5ubers] Gen 3/#23408 98 Likes 0 Score posted by zf LO Deo-A + Cloy http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Attack @ Life Orb  
+Ability: Pressure  
+EVs: 180 Atk / 76 SpA / 252 Spe  
+Naughty Nature  
+- Psycho Boost  
+- Low Kick  
+- Ice Punch  
+- Extreme Speed  
+
+Groudon @ Earth Plate  
+Ability: Drought  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Dragon Tail  
+- Stealth Rock  
+
+Cloyster @ Focus Sash  
+Ability: Skill Link  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Icicle Spear  
+- Rapid Spin  
+- Shell Smash  
+- Spikes  
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+EVs: 120 HP / 192 Def / 196 Spe  
+Jolly Nature  
+- Dragon Tail  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 252 HP / 140 Def / 4 SpA / 112 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 248 Atk / 8 SpA / 252 Spe  
+Naive Nature  
+- Iron Head  
+- U-turn  
+- Ice Beam  
+- Flamethrower
+
+
+
+=== [gen5ubers] BW Ubers/#23409 1 Likes 0 Score posted by Andy Snype http://www.smogon.com/forums/threads/challenge-accepted.3470430/page-1#post-4343476 ===
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-68-1608804066"
+data-lb-id="_xfUid-68-1608804066">
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-69-1608804066"
+data-lb-id="_xfUid-69-1608804066">
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-70-1608804066"
+data-lb-id="_xfUid-70-1608804066">
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-71-1608804066"
+data-lb-id="_xfUid-71-1608804066">
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-72-1608804066"
+data-lb-id="_xfUid-72-1608804066">
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-73-1608804066"
+data-lb-id="_xfUid-73-1608804066">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-74-1608804066"
+data-lb-id="_xfUid-74-1608804066">
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-75-1608804066"
+data-lb-id="_xfUid-75-1608804066">
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-76-1608804066"
+data-lb-id="_xfUid-76-1608804066">
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-77-1608804066"
+data-lb-id="_xfUid-77-1608804066">
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-78-1608804066"
+data-lb-id="_xfUid-78-1608804066">
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-79-1608804066"
+data-lb-id="_xfUid-79-1608804066">
+
+
+
+
+
+Giratina-O @ Griseous Orb
+Trait: Levitate
+EVs: 248 Atk / 232 SAtk / 28 Spd
+Naughty Nature (+Atk, -SDef)
+- Will-O-Wisp
+- Dragon Tail
+- Shadow Sneak
+- Draco Meteor
+
+Tentacruel (M) @ Black Sludge
+Trait: Rain Dish
+EVs: 248 HP / 236 SDef / 24 Spd
+Calm Nature (+SDef, -Atk)
+- Toxic Spikes
+- Rapid Spin
+- Ice Beam
+- Scald
+
+Ferrothorn (M) @ Leftovers
+Trait: Iron Barbs
+EVs: 252 HP / 4 Def / 252 SDef
+Careful Nature (+SDef, -SAtk)
+- Spikes
+- Leech Seed
+- Power Whip
+- Thunder Wave
+
+Kyogre @ Choice Scarf
+Trait: Drizzle
+EVs: 52 HP / 252 SAtk / 204 Spd
+Modest Nature (+SAtk, -Atk)
+- Water Spout
+- Surf
+- Thunder
+- Ice Beam
+
+Dialga @ Leftovers
+Trait: Pressure
+EVs: 252 HP / 32 SAtk / 200 SDef / 24 Spd
+Modest Nature (+SAtk, -Atk)
+- Stealth Rock
+- Draco Meteor
+- Aura Sphere
+- Roar
+
+Arceus-Ghost @ Spooky Plate
+Trait: Multitype
+EVs: 252 HP / 4 Def / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Calm Mind
+- Judgment
+- Recover
+- Focus Blast
+
+
+
+
+=== [gen5ubers] BW Ubers/#23410 2 Likes 0 Score posted by LuckOverSkill http://www.smogon.com/forums/threads/fudge-dragon-express.3466617/page-1#post-4224133 ===
+
+Forretress (F) @ Leftovers
+Trait: Sturdy
+EVs: 252 HP / 4 Def / 252 SDef
+Sassy Nature (+SDef, -Spd)
+- Spikes
+- Toxic Spikes
+- Rapid Spin
+- Toxic
+
+Arceus-Drago (Arceus-Dragon) @ Draco Plate
+Trait: Multitype
+EVs: 120 HP / 252 SAtk / 136 Spd
+Timid Nature (+Spd, -Atk)
+- Substitute
+- Calm Mind
+- Judgment
+- Recover
+
+Palkia @ Leftovers
+Trait: Pressure
+EVs: 236 HP / 96 SDef / 176 Spd
+Calm Nature (+SDef, -Atk)
+- Roar
+- Thunder
+- Spacial Rend
+- Fire Blast
+
+Ho-Oh @ Leftovers
+Trait: Pressure
+EVs: 204 HP / 208 Atk / 64 SDef / 32 Spd
+Careful Nature (+SDef, -SAtk)
+- Sacred Fire
+- Brave Bird
+- Substitute
+- Recover
+
+Heatran (F) @ Leftovers
+Trait: Flash Fire
+EVs: 252 HP / 4 SAtk / 252 SDef
+Calm Nature (+SDef, -Atk)
+- Toxic
+- Protect
+- Flamethrower
+- Roar
+
+Groudon @ Leftovers
+Trait: Drought
+EVs: 252 HP / 96 Def / 136 SDef / 24 Spd
+Impish Nature (+Def, -SAtk)
+- Dragon Tail
+- Fire Punch
+- Earthquake
+- Stealth Rock
+
+
+
+
+=== [gen5ubers] BW Ubers/#23411 0 Likes 0 Score posted by Donkey http://www.smogon.com/forums/threads/first-ubers-team.3484041/page-1#post-4710788 ===
+
+Tiny (Groudon) @ Earth Plate
+Trait: Drought
+EVs: 252 Atk / 4 Def / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Stealth Rock
+- Lava Plume
+- Earthquake
+- Stone Edge
+
+Shadow Fiend (Darkrai) @ Life Orb
+Trait: Bad Dreams
+EVs: 4 Def / 252 SAtk / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Dark Void
+- Thunder Wave
+- Dark Pulse
+- Focus Blast
+
+Morphling (Palkia) @ Lustrous Orb
+Trait: Pressure
+EVs: 4 Def / 252 SAtk / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Spacial Rend
+- Fire Blast
+- Hydro Pump
+- Dragon Tail
+
+Magnus (Arceus-Fighting) @ Fist Plate
+Trait: Multitype
+EVs: 248 HP / 8 Def / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Toxic
+- Judgment
+- Stone Edge
+- Recover
+
+Spectre (Genesect) @ Choice Scarf
+Trait: Download
+EVs: 4 Atk / 252 SAtk / 252 Spd
+Naive Nature (+Spd, -SDef)
+- U-turn
+- Flamethrower
+- Bug Buzz
+- Ice Beam
+
+Bane (Giratina-O) @ Griseous Orb
+Trait: Levitate
+EVs: 144 HP / 252 Atk / 112 Spd
+Adamant Nature (+Atk, -SAtk)
+- Shadow Sneak
+- Earthquake
+- Magic Coat
+- Dragon Tail
+
+
+
+
+=== [gen5ubers] BW Ubers/#23412 0 Likes 0 Score posted by His Eminence Lord Poppington II http://www.smogon.com/forums/threads/forretress-dialga-arceus-ghost-latias-kyogre-hippowdon.3478162/page-1#post-4553510 ===
+
+Forretress (F) @ Custap Berry
+Trait: Sturdy
+EVs: 252 Atk
+Brave Nature (+Atk, -Spd)
+- Gyro Ball
+- Spikes
+- Toxic Spikes
+- Rapid Spin
+
+Dialga @ Choice Specs
+Trait: Pressure
+EVs: 144 HP / 252 SAtk / 112 Spd
+Modest Nature (+SAtk, -Atk)
+- Draco Meteor
+- Dragon Pulse
+- Thunder
+- Fire Blast
+
+Arceus-Ghost @ Spooky Plate
+Trait: Multitype
+EVs: 96 HP / 236 SAtk / 176 Spd
+Timid Nature (+Spd, -Atk)
+- Calm Mind
+- Focus Blast
+- Judgment
+- Recover
+
+Latias (F) @ Soul Dew
+Trait: Levitate
+EVs: 172 HP / 144 SAtk / 192 Spd
+Timid Nature (+Spd, -Atk)
+- Dragon Pulse
+- Thunder
+- Recover
+- Calm Mind
+
+Kyogre @ Leftovers
+Trait: Drizzle
+EVs: 252 HP / 4 Def / 252 SDef
+Calm Nature (+SDef, -Atk)
+- Scald
+- Roar
+- Rest
+- Sleep Talk
+
+Hippowdon (F) @ Leftovers
+Trait: Sand Stream
+EVs: 252 HP / 252 Def / 4 SDef
+Impish Nature (+Def, -SAtk)
+- Stealth Rock
+- Earthquake
+- Slack Off
+- Whirlwind
+
+
+
+
+=== [gen5ubers] BW Ubers/#23413 0 Likes 0 Score posted by Donkey http://www.smogon.com/forums/threads/6-sandy-beasts.3465711/page-1#post-4206530 ===
+
+Tyranitar (M) @ Lum Berry
+Trait: Sand Stream
+EVs: 252 HP / 64 Atk / 184 SDef / 8 Spd
+Adamant Nature (+Atk, -SAtk)
+- Stealth Rock
+- Superpower
+- Stone Edge
+- Pursuit
+
+Excadrill (M) @ Leftovers
+Trait: Sand Rush
+EVs: 64 HP / 252 Atk / 192 Spd
+Adamant Nature (+Atk, -SAtk)
+- Swords Dance
+- Earthquake
+- Shadow Claw
+- Rapid Spin
+
+Arceus-Rock @ Stone Plate
+Trait: Multitype
+EVs: 252 HP / 120 Def / 136 Spd
+Timid Nature (+Spd, -Atk)
+- Will-O-Wisp
+- Judgment
+- Perish Song
+- Recover
+
+Ferrothorn (M) @ Leftovers
+Trait: Iron Barbs
+EVs: 252 HP / 4 Def / 252 SDef
+Sassy Nature (+SDef, -Spd)
+- Leech Seed
+- Spikes
+- Protect
+- Power Whip
+
+Gliscor (M) @ Toxic Orb
+Trait: Poison Heal
+EVs: 252 HP / 200 Def / 56 Spd
+Impish Nature (+Def, -SAtk)
+- Substitute
+- Earthquake
+- Toxic
+- Taunt
+
+Giratina @ Leftovers
+Trait: Pressure
+EVs: 248 HP / 244 SDef / 16 Spd
+Calm Nature (+SDef, -Atk)
+- Rest
+- Sleep Talk
+- Will-O-Wisp
+- Roar
+
+
+
+
+=== [gen5ubers] BW Ubers/#23414 0 Likes 0 Score posted by faint http://www.smogon.com/forums/threads/where-theres-a-chomp-theres-a-way.3462789/page-1#post-4124000 ===
+
+Tyranitar (F) @ Lum Berry
+Trait: Sand Stream
+EVs: 252 HP / 76 Atk / 180 SDef
+Sassy Nature (+SDef, -Spd)
+- Payback
+- Low Kick
+- Stealth Rock
+- Fire Blast
+
+Excadrill (F) @ Life Orb
+Trait: Sand Rush
+EVs: 66 HP / 252 Atk / 192 Spd
+Adamant Nature (+Atk, -SAtk)
+- Earthquake
+- Rock Slide
+- Swords Dance
+- Rapid Spin
+
+Garchomp (F) @ Leftovers
+Trait: Sand Veil
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Earthquake
+- Outrage
+- Substitute
+- Swords Dance
+
+Ferrothorn (F) @ Leftovers
+Trait: Iron Barbs
+EVs: 252 HP / 48 Atk / 208 SDef
+Sassy Nature (+SDef, -Spd)
+- Spikes
+- Power Whip
+- Leech Seed
+- Protect
+
+Salamence (F) @ Choice Scarf
+Trait: Moxie
+EVs: 252 Atk / 4 SAtk / 252 Spd
+Naive Nature (+Spd, -SDef)
+- Outrage
+- Earthquake
+- Fire Blast
+- Dragon Claw
+
+Arceus-Ghost @ Spooky Plate
+Trait: Multitype
+EVs: 252 HP / 70 Def / 76 SAtk / 112 Spd
+Timid Nature (+Spd, -Atk)
+- Will-O-Wisp
+- Recover
+- Flamethrower
+- Judgment
+
+
+
+

@@ -1,0 +1,127 @@
+=== [gen7partnersincrime] Anything Goes/#19400 2 Likes 0 Score posted by BananaLaddersPS Untitled 30 http://www.smogon.com/forums/threads/ag-team-bazaar-and-showcase.3646732/page-2#post-8128445 ===
+
+Smeargle @ Focus Sash  
+Ability: Dazzling  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk / 30 Def  
+- Spore  
+- Mat Block  
+- Skill Swap  
+- Geomancy  
+
+Salamence-Mega @ Salamencite  
+Ability: Intimidate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+IVs: 30 Atk / 30 Def  
+- Hyper Voice  
+- Double-Edge  
+- Protect  
+- Heat Wave  
+
+Tsareena @ Sitrus Berry  
+Ability: Desolate Land  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+IVs: 30 HP / 30 Def  
+- Low Kick  
+- Charm  
+- Worry Seed  
+- Light Screen  
+
+Thundurus @ Power Herb  
+Ability: Prankster  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Sludge Bomb  
+- Focus Blast  
+- Hidden Power [Ice]
+
+Noivern @ Choice Scarf  
+Ability: Telepathy  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 30 Atk / 30 Def  
+- Boomburst  
+- Heat Wave  
+- Tailwind  
+- Draco Meteor  
+
+Alomomola @ Sitrus Berry  
+Ability: Harvest  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Rest  
+- Toxic  
+- Protect  
+- Aqua Ring  
+
+
+
+
+
+
+=== [gen7partnersincrime] Anything Goes/#19401 2 Likes 0 Score posted by BananaLaddersPS Untitled 23 http://www.smogon.com/forums/threads/ag-team-bazaar-and-showcase.3646732/page-2#post-8128445 ===
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Earth Power  
+- Dark Pulse  
+- Flash Cannon  
+
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Swords Dance  
+- Bullet Punch  
+- Bug Bite  
+- Roost  
+
+Doublade @ Eviolite  
+Ability: No Guard  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Iron Defense  
+- Toxic  
+- Wide Guard  
+- Rest  
+
+Rhyperior @ Weakness Policy  
+Ability: Solid Rock  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rock Polish  
+- Horn Drill  
+- Stone Edge  
+- Protect  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+IVs: 0 Atk  
+- Moonlight  
+- Moonblast  
+- Calm Mind  
+- Psychic  
+
+Excadrill @ Focus Sash  
+Ability: Sand Rush  
+- Stealth Rock  
+- Rock Slide  
+- Earthquake  
+- Toxic  
+
+
+
+
+
+

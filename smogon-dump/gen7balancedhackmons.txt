@@ -1,0 +1,981 @@
+=== [gen7balancedhackmons] Other Metagames/#17358 15 Likes 6 Score posted by cityscapes arceus collection/poisonceus http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8589626 ===
+
+wine &amp; revolution (Arceus-Fairy) @ Poisonium Z  
+Ability: Multitype  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Impish Nature  
+- Gunk Shot  
+- Sacred Fire  
+- Taunt  
+- Recover  
+
+Kyogre-Primal @ Mystic Water  
+Ability: Teravolt  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Revelation Dance  
+- Ice Beam  
+- Strength Sap  
+
+Yveltal @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Dragon Ascent  
+- Precipice Blades  
+- Will-O-Wisp  
+
+zovrah moment (Xerneas) @ Pixie Plate  
+Ability: Pixilate  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Rapid Spin  
+- Recover  
+- Beak Blast  
+
+Celebi @ Grassium Z  
+Ability: Prankster  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Careful Nature  
+- Haze  
+- Power Whip  
+- Spore  
+- Recover  
+
+Gengar-Mega @ Spooky Plate  
+Ability: Flash Fire  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Spikes  
+- Will-O-Wisp  
+- Rapid Spin  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17359 15 Likes 6 Score posted by cityscapes arceus collection/waterceus http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8589626 ===
+
+Arceus-Fairy @ Splash Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Steam Eruption  
+- Tail Glow  
+- Ice Beam  
+- Grass Knot  
+
+Xerneas @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Moonblast  
+- Thunder  
+- Magma Storm  
+
+Mewtwo-Mega-X @ Muscle Band  
+Ability: Tough Claws  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Spectral Thief  
+- Sunsteel Strike  
+- Substitute  
+
+Regigigas @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Facade  
+- Knock Off  
+- Stealth Rock  
+- Dragon Dance  
+
+Metagross-Mega @ Occa Berry  
+Ability: Prankster  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Haze  
+- Strength Sap  
+- Sunsteel Strike  
+- Natural Gift  
+
+duuuuuude (Kyogre-Primal) @ Assault Vest  
+Ability: Refrigerate  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Spectral Thief  
+- Rapid Spin  
+- Extreme Speed  
+- Explosion  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17360 15 Likes 6 Score posted by cityscapes arceus collection/double arc (legendary team) http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8589626 ===
+
+297974 (Yveltal) @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Oblivion Wing  
+- Light of Ruin  
+- Soak  
+
+Tapu Bulu @ Tapunium Z  
+Ability: Mold Breaker  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Nature&#39;s Madness  
+- Power Whip  
+- Extreme Speed  
+
+Flying Phoenix (Arceus-Flying) @ Flame Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- V-create  
+- Power Whip  
+- Ice Hammer  
+- Recover  
+
+End of Evangelion (Giratina-Origin) @ Griseous Orb  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Core Enforcer  
+- Haze  
+- Spikes  
+- Recover  
+
+IT IS I, WARIO (Arceus-Dark) @ Rocky Helmet  
+Ability: Rattled  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Revelation Dance  
+- Roost  
+- Baton Pass  
+- Taunt  
+
+177013 (Slowbro-Mega) @ Assault Vest  
+Ability: Pixilate  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Boomburst  
+- Rapid Spin  
+- Magma Storm  
+- U-turn  
+
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17361 8 Likes 2 Score posted by a loser Normal Gigas http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Regigigas @ Choice Band  
+Ability: Normalize  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- V-create  
+- Extreme Speed  
+- Pursuit  
+- Spectral Thief  
+
+Shedinja @ Protective Pads  
+Ability: Sturdy  
+EVs: 252 Atk  
+Lonely Nature  
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Endeavor  
+- Pursuit  
+- U-turn  
+- Extreme Speed  
+
+Gyarados-Mega @ Choice Band  
+Ability: Magic Bounce  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Knock Off  
+- Pursuit  
+- Shore Up  
+- Trick  
+
+Giratina @ Safety Goggles  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Heal Order  
+- Destiny Bond  
+- Haze  
+- Core Enforcer  
+
+Solgaleo @ Safety Goggles  
+Ability: Teravolt  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Impish Nature  
+- Anchor Shot  
+- Stealth Rock  
+- Rapid Spin  
+- Strength Sap  
+
+Mewtwo-Mega-X @ Choice Band  
+Ability: Dazzling  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Spectral Thief  
+- Close Combat  
+- Ice Hammer  
+- First Impression  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17362 8 Likes 2 Score posted by a loser Shed Stall http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Shedinja @ Protective Pads  
+Ability: Sturdy  
+EVs: 252 Atk  
+Lonely Nature  
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Endeavor  
+- Pursuit  
+- U-turn  
+- Shadow Bone  
+
+Gyarados-Mega @ Leftovers  
+Ability: Magic Bounce  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Knock Off  
+- U-turn  
+- Shore Up  
+- Spectral Thief  
+
+Giratina @ Griseous Orb  
+Ability: Comatose  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Careful Nature  
+IVs: 0 SpA  
+- Worry Seed  
+- Spectral Thief  
+- Defog  
+- Heal Order  
+
+Solgaleo (Necrozma-Dusk-Mane) @ Steelium Z  
+Ability: Prankster  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Anchor Shot  
+- Slack Off  
+- Destiny Bond  
+- Copycat  
+
+Zygarde-Complete @ Assault Vest  
+Ability: Regenerator  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Metal Burst  
+- U-turn  
+- Core Enforcer  
+- Thousand Arrows  
+
+Audino-Mega @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Knock Off  
+- Will-O-Wisp  
+- Soft-Boiled  
+- Core Enforcer  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17363 8 Likes 2 Score posted by a loser Contrary is Broke AF http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Mewtwo-Mega-Y @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Blue Flare  
+- Stealth Rock  
+
+Tyranitar-Mega @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Knock Off  
+- Shift Gear  
+- Diamond Storm  
+- Will-O-Wisp  
+
+Chansey @ Eviolite  
+Ability: Fur Coat  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Metal Burst  
+- Recover  
+- U-turn  
+- Whirlwind  
+
+Chansey @ Shed Shell  
+Ability: Imposter  
+Happiness: 0  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Final Gambit  
+- Spikes  
+- Whirlwind  
+- Shore Up  
+
+Giratina @ Safety Goggles  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Core Enforcer  
+- Slack Off  
+- Strength Sap  
+- Haze  
+
+Registeel @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Anchor Shot  
+- Defog  
+- Topsy-Turvy  
+- Shore Up  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17364 8 Likes 2 Score posted by a loser Diancie http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Diancie-Mega @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Spikes  
+- Moonblast  
+- Secret Sword  
+
+Shedinja @ Protective Pads  
+Ability: Sturdy  
+EVs: 252 Atk / 204 Spe  
+Lonely Nature  
+- Swords Dance  
+- Spectral Thief  
+- Ice Shard  
+- Endeavor  
+
+Ho-Oh @ Firium Z  
+Ability: Magic Bounce  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Anchor Shot  
+- V-create  
+- Recover  
+- Defog  
+
+Gengar-Mega @ Spooky Plate  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Baton Pass  
+- Judgment  
+- Rapid Spin  
+
+Yveltal @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Revelation Dance  
+- Beak Blast  
+- Knock Off  
+- U-turn  
+
+Giratina @ Safety Goggles  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Haze  
+- Core Enforcer  
+- Shore Up  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17365 8 Likes 2 Score posted by a loser Gigas Boom Spam http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Regigigas @ Choice Band  
+Ability: Refrigerate  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Lonely Nature  
+IVs: 0 Def  
+- Explosion  
+- Spectral Thief  
+- Extreme Speed  
+- Head Charge  
+
+Regigigas @ Choice Band  
+Ability: Scrappy  
+Happiness: 0  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Lonely Nature  
+IVs: 0 Def  
+- Explosion  
+- Spectral Thief  
+- Extreme Speed  
+- Frustration  
+
+Regigigas @ Choice Band  
+Ability: Tinted Lens  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Lonely Nature  
+IVs: 0 Def  
+- Explosion  
+- Spectral Thief  
+- Extreme Speed  
+- V-create  
+
+Regigigas @ Choice Band  
+Ability: Scrappy  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Lonely Nature  
+IVs: 0 Def  
+- Explosion  
+- Spectral Thief  
+- Extreme Speed  
+- Rapid Spin  
+
+Regigigas @ Safety Goggles  
+Ability: Prankster  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Destiny Bond  
+- Spectral Thief  
+- Sunsteel Strike  
+- Explosion  
+
+Giratina @ Safety Goggles  
+Ability: Mold Breaker  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Sticky Web  
+- Stealth Rock  
+- Parting Shot  
+- Spectral Thief  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17366 8 Likes 2 Score posted by a loser Manetric w Kitty http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Manectric-Mega @ Choice Specs  
+Ability: Galvanize  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Boomburst  
+- Volt Switch  
+- Ice Beam  
+- Moongeist Beam  
+
+Tyranitar-Mega @ Choice Band  
+Ability: Adaptability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Diamond Storm  
+- Knock Off  
+- Pursuit  
+- Sucker Punch  
+
+Dialga @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Rapid Spin  
+- U-turn  
+- Core Enforcer  
+- Doom Desire  
+
+Audino-Mega @ Darkinium Z  
+Ability: Stamina  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Stealth Rock  
+- Parting Shot  
+- Shore Up  
+- Core Enforcer  
+
+Giratina @ Safety Goggles  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Shore Up  
+- Destiny Bond  
+- Encore  
+- Core Enforcer  
+
+Slowbro-Mega @ Rocky Helmet  
+Ability: Soundproof  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Scald  
+- Anchor Shot  
+- Shore Up  
+- Parting Shot  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17367 8 Likes 2 Score posted by a loser Moldy MMY + Double PH http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Mewtwo-Mega-Y @ Leftovers  
+Ability: Mold Breaker  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Spore  
+- Psystrike  
+- Blue Flare  
+- Parting Shot  
+
+Scizor-Mega @ Safety Goggles  
+Ability: Primordial Sea  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Spectral Thief  
+- U-turn  
+- Shore Up  
+- Baneful Bunker  
+
+Kyogre-Primal @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Scald  
+- Ice Beam  
+- Stealth Rock  
+- Leech Seed  
+
+Dialga @ Leftovers  
+Ability: Magic Bounce  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Recover  
+- Anchor Shot  
+- Core Enforcer  
+- Rapid Spin  
+
+Chansey @ Eviolite  
+Ability: Unaware  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Soft-Boiled  
+- Entrainment  
+- U-turn  
+- Whirlwind  
+
+Mewtwo-Mega-X @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Low Kick  
+- Will-O-Wisp  
+- U-turn  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17368 8 Likes 2 Score posted by a loser Mono BH Ghost http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Giratina @ Griseous Orb  
+Ability: Magic Bounce  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- U-turn  
+- Core Enforcer  
+- Defog  
+- Heal Order  
+
+Aegislash @ Safety Goggles  
+Ability: Prankster  
+Shiny: Yes  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Impish Nature  
+- Entrainment  
+- Destiny Bond  
+- Shore Up  
+- Spectral Thief  
+
+Sableye-Mega @ Assault Vest  
+Ability: Regenerator  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Knock Off  
+- U-turn  
+- Spectral Thief  
+- Rapid Spin  
+
+Gengar-Mega @ Spooky Plate  
+Ability: Adaptability  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Judgment  
+- Sludge Wave  
+- Taunt  
+
+Shedinja @ Protective Pads  
+Ability: Sturdy  
+Shiny: Yes  
+EVs: 252 Atk  
+Lonely Nature  
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Endeavor  
+- Pursuit  
+- U-turn  
+- Shadow Bone  
+
+Marowak-Alola-Totem @ Thick Club  
+Ability: Prankster  
+Shiny: Yes  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- V-create  
+- Shadow Force  
+- Copycat  
+- Destiny Bond   
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17369 8 Likes 2 Score posted by a loser QD Volt Xern http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Selah (Xerneas) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Moonblast  
+- Volt Switch  
+- Spikes  
+
+Closed On Sunday (Tyranitar-Mega) @ Choice Band  
+Ability: Mold Breaker  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Knock Off  
+- Pursuit  
+- Strength Sap  
+- Sucker Punch  
+
+Hands On (Mewtwo-Mega-X) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Low Kick  
+- Will-O-Wisp  
+- Icicle Crash  
+
+Everything We Need (Aegislash) @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Spectral Thief  
+- Baton Pass  
+- Recover  
+- Defog  
+
+Water (Kyogre-Primal) @ Leftovers  
+Ability: Magic Bounce  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Quiver Dance  
+- Freeze-Dry  
+- Roost  
+
+Follow God (Arceus) @ Darkinium Z  
+Ability: Prankster  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Haze  
+- Parting Shot  
+- Knock Off  
+- Recover  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17370 8 Likes 2 Score posted by a loser SF Beedrill http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Beedrill-Mega @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Lunge  
+- Poison Jab  
+- Bolt Strike  
+- Icicle Crash  
+
+Steelix-Mega @ Rocky Helmet  
+Ability: Flash Fire  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Anchor Shot  
+- Shore Up  
+- Defog  
+- Entrainment  
+
+Mewtwo-Mega-Y @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Ice Beam  
+- Earth Power  
+- Bug Buzz  
+
+Chansey @ Eviolite  
+Ability: Fur Coat  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Recover  
+- Metal Burst  
+- U-turn  
+- Whirlwind  
+
+Mewtwo-Mega-X @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Low Kick  
+- Knock Off  
+- Stealth Rock  
+
+Gengar-Mega @ Spooky Plate  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Toxic  
+- Judgment  
+- Secret Sword  
+- Destiny Bond  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17371 8 Likes 2 Score posted by a loser Tinted Beedrill + Celesteela Improof http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Beedrill-Mega @ Buginium Z  
+Ability: Tinted Lens  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Megahorn  
+- Gunk Shot  
+- Sunsteel Strike  
+
+Charizard-Mega-Y @ Choice Specs  
+Ability: Aerilate  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Rash Nature  
+IVs: 0 Atk  
+- Boomburst  
+- Earth Power  
+- Blue Flare  
+- Oblivion Wing  
+
+Celesteela @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Anchor Shot  
+- Spectral Thief  
+- Shore Up  
+- Defog  
+
+Mewtwo-Mega-Y @ Leftovers  
+Ability: Dazzling  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Photon Geyser  
+- Moonblast  
+- Secret Sword  
+- Strength Sap  
+
+Giratina @ Safety Goggles  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Haze  
+- Recover  
+- Baton Pass  
+- Core Enforcer  
+
+Audino-Mega @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Spiky Shield  
+- Stealth Rock  
+- Moonblast  
+- U-turn  
+
+
+
+
+
+
+=== [gen7balancedhackmons] Other Metagames/#17372 8 Likes 2 Score posted by a loser Tweaked Normal Gigas http://www.smogon.com/forums/threads/balanced-hackmons-old-gens-hub.3661782/page-2#post-8558576 ===
+
+Regigigas @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Shift Gear  
+- Facade  
+- Spectral Thief  
+- Avalanche  
+
+Shedinja @ Protective Pads  
+Ability: Sturdy  
+EVs: 252 Atk  
+Lonely Nature  
+IVs: 0 HP / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Endeavor  
+- Foresight  
+- U-turn  
+- Extreme Speed  
+
+Gyarados-Mega @ Leftovers  
+Ability: Magic Bounce  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Spectral Thief  
+- Pursuit  
+- Shore Up  
+- Anchor Shot  
+
+Giratina @ Safety Goggles  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Heal Order  
+- Destiny Bond  
+- Haze  
+- Core Enforcer  
+
+Solgaleo @ Safety Goggles  
+Ability: Teravolt  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Impish Nature  
+- Anchor Shot  
+- Stealth Rock  
+- Defog  
+- Strength Sap  
+
+Mewtwo-Mega-X @ Choice Band  
+Ability: Dazzling  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Spectral Thief  
+- Close Combat  
+- Ice Hammer  
+- First Impression  
+
+
+
+
+
+

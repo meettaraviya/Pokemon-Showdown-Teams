@@ -1,0 +1,3427 @@
+=== [gen2] Gen 2/#23610 58 Likes 21 Score posted by Siatam http://www.smogon.com/forums/threads/bringing-type-spam-to-gsc-ou-sunny-day-hyper-offense.3669525/page-1#post-8580978 ===
+
+Jynx (F)
+Ability: none
+- Lovely Kiss
+- Ice Beam
+- Nightmare
+- Thief
+
+Snorlax @ Leftovers
+Ability: none
+- Curse
+- Double-Edge
+- Self-Destruct
+- Earthquake
+
+Entei @ Leftovers
+Ability: none
+IVs: 6 HP / 24 Atk / 24 Def
+- Sunny Day
+- Fire Blast
+- Solar Beam
+- Hidden Power [Fighting]
+
+Houndoom @ Leftovers
+Ability: none
+- Sunny Day
+- Fire Blast
+- Solar Beam
+- Crunch
+
+Moltres @ Charcoal
+Ability: none
+- Sunny Day
+- Fire Blast
+- Rest
+- Sleep Talk
+
+Exeggutor @ Leftovers
+Ability: none
+IVs: 6 HP / 28 Atk / 24 Def
+- Explosion
+- Psychic
+- Giga Drain
+- Hidden Power [Fire]
+
+
+
+
+=== [gen2] Gen 2/#23611 23 Likes 15 Score posted by ReeceHughes http://www.smogon.com/forums/threads/gsc-nu-graveler-offense.3672866/page-1#post-8648468 ===
+
+Wigglytuff @ Leftovers  
+Ability: none  
+- Body Slam  
+- Thunder  
+- Rest  
+- Sleep Talk  
+
+Xatu @ Leftovers  
+Ability: none  
+IVs: 14 HP / 28 Atk  
+- Psychic  
+- Hidden Power [Electric]
+- Rest  
+- Sleep Talk  
+
+Flareon @ Leftovers  
+Ability: none  
+IVs: 6 HP / 28 Atk / 28 Def  
+- Fire Blast  
+- Double-Edge  
+- Hidden Power [Grass]
+- Substitute  
+
+Kingler @ Leftovers  
+Ability: none  
+- Surf  
+- Body Slam  
+- Rest  
+- Sleep Talk  
+
+Graveler @ Leftovers  
+Ability: none  
+- Earthquake  
+- Rock Slide  
+- Substitute  
+- Explosion  
+
+Pineco @ Leftovers  
+Ability: none  
+IVs: 26 Atk / 26 Def  
+- Spikes  
+- Explosion  
+- Hidden Power [Bug]
+- Reflect  
+
+
+
+
+
+=== [gen2] Gen 2/#23612 14 Likes 12 Score posted by ReeceHughes http://www.smogon.com/forums/threads/gsc-pu-fire-water-grass-bulky-offense.3674584/page-1#post-8681240 ===
+
+Furret @ Leftovers  
+Ability: none  
+- Double-Edge  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Murkrow @ Leftovers  
+Ability: none  
+- Drill Peck  
+- Hidden Power [Dark]
+- Pursuit  
+- Haze  
+
+Hitmonchan (M) @ Leftovers  
+Ability: none  
+- High Jump Kick  
+- Body Slam  
+- Rest  
+- Sleep Talk  
+
+Seadra @ Leftovers  
+Ability: none  
+IVs: 14 HP / 28 Atk  
+- Hydro Pump  
+- Hidden Power [Electric]
+- Haze  
+- Ice Beam  
+
+Sunflora @ Leftovers  
+Ability: none  
+IVs: 26 Def  
+- Growth  
+- Giga Drain  
+- Hidden Power [Ice]
+- Synthesis  
+
+Magcargo @ Leftovers  
+Ability: none  
+- Fire Blast  
+- Rock Slide  
+- Rest  
+- Sleep Talk  
+
+
+
+
+
+=== [gen2] Gen 2/#23613 9 Likes 2 Score posted by asbdsp http://www.smogon.com/forums/threads/1-2-2-3-4-my-take-on-thief-stall.3668506/page-1#post-8561966 ===
+
+Snorlax @ Leftovers
+Ability: none
+- Double-Edge
+- Flamethrower
+- Sleep Talk
+- Rest
+
+Raikou @ Leftovers
+Ability: none
+- Thunderbolt
+- Reflect
+- Roar
+- Rest
+
+Cloyster @ Leftovers
+Ability: none
+- Spikes
+- Surf
+- Toxic
+- Explosion
+
+Golem @ Leftovers
+Ability: none
+- Earthquake
+- Rapid Spin
+- Roar
+- Explosion
+
+Skarmory
+Ability: none
+- Thief
+- Drill Peck
+- Curse
+- Rest
+
+Exeggutor
+Ability: none
+- Sleep Powder
+- Thief
+- Psychic
+- Explosion
+
+
+
+
+=== [gen2] Gen 2/#23614 8 Likes 0 Score posted by Sinkyr http://www.smogon.com/forums/threads/vaporeon-machamp-offense.3660890/page-1#post-8384951 ===
+
+Raikou @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Thunder 
+- Hidden Power [Ice]
+- Roar
+- Rest
+
+Exeggutor @ Leftovers  
+Ability: Chlorophyll  
+- Stun Spore  
+- Psychic  
+- Giga Drain  
+- Explosion  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+- Spikes
+- Surf
+- Toxic  
+- Explosion
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Curse  
+- Body Slam
+- Fire Blast  
+- Rest 
+
+Vaporeon @ Leftovers  
+Ability: Water Absorb  
+- Surf  
+- Growth  
+- Sleep Talk
+- Rest
+
+Machamp @ Leftovers
+- Curse
+- Cross Chop
+- Rock Slide
+- Hidden Power [Bug]
+
+
+
+
+
+
+=== [gen2] Gen 2/#23615 2 Likes 0 Score posted by asbdsp http://www.smogon.com/forums/threads/1-2-4-12-venu-dual-screens-para-wak.3668512/page-1#post-8562110 ===
+
+Raikou @ Leftovers
+Ability: none
+- Thunder
+- Reflect
+- Roar
+- Rest
+
+Snorlax @ Leftovers
+Ability: none
+- Body Slam
+- Curse
+- Sleep Talk
+- Rest
+
+Marowak @ Thick Club
+Ability: none
+EVs: 252 HP / 240 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+- Earthquake
+- Rock Slide
+- Fire Blast
+- Swords Dance
+
+Venusaur @ Leftovers
+Ability: none
+- Sleep Powder
+- Body Slam
+- Light Screen
+- Synthesis
+
+Skarmory @ Leftovers
+Ability: none
+- Drill Peck
+- Curse
+- Whirlwind
+- Rest
+
+Cloyster @ Leftovers
+Ability: none
+- Spikes
+- Surf
+- Toxic
+- Rapid Spin
+
+
+
+
+=== [gen2] Gen 2/#23616 1 Likes 0 Score posted by asbdsp http://www.smogon.com/forums/threads/1-1-4-6-18-mono-lax-blissey-stall.3668511/page-1#post-8562107 ===
+
+Zapdos @ Leftovers
+Ability: none
+IVs: 26 Def
+- Thunder
+- Hidden Power [Ice]
+- Sleep Talk
+- Rest
+
+Snorlax @ Leftovers
+Ability: none
+- Double-Edge
+- Lovely Kiss
+- Belly Drum
+- Rest
+
+Blissey (F) @ Leftovers
+Ability: none
+- Flamethrower
+- Toxic
+- Heal Bell
+- Soft-Boiled
+
+Skarmory @ Leftovers
+Ability: none
+- Drill Peck
+- Curse
+- Toxic
+- Rest
+
+Tyranitar @ Leftovers
+Ability: none
+- Rock Slide
+- Crunch
+- Pursuit
+- Roar
+
+Cloyster @ Leftovers
+Ability: none
+- Spikes
+- Surf
+- Toxic
+- Rapid Spin
+
+
+
+
+=== [gen2] Gen 2/#23617 3 Likes 0 Score posted by Supreetin http://www.smogon.com/forums/threads/vaporeon-machamp-offense.3660890/page-1#post-8384829 ===
+
+Raikou @ Leftovers 
+Ability: none 
+IVs: 26 Def 
+- Thunder 
+- Hidden Power [Ice]
+- Roar 
+- Rest 
+
+Exeggutor @ Leftovers 
+Ability: none 
+IVs: 6 HP / 28 Atk / 24 Def 
+- Sleep Powder 
+- Hidden Power [Fire]
+- Psychic 
+- Explosion 
+
+Cloyster @ Leftovers 
+Ability: none 
+IVs: 14 HP / 28 Atk 
+- Spikes 
+- Surf 
+- Hidden Power [Electric]
+- Explosion 
+
+Snorlax @ Leftovers 
+Ability: none 
+- Curse 
+- Body Slam 
+- Earthquake 
+- Self-Destruct 
+
+Vaporeon @ Leftovers 
+Ability: none 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+- Hydro Pump 
+- Growth 
+- Sleep Talk 
+- Rest 
+
+Machamp @ Leftovers 
+Ability: none 
+IVs: 26 Atk / 26 Def 
+- Curse 
+- Cross Chop 
+- Rock Slide 
+- Hidden Power [Bug]
+
+
+
+
+=== [gen2] Gen 2/#23618 5 Likes 0 Score posted by Makkususu http://www.smogon.com/forums/threads/rmt-gsc-ou-monomove-curse-rest-tyranitar-team.3654121/page-1#post-8224972 ===
+
+Exeggutor @ Leftovers 
+Ability: none 
+- Stun Spore 
+- Leech Seed 
+- Psychic 
+- Substitute 
+
+Raikou @ Leftovers 
+Ability: none 
+IVs: 14 HP / 28 Atk / 26 Def 
+- Thunderbolt 
+- Hidden Power [Water]
+- Rest 
+- Sleep Talk 
+
+Tyranitar @ Leftovers 
+Ability: none 
+- Rock Slide 
+- Curse 
+- Roar 
+- Rest 
+
+Snorlax @ Leftovers 
+Ability: none 
+- Double-Edge 
+- Earthquake 
+- Rest 
+- Sleep Talk 
+
+Skarmory @ Leftovers 
+Ability: none 
+- Whirlwind 
+- Toxic 
+- Rest 
+- Drill Peck 
+
+Cloyster @ Leftovers 
+Ability: none 
+IVs: 14 HP / 28 Atk 
+- Hidden Power [Electric]
+- Surf 
+- Spikes 
+- Explosion 
+
+
+
+
+
+=== [gen2] Ruins of Alph/#23619 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Sleep Talk  
+- Curse  
+- Double-Edge  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+- Spikes  
+- Surf  
+- Clamp  
+- Explosion  
+
+Raikou @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Rest  
+- Roar  
+- Hidden Power [Ice]
+- Thunderbolt  
+
+Houndoom @ Charcoal  
+Ability: Early Bird  
+- Sunny Day  
+- Fire Blast  
+- Solar Beam  
+- Counter  
+
+Entei @ Leftovers  
+Ability: Pressure  
+IVs: 6 HP / 24 Atk / 24 Def  
+- Sunny Day  
+- Fire Blast  
+- Solar Beam  
+- Hidden Power [Fighting]
+
+Exeggutor @ Leftovers  
+Ability: Chlorophyll  
+- Sleep Powder  
+- Giga Drain  
+- Psychic  
+- Explosion
+
+
+
+=== [gen2] Ruins of Alph/#23620 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Raikou @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Rest  
+- Roar  
+- Hidden Power [Ice]
+- Thunder  
+
+Tentacruel @ Leftovers  
+Ability: Clear Body  
+- Protect
+- Rapid Spin  
+- Surf  
+- Sludge Bomb  
+
+Skarmory  
+Ability: Keen Eye  
+- Rest  
+- Thief  
+- Toxic  
+- Whirlwind  
+
+Heracross @ Leftovers  
+Ability: Swarm  
+- Rest  
+- Sleep Talk  
+- Megahorn  
+- Seismic Toss  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+Happiness: 0  
+- Rest  
+- Curse  
+- Lovely Kiss  
+- Frustration  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+- Rock Slide  
+- Earthquake  
+- Pursuit  
+- Fire Blast
+
+
+
+=== [gen2] Ruins of Alph/#23621 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Raikou @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]
+- Thunder  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+IVs: 6 HP / 28 Atk / 24 Def  
+- Spikes  
+- Rapid Spin  
+- Giga Drain  
+- Hidden Power [Fire]
+
+Skarmory  
+Ability: Keen Eye  
+- Rest  
+- Thief  
+- Drill Peck  
+- Whirlwind  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]
+- Thunder  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Body Slam  
+- Earthquake  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+IVs: 22 HP / 26 Atk / 24 Def  
+- Rest  
+- Curse  
+- Rock Slide  
+- Roar
+
+
+
+=== [gen2] Ruins of Alph/#23622 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+- Rock Slide  
+- Pursuit  
+- Dynamic Punch  
+- Fire Blast  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+- Spikes  
+- Surf  
+- Ice Beam  
+- Explosion  
+
+Exeggutor @ Leftovers  
+Ability: Chlorophyll  
+- Sleep Powder  
+- Giga Drain  
+- Psychic  
+- Explosion  
+
+Steelix @ Leftovers  
+Ability: Rock Head  
+- Curse  
+- Earthquake  
+- Roar  
+- Explosion  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Curse  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+
+Heracross @ Miracle Berry  
+Ability: Swarm  
+- Endure  
+- Reversal  
+- Megahorn  
+- Seismic Toss
+
+
+
+=== [gen2] Ruins of Alph/#23623 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Double-Edge  
+- Thunder  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+- Spikes  
+- Rapid Spin  
+- Giga Drain  
+- Explosion  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+- Rest  
+- Curse  
+- Drill Peck  
+- Whirlwind  
+
+Piloswine @ Leftovers  
+Ability: Oblivious  
+- Rest  
+- Sleep Talk  
+- Ice Beam  
+- Earthquake  
+
+Jynx @ Leftovers  
+Ability: Oblivious  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Substitute  
+- Lovely Kiss  
+- Ice Beam  
+- Psychic  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+- Thunderbolt  
+- Ice Punch  
+- Dynamic Punch  
+- Destiny Bond
+
+
+
+=== [gen2] Ruins of Alph/#23624 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Raikou @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Rest  
+- Reflect  
+- Hidden Power [Ice]
+- Thunder  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]
+- Explosion  
+
+Dragonite @ Leftovers  
+Ability: Inner Focus  
+- Thunder  
+- Ice Beam  
+- Dynamic Punch  
+- Thunder Wave  
+
+Steelix @ Leftovers  
+Ability: Rock Head  
+- Curse  
+- Earthquake  
+- Roar  
+- Explosion  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Belly Drum  
+- Body Slam  
+- Earthquake  
+
+Heracross @ Leftovers  
+Ability: Swarm  
+- Rest  
+- Sleep Talk  
+- Megahorn  
+- Seismic Toss
+
+
+
+=== [gen2] Ruins of Alph/#23625 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]
+- Thunder  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]
+- Explosion  
+
+Steelix @ Leftovers  
+Ability: Rock Head  
+- Curse  
+- Earthquake  
+- Roar  
+- Explosion  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+- Thunderbolt  
+- Ice Punch  
+- Hypnosis  
+- Explosion  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Double-Edge  
+- Fire Blast  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+- Curse  
+- Rock Slide  
+- Roar  
+- Pursuit
+
+
+
+=== [gen2] Ruins of Alph/#23626 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]
+- Thunder  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+- Spikes  
+- Rapid Spin  
+- Toxic  
+- Explosion  
+
+Rhydon @ Leftovers  
+Ability: Lightning Rod  
+- Curse  
+- Earthquake  
+- Rock Slide  
+- Roar  
+
+Vaporeon @ Leftovers  
+Ability: Water Absorb  
+- Rest  
+- Sleep Talk  
+- Growth  
+- Surf  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Lovely Kiss  
+- Double-Edge  
+
+Gengar  
+Ability: Levitate  
+- Thief  
+- Thunderbolt  
+- Ice Punch  
+- Destiny Bond
+
+
+
+=== [gen2] Ruins of Alph/#23627 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Exeggutor @ Miracle Berry  
+Ability: Chlorophyll  
+- Sleep Powder  
+- Stun Spore  
+- Psychic  
+- Explosion  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]
+- Explosion  
+
+Steelix @ Leftovers  
+Ability: Rock Head  
+- Curse  
+- Earthquake  
+- Roar  
+- Explosion  
+
+Machamp @ Leftovers  
+Ability: Guts  
+- Curse  
+- Cross Chop  
+- Rock Slide  
+- Earthquake  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Curse  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+
+Sandslash @ Leftovers  
+Ability: Sand Veil  
+IVs: 26 Atk / 26 Def  
+- Swords Dance  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Bug]
+
+
+
+=== [gen2] Ruins of Alph/#23628 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Raikou @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]
+- Thunder  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+IVs: 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]
+- Rapid Spin  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+- Rest  
+- Curse  
+- Drill Peck  
+- Whirlwind  
+
+Tentacruel @ Leftovers  
+Ability: Clear Body  
+- Substitute  
+- Swords Dance  
+- Surf  
+- Sludge Bomb  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Lovely Kiss  
+- Double-Edge  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+- Rock Slide  
+- Pursuit  
+- Roar  
+- Fire Blast
+
+
+
+=== [gen2] Ruins of Alph/#23629 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Lovely Kiss  
+- Belly Drum  
+- Return  
+
+Starmie @ Leftovers  
+Ability: Illuminate  
+- Surf  
+- Psychic  
+- Rapid Spin  
+- Recover  
+
+Meganium @ Leftovers  
+Ability: Overgrow  
+- Reflect  
+- Leech Seed  
+- Body Slam  
+- Synthesis  
+
+Heracross @ Leftovers  
+Ability: Swarm  
+- Rest  
+- Sleep Talk  
+- Megahorn  
+- Seismic Toss  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+- Present  
+- Toxic  
+- Heal Bell  
+- Soft-Boiled  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+- Rest  
+- Rock Slide  
+- Pursuit  
+- Roar
+
+
+
+=== [gen2] Ruins of Alph/#23630 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Zapdos @ Leftovers  
+IVs: 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]
+- Thunderbolt  
+
+Starmie @ Leftovers  
+Ability: Illuminate  
+- Surf  
+- Psychic  
+- Rapid Spin  
+- Recover  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+- Flamethrower  
+- Heal Bell  
+- Toxic  
+- Soft-Boiled  
+
+Meganium @ Leftovers  
+- Reflect  
+- Leech Seed  
+- Toxic  
+- Synthesis  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Double-Edge  
+- Toxic  
+- Flamethrower  
+
+Umbreon @ Leftovers  
+- Charm  
+- Pursuit  
+- Toxic  
+- Moonlight
+
+
+
+=== [gen2] Ruins of Alph/#23631 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Raikou @ Leftovers  
+Ability: Pressure  
+- Rest  
+- Toxic  
+- Roar  
+- Thunder  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+- Spikes  
+- Rapid Spin  
+- Giga Drain  
+- Explosion  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+- Rest  
+- Curse  
+- Drill Peck  
+- Whirlwind  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+- Rest  
+- Sleep Talk  
+- Surf  
+- Ice Beam  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Body Slam  
+- Fire Blast  
+
+Misdreavus  
+Ability: Levitate  
+- Thief  
+- Hypnosis  
+- Thunder  
+- Destiny Bond
+
+
+
+=== [gen2] Ruins of Alph/#23632 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Double-Edge  
+- Thunder  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]
+- Rapid Spin  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+- Rest  
+- Toxic  
+- Drill Peck  
+- Whirlwind  
+
+Alakazam @ Leftovers  
+Ability: Synchronize  
+- Psychic  
+- Fire Punch  
+- Encore  
+- Recover  
+
+Piloswine @ Leftovers  
+Ability: Oblivious  
+- Rest  
+- Sleep Talk  
+- Ice Beam  
+- Earthquake  
+
+Misdreavus @ Leftovers  
+Ability: Levitate  
+- Thunder  
+- Toxic  
+- Pain Split  
+- Destiny Bond
+
+
+
+=== [gen2] Ruins of Alph/#23633 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Nidoking @ Leftovers  
+Ability: Poison Point  
+- Lovely Kiss  
+- Earthquake  
+- Ice Beam  
+- Thunder  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]
+- Thunder  
+
+Muk @ Leftovers  
+Ability: Stench  
+- Curse  
+- Sludge Bomb  
+- Fire Blast  
+- Explosion  
+
+Machamp @ Leftovers  
+Ability: Guts  
+- Curse  
+- Cross Chop  
+- Rock Slide  
+- Light Screen  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Curse  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+- Thunderbolt  
+- Ice Punch  
+- Destiny Bond  
+- Explosion
+
+
+
+=== [gen2] Ruins of Alph/#23634 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]
+- Thunder  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+IVs: 14 HP / 28 Atk  
+- Spikes  
+- Surf  
+- Hidden Power [Electric]
+- Explosion  
+
+Steelix @ Leftovers  
+Ability: Rock Head  
+- Body Slam  
+- Earthquake  
+- Roar  
+- Explosion  
+
+Exeggutor @ Leftovers  
+Ability: Chlorophyll  
+- Sleep Powder  
+- Giga Drain  
+- Psychic  
+- Explosion  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Body Slam  
+- Earthquake  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+- Ancient Power  
+- Earthquake  
+- Dynamic Punch  
+- Fire Blast
+
+
+
+=== [gen2] Ruins of Alph/#23635 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Exeggutor (M) @ Leftovers  
+Ability: Chlorophyll  
+- Stun Spore  
+- Giga Drain  
+- Psychic  
+- Synthesis  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+- Spikes  
+- Rapid Spin  
+- Giga Drain  
+- Explosion  
+
+Umbreon (F) @ Leftovers  
+Ability: Synchronize  
+IVs: 2 Atk  
+- Charm  
+- Pursuit  
+- Zap Cannon  
+- Moonlight  
+
+Entei @ Leftovers  
+Ability: Pressure  
+IVs: 6 HP / 24 Atk / 24 Def  
+- Sunny Day  
+- Fire Blast  
+- Solar Beam  
+- Hidden Power [Fighting]
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Lovely Kiss  
+- Double-Edge  
+
+Moltres @ Charcoal  
+Ability: Pressure  
+- Rest  
+- Sleep Talk  
+- Sunny Day  
+- Fire Blast
+
+
+
+=== [gen2] Ruins of Alph/#23636 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]
+- Thunder  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+- Spikes  
+- Surf  
+- Toxic  
+- Explosion  
+
+Steelix @ Leftovers  
+Ability: Rock Head  
+- Body Slam  
+- Earthquake  
+- Roar  
+- Explosion  
+
+Jynx @ Leftovers  
+Ability: Oblivious  
+- Substitute  
+- Lovely Kiss  
+- Ice Beam  
+- Psychic  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Double-Edge  
+- Earthquake  
+
+Vaporeon @ Leftovers  
+Ability: Water Absorb  
+- Substitute  
+- Baton Pass  
+- Growth  
+- Hydro Pump
+
+
+
+=== [gen2] Ruins of Alph/#23637 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Raikou @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 26 Def  
+- Rest  
+- Roar  
+- Hidden Power [Ice]
+- Thunder  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+- Spikes  
+- Rapid Spin  
+- Giga Drain  
+- Explosion  
+
+Articuno @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Rest  
+- Sleep Talk  
+- Toxic  
+- Ice Beam  
+
+Meganium @ Leftovers  
+Ability: Overgrow  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Reflect  
+- Leech Seed  
+- Razor Leaf  
+- Synthesis  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Double-Edge  
+- Earthquake  
+
+Misdreavus @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Thunder  
+- Toxic  
+- Pain Split  
+- Destiny Bond
+
+
+
+=== [gen2] Ruins of Alph/#23638 49 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/nothing-changes.3644053/page-1#post-7964551 ===
+
+Jolteon @ Leftovers  
+Ability: Volt Absorb  
+IVs: 14 HP / 28 Atk / 26 Def  
+- Growth  
+- Baton Pass  
+- Hidden Power [Water]
+- Thunder  
+
+Jynx @ Leftovers  
+Ability: Oblivious  
+- Substitute  
+- Lovely Kiss  
+- Ice Beam  
+- Psychic  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+- Spikes  
+- Surf  
+- Ice Beam  
+- Explosion  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+IVs: 26 Def  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Ice]
+- Thunder  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Double-Edge  
+- Earthquake  
+- Fire Blast  
+- Self-Destruct  
+
+Alakazam @ Leftovers  
+Ability: Synchronize  
+- Psychic  
+- Fire Punch  
+- Encore  
+- Dynamic Punch
+
+
+
+=== [gen2] Gen 2/#23639 2 Likes 0 Score posted by FriendOfMrGolem120 http://www.smogon.com/forums/threads/rmt-gsc-ou-monomove-curse-rest-tyranitar-team.3654121/page-1#post-8228488 ===
+
+Zapdos @ Leftovers 
+Ability: none 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 22 Atk / 26 Def 
+- Thunder 
+- Hidden Power [Ice]
+- Sleep Talk 
+- Rest 
+
+Snorlax @ Leftovers 
+Ability: none 
+- Double-Edge 
+- Earthquake 
+- Fire Blast 
+- Self-Destruct 
+
+Cloyster @ Leftovers 
+Ability: none 
+- Surf 
+- Spikes 
+- Toxic 
+- Explosion 
+
+Steelix @ Leftovers 
+Ability: none 
+- Earthquake 
+- Curse 
+- Roar 
+- Explosion 
+
+Tyranitar @ Leftovers 
+Ability: none 
+- Rock Slide 
+- Curse 
+- Roar 
+- Rest 
+
+Exeggutor @ Leftovers 
+Ability: none 
+- Sleep Powder 
+- Psychic 
+- Giga Drain 
+- Explosion
+
+
+
+
+=== [gen2] Gen 2/#23640 2 Likes 0 Score posted by FriendOfMrGolem120 http://www.smogon.com/forums/threads/rmt-gsc-ou-monomove-curse-rest-tyranitar-team.3654121/page-1#post-8228488 ===
+
+Raikou @ Leftovers  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 14 HP / 20 Atk / 26 Def  
+- Thunder  
+- Hidden Power [Water]
+- Sleep Talk  
+- Rest  
+
+Snorlax @ Leftovers  
+Ability: none  
+- Double-Edge  
+- Earthquake  
+- Fire Blast  
+- Self-Destruct  
+
+Cloyster @ Leftovers  
+Ability: none  
+- Surf  
+- Spikes  
+- Toxic  
+- Explosion  
+
+Steelix @ Leftovers  
+Ability: none  
+- Earthquake  
+- Curse  
+- Roar  
+- Explosion  
+
+Tyranitar @ Leftovers  
+Ability: none  
+- Rock Slide  
+- Curse  
+- Roar  
+- Rest  
+
+Heracross @ Leftovers  
+Ability: None  
+- Megahorn  
+- Seismic Toss  
+- Sleep Talk  
+- Rest
+
+
+
+
+=== [gen2] Ruins of Alph/#23641 111 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7730757 ===
+
+Snorlax @ Leftovers 
+Ability: Immunity 
+- Lovely Kiss 
+- Curse 
+- Body Slam 
+- Earthquake 
+
+Cloyster @ Leftovers 
+Ability: Shell Armor 
+- Spikes 
+- Surf 
+- Icy Wind 
+- Explosion 
+
+Zapdos @ Leftovers 
+Ability: Pressure 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 2 Atk 
+- Rest 
+- Sleep Talk 
+- Light Screen 
+- Thunder 
+
+Steelix @ Leftovers 
+Ability: Rock Head 
+- Body Slam 
+- Earthquake 
+- Roar 
+- Explosion 
+
+Exeggutor @ Leftovers 
+Ability: Chlorophyll 
+- Stun Spore 
+- Giga Drain 
+- Psychic 
+- Explosion 
+
+Charizard @ Miracle Berry 
+Ability: Blaze 
+- Belly Drum 
+- Rock Slide 
+- Earthquake 
+- Fire Blast
+
+
+
+
+=== [gen2] Ruins of Alph/#23642 111 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7730757 ===
+
+Exeggutor @ Leftovers 
+Ability: Chlorophyll 
+- Substitute 
+- Leech Seed 
+- Psychic 
+- Explosion 
+
+Smeargle @ Miracle Berry 
+Ability: Own Tempo 
+- Spore 
+- Baton Pass 
+- Agility 
+- Spider Web 
+
+Jolteon @ Leftovers 
+Ability: Volt Absorb 
+IVs: 14 HP / 28 Atk / 26 Def 
+- Thunderbolt 
+- Baton Pass 
+- Agility 
+- Hidden Power [Water]
+
+Marowak @ Thick Club 
+Ability: Rock Head 
+IVs: 26 Atk / 26 Def 
+- Swords Dance 
+- Earthquake 
+- Rock Slide 
+- Hidden Power [Bug]
+
+Snorlax @ Leftovers 
+Ability: Immunity 
+Happiness: 0 
+- Protect 
+- Belly Drum 
+- Frustration 
+- Earthquake 
+
+Machamp @ Miracle Berry 
+Ability: Guts 
+Happiness: 0 
+IVs: 26 Atk / 26 Def 
+- Meditate 
+- Cross Chop 
+- Rock Slide 
+- Hidden Power [Bug]
+
+
+
+
+=== [gen2] Ruins of Alph/#23643 111 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7730757 ===
+
+Zapdos @ Leftovers 
+Ability: Pressure 
+IVs: 26 Def 
+- Rest 
+- Sleep Talk 
+- Hidden Power [Ice]
+- Thunder 
+
+Cloyster @ Leftovers 
+Ability: Shell Armor 
+IVs: 14 HP / 28 Atk 
+- Spikes 
+- Surf 
+- Hidden Power [Electric]
+- Explosion 
+
+Steelix @ Leftovers 
+Ability: Rock Head 
+- Body Slam 
+- Earthquake 
+- Roar 
+- Explosion 
+
+Jynx @ Leftovers 
+Ability: Oblivious 
+- Substitute 
+- Lovely Kiss 
+- Ice Beam 
+- Psychic 
+
+Snorlax @ Leftovers 
+Ability: Immunity 
+- Rest 
+- Curse 
+- Body Slam 
+- Earthquake 
+
+Gengar @ Leftovers 
+Ability: Levitate 
+- Thunderbolt 
+- Ice Punch 
+- Dynamic Punch 
+- Destiny Bond
+
+
+
+
+=== [gen2] Ruins of Alph/#23644 111 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7730757 ===
+
+Nidoking @ Leftovers 
+Ability: Poison Point 
+- Lovely Kiss 
+- Earthquake 
+- Ice Beam 
+- Thunder 
+
+Cloyster @ Leftovers 
+Ability: Shell Armor 
+- Spikes 
+- Surf 
+- Toxic 
+- Explosion 
+
+Zapdos @ Leftovers 
+Ability: Pressure 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 26 Def 
+- Rest 
+- Sleep Talk 
+- Hidden Power [Ice]
+- Thunder 
+
+Machamp @ Leftovers 
+Ability: Guts 
+- Curse 
+- Cross Chop 
+- Rock Slide 
+- Earthquake 
+
+Snorlax @ Leftovers 
+Ability: Immunity 
+- Rest 
+- Sleep Talk 
+- Curse 
+- Body Slam 
+
+Tyranitar @ Leftovers 
+Ability: Sand Stream 
+- Rock Slide 
+- Pursuit 
+- Roar 
+- Fire Blast
+
+
+
+
+=== [gen2] Ruins of Alph/#23645 111 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7730757 ===
+
+Snorlax @ Leftovers 
+Ability: Immunity 
+- Rest 
+- Belly Drum 
+- Body Slam 
+- Earthquake 
+
+Starmie @ Leftovers 
+Ability: Illuminate 
+- Surf 
+- Psychic 
+- Rapid Spin 
+- Recover 
+
+Skarmory @ Leftovers 
+Ability: Keen Eye 
+- Rest 
+- Curse 
+- Drill Peck 
+- Whirlwind 
+
+Suicune @ Leftovers 
+Ability: Pressure 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 2 Atk 
+- Rest 
+- Sleep Talk 
+- Surf 
+- Toxic 
+
+Blissey @ Leftovers 
+Ability: Natural Cure 
+- Present 
+- Sing 
+- Ice Beam 
+- Soft-Boiled 
+
+Miltank @ Leftovers 
+Ability: Thick Fat 
+- Body Slam 
+- Growl 
+- Heal Bell 
+- Milk Drink
+
+
+
+
+=== [gen2] Ruins of Alph/#23646 111 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7730757 ===
+
+Nidoking 
+Ability: Poison Point 
+- Thief 
+- Lovely Kiss 
+- Earthquake 
+- Ice Beam 
+
+Cloyster @ Leftovers 
+Ability: Shell Armor 
+- Spikes 
+- Screech 
+- Clamp 
+- Explosion 
+
+Zapdos @ Leftovers 
+Ability: Pressure 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 26 Def 
+- Rest 
+- Sleep Talk 
+- Hidden Power [Ice]
+- Thunder 
+
+Exeggutor @ Leftovers 
+Ability: Chlorophyll 
+IVs: 6 HP / 28 Atk / 24 Def 
+- Giga Drain 
+- Psychic 
+- Hidden Power [Fire]
+- Explosion 
+
+Snorlax @ Leftovers 
+Ability: Immunity 
+- Curse 
+- Body Slam 
+- Earthquake 
+- Self-Destruct 
+
+Tentacruel @ Leftovers 
+Ability: Clear Body 
+- Substitute 
+- Swords Dance 
+- Hydro Pump
+- Sludge Bomb
+
+
+
+
+=== [gen2] Ruins of Alph/#23647 111 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7730757 ===
+
+Umbreon @ BrightPowder 
+Ability: Synchronize 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 2 Atk 
+- Mean Look 
+- Baton Pass 
+- Confuse Ray 
+- Sand Attack 
+
+Smeargle @ Miracle Berry 
+Ability: Own Tempo 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 2 Atk 
+- Spore 
+- Baton Pass 
+- Agility 
+- Spider Web 
+
+Vaporeon (F) @ Leftovers 
+Ability: Water Absorb 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 2 Atk 
+- Substitute 
+- Baton Pass 
+- Growth 
+- Hydro Pump 
+
+Mr. Mime @ Leftovers 
+Ability: Soundproof 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 2 Atk 
+- Substitute 
+- Baton Pass 
+- Encore 
+- Barrier 
+
+Jolteon @ Leftovers 
+Ability: Volt Absorb 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 14 HP / 28 Atk / 26 Def 
+- Growth 
+- Baton Pass 
+- Hidden Power [Water]
+- Thunder 
+
+Starmie @ Mystic Water 
+Ability: Illuminate 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 2 Atk 
+- Surf 
+- Thunderbolt 
+- Ice Beam 
+- Rain Dance
+
+
+
+
+=== [gen2] Ruins of Alph/#23648 111 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7730757 ===
+
+Zapdos @ Leftovers 
+Ability: Pressure 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 26 Def 
+- Rest 
+- Sleep Talk 
+- Hidden Power [Ice]
+- Thunder 
+
+Cloyster @ Leftovers 
+Ability: Shell Armor 
+IVs: 14 HP / 28 Atk 
+- Spikes 
+- Surf 
+- Hidden Power [Electric]
+- Rapid Spin 
+
+Rhydon @ Leftovers 
+Ability: Lightning Rod 
+- Curse 
+- Earthquake 
+- Rock Slide 
+- Roar 
+
+Houndoom @ Leftovers 
+Ability: Early Bird 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 2 Atk 
+- Sunny Day 
+- Pursuit 
+- Solar Beam 
+- Fire Blast 
+
+Snorlax @ Leftovers 
+Ability: Immunity 
+- Rest 
+- Belly Drum 
+- Lovely Kiss 
+- Return 
+
+Meganium (F) @ Leftovers 
+Ability: Overgrow 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 2 Atk 
+- Reflect 
+- Leech Seed 
+- Razor Leaf 
+- Synthesis
+
+
+
+
+=== [gen2] Ruins of Alph/#23649 111 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7730757 ===
+
+Umbreon @ Leftovers 
+Ability: Synchronize 
+- Moonlight 
+- Baton Pass 
+- Confuse Ray 
+- Mean Look 
+
+Smeargle @ Miracle Berry 
+Ability: Own Tempo 
+- Spore 
+- Baton Pass 
+- Spikes 
+- Spider Web 
+
+Starmie @ Leftovers 
+Ability: Illuminate 
+- Surf 
+- Psychic 
+- Rapid Spin 
+- Recover 
+
+Marowak @ Thick Club 
+Ability: Rock Head 
+IVs: 26 Atk / 26 Def 
+- Swords Dance 
+- Earthquake 
+- Rock Slide 
+- Hidden Power [Bug]
+
+Snorlax @ Leftovers 
+Ability: Immunity 
+- Rest 
+- Sleep Talk 
+- Curse 
+- Double-Edge 
+
+Misdreavus @ Leftovers 
+Ability: Levitate 
+- Protect 
+- Perish Song 
+- Mean Look 
+- Destiny Bond
+
+
+
+
+=== [gen2] Ruins of Alph/#23650 111 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7730757 ===
+
+Zapdos @ Leftovers 
+Ability: Pressure 
+IVs: 26 Def 
+- Rest 
+- Sleep Talk 
+- Hidden Power [Ice]
+- Thunder 
+
+Cloyster @ Leftovers 
+Ability: Shell Armor 
+IVs: 14 HP / 28 Atk 
+- Spikes 
+- Surf 
+- Hidden Power [Electric]
+- Explosion 
+
+Rhydon @ Leftovers 
+Ability: Lightning Rod 
+- Curse 
+- Earthquake 
+- Rock Slide 
+- Roar 
+
+Jynx @ Leftovers 
+Ability: Oblivious 
+- Substitute 
+- Lovely Kiss 
+- Ice Beam 
+- Psychic 
+
+Snorlax @ Leftovers 
+Ability: Immunity 
+- Rest 
+- Curse 
+- Body Slam 
+- Earthquake 
+
+Machamp @ Leftovers 
+Ability: Guts 
+IVs: 14 HP / 24 Atk / 26 Def 
+- Curse 
+- Cross Chop 
+- Rock Slide 
+- Hidden Power [Flying]
+
+
+
+
+=== [gen2] Ruins of Alph/#23651 2 Likes 0 Score posted by Jame$ G http://www.smogon.com/forums/threads/choose-six-and-stick-with-them.3648231/page-1#post-8129290 ===
+
+Raikou @ Leftovers
+Ability: none
+IVs: 14 HP / 28 Atk / 26 Def
+- Thunder
+- Hidden Power [Water]
+- Rest
+- Sleep Talk
+
+Zapdos @ Leftovers
+Ability: none
+IVs: 26 Def
+- Thunder
+- Hidden Power [Ice]
+- Rest
+- Sleep Talk
+
+Cloyster @ Leftovers
+Ability: none
+- Spikes
+- Toxic
+- Surf
+- Rapid Spin
+
+Snorlax @ Leftovers
+Ability: none
+- Lovely Kiss
+- Curse
+- Double-Edge
+- Rest
+
+Machamp @ Leftovers
+Ability: none
+- Cross Chop
+- Rock Slide
+- Rest
+- Sleep Talk
+
+Steelix @ Leftovers
+Ability: none
+- Curse
+- Earthquake
+- Rock Slide
+- Roar
+
+
+
+
+=== [gen2] Ruins of Alph/#23652 1 Likes 0 Score posted by Jame$ G http://www.smogon.com/forums/threads/choose-six-and-stick-with-them.3648231/page-1#post-8129272 ===
+
+Raikou @ Leftovers
+Ability: none
+- Reflect
+- Thunderbolt
+- Roar
+- Rest
+
+Zapdos @ Leftovers
+Ability: none
+IVs: 26 Def
+- Thunder
+- Hidden Power [Ice]
+- Rest
+- Sleep Talk
+
+Cloyster @ Leftovers
+Ability: none
+- Spikes
+- Toxic
+- Surf
+- Explosion
+
+Snorlax @ Leftovers
+Ability: none
+- Lovely Kiss
+- Belly Drum
+- Double-Edge
+- Earthquake
+
+Machamp @ Leftovers
+Ability: none
+IVs: 22 HP / 26 Atk / 28 Def
+- Meditate
+- Cross Chop
+- Rock Slide
+- Hidden Power [Ghost]
+
+Steelix @ Leftovers
+Ability: none
+- Curse
+- Earthquake
+- Body Slam
+- Roar
+
+
+
+
+=== [gen2] Ruins of Alph/#23653 1 Likes 0 Score posted by Jame$ G http://www.smogon.com/forums/threads/choose-six-and-stick-with-them.3648231/page-1#post-8129255 ===
+
+Raikou @ Leftovers
+Ability: none
+IVs: 14 HP / 28 Atk / 26 Def
+- Thunder
+- Hidden Power [Water]
+- Roar
+- Rest
+
+Zapdos @ Leftovers
+Ability: none
+IVs: 26 Def
+- Thunder
+- Hidden Power [Ice]
+- Rest
+- Sleep Talk
+
+Cloyster @ Leftovers
+Ability: none
+- Spikes
+- Toxic
+- Surf
+- Explosion
+
+Snorlax @ Leftovers
+Ability: none
+- Lovely Kiss
+- Double-Edge
+- Earthquake
+- Self-Destruct
+
+Machamp @ Leftovers
+Ability: none
+IVs: 22 HP / 26 Atk / 28 Def
+- Curse
+- Cross Chop
+- Rock Slide
+- Hidden Power [Ghost]
+
+Steelix @ Leftovers
+Ability: none
+- Curse
+- Earthquake
+- Roar
+- Explosion
+
+
+
+
+=== [gen2] Ruins of Alph/#23654 9 Likes 0 Score posted by Fear http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7731187 ===
+
+Snorlax @ Leftovers
+Ability: Immunity
+- Self-Destruct
+- Fire Blast
+- Double-Edge
+- Rest
+
+Forretress @ Leftovers
+Ability: Sturdy
+- Explosion
+- Spikes
+- Protect
+- Rapid Spin
+
+Skarmory @ Leftovers
+Ability: Keen Eye
+- Rest
+- Whirlwind
+- Drill Peck
+- Toxic
+
+Gengar @ Leftovers
+Ability: Levitate
+- Dynamic Punch
+- Explosion
+- Ice Punch
+- Thunder
+
+Kangaskhan @ Leftovers
+Ability: Early Bird
+- Curse
+- Substitute
+- Return
+- Roar
+
+Raikou @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 26 Def
+- Thunder
+- Hidden Power [Ice]
+- Rest
+- Sleep Talk
+
+
+
+
+=== [gen2] Ruins of Alph/#23655 6 Likes 0 Score posted by Lavos http://www.smogon.com/forums/threads/my-spl-9-teams-review.3631088/page-1#post-7731150 ===
+
+Exeggutor @ Leftovers 
+Ability: Chlorophyll 
+- Stun Spore 
+- Giga Drain 
+- Psychic 
+- Explosion 
+
+Starmie @ Leftovers 
+Ability: Illuminate 
+- Surf 
+- Thunder Wave 
+- Rapid Spin 
+- Recover 
+
+Rhydon @ Leftovers 
+Ability: Lightning Rod 
+- Curse 
+- Earthquake 
+- Rock Slide 
+- Roar 
+
+Raikou @ Leftovers 
+Ability: Pressure 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+IVs: 26 Def 
+- Rest 
+- Sleep Talk 
+- Hidden Power [Ice]
+- Thunder 
+
+Snorlax @ Leftovers 
+Ability: Immunity 
+- Rest 
+- Belly Drum 
+- Body Slam 
+- Earthquake 
+
+Charizard @ Leftovers 
+Ability: Blaze 
+- Belly Drum 
+- Rock Slide 
+- Earthquake 
+- Fire Blast
+
+
+
+
+=== [gen2] Gen 2/#23656 6 Likes 0 Score posted by Jame$ G http://www.smogon.com/forums/threads/sweeper-rmt.3615105/page-1#post-7510955 ===
+
+Exeggutor @ Leftovers
+Ability: Chlorophyll
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+- Sleep Powder
+- Stun Spore
+- Psychic
+- Explosion
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+Bashful Nature
+IVs: 26 Def
+- Thunder
+- Hidden Power [Ice]
+- Rest
+- Sleep Talk
+
+Jolteon @ Leftovers
+Ability: Volt Absorb
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+Bashful Nature
+IVs: 14 HP / 28 Atk / 26 Def
+- Agility
+- Thunder
+- Hidden Power [Water]
+- Baton Pass
+
+Snorlax @ Leftovers
+Ability: Immunity
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+- Lovely Kiss
+- Belly Drum
+- Double-Edge
+- Earthquake
+
+Machamp @ Leftovers
+Ability: Guts
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+- Cross Chop
+- Earthquake
+- Rock Slide
+- Fire Blast
+
+Marowak @ Thick Club
+Ability: Rock Head
+EVs: 252 HP / 240 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe
+IVs: 14 HP / 24 Atk / 26 Def
+- Swords Dance
+- Earthquake
+- Rock Slide
+- Hidden Power [Flying]
+
+
+
+
+=== [gen2] Ruins of Alph/#23657 0 Likes 0 Score posted by DittoCrow http://www.smogon.com/forums/threads/ubers-teambuilding.3471695/page-1#post-4377576 ===
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-9-1608800274"
+data-lb-id="_xfUid-9-1608800274">
+
+
+
+
+[SET]
+Deoxys-D @ Leftovers
+Trait: Pressure
+EVs: 252 HP / 168 SDef / 88 Spd
+Calm Nature
+- Taunt
+- Spikes
+- Toxic
+- Recover
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-10-1608800274"
+data-lb-id="_xfUid-10-1608800274">
+
+
+
+
+[SET]
+Jirachi @ Leftovers
+Trait: Serene Grace
+EVs: 252 HP / 216 SDef / 40 Spd
+Calm Nature
+- Thunder
+- Iron Head
+- Wish
+- Stealth Rock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-11-1608800274"
+data-lb-id="_xfUid-11-1608800274">
+
+
+
+
+[SET]
+Tentacruel @ Leftovers
+Trait: Rain Dish
+EVs: 252 HP / 16 Spd / 240 SDef
+Calm Nature
+- Protect
+- Rapid Spin
+- Scald
+- Toxic Spikes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-12-1608800274"
+data-lb-id="_xfUid-12-1608800274">
+
+
+
+
+[SET]
+Qwilfish (M) @ Focus Sash
+Trait: Swift Swim
+EVs: 252 HP / 132 Def / 124 Spd
+Jolly Nature
+- Toxic Spikes 
+- Spikes
+- Taunt
+- Destiny Bond 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-13-1608800274"
+data-lb-id="_xfUid-13-1608800274">
+
+
+
+
+[SET]
+Deoxys-S (F) @ Focus Sash
+Trait: Pressure
+EVs: 4 Atk / 252 SpA / 252 Spe
+Timid Nature (+Spe, -Atk)
+- Spikes
+- Stealth Rock 
+- Shadow Ball 
+- Hidden Power Fire 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-14-1608800274"
+data-lb-id="_xfUid-14-1608800274">
+
+
+
+
+[SET]
+Ferrothorn @ Leftovers
+Trait: Iron Barbs
+EVs: 252 HP / 4 Def / 252 SDef 
+Sassy Nature
+- Leech Seed
+- Spikes
+- Power Whip 
+- Protect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-15-1608800274"
+data-lb-id="_xfUid-15-1608800274">
+
+
+
+
+[SET]
+Dialga @ Life Orb
+Trait: Pressure
+EVs: 4 HP / 252 SAtk / 252 Spe
+Modest Nature
+- Stealth Rock
+- Draco Meteor
+- Fire Blast 
+- Thunder 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-16-1608800274"
+data-lb-id="_xfUid-16-1608800274">
+
+
+
+
+[SET]
+Dialga @ Leftovers
+Trait: Pressure
+EVs: 252 HP / 52 SAtk / 200 SDef
+Modest Nature
+- Stealth Rock
+- Draco Meteor 
+- Fire Blast 
+- Dragon Tail 
+
+
+
+
+
+
+
+
+=== [gen2] Ruins of Alph/#23658 0 Likes 0 Score posted by DittoCrow http://www.smogon.com/forums/threads/ubers-teambuilding.3471695/page-1#post-4377576 ===
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-65-1608800274"
+data-lb-id="_xfUid-65-1608800274">
+
+
+
+
+[SET]
+Kyogre @ Leftovers
+Trait: Drizzle
+EVs: 252 HP / 252 SAtk / 4 Def
+Modest Nature
+- Substitute
+- Calm Mind
+- Hydro Pump 
+- Ice Beam 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-66-1608800274"
+data-lb-id="_xfUid-66-1608800274">
+
+
+
+
+[SET]
+Darkrai @ Choice Scarf
+Trait: Nightmare
+EVs: 4 HP / 252 SAtk / 252 Spe
+Timid Nature
+- Trick
+- Dark Void
+- Dark Pulse
+- Focus Blast 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-67-1608800274"
+data-lb-id="_xfUid-67-1608800274">
+
+
+
+
+[SET]
+Zekrom @ Life Orb
+Trait: Teravolt
+EVs: 92 HP / 148 Atk / 252 SAtk / 16 Spd
+Lonely Nature
+- Bolt Strike
+- Draco Meteor
+- Dragon Claw
+- Focus Blast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-68-1608800274"
+data-lb-id="_xfUid-68-1608800274">
+
+
+
+
+[SET]
+Dialga @ Choice Specs
+Trait: Pressure
+EVs: 252 HP / 252 SAtk / 4 Spe
+Modest Nature
+- Draco Meteor
+- Thunder
+- Fire Blast 
+- Fire Blast 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-69-1608800274"
+data-lb-id="_xfUid-69-1608800274">
+
+
+
+
+[SET]
+Dialga @ Life Orb
+Trait: Pressure
+EVs: 4 HP / 252 SAtk / 252 Spe
+Modest Nature
+- Stealth Rock
+- Draco Meteor
+- Fire Blast 
+- Thunder 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-70-1608800274"
+data-lb-id="_xfUid-70-1608800274">
+
+
+
+
+[SET]
+Rayquaza @ Life Orb
+Trait: Air Lock
+EVs: 40 Atk / 252 SAtk / 216 Spd
+Mild Nature
+- Dragon Dance
+- Draco Meteor
+- Outrage
+- Fire Blast 
+
+
+
+
+
+
+
+
+=== [gen2] Ruins of Alph/#23659 0 Likes 0 Score posted by Borat http://www.smogon.com/forums/threads/part-5-how-to-play-with-stalls.84449/page-1#post-3221335 ===
+
+
+Cloyster (F) @ Leftovers/Forretress
+- Surf
+- Spikes
+- Rest
+- Rapid Spin
+
+Raikou @ Leftovers
+- Roar
+- Thunderbolt
+- Hidden Power [Water]
+- Rest
+
+Skarmory (F) @ Leftovers
+- Curse
+- Rest
+- Drill Peck
+- Whirlwind
+
+Snorlax (M) @ Leftovers
+- Curse
+- Rest
+- Double-Edge
+- Sleep Talk
+
+Zapdos/Suicune @ Leftovers
+- Thunder
+- Hidden Power [Ice]
+- Rest
+- Sleep Talk
+
+Umbreon (F) @ Leftovers
+- Charm
+- Toxic
+- Pursuit
+- Rest
+
+
+
+
+=== [gen2] Ruins of Alph/#23660 0 Likes 0 Score posted by Borat http://www.smogon.com/forums/threads/part-5-how-to-play-with-stalls.84449/page-1#post-3221335 ===
+
+
+Steelix (M) @ Leftovers
+- Curse
+- Earthquake
+- Explosion
+- Roar
+
+Zapdos @ Leftovers
+- Hidden Power [Ice]
+- Rest
+- Sleep Talk
+- Thunder
+
+Exeggutor (M) @ Leftovers
+- Explosion
+- Hidden Power [Fire]
+- Psychic
+- Stun Spore
+
+Vaporeon (F) @ Leftovers
+- Growth
+- Rest
+- Sleep Talk
+- Surf
+
+Snorlax (M) @ Leftovers
+- Curse
+- Double-Edge
+- Rest
+- Belly Drum
+
+Gengar (M) @ Leftovers
+- Ice Punch
+- Explosion
+- Fire Punch
+- Thunderbolt
+
+
+
+
+=== [gen2] Ruins of Alph/#23661 0 Likes 0 Score posted by DittoCrow http://www.smogon.com/forums/threads/ubers-teambuilding.3471695/page-1#post-4377576 ===
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-17-1608800274"
+data-lb-id="_xfUid-17-1608800274">
+
+
+
+
+[SET]
+Kyurem-White @ Choice Specs
+Trait: Turboblaze
+EVs: 252 SAtk / 252 Spd / 4 HP
+Timid Nature
+- Ice Beam
+- Fusion Flare
+- Draco Meteor
+- Focus Blast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-18-1608800274"
+data-lb-id="_xfUid-18-1608800274">
+
+
+
+
+[SET]
+Kyogre @ Choice Specs
+Trait: Drizzle
+EVs: 252 HP / 252 SAtk / 4 Spe
+Modest Nature
+- Hydro Pump 
+- Water Spout
+- Thunder
+- Ice Beam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-19-1608800274"
+data-lb-id="_xfUid-19-1608800274">
+
+
+
+
+[SET]
+Dialga @ Choice Specs
+Trait: Pressure
+EVs: 252 HP / 252 SAtk / 4 Spe
+Modest Nature
+- Draco Meteor
+- Thunder
+- Fire Blast 
+- Fire Blast 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-20-1608800274"
+data-lb-id="_xfUid-20-1608800274">
+
+
+
+
+[SET]
+Rayquaza @ Life Orb
+Trait: Air Lock
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Swords Dance
+- Dragon Claw
+- ExtremeSpeed 
+- V-Create 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-21-1608800274"
+data-lb-id="_xfUid-21-1608800274">
+
+
+
+
+[SET]
+Rayquaza @ Life Orb
+Trait: Air Lock
+EVs: 252 SAtk / 4 SDef / 252 Spd
+Hasty / Naive Nature
+- Draco Meteor
+- Fire Blast 
+- ExtremeSpeed
+- Outrage 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-22-1608800274"
+data-lb-id="_xfUid-22-1608800274">
+
+
+
+
+[SET]
+Rayquaza @ Life Orb
+Trait: Air Lock
+EVs: 40 Atk / 252 SAtk / 216 Spd
+Mild Nature
+- Dragon Dance
+- Draco Meteor
+- Outrage
+- Fire Blast 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-23-1608800274"
+data-lb-id="_xfUid-23-1608800274">
+
+
+
+
+[SET]
+Mewtwo @ Life Orb
+Trait: Pressure
+EVs: 4 Def / 252 SAtk / 252 Spd
+Timid Nature
+- Calm Mind
+- Psystrike
+- Ice Beam
+- Aura Sphere 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-24-1608800274"
+data-lb-id="_xfUid-24-1608800274">
+
+
+
+
+[SET]
+Groudon @ Lum Berry
+Trait: Drought
+80 HP / 252 Atk / 176 Spd 
+Adamant nature
+-Rock Polish
+-Swords Dance
+-Stone Edge
+-Earthquake
+
+
+
+
+
+
+
+
+=== [gen2] Ruins of Alph/#23662 0 Likes 0 Score posted by DittoCrow http://www.smogon.com/forums/threads/ubers-teambuilding.3471695/page-1#post-4377576 ===
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-29-1608800274"
+data-lb-id="_xfUid-29-1608800274">
+
+
+
+
+[SET]
+Kyurem-White @ Choice Specs
+Trait: Turboblaze
+EVs: 252 SAtk / 252 Spd / 4 HP
+Timid Nature
+- Ice Beam
+- Fusion Flare
+- Draco Meteor
+- Focus Blast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-30-1608800274"
+data-lb-id="_xfUid-30-1608800274">
+
+
+
+
+[SET]
+Arceus-Ice @ Icicle Plate
+Trait: Multitype
+EVs: 4 Def / 252 SAtk / 252 Spd
+Timid Nature
+- Calm Mind
+- Judgment
+- Thunder
+- Fire Blast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-31-1608800274"
+data-lb-id="_xfUid-31-1608800274">
+
+
+
+
+[SET]
+Kyogre @ Leftovers
+Trait: Drizzle
+EVs: 252 HP / 252 SAtk / 4 Def
+Modest Nature
+- Substitute
+- Calm Mind
+- Hydro Pump 
+- Ice Beam 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-32-1608800274"
+data-lb-id="_xfUid-32-1608800274">
+
+
+
+
+[SET]
+Giratina-Origin @ Griseous Orb
+Trait: Levitate
+EVs: 248 HP / 252 SAtk / 8 Spd
+Impish Nature
+- Substitute
+- Calm Mind
+- Dragon Pulse 
+- Aura Sphere
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-33-1608800274"
+data-lb-id="_xfUid-33-1608800274">
+
+
+
+
+[SET]
+Darkrai @ Choice Scarf
+Trait: Nightmare
+EVs: 4 HP / 252 SAtk / 252 Spe
+Timid Nature
+- Trick
+- Dark Void
+- Dark Pulse
+- Focus Blast 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-34-1608800274"
+data-lb-id="_xfUid-34-1608800274">
+
+
+
+
+[SET]
+Darkrai @ Focus Sash / Life Orb / Leftovers
+Trait: Nightmare
+EVs: 4 HP / 252 SAtk / 252 Spe
+Timid Nature
+- Dark Void
+- Dark Pulse
+- Focus Blast 
+- Nasty Plot 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-35-1608800274"
+data-lb-id="_xfUid-35-1608800274">
+
+
+
+
+[SET]
+Mewtwo @ Life Orb
+Trait: Pressure
+EVs: 4 Def / 252 SAtk / 252 Spd
+Timid Nature
+- Calm Mind
+- Psystrike
+- Ice Beam
+- Aura Sphere 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-36-1608800274"
+data-lb-id="_xfUid-36-1608800274">
+
+
+
+
+[SET]
+Latias (F) @ Soul Dew
+Trait: Levitate
+EVs: 200 HP / 56 SAtk / 252 Spd
+Timid Nature
+- Calm Mind
+- Recover
+- Dragon Pulse
+- Refresh
+
+
+
+
+
+
+
+
+=== [gen2] Gen 2/#23663 0 Likes 0 Score posted by Shadow_Sneak http://www.smogon.com/forums/threads/the-untouchables-gsc-ou.3532774/page-1#post-6109329 ===
+
+Elliot Ness (Raikou) @ Leftovers
+- Thunderbolt
+- Hidden Power [Water]
+- Rest
+- Sleep Talk
+
+Al Capone (Suicune) @ Leftovers
+- Surf
+- Sleep Talk
+- Ice Beam
+- Rest
+
+Too Smooth (Skarmory) @ Leftovers
+- Whirlwind
+- Drill Peck
+- Rest
+- Curse
+
+IRS (Charizard) @ Leftovers
+- Belly Drum
+- Earthquake
+- Fire Blast
+- Rock Slide
+
+Real Fame (Gengar) @ Leftovers
+- Perish Song
+- Mean Look
+- Protect
+- Thunderbolt
+
+Execution (Exeggutor) @ Leftovers
+- Psychic
+- Giga Drain
+- Stun Spore
+- Explosion
+
+
+
+

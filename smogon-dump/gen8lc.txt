@@ -1,0 +1,9285 @@
+=== [gen8lc] Little#7998-8-17 by Laroxyl ===
+
+Dewpider @ Focus Sash
+Ability: Water Bubble
+Level: 5
+EVs: 52 HP / 20 Def / 36 SpA / 180 SpD / 220 Spe
+Modest Nature
+IVs: 0 Atk
+- Surf
+- Sticky Web
+- Icy Wind
+- Giga Drain
+
+Archen @ Eviolite
+Ability: Defeatist
+Level: 5
+EVs: 76 HP / 180 Atk / 196 Spe
+Jolly Nature
+- Dual Wingbeat
+- Rock Blast
+- Earthquake
+- Roost
+
+Pawniard @ Eviolite
+Ability: Defiant
+Level: 5
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe
+Jolly Nature
+- Knock Off
+- Iron Head
+- Sucker Punch
+- Stealth Rock
+
+Scraggy @ Berry Juice
+Ability: Moxie
+Level: 5
+EVs: 36 HP / 236 Atk / 212 Spe
+Adamant Nature
+- Dragon Dance
+- High Jump Kick
+- Zen Headbutt
+- Substitute
+
+Magnemite @ Berry Juice
+Ability: Sturdy
+Level: 5
+EVs: 36 Def / 236 SpA / 236 Spe
+Modest Nature
+IVs: 0 Atk
+- Volt Switch
+- Flash Cannon
+- Recycle
+- Steel Beam
+
+Vullaby (F) @ Eviolite
+Ability: Weak Armor
+Level: 5
+EVs: 76 Def / 236 SpA / 196 Spe
+Modest Nature
+IVs: 0 Atk
+- Nasty Plot
+- Air Slash
+- Heat Wave
+- Roost
+
+
+
+
+=== [gen8lc] Little#7999-7-17 by Gummy ===
+
+Ponyta @ Berry Juice
+Ability: Flame Body
+Level: 5
+EVs: 236 Atk / 76 Def / 196 Spe
+Jolly Nature
+- Flare Blitz
+- Wild Charge
+- High Horsepower
+- Flame Charge
+
+Abra @ Life Orb
+Ability: Magic Guard
+Level: 5
+EVs: 36 Atk / 236 SpA / 196 Spe
+Hasty Nature
+- Psychic
+- Dazzling Gleam
+- Fire Punch
+- Submission
+
+Vullaby (F) @ Eviolite
+Ability: Weak Armor
+Level: 5
+EVs: 76 Def / 236 SpA / 196 Spe
+Modest Nature
+- Nasty Plot
+- Air Slash
+- Heat Wave
+- Dark Pulse
+
+Pawniard @ Eviolite
+Ability: Defiant
+Level: 5
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe
+Adamant Nature
+- Knock Off
+- Iron Head
+- Sucker Punch
+- Swords Dance
+
+Magnemite @ Choice Scarf
+Ability: Analytic
+Level: 5
+EVs: 36 Def / 236 SpA / 236 Spe
+Modest Nature
+IVs: 0 Atk
+- Volt Switch
+- Thunderbolt
+- Flash Cannon
+- Steel Beam
+
+Mienfoo @ Choice Scarf
+Ability: Reckless
+Level: 5
+EVs: 236 Atk / 36 Def / 236 Spe
+Jolly Nature
+- High Jump Kick
+- Knock Off
+- U-turn
+- Close Combat
+
+
+
+
+=== [gen8lc] Little#8000-7-17 by Gummy ===
+
+Ponyta @ Berry Juice
+Ability: Flame Body
+Level: 5
+EVs: 236 Atk / 76 Def / 196 Spe
+Jolly Nature
+- Flare Blitz
+- Wild Charge
+- High Horsepower
+- Flame Charge
+
+Abra @ Focus Sash
+Ability: Magic Guard
+Level: 5
+EVs: 236 SpA / 76 SpD / 196 Spe
+Timid Nature
+IVs: 0 Atk
+- Psychic
+- Counter
+- Dazzling Gleam
+- Protect
+
+Vullaby (F) @ Eviolite
+Ability: Weak Armor
+Level: 5
+EVs: 76 Def / 236 SpA / 196 Spe
+Modest Nature
+- Nasty Plot
+- Air Slash
+- Heat Wave
+- Dark Pulse
+
+Pawniard @ Eviolite
+Ability: Defiant
+Level: 5
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe
+Adamant Nature
+- Knock Off
+- Iron Head
+- Sucker Punch
+- Swords Dance
+
+Magnemite @ Choice Scarf
+Ability: Sturdy
+Level: 5
+EVs: 36 Def / 236 SpA / 236 Spe
+Modest Nature
+IVs: 0 Atk
+- Volt Switch
+- Thunderbolt
+- Flash Cannon
+- Steel Beam
+
+Mienfoo @ Eviolite
+Ability: Regenerator
+Level: 5
+EVs: 156 Atk / 36 Def / 36 SpD / 236 Spe
+Jolly Nature
+- High Jump Kick
+- Knock Off
+- U-turn
+- Feint
+
+
+
+
+=== [gen8lc] Little#8001-4-14 by Altariel ===
+
+Scraggy @ Berry Juice
+Ability: Shed Skin
+Level: 5
+EVs: 36 HP / 236 Atk / 212 Spe
+Adamant Nature
+- Dragon Dance
+- High Jump Kick
+- Knock Off
+- Zen Headbutt
+
+Mienfoo @ Choice Scarf
+Ability: Reckless
+Level: 5
+EVs: 236 Atk / 36 SpD / 236 Spe
+Jolly Nature
+- High Jump Kick
+- Knock Off
+- U-turn
+- Toxic
+
+Foongus @ Eviolite
+Ability: Regenerator
+Level: 5
+EVs: 124 HP / 156 Def / 156 SpD
+Bold Nature
+IVs: 0 Atk
+- Spore
+- Synthesis
+- Giga Drain
+- Sludge Bomb
+
+Archen @ Eviolite
+Ability: Defeatist
+Level: 5
+EVs: 76 HP / 20 Atk / 76 Def / 76 SpD / 196 Spe
+Jolly Nature
+- Dual Wingbeat
+- Rock Blast
+- Defog
+- Roost
+
+Diglett @ Focus Sash
+Ability: Arena Trap
+Level: 5
+EVs: 36 HP / 236 Atk / 236 Spe
+Jolly Nature
+- Stealth Rock
+- Memento
+- Sucker Punch
+- Earthquake
+
+Magnemite @ Berry Juice
+Ability: Sturdy
+Level: 5
+EVs: 236 SpA / 236 Spe
+Timid Nature
+IVs: 0 Atk
+- Volt Switch
+- Flash Cannon
+- Endure
+- Recycle
+
+
+
+
+=== [gen8lc] Little#8002-4-14 by Altariel ===
+
+Grookey @ Life Orb
+Ability: Grassy Surge
+Level: 5
+EVs: 236 Atk / 36 Def / 236 Spe
+Jolly Nature
+- Grassy Glide
+- Wood Hammer
+- Knock Off
+- U-turn
+
+Treecko @ Grassy Seed
+Ability: Unburden
+Level: 5
+EVs: 236 Atk / 156 Def / 116 Spe
+Adamant Nature
+- Acrobatics
+- Drain Punch
+- Bullet Seed
+- Swords Dance
+
+Salandit @ Berry Juice
+Ability: Corrosion
+Level: 5
+EVs: 52 HP / 188 SpA / 36 SpD / 220 Spe
+Timid Nature
+- Fire Blast
+- Knock Off
+- Sludge Bomb
+- Substitute
+
+Omanyte @ Eviolite
+Ability: Weak Armor
+Level: 5
+EVs: 156 HP / 116 SpA / 236 Spe
+Modest Nature
+IVs: 0 Atk
+- Stealth Rock
+- Earth Power
+- Scald
+- Ice Beam
+
+Vullaby (F) @ Berry Juice
+Ability: Weak Armor
+Level: 5
+EVs: 116 HP / 76 Def / 156 SpD / 116 Spe
+Jolly Nature
+- Knock Off
+- Brave Bird
+- U-turn
+- Defog
+
+Timburr @ Eviolite
+Ability: Iron Fist
+Level: 5
+EVs: 196 Atk / 156 Def / 156 SpD
+Adamant Nature
+- Knock Off
+- Thunder Punch
+- Drain Punch
+- Mach Punch
+
+
+
+
+=== [gen8lc] Little#8003-5-14 by Ahmad ===
+
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 236 Spe  
+Jolly Nature  
+- U-turn  
+- Knock Off  
+- High Jump Kick  
+- Close Combat  
+
+Vullaby (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 160 Atk / 76 SpA / 156 SpD / 116 Spe  
+Serious Nature  
+- Knock Off  
+- U-turn  
+- Brave Bird  
+- Heat Wave  
+
+Onix @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Rock Blast  
+- Explosion  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 48 HP / 180 Def / 24 SpA / 180 SpD / 76 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic Spikes  
+- Sludge Wave  
+- Recover  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 20 HP / 36 Atk / 188 Def / 36 SpA / 228 SpD  
+Relaxed Nature  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+- Giga Drain  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Tri Attack  
+- Psychic  
+- Agility  
+- Recover  
+
+
+
+
+
+=== [gen8lc] Little#8004-5-14 by Ahmad ===
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 156 Def / 156 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Giga Drain  
+- Sludge Bomb  
+- Synthesis  
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Def / 156 SpD / 40 Spe  
+Impish Nature  
+- U-turn  
+- Flare Blitz  
+- Will-O-Wisp  
+- Morning Sun  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 196 SpD / 120 Spe  
+Careful Nature  
+- Knock Off  
+- Stealth Rock  
+- Sucker Punch  
+- Iron Head  
+
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 236 Spe  
+Jolly Nature  
+- U-turn  
+- Knock Off  
+- High Jump Kick  
+- Close Combat  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 156 Def / 116 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Thunderbolt  
+- Rapid Spin  
+- Recover  
+
+Vullaby (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 156 Atk / 156 SpD / 196 Spe  
+Adamant Nature  
+- Knock Off  
+- Defog  
+- Brave Bird  
+- U-turn  
+
+
+
+
+
+=== [gen8lc] Little#8005-5-14 by Ahmad ===
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Recover  
+- Ice Beam  
+- Thunder Wave  
+- Tri Attack  
+
+Abra @ Shed Shell  
+Ability: Magic Guard  
+Level: 5  
+EVs: 116 Atk / 196 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Dazzling Gleam  
+- Substitute  
+- Fire Punch  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 156 Def / 156 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Giga Drain  
+- Sludge Bomb  
+- Synthesis  
+
+Magnemite @ Choice Scarf  
+Ability: Analytic  
+Level: 5  
+EVs: 36 Def / 232 SpA / 240 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Thunderbolt  
+- Toxic  
+- Flash Cannon  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 156 HP / 196 Atk / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Thunder Punch  
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Endure  
+
+
+
+
+
+=== [gen8lc] Little#8006-5-11 by Stoward ===
+
+Abra @ Life Orb  
+Ability: Magic Guard  
+Level: 5  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Dazzling Gleam  
+- Fire Punch  
+- Protect  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 236 Spe  
+Jolly Nature  
+- U-turn  
+- High Jump Kick  
+- Knock Off  
+- Fake Out  
+
+Vullaby (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 160 Def / 160 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Sludge Bomb  
+- Giga Drain  
+- Synthesis  
+
+Onix @ Eviolite  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 36 Def / 196 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Head Smash  
+- Earthquake  
+- Stealth Rock  
+
+Staryu @ Eviolite  
+Ability: Analytic  
+Level: 5  
+EVs: 76 Def / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Psychic  
+- Ice Beam  
+- Thunderbolt  
+
+
+
+
+
+=== [gen8lc] Little#8007-7-11 by PyProd ===
+
+This (Wooper) @ Eviolite  
+Ability: Unaware  
+Level: 5  
+EVs: 76 HP / 236 Def / 156 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Earth Power  
+- Haze  
+
+is (Foongus) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Spore  
+- Giga Drain  
+- Sludge Bomb  
+- Synthesis  
+
+not (Mienfoo) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Knock Off  
+- Fake Out  
+
+funny (Ponyta-Galar) @ Life Orb  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Dazzling Gleam  
+- Psychic  
+- Mystical Fire  
+
+at (Pawniard) @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Low Sweep  
+- Sucker Punch  
+- Stealth Rock  
+
+all! (Vullaby) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 116 HP / 76 Atk / 76 Def / 156 SpD / 36 Spe  
+Jolly Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+
+
+
+
+=== [gen8lc] Little#8008-6-10 by Nineage ===
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 196 Def / 196 SpD  
+Impish Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Fake Out  
+
+Porygon @ Eviolite
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Tri Attack  
+- Ice Beam  
+- Thunderbolt
+- Recover  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Recover  
+- Iron Defense  
+
+Magnemite @ Choice Scarf  
+Ability: Analytic  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Fire Punch  
+- Dazzling Gleam  
+- Protect  
+
+Onix @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Rock Blast  
+- Earthquake  
+- Stealth Rock  
+- Explosion
+
+
+
+
+=== [gen8lc] Little#8009-9-10 by ThelordofbadRNG ===
+
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Close Combat  
+
+Onix @ Eviolite  
+Ability: Rock Head  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Head Smash  
+- Earthquake  
+- Stealth Rock  
+- Explosion  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 76 HP / 36 Atk / 156 Def / 236 SpD  
+Careful Nature  
+- Bulk Up  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Wish  
+- Protect  
+- Psychic  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
+- Spikes  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+
+Vullaby (F) @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Dark Pulse  
+
+
+
+
+
+=== [gen8lc] Little#8010-7-10 by PyProd ===
+
+Speed King (Mudbray) (M) @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+Adamant Nature  
+- High Horsepower  
+- Heavy Slam  
+- Stealth Rock  
+- Rock Slide  
+
+Nut King Call (Ferroseed) (M) @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 4 SpA / 148 SpD / 36 Spe  
+Impish Nature  
+- Spikes  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+
+Walking Heart (Vullaby) @ Choice Scarf  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Rock Smash  
+
+Awaking III Leaves (Mareanie) (F) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Recover  
+- Toxic Spikes  
+
+King Nothing (Mienfoo) (M) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 HP / 196 Def / 36 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Fake Out  
+
+Paper Moon King (Wingull) (M) @ Berry Juice  
+Ability: Rain Dish  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Scald  
+- Substitute  
+- Defog  
+
+
+
+
+
+=== [gen8lc] Little#8011-5-9 by Albinson ===
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 5  
+EVs: 52 HP / 212 Def / 180 SpD  
+Relaxed Nature  
+- Stealth Rock  
+- Earthquake  
+- Slack Off  
+- Weather Ball  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Adamant Nature  
+- Swords Dance  
+- Rapid Spin  
+- Earthquake  
+- Knock Off  
+
+Oddish @ Eviolite  
+Ability: Run Away  
+Level: 5  
+EVs: 236 HP / 156 Def / 76 SpD / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Strength Sap  
+- Giga Drain  
+- Sludge Bomb  
+- Sleep Powder  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psychic  
+- Mystical Fire  
+- Morning Sun  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+IVs: 0 HP  
+- Fake Out  
+- U-turn  
+- Double-Edge  
+- Feint  
+
+Stunky @ Eviolite  
+Ability: Aftermath  
+Level: 5  
+EVs: 12 HP / 60 Def / 188 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Nasty Plot  
+- Sludge Bomb  
+- Flamethrower  
+
+
+
+
+
+=== [gen8lc] Little#8012-5-9 by Albinson ===
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Shadow Ball  
+- Vacuum Wave  
+- Sludge Wave  
+
+Cottonee @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 36 HP / 196 Def / 60 SpA / 36 SpD / 148 Spe  
+Timid Nature  
+- Defog  
+- Giga Drain  
+- Knock Off  
+- Memento  
+
+Sandile @ Eviolite  
+Ability: Intimidate  
+Level: 5  
+EVs: 180 Atk / 76 SpD / 236 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Taunt  
+- Earthquake  
+- Crunch  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 SpD / 236 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Crabhammer  
+- Knock Off  
+- Aqua Jet  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+IVs: 1 HP  
+- Fake Out  
+- Feint  
+- U-turn  
+- Double-Edge  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Mystical Fire  
+- Calm Mind  
+- Morning Sun  
+
+
+
+
+
+=== [gen8lc] Little#8013-5-9 by Albinson ===
+
+Frillish @ Eviolite  
+Ability: Cursed Body  
+Level: 5  
+EVs: 76 HP / 196 Def / 236 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Hex  
+- Scald  
+- Recover  
+
+Pancham @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 20 Atk / 100 Def / 132 SpD / 252 Spe  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Swords Dance  
+- Zen Headbutt  
+
+Budew @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 36 HP / 156 Def / 36 SpD / 236 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Giga Drain  
+- Sludge Bomb  
+- Synthesis  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Rapid Spin  
+- Earthquake  
+- Knock Off  
+- Stealth Rock  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Calm Mind  
+- Mystical Fire  
+- Morning Sun  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+IVs: 0 HP  
+- Fake Out  
+- Knock Off  
+- U-turn  
+- Double-Edge  
+
+
+
+
+
+=== [gen8lc] Little#8014-5-9 by Albinson ===
+
+Grubbin @ Eviolite  
+Ability: Swarm  
+Level: 5  
+EVs: 236 Def / 156 SpD / 68 Spe  
+Calm Nature  
+- Sticky Web  
+- Electroweb  
+- Thunder Wave  
+- X-Scissor  
+
+Stunky @ Eviolite  
+Ability: Aftermath  
+Level: 5  
+EVs: 60 Def / 188 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Nasty Plot  
+- Flamethrower  
+- Sludge Bomb  
+
+Frillish @ Eviolite  
+Ability: Cursed Body  
+Level: 5  
+EVs: 76 HP / 196 Def / 156 SpD / 36 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Will-O-Wisp  
+- Hex  
+- Recover  
+
+Pancham @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 180 Atk / 20 Def / 52 SpD / 252 Spe  
+Serious Nature  
+- Swords Dance  
+- Knock Off  
+- Zen Headbutt  
+- Drain Punch  
+
+Helioptile @ Choice Scarf  
+Ability: Dry Skin  
+Level: 5  
+EVs: 4 HP / 188 SpA / 92 SpD / 196 Spe  
+Timid Nature  
+- U-turn  
+- Dark Pulse  
+- Surf  
+- Thunderbolt  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Rapid Spin  
+- Knock Off  
+- Earthquake  
+
+
+
+
+
+=== [gen8lc] Little#8015-5-9 by Albinson ===
+
+Natu @ Light Clay  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 156 Def / 36 SpA / 236 SpD / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Reflect  
+- Light Screen  
+- Teleport  
+- Psychic  
+
+Zigzagoon @ Berry Juice  
+Ability: Quick Feet  
+Level: 5  
+EVs: 196 Atk / 108 Def / 108 SpD / 36 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Double-Edge  
+- Thief  
+- Belly Drum  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Swords Dance  
+- Crabhammer  
+- Aqua Jet  
+- Knock Off  
+
+Sandile @ Choice Scarf  
+Ability: Moxie  
+Level: 5  
+EVs: 180 Atk / 76 SpD / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Crunch  
+- Iron Tail  
+- Stealth Rock  
+
+Stunky @ Life Orb  
+Ability: Aftermath  
+Level: 5  
+EVs: 12 HP / 188 SpA / 28 SpD / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Dark Pulse  
+- Sludge Bomb  
+- Flamethrower  
+
+Binacle @ Eviolite  
+Ability: Tough Claws  
+Level: 5  
+EVs: 20 HP / 180 Atk / 68 SpD / 196 Spe  
+Adamant Nature  
+- Shell Smash  
+- Liquidation  
+- Stone Edge  
+- Stealth Rock  
+
+
+
+
+
+=== [gen8lc] Little#8016-3-8 by Acehunter1 ===
+
+Sand Dune (Diglett) (M) @ Air Balloon
+Ability: Arena Trap
+Level: 5
+EVs: 36 HP / 236 Atk / 236 Spe
+Naive Nature
+- Earthquake
+- Earth Power
+- Final Gambit
+- Substitute
+
+Blaze (Ponyta) (M) @ Eviolite
+Ability: Flame Body
+Level: 5
+EVs: 236 Atk / 76 SpD / 196 Spe
+Jolly Nature
+- Flare Blitz
+- High Horsepower
+- Flame Charge
+- Morning Sun
+
+Marina (Chinchou) (F) @ Eviolite
+Ability: Volt Absorb
+Level: 5
+EVs: 76 HP / 212 Def / 148 SpA / 60 Spe
+Bold Nature
+- Scald
+- Volt Switch
+- Sucker Punch
+- Thunder Wave
+
+Royal Blue (Mienfoo) (F) @ Eviolite
+Ability: Regenerator
+Level: 5
+Shiny: Yes
+EVs: 76 HP / 196 Def / 196 SpD
+Relaxed Nature
+IVs: 0 Spe
+- High Jump Kick
+- Knock Off
+- U-turn
+- Fake Out
+
+Chantico's Fire (Vulpix) (F) @ Eject Pack
+Ability: Drought
+Level: 5
+Shiny: Yes
+EVs: 36 Def / 196 SpA / 236 Spe
+Timid Nature
+IVs: 23 HP
+- Weather Ball
+- Overheat
+- Energy Ball
+- Quick Attack
+
+Hades (Vullaby) (F) @ Berry Juice
+Ability: Weak Armor
+Level: 5
+EVs: 236 Atk / 76 Def / 196 Spe
+Adamant Nature
+- Knock Off
+- Brave Bird
+- U-turn
+- Defog
+
+
+
+
+=== [gen8lc] Little#8017-5-8 by DC ===
+
+Mienfoo @ Choice Band  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Knock Off  
+- Drain Punch  
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 36 Def / 236 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Tri Attack  
+- Ice Beam  
+- Thunder Wave  
+- Recover  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 156 Def / 116 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Thunderbolt  
+- Thunder Wave  
+- Recover  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Counter  
+- Protect  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 76 HP / 156 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+
+Vullaby (F) @ Berry Juice  
+Ability: Overcoat  
+Level: 5  
+EVs: 116 HP / 76 Atk / 76 Def / 156 SpD / 36 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
+
+
+
+
+
+=== [gen8lc] Little#8018-3-8 by Kipkluif ===
+
+Amaura @ Light Clay  
+Ability: Snow Warning  
+Level: 5  
+EVs: 220 HP / 36 Def / 12 SpD / 228 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Stealth Rock  
+- Freeze-Dry  
+- Aurora Veil  
+
+Vullaby (F) @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Air Slash  
+- Heat Wave  
+- Nasty Plot  
+
+Scraggy @ Berry Juice  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 Def / 212 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Dance  
+- Knock Off  
+- High Jump Kick  
+
+Grookey @ Life Orb  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Grassy Glide  
+- Swords Dance  
+- Wood Hammer  
+- Drain Punch  
+
+Woobat @ Grassy Seed  
+Ability: Simple  
+Level: 5  
+EVs: 76 HP / 252 Def / 180 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Stored Power  
+- Heat Wave  
+- Roost  
+
+Omanyte @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 196 SpA / 76 SpD / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Hydro Pump  
+- Earth Power  
+- Ice Beam  
+
+
+
+
+
+=== [gen8lc] Little#8019-5-8 by tazz ===
+
+Rufflet (M) @ Choice Scarf
+Ability: Hustle
+Level: 5
+EVs: 252 Atk / 36 Def / 196 Spe
+Jolly Nature
+- Brave Bird
+- Superpower
+- U-turn
+- Aerial Ace
+
+Trapinch @ Eviolite
+Ability: Arena Trap
+Level: 5
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD
+Brave Nature
+- Earthquake
+- First Impression
+- Protect
+- Giga Drain
+
+Mienfoo @ Eviolite
+Ability: Regenerator
+Level: 5
+EVs: 116 HP / 196 Def / 196 SpD
+Impish Nature
+- Knock Off
+- High Jump Kick
+- U-turn
+- Fake Out
+
+Mareanie @ Eviolite
+Ability: Regenerator
+Level: 5
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD
+Bold Nature
+- Knock Off
+- Scald
+- Recover
+- Sludge Bomb
+
+Pawniard @ Berry Juice
+Ability: Defiant
+Level: 5
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe
+Adamant Nature
+- Knock Off
+- Iron Head
+- Sucker Punch
+- Stealth Rock
+
+Vullaby (F) @ Berry Juice
+Ability: Overcoat
+Level: 5
+EVs: 116 HP / 76 Def / 156 SpD / 116 Spe
+Jolly Nature
+- Knock Off
+- Toxic
+- Brave Bird
+- Defog
+
+
+
+
+=== [gen8lc] Little#8020-8-7 by Albinson ===
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 5  
+EVs: 100 Atk / 212 Def / 180 SpD  
+Impish Nature  
+- Earthquake  
+- Crunch  
+- Yawn  
+- Slack Off  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Jolly Nature  
+- Rapid Spin  
+- Swords Dance  
+- Earthquake  
+- Knock Off  
+
+Lileep @ Eviolite  
+Ability: Storm Drain  
+Level: 5  
+EVs: 68 HP / 220 Def / 220 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Ancient Power  
+- Stealth Rock  
+- Recover  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Mystical Fire  
+- Calm Mind  
+- Morning Sun  
+
+Stunky @ Eviolite  
+Ability: Aftermath  
+Level: 5  
+EVs: 12 HP / 60 Def / 188 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Fire Blast  
+- Dark Pulse  
+- Sludge Bomb  
+
+Joltik @ Eviolite  
+Ability: Swarm  
+Level: 5  
+EVs: 36 Def / 220 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Thunderbolt  
+- Bug Buzz  
+- Giga Drain  
+
+
+
+
+
+=== [gen8lc] Little#8021-8-7 by Albinson ===
+
+Ponyta-Galar @ Life Orb  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 76 Atk / 236 SpA / 196 Spe  
+Naive Nature  
+- Psychic  
+- Mystical Fire  
+- High Horsepower  
+- Wild Charge  
+
+Pancham @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 180 Atk / 100 Def / 52 SpD / 172 Spe  
+Jolly Nature  
+- Drain Punch  
+- Zen Headbutt  
+- Knock Off  
+- Parting Shot  
+
+Goldeen @ Eviolite  
+Ability: Lightning Rod  
+Level: 5  
+EVs: 220 Atk / 36 Def / 252 Spe  
+Jolly Nature  
+- Flip Turn  
+- Waterfall  
+- Drill Run  
+- Knock Off  
+
+Stunky @ Eviolite  
+Ability: Aftermath  
+Level: 5  
+EVs: 60 Def / 188 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Defog  
+- Dark Pulse  
+- Sludge Bomb  
+- Nasty Plot  
+
+Sandile @ Choice Scarf  
+Ability: Moxie  
+Level: 5  
+EVs: 180 Atk / 76 SpD / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Crunch  
+- Rock Slide  
+- Iron Tail  
+
+Cufant @ Eviolite  
+Ability: Sheer Force  
+Level: 5  
+EVs: 20 HP / 196 Atk / 44 Def / 44 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Iron Head  
+- Power Whip  
+- Zen Headbutt  
+
+
+
+
+
+=== [gen8lc] Little#8022-8-7 by Albinson ===
+
+Bunnelby @ Choice Band  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 52 Def / 220 Spe  
+Jolly Nature  
+- U-turn  
+- Quick Attack  
+- Earthquake  
+- Strength  
+
+Silicobra @ Eviolite  
+Ability: Shed Skin  
+Level: 5  
+EVs: 20 HP / 236 Def / 196 SpD  
+Impish Nature  
+- Glare  
+- Earthquake  
+- Rest  
+- Sleep Talk  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 156 Def / 36 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Roost  
+- Thunder Wave  
+- Psychic  
+- Heat Wave  
+
+Lileep @ Eviolite  
+Ability: Storm Drain  
+Level: 5  
+EVs: 68 HP / 220 Def / 220 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Giga Drain  
+- Earth Power  
+- Recover  
+
+Joltik @ Eviolite  
+Ability: Swarm  
+Level: 5  
+EVs: 36 Def / 220 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Bug Buzz  
+- Giga Drain  
+- Thunderbolt  
+- Thunder Wave  
+
+Stunky @ Eviolite  
+Ability: Aftermath  
+Level: 5  
+EVs: 12 HP / 188 SpA / 28 SpD / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Fire Blast  
+- Sludge Bomb  
+- Dark Pulse  
+
+
+
+
+
+=== [gen8lc] Little#8023-0-7 by Plas ===
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Fire Blast  
+- Overheat  
+- Energy Ball  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 196 Def / 116 SpD  
+Careful Nature  
+- Fake Out  
+- U-turn  
+- Knock Off  
+- High Jump Kick  
+
+Vullaby (F) @ Berry Juice  
+Ability: Overcoat  
+Level: 5  
+EVs: 116 HP / 76 Def / 156 SpD / 116 Spe  
+Careful Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
+
+Diglett @ Air Balloon  
+Ability: Arena Trap  
+Level: 5  
+EVs: 116 HP / 156 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Beat Up  
+- Final Gambit  
+- Protect  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Scald  
+- Recover  
+- Toxic Spikes  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 236 Atk / 36 Def / 116 SpD / 116 Spe  
+Adamant Nature  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+- Stealth Rock  
+
+
+
+
+
+=== [gen8lc] Little#8024-6-7 by STarsAma ===
+
+Koffing @ Eviolite  
+Ability: Neutralizing Gas  
+Level: 5  
+EVs: 196 HP / 236 Def / 76 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Sludge Bomb  
+- Fire Blast  
+- Thunderbolt  
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport  
+
+Onix @ Eviolite  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 36 Def / 196 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Earthquake  
+- Head Smash  
+- Body Press  
+
+Wingull @ Berry Juice  
+Ability: Keen Eye  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+- Hurricane  
+- Scald  
+- Defog  
+- Knock Off  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
+- Stealth Rock  
+- Knock Off  
+- Thunder Wave  
+- Giga Drain  
+
+
+
+
+
+=== [gen8lc] Little#8025-8-7 by risi ===
+
+Torchic @ Berry Juice
+Ability: Speed Boost
+Level: 5
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe
+Adamant Nature
+- Swords Dance
+- Flare Blitz
+- Double-Edge
+- Shadow Claw
+
+Natu @ Light Clay
+Ability: Magic Bounce
+Level: 5
+EVs: 36 HP / 156 Def / 36 SpA / 76 SpD / 196 Spe
+Timid Nature
+IVs: 0 Atk
+- Light Screen
+- Reflect
+- Teleport
+- Psychic
+
+Stunky @ Berry Juice
+Ability: Aftermath
+Level: 5
+EVs: 60 Def / 188 SpA / 244 Spe
+Timid Nature
+IVs: 0 Atk
+- Nasty Plot
+- Sludge Bomb
+- Fire Blast
+- Dark Pulse
+
+Axew @ Eviolite
+Ability: Mold Breaker
+Level: 5
+EVs: 220 Atk / 36 SpD / 220 Spe
+Adamant Nature
+- Dragon Dance
+- Outrage
+- Superpower
+- Poison Jab
+
+Diglett-Alola @ Focus Sash
+Ability: Tangling Hair
+Level: 5
+EVs: 36 HP / 236 Atk / 36 Def / 196 Spe
+Jolly Nature
+- Stealth Rock
+- Earthquake
+- Iron Head
+- Memento
+
+Treecko @ Berry Juice
+Ability: Unburden
+Level: 5
+EVs: 236 Atk / 76 Def / 196 Spe
+Adamant Nature
+- Swords Dance
+- Bullet Seed
+- Acrobatics
+- Drain Punch
+
+
+
+
+=== [gen8lc] Little#8026-8-7 by risi ===
+
+Meowth @ Life Orb
+Ability: Technician
+Level: 5
+EVs: 236 Atk / 76 Def / 196 Spe
+Jolly Nature
+IVs: 0 HP
+- Fake Out
+- Knock Off
+- U-turn
+- Feint
+
+Bunnelby @ Choice Scarf
+Ability: Huge Power
+Level: 5
+EVs: 228 Atk / 52 Def / 220 Spe
+Jolly Nature
+- Earthquake
+- U-turn
+- Wild Charge
+- Strength
+
+Sandile @ Eviolite
+Ability: Intimidate
+Level: 5
+EVs: 180 Atk / 76 Def / 236 Spe
+Jolly Nature
+- Earthquake
+- Stealth Rock
+- Crunch
+- Stone Edge
+
+Croagunk @ Eviolite
+Ability: Dry Skin
+Level: 5
+EVs: 116 Def / 188 SpA / 196 Spe
+Timid Nature
+IVs: 0 Atk
+- Sludge Bomb
+- Focus Blast
+- Shadow Ball
+- Nasty Plot
+
+Frillish @ Eviolite
+Ability: Cursed Body
+Level: 5
+EVs: 76 HP / 196 Def / 196 Spe
+Timid Nature
+IVs: 0 Atk
+- Scald
+- Will-O-Wisp
+- Hex
+- Recover
+
+Natu @ Eviolite
+Ability: Magic Bounce
+Level: 5
+EVs: 36 HP / 156 Def / 36 SpA / 76 SpD / 196 Spe
+Timid Nature
+- U-turn
+- Heat Wave
+- Psychic
+- Roost
+
+
+
+
+=== [gen8lc] Little#8027-8-7 by risi ===
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+IVs: 0 HP  
+- Fake Out  
+- Knock Off  
+- U-turn  
+- Double-Edge  
+
+Bunnelby @ Choice Scarf  
+Ability: Huge Power  
+Level: 5  
+EVs: 228 Atk / 52 Def / 220 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Wild Charge  
+- Strength  
+
+Helioptile @ Choice Scarf  
+Ability: Dry Skin  
+Level: 5  
+EVs: 4 HP / 92 Def / 188 SpA / 12 SpD / 196 Spe  
+Timid Nature  
+- U-turn  
+- Volt Switch  
+- Surf  
+- Thunderbolt  
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 76 Atk / 156 Def / 196 Spe  
+Careful Nature  
+- U-turn  
+- Flare Blitz  
+- Will-O-Wisp  
+- Morning Sun  
+
+Shellos @ Eviolite  
+Ability: Sticky Hold  
+Level: 5  
+EVs: 228 HP / 132 Def / 100 SpD / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Earth Power  
+- Toxic  
+
+Baltoy @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 156 Def / 116 SpA / 236 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Psychic  
+- Stealth Rock  
+- Rapid Spin  
+- Ice Beam  
+
+
+
+
+
+=== [gen8lc] Little#8028-8-7 by risi ===
+
+Snover @ Berry Juice
+Ability: Snow Warning
+Level: 5
+EVs: 100 Atk / 180 SpA / 196 Spe
+Hasty Nature
+- Blizzard
+- Giga Drain
+- Water Pulse
+- Ice Shard
+
+Sandshrew-Alola @ Life Orb
+Ability: Slush Rush
+Level: 5
+EVs: 36 HP / 236 Atk / 36 Def / 196 Spe
+Adamant Nature
+- Icicle Spear
+- Knock Off
+- Swords Dance
+- Earthquake
+
+Remoraid @ Life Orb
+Ability: Hustle
+Level: 5
+EVs: 76 Atk / 156 SpA / 236 Spe
+Hasty Nature
+IVs: 21 HP
+- Bullet Seed
+- Hydro Pump
+- Blizzard
+- Psychic
+
+Helioptile @ Choice Scarf
+Ability: Dry Skin
+Level: 5
+EVs: 4 HP / 92 Def / 188 SpA / 12 SpD / 196 Spe
+Timid Nature
+- Volt Switch
+- U-turn
+- Surf
+- Thunderbolt
+
+Baltoy @ Eviolite
+Ability: Levitate
+Level: 5
+EVs: 196 HP / 76 Def / 36 SpA / 36 SpD / 156 Spe
+Bold Nature
+IVs: 0 Atk
+- Psychic
+- Earth Power
+- Rapid Spin
+- Stealth Rock
+
+Larvesta @ Eviolite
+Ability: Flame Body
+Level: 5
+EVs: 76 HP / 76 Atk / 156 Def / 156 SpD / 36 Spe
+Jolly Nature
+- U-turn
+- Flare Blitz
+- Morning Sun
+- Will-O-Wisp
+
+
+
+
+=== [gen8lc] Little#8029-8-7 by risi ===
+
+Hippopotas @ Eviolite
+Ability: Sand Stream
+Level: 5
+EVs: 132 HP / 20 Atk / 132 Def / 180 SpD / 20 Spe
+Careful Nature
+- Earthquake
+- Stealth Rock
+- Slack Off
+- Whirlwind
+
+Sandshrew @ Eviolite
+Ability: Sand Rush
+Level: 5
+EVs: 36 HP / 156 Atk / 76 Def / 36 SpD / 196 Spe
+Jolly Nature
+- Earthquake
+- Knock Off
+- Swords Dance
+- Rapid Spin
+
+Sizzlipede @ Heavy-Duty Boots
+Ability: Flame Body
+Level: 5
+EVs: 36 HP / 236 Atk / 236 Spe
+Jolly Nature
+- Fire Lash
+- Knock Off
+- Leech Life
+- Power Whip
+
+Oddish @ Eviolite
+Ability: Run Away
+Level: 5
+EVs: 156 HP / 236 Def / 76 SpD / 36 Spe
+Bold Nature
+IVs: 0 Atk
+- Giga Drain
+- Sludge Bomb
+- Strength Sap
+- Sleep Powder
+
+Pancham @ Eviolite
+Ability: Iron Fist
+Level: 5
+EVs: 180 Atk / 100 Def / 212 SpD / 12 Spe
+Adamant Nature
+- Knock Off
+- Drain Punch
+- Parting Shot
+- Zen Headbutt
+
+Slowpoke @ Eviolite
+Ability: Regenerator
+Level: 5
+EVs: 36 HP / 236 Def / 36 SpA / 196 SpD
+Calm Nature
+IVs: 0 Atk
+- Teleport
+- Thunder Wave
+- Scald
+- Psychic
+
+
+
+
+=== [gen8lc] Little#8030-8-7 by risi ===
+
+Bulbasaur @ Eviolite
+Ability: Overgrow
+Level: 5
+EVs: 236 SpA / 236 Spe
+Modest Nature
+IVs: 0 Atk
+- Growth
+- Giga Drain
+- Sludge Bomb
+- Weather Ball
+
+Riolu @ Heat Rock
+Ability: Prankster
+Level: 5
+EVs: 36 HP / 196 Atk / 36 Def / 36 SpD / 196 Spe
+Jolly Nature
+- Sunny Day
+- High Jump Kick
+- Crunch
+- Final Gambit
+
+Charmander @ Choice Scarf
+Ability: Solar Power
+Level: 5
+EVs: 44 HP / 12 Def / 196 SpA / 236 Spe
+Timid Nature
+IVs: 0 Atk
+- Fire Blast
+- Weather Ball
+- Overheat
+- Ancient Power
+
+Darumaka @ Berry Juice
+Ability: Hustle
+Level: 5
+EVs: 36 HP / 196 Atk / 76 Def / 196 Spe
+Jolly Nature
+- Sunny Day
+- Flare Blitz
+- Superpower
+- Rock Slide
+
+Grubbin @ Eviolite
+Ability: Swarm
+Level: 5
+EVs: 20 Atk / 236 Def / 236 SpD
+Jolly Nature
+- Sticky Web
+- Volt Switch
+- Thunder Wave
+- X-Scissor
+
+Fomantis @ Eviolite
+Ability: Contrary
+Level: 5
+EVs: 76 Def / 196 SpA / 236 Spe
+Timid Nature
+IVs: 0 Atk
+- Leaf Storm
+- Weather Ball
+- Synthesis
+- Sunny Day
+
+
+
+
+=== [gen8lc] Little#8031-8-7 by risi ===
+
+Budew @ Eviolite
+Ability: Natural Cure
+Level: 5
+EVs: 196 HP / 236 Def / 36 SpA / 36 SpD
+Bold Nature
+IVs: 0 Atk
+- Rest
+- Sludge Bomb
+- Giga Drain
+- Rain Dance
+
+Kabuto @ Power Herb
+Ability: Swift Swim
+Level: 5
+EVs: 36 Def / 236 SpA / 236 Spe
+Modest Nature
+IVs: 0 Atk
+- Meteor Beam
+- Hydro Pump
+- Ice Beam
+- Earth Power
+
+Riolu @ Damp Rock
+Ability: Prankster
+Level: 5
+EVs: 36 HP / 36 Atk / 116 Def / 116 SpD / 196 Spe
+Jolly Nature
+- Rain Dance
+- High Jump Kick
+- Final Gambit
+- Crunch
+
+Joltik @ Eviolite
+Ability: Swarm
+Level: 5
+EVs: 36 Def / 220 SpA / 236 Spe
+Timid Nature
+IVs: 0 Atk
+- Bug Buzz
+- Giga Drain
+- Volt Switch
+- Rain Dance
+
+Mantyke @ Life Orb
+Ability: Swift Swim
+Level: 5
+EVs: 36 Def / 196 SpA / 36 SpD / 196 Spe
+Modest Nature
+IVs: 0 HP / 0 Atk
+- Air Slash
+- Hydro Pump
+- Rain Dance
+- Ice Beam
+
+Arrokuda @ Life Orb
+Ability: Swift Swim
+Level: 5
+EVs: 252 Atk / 228 Spe
+Adamant Nature
+IVs: 8 HP
+- Close Combat
+- Waterfall
+- Psychic Fangs
+- Poison Jab
+
+
+
+
+=== [gen8lc] Little#8032-6-7 by Kipkluif ===
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Steel Beam  
+- Endure  
+- Recycle  
+
+Vullaby (F) @ Choice Scarf  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 76 SpA / 196 Spe  
+Naughty Nature  
+- Brave Bird  
+- U-turn  
+- Knock Off  
+- Heat Wave  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 196 Def / 196 SpD  
+Impish Nature  
+- Fake Out  
+- Knock Off  
+- U-turn  
+- High Jump Kick  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Giga Drain  
+- Sludge Bomb  
+- Synthesis  
+
+Onix @ Eviolite  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Head Smash  
+- High Horsepower  
+- Dragon Dance  
+
+Staryu @ Eviolite  
+Ability: Analytic  
+Level: 5  
+EVs: 156 Def / 116 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Rapid Spin  
+- Thunderbolt  
+- Recover  
+
+
+
+
+
+=== [gen8lc] Little#8033-3-6 by Gummy ===
+
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Close Combat  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Spikes  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Thunder Punch  
+
+Vullaby (F) @ Berry Juice  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
+- Scald  
+- Sludge Bomb  
+- Recover  
+- Toxic Spikes  
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+Adamant Nature  
+- Earthquake  
+- Heavy Slam  
+- Stealth Rock  
+- Rock Slide  
+
+
+
+
+
+=== [gen8lc] Little#8034-7-6 by Joltage ===
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Morning Sun  
+- Psychic  
+- Mystical Fire  
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 5  
+EVs: 132 HP / 20 Atk / 212 Def / 100 SpD / 20 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- Slack Off  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 156 Atk / 76 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Knock Off  
+- Swords Dance  
+
+Helioptile @ Choice Scarf  
+Ability: Dry Skin  
+Level: 5  
+EVs: 4 HP / 12 Def / 188 SpA / 92 SpD / 196 Spe  
+Timid Nature  
+- Surf  
+- Thunderbolt  
+- Volt Switch  
+- U-turn  
+
+Pancham @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 180 Atk / 100 Def / 52 SpD / 172 Spe  
+Jolly Nature  
+- Knock Off  
+- Drain Punch  
+- Zen Headbutt  
+- Gunk Shot  
+
+Shellos-East @ Eviolite  
+Ability: Sticky Hold  
+Level: 5  
+EVs: 228 HP / 212 Def / 20 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Toxic  
+- Clear Smog  
+
+
+
+
+
+=== [gen8lc] Little#8035-7-6 by Joltage ===
+
+Oddish @ Eviolite  
+Ability: Run Away  
+Level: 5  
+EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Sludge Bomb  
+- Strength Sap  
+- Sleep Powder  
+
+Frillish @ Eviolite  
+Ability: Water Absorb  
+Level: 5  
+EVs: 76 HP / 196 Def / 76 SpD / 116 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Shadow Ball  
+- Recover  
+- Scald  
+
+Cufant @ Eviolite  
+Ability: Sheer Force  
+Level: 5  
+EVs: 20 HP / 196 Atk / 44 Def / 44 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Iron Head  
+- Zen Headbutt  
+- Power Whip  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 116 HP / 76 Atk / 76 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Knock Off  
+- Rapid Spin  
+- Rock Tomb  
+
+Joltik @ Eviolite  
+Ability: Swarm  
+Level: 5  
+EVs: 116 HP / 36 Def / 140 SpA / 36 SpD / 156 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Bug Buzz  
+- Giga Drain  
+- Thunderbolt  
+- Volt Switch  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 196 Spe  
+Adamant Nature  
+IVs: 11 HP  
+- Aerial Ace  
+- Fake Out  
+- Feint  
+- Knock Off  
+
+
+
+
+
+=== [gen8lc] Little#8036-7-6 by Joltage ===
+
+Sandile @ Eviolite  
+Ability: Intimidate  
+Level: 5  
+EVs: 100 Atk / 156 Def / 236 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Taunt  
+- Earthquake  
+- Crunch  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
+Modest Nature  
+- Knock Off  
+- Sludge Bomb  
+- Vacuum Wave  
+- Focus Blast  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 236 Def / 36 SpA / 196 Spe  
+Timid Nature  
+- Psychic  
+- Roost  
+- Heat Wave  
+- U-turn  
+
+Helioptile @ Choice Scarf  
+Ability: Dry Skin  
+Level: 5  
+EVs: 4 HP / 12 Def / 188 SpA / 92 SpD / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Volt Switch  
+- Surf  
+- U-turn  
+
+Pumpkaboo-Small @ Life Orb  
+Ability: Frisk  
+Level: 5  
+EVs: 228 Atk / 36 Def / 228 Spe  
+Adamant Nature  
+IVs: 11 HP  
+- Poltergeist  
+- Bullet Seed  
+- Flame Charge  
+- Shadow Sneak  
+
+Krabby @ Life Orb  
+Ability: Sheer Force  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 Def / 196 Spe  
+Adamant Nature  
+- Agility  
+- Liquidation  
+- Body Slam  
+- Knock Off  
+
+
+
+
+
+=== [gen8lc] Little#8037-7-6 by Joltage ===
+
+Woobat @ Grassy Seed  
+Ability: Simple  
+Level: 5  
+EVs: 252 Def / 92 SpD / 100 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Roost  
+- Calm Mind  
+- Psychic  
+
+Cottonee @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 36 HP / 116 Def / 196 SpD / 148 Spe  
+Modest Nature  
+- Grassy Terrain  
+- Dazzling Gleam  
+- Giga Drain  
+- Knock Off  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 156 Atk / 76 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Knock Off  
+- Rapid Spin  
+- Swords Dance  
+
+Skrelp @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 116 HP / 116 Def / 116 SpA / 116 SpD / 36 Spe  
+Modest Nature  
+- Flip Turn  
+- Hydro Pump  
+- Sludge Bomb  
+- Thunderbolt  
+
+Cufant @ Eviolite  
+Ability: Sheer Force  
+Level: 5  
+EVs: 20 HP / 196 Atk / 44 Def / 44 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Iron Head  
+- Power Whip  
+- Superpower  
+
+Joltik @ Eviolite  
+Ability: Swarm  
+Level: 5  
+EVs: 116 HP / 36 Def / 140 SpA / 36 SpD / 156 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Bug Buzz  
+- Giga Drain  
+- Thunderbolt  
+- Volt Switch  
+
+
+
+
+
+=== [gen8lc] Little#8038-7-6 by Joltage ===
+
+Axew @ Life Orb  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 220 Atk / 36 Def / 220 Spe  
+Adamant Nature  
+IVs: 1 HP  
+- Swords Dance  
+- First Impression  
+- Outrage  
+- Superpower  
+
+Cufant @ Eviolite  
+Ability: Sheer Force  
+Level: 5  
+EVs: 20 HP / 196 Atk / 44 Def / 44 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Zen Headbutt  
+- Power Whip  
+- Stealth Rock  
+
+Budew @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 36 HP / 156 Def / 36 SpA / 36 SpD / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Spikes  
+- Sleep Powder  
+- Sludge Bomb  
+- Giga Drain  
+
+Frillish @ Eviolite  
+Ability: Water Absorb  
+Level: 5  
+EVs: 76 HP / 196 Def / 76 SpA / 76 SpD / 36 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Scald  
+- Recover  
+- Shadow Ball  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 156 Atk / 76 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Knock Off  
+- Rapid Spin  
+- Rock Tomb  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 236 Def / 36 SpA / 196 Spe  
+Timid Nature  
+- Psychic  
+- Heat Wave  
+- Roost  
+- U-turn  
+
+
+
+
+
+=== [gen8lc] Little#8039-7-6 by Joltage ===
+
+Snover @ Berry Juice  
+Ability: Snow Warning  
+Level: 5  
+EVs: 36 HP / 20 Atk / 36 Def / 180 SpA / 36 SpD / 196 Spe  
+Timid Nature  
+- Giga Drain  
+- Blizzard  
+- Ice Shard  
+- Substitute  
+
+Sandshrew-Alola @ Berry Juice  
+Ability: Slush Rush  
+Level: 5  
+EVs: 36 HP / 236 Atk / 36 Def / 196 Spe  
+Jolly Nature  
+- Triple Axel  
+- Earthquake  
+- Rapid Spin  
+- Swords Dance  
+
+Skrelp @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 116 HP / 116 Def / 116 SpA / 116 SpD / 36 Spe  
+Modest Nature  
+- Flip Turn  
+- Hydro Pump  
+- Sludge Bomb  
+- Thunderbolt  
+
+Baltoy @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 156 Def / 36 SpA / 36 SpD / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Scorching Sands  
+- Stealth Rock  
+- Ice Beam  
+
+Pancham @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 180 Atk / 100 Def / 52 SpD / 172 Spe  
+Jolly Nature  
+- Drain Punch  
+- Knock Off  
+- Zen Headbutt  
+- Parting Shot  
+
+Helioptile @ Choice Scarf  
+Ability: Dry Skin  
+Level: 5  
+EVs: 4 HP / 12 Def / 188 SpA / 92 SpD / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Volt Switch  
+- U-turn  
+- Surf  
+
+
+
+
+
+=== [gen8lc] Little#8040-2-6 by DC ===
+
+Dewpider @ Berry Juice  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Sticky Web  
+- Surf  
+- Icy Wind  
+- Protect  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Moonblast  
+- Psychic  
+- Draining Kiss  
+
+Mienfoo @ Berry Juice  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- High Jump Kick  
+- Acrobatics  
+- Substitute  
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 36 HP / 196 Atk / 116 Def / 156 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Heavy Slam  
+- Rock Slide  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+- Low Sweep  
+
+Vullaby (F) @ Berry Juice  
+Ability: Overcoat  
+Level: 5  
+EVs: 156 Atk / 76 Def / 76 SpD / 196 Spe  
+Serious Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Heat Wave  
+
+
+
+
+
+=== [gen8lc] Little#8041-3-5 by DC ===
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psychic  
+- Mystical Fire  
+- Morning Sun  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 76 Atk / 156 Def / 36 SpD / 196 Spe  
+Impish Nature  
+- Stealth Rock  
+- Rapid Spin  
+- Knock Off  
+- Earthquake  
+
+Pancham @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 180 Atk / 100 Def / 52 SpD / 172 Spe  
+Adamant Nature  
+- Swords Dance  
+- Drain Punch  
+- Knock Off  
+- Thunder Punch  
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Will-O-Wisp  
+- Flare Blitz  
+- Morning Sun  
+
+Budew @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Spikes  
+- Giga Drain  
+- Sludge Bomb  
+- Synthesis  
+
+Goldeen @ Eviolite  
+Ability: Lightning Rod  
+Level: 5  
+EVs: 220 Atk / 116 Def / 172 Spe  
+Jolly Nature  
+- Flip Turn  
+- Knock Off  
+- Toxic  
+- Waterfall  
+
+
+
+
+
+=== [gen8lc] Little#8042-3-5 by DC ===
+
+Pumpkaboo-Small @ Life Orb  
+Ability: Frisk  
+Level: 5  
+EVs: 228 Atk / 36 Def / 228 Spe  
+Jolly Nature  
+IVs: 11 HP  
+- Flame Charge  
+- Bullet Seed  
+- Poltergeist  
+- Shadow Sneak  
+
+Joltik @ Eviolite  
+Ability: Swarm  
+Level: 5  
+EVs: 220 SpA / 36 SpD / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Thunderbolt  
+- Giga Drain  
+- Bug Buzz  
+
+Cufant @ Eviolite  
+Ability: Sheer Force  
+Level: 5  
+EVs: 20 HP / 196 Atk / 44 Def / 44 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Iron Head  
+- High Horsepower  
+- Zen Headbutt  
+
+Pancham @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 60 HP / 100 Atk / 20 Def / 52 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Drain Punch  
+- Knock Off  
+- Zen Headbutt  
+
+Natu @ Life Orb  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 76 Def / 196 SpA / 196 Spe  
+Timid Nature  
+IVs: 19 HP / 0 Atk  
+- Air Slash  
+- Heat Wave  
+- Dazzling Gleam  
+- Giga Drain  
+
+Shellos @ Eviolite  
+Ability: Sticky Hold  
+Level: 5  
+EVs: 228 HP / 212 Def / 20 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Earth Power  
+- Recover  
+- Clear Smog  
+
+
+
+
+
+=== [gen8lc] Little#8043-1-4 by Laroxyl ===
+
+Cutiefly @ Eviolite  
+Ability: Shield Dust  
+Level: 5  
+EVs: 36 HP / 196 Def / 244 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Roost  
+- Moonblast  
+- Psychic  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Knock Off  
+- Drain Punch  
+- Mach Punch  
+- Defog  
+
+Diglett @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Sludge Bomb  
+- Final Gambit  
+- Stealth Rock  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+
+Shellos @ Eviolite  
+Ability: Sticky Hold  
+Level: 5  
+EVs: 228 HP / 212 Def / 20 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Clear Smog  
+- Toxic  
+- Recover  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Endure
+
+
+
+
+=== [gen8lc] Little#8044-6-4 by UnbecomingDuck ===
+
+Trubbish @ Berry Juice  
+Ability: Sticky Hold  
+Level: 5  
+EVs: 36 HP / 196 Atk / 100 Def / 100 SpD / 76 Spe  
+Adamant Nature  
+- Spikes  
+- Recycle  
+- Gunk Shot  
+- Corrosive Gas  
+
+Pumpkaboo-Super @ Eviolite  
+Ability: Frisk  
+Level: 5  
+Shiny: Yes  
+EVs: 204 HP / 36 Def / 4 SpA / 236 SpD  
+Sassy Nature  
+- Giga Drain  
+- Synthesis  
+- Will-O-Wisp  
+- Shadow Sneak  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Morning Sun  
+- Psychic  
+- Mystical Fire  
+
+Pancham @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 140 HP / 20 Atk / 100 Def / 212 SpD / 12 Spe  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Zen Headbutt  
+- Parting Shot  
+
+Anorith @ Berry Juice  
+Ability: Battle Armor  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- Rapid Spin  
+- Stealth Rock  
+- Rock Blast  
+
+Stunky @ Eviolite  
+Ability: Aftermath  
+Level: 5  
+EVs: 12 HP / 60 Def / 188 SpA / 244 Spe  
+Timid Nature  
+- Sucker Punch  
+- Taunt  
+- Dark Pulse  
+- Sludge Bomb  
+
+
+
+
+
+
+=== [gen8lc] Little#8045-6-4 by UnbecomingDuck ===
+
+Trubbish @ Eviolite  
+Ability: Sticky Hold  
+Level: 5  
+EVs: 196 HP / 180 Def / 100 SpD  
+Impish Nature  
+- Clear Smog  
+- Spikes  
+- Drain Punch  
+- Corrosive Gas  
+
+Onix @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Stealth Rock  
+- Explosion  
+
+Pumpkaboo-Super @ Eviolite  
+Ability: Frisk  
+Level: 5  
+EVs: 204 HP / 36 Def / 4 SpA / 236 SpD / 28 Spe  
+Calm Nature  
+- Giga Drain  
+- Synthesis  
+- Will-O-Wisp  
+- Fire Blast  
+
+Vullaby @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Dark Pulse  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Scald  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+Scraggy @ Eviolite  
+Ability: Shed Skin  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Adamant Nature  
+- Dragon Dance  
+- High Jump Kick  
+- Knock Off  
+- Drain Punch  
+
+
+
+
+
+
+=== [gen8lc] Little#8046-6-4 by UnbecomingDuck ===
+
+Queen (Vullaby) @ Choice Scarf  
+Ability: Overcoat  
+Level: 5  
+Shiny: Yes  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+King (Mienfoo) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 196 Def / 196 SpD  
+Impish Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Fake Out  
+
+Michelle (Shellos-East) @ Eviolite  
+Ability: Sticky Hold  
+Level: 5  
+EVs: 228 HP / 132 Def / 100 SpD / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Clear Smog  
+- Toxic  
+
+Lil dumb ass horse (Ponyta-Galar) @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+Shiny: Yes  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
+- Morning Sun  
+
+The Plug (Ferroseed) @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+Shiny: Yes  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Spikes  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+
+Pee Pee Joke (Onix) @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Stealth Rock  
+- Explosion  
+
+
+
+
+
+
+=== [gen8lc] Little#8047-6-4 by UnbecomingDuck ===
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
+- Scald  
+- Knock Off  
+- Recover  
+- Toxic Spikes  
+
+Sinistea @ Choice Scarf  
+Ability: Weak Armor  
+Level: 5  
+EVs: 36 HP / 244 SpA / 4 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hex  
+- Shadow Ball  
+- Giga Drain  
+- Shell Smash  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+- Stealth Rock  
+
+Larvesta @ Heavy-Duty Boots  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Def / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- U-turn  
+- Will-O-Wisp  
+- Morning Sun  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Defog  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Spikes  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+
+
+
+
+
+
+=== [gen8lc] Little#8048-6-4 by UnbecomingDuck ===
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
+
+Gible @ Berry Juice  
+Ability: Rough Skin  
+Level: 5  
+EVs: 52 HP / 156 Def / 116 SpA / 156 SpD / 20 Spe  
+Bold Nature  
+- Stealth Rock  
+- Draco Meteor  
+- Earth Power  
+- Fire Blast  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Spikes  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+
+Larvesta @ Heavy-Duty Boots  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Def / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- U-turn  
+- Will-O-Wisp  
+- Morning Sun  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Scald  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+Abra @ Life Orb  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Psychic  
+- Fire Punch  
+- Dazzling Gleam  
+- Protect  
+
+
+
+
+
+
+=== [gen8lc] Little#8049-6-4 by UnbecomingDuck ===
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Stealth Rock  
+- Dragon Dance  
+
+Magnemite @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Flash Cannon  
+- Recycle  
+- Endure  
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Whirlwind  
+- Recycle  
+
+Abra @ Life Orb  
+Ability: Magic Guard  
+Level: 5  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Dazzling Gleam  
+- Fire Punch  
+- Protect  
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Sucker Punch  
+- Substitute  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 132 HP / 28 Atk / 116 Def / 108 SpA / 116 SpD  
+Quiet Nature  
+- Thief  
+- Sludge Bomb  
+- Vacuum Wave  
+- Drain Punch  
+
+
+
+
+
+
+=== [gen8lc] Little#8050-6-4 by UnbecomingDuck ===
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Sucker Punch  
+- Substitute  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Giga Drain  
+- Superpower  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 52 HP / 188 Atk / 116 Def / 116 SpD / 36 Spe  
+Adamant Nature  
+- Drain Punch  
+- Sucker Punch  
+- Thief  
+- Bulk Up  
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 76 Def / 116 SpA / 196 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Slack Off  
+- Scald  
+- Psychic  
+- Teleport  
+
+Larvesta @ Heavy-Duty Boots  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Def / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- U-turn  
+- Will-O-Wisp  
+- Morning Sun  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 196 Def / 196 SpD  
+Impish Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Fake Out  
+
+
+
+
+
+
+=== [gen8lc] Little#8051-6-4 by UnbecomingDuck ===
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 132 HP / 28 Atk / 116 Def / 108 SpA / 116 SpD  
+Quiet Nature  
+- Knock Off  
+- Sludge Bomb  
+- Vacuum Wave  
+- Drain Punch  
+
+Omanyte @ Eviolite  
+Ability: Shell Armor  
+Level: 5  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power  
+
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Drain Punch  
+- Knock Off  
+- U-turn  
+- Close Combat  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Stealth Rock  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Sucker Punch  
+- Substitute  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+
+
+
+
+
+=== [gen8lc] Little#8052-6-4 by UnbecomingDuck ===
+
+Larvesta @ Heavy-Duty Boots  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Def / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- U-turn  
+- Will-O-Wisp  
+- Morning Sun  
+
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Rock Slide  
+- Knock Off  
+- U-turn  
+- Close Combat  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 132 HP / 28 Atk / 116 Def / 108 SpA / 116 SpD  
+Quiet Nature  
+- Thief  
+- Sludge Bomb  
+- Vacuum Wave  
+- Drain Punch  
+
+Onix @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Stealth Rock  
+- Explosion  
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 132 Def / 148 SpA / 228 Spe  
+Timid Nature  
+- Volt Switch  
+- Ice Beam  
+- Thunderbolt  
+- Scald  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Spikes  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+
+
+
+
+
+
+=== [gen8lc] Little#8053-6-4 by UnbecomingDuck ===
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Impish Nature  
+- Spikes  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
+- Scald  
+- Sludge Bomb  
+- Recover  
+- Toxic Spikes  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Will-O-Wisp  
+- Morning Sun  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 76 HP / 36 Atk / 156 Def / 236 SpD  
+Careful Nature  
+- Bulk Up  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 76 Atk / 116 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Rapid Spin  
+- Earthquake  
+- Rock Slide  
+- Stealth Rock  
+
+Magnemite @ Choice Scarf  
+Ability: Analytic  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Modest Nature  
+- Volt Switch  
+- Thunderbolt  
+- Flash Cannon  
+- Steel Beam  
+
+
+
+
+
+
+=== [gen8lc] Little#8054-6-4 by UnbecomingDuck ===
+
+Abra @ Life Orb  
+Ability: Magic Guard  
+Level: 5  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Dazzling Gleam  
+- Fire Punch  
+- Protect  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+- Stealth Rock  
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Sucker Punch  
+- Substitute  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Defog  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Will-O-Wisp  
+- Morning Sun  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Scald  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+
+
+
+
+
+
+=== [gen8lc] Little#8055-8-3 by Jox ===
+
+Cryogeen (Snover) (M) @ Choice Scarf  
+Ability: Snow Warning  
+Level: 5  
+EVs: 36 HP / 36 Def / 180 SpA / 36 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Giga Drain  
+- Ice Beam  
+- Energy Ball  
+
+Yuki Jyorou (Wynaut) @ Berry Juice  
+Ability: Shadow Tag  
+Level: 5  
+EVs: 156 HP / 52 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Destiny Bond  
+- Encore  
+- Counter  
+- Mirror Coat  
+
+Glacial Erratic (Onix) @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Explosion  
+- Stealth Rock  
+
+Anivia (Wingull) @ Life Orb  
+Ability: Rain Dish  
+Level: 5  
+Shiny: Yes  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 HP / 0 Atk  
+- Air Slash  
+- Scald  
+- Blizzard  
+- Substitute  
+
+Cocytus (Timburr) @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+Shiny: Yes  
+EVs: 76 HP / 196 Atk / 236 Def  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Defog  
+
+Jack Frost (Munchlax) @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+Shiny: Yes  
+EVs: 236 Atk / 36 Def / 76 SpD / 156 Spe  
+Adamant Nature  
+- Body Slam  
+- Superpower  
+- Gunk Shot  
+- Recycle  
+
+
+
+
+
+=== [gen8lc] Little#8056-8-3 by Jox ===
+
+Cryogeen (Snover) (M) @ Choice Scarf  
+Ability: Snow Warning  
+Level: 5  
+EVs: 36 HP / 36 Def / 180 SpA / 36 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Giga Drain  
+- Ice Beam  
+- Energy Ball  
+
+Yuki Jyorou (Wynaut) @ Berry Juice  
+Ability: Shadow Tag  
+Level: 5  
+EVs: 156 HP / 52 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Destiny Bond  
+- Encore  
+- Counter  
+- Mirror Coat  
+
+Glacial Erratic (Onix) @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Explosion  
+- Stealth Rock  
+
+Anivia (Wingull) @ Life Orb  
+Ability: Rain Dish  
+Level: 5  
+Shiny: Yes  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 HP / 0 Atk  
+- Air Slash  
+- Scald  
+- Blizzard  
+- Substitute  
+
+Cocytus (Timburr) @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+Shiny: Yes  
+EVs: 76 HP / 196 Atk / 236 Def  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Defog  
+
+Pluto (Mareanie) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 100 Def / 20 SpD / 236 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Haze  
+- Recover  
+
+
+
+
+
+=== [gen8lc] Little#8057-5-3 by MK007 ===
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+Level: 5  
+Shiny: Yes  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Drain Punch  
+- Knock Off  
+- Dragon Dance  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 76 HP / 196 Atk / 236 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Bulk Up  
+- Knock Off  
+
+Vullaby (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Thunder Wave  
+- Knock Off  
+- Sucker Punch  
+- Iron Head  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 12 Atk / 100 Def / 92 SpA / 100 SpD  
+Calm Nature  
+- Scald  
+- Sludge Bomb  
+- Recover  
+- Knock Off  
+
+Oddish @ Eviolite  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 236 HP / 76 Def / 76 SpD / 116 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Sludge Bomb  
+- Sleep Powder  
+- Strength Sap  
+
+
+
+
+
+=== [gen8lc] Little#8058-2-3 by Jox ===
+
+Roid Rage (Timburr) (M) @ Eviolite  
+Ability: Guts  
+Level: 5  
+Shiny: Yes  
+EVs: 116 Atk / 156 Def / 236 SpD  
+Careful Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
+
+Galaxy (Ponyta-Galar) (M) @ Life Orb  
+Ability: Pastel Veil  
+Level: 5  
+Shiny: Yes  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Mystical Fire  
+- Protect  
+
+Chlorofille (Oddish) @ Eviolite  
+Ability: Chlorophyll  
+Level: 5  
+Shiny: Yes  
+EVs: 156 HP / 76 Def / 76 SpD / 196 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Strength Sap  
+- Sleep Powder  
+- Sludge Bomb  
+- Giga Drain  
+
+Onixpected (Onix) @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+Shiny: Yes  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Endure  
+- Stealth Rock  
+
+Cracker (Trapinch) @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+Shiny: Yes  
+EVs: 196 Atk / 236 Def / 76 SpD  
+Brave Nature  
+- Earthquake  
+- Giga Drain  
+- Quick Attack  
+- First Impression  
+
+Kenny (Vullaby) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Endure  
+
+
+
+
+
+=== [gen8lc] Little#8059-5-3 by ojr ===
+
+Speed King (Mudbray) @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 116 Atk / 36 Def / 236 SpD  
+Careful Nature  
+- Earthquake  
+- Rest  
+- Sleep Talk  
+- Heavy Slam  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
+Adamant Nature  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+- Stealth Rock  
+
+Walking Heart (Vullaby) @ Choice Scarf  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 76 SpA / 196 Spe  
+Naive Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Heat Wave  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Giga Drain  
+- Sludge Bomb  
+- Synthesis  
+
+King Nothing (Mienfoo) (M) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 196 Def / 196 SpD  
+Relaxed Nature  
+IVs: 10 Spe  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Fake Out  
+
+Paper Moon King (Wingull) (M) @ Berry Juice  
+Ability: Rain Dish  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Scald  
+- Substitute  
+- Defog  
+
+
+
+
+
+=== [gen8lc] Little#8060-5-3 by LilyAC ===
+
+Vulpix @ Choice Scarf  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Fire Blast  
+- Overheat  
+- Energy Ball  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 196 Def / 196 SpD  
+Impish Nature  
+- Fake Out  
+- U-turn  
+- Knock Off  
+- High Jump Kick  
+
+Vullaby (F) @ Berry Juice  
+Ability: Overcoat  
+Level: 5  
+EVs: 116 HP / 76 Def / 156 SpD / 116 Spe  
+Careful Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
+
+Diglett @ Air Balloon  
+Ability: Arena Trap  
+Level: 5  
+EVs: 116 HP / 156 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Beat Up  
+- Final Gambit  
+- Protect  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Scald  
+- Recover  
+- Toxic Spikes  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 236 Atk / 36 Def / 116 SpD / 116 Spe  
+Adamant Nature  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+- Stealth Rock  
+
+
+
+
+
+=== [gen8lc] Little#8061-5-3 by LilyAC ===
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tri Attack  
+- Psychic  
+- Ice Beam  
+- Agility  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+- Stealth Rock  
+
+Vullaby (F) @ Berry Juice  
+Ability: Overcoat  
+Level: 5  
+EVs: 156 Atk / 76 Def / 76 SpD / 196 Spe  
+- Brave Bird  
+- Knock Off  
+- Heat Wave  
+- Defog  
+
+Grookey @ Life Orb  
+Ability: Grassy Surge  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Wood Hammer  
+- Grassy Glide  
+- Drain Punch  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 196 Def / 196 SpD  
+Impish Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Fake Out  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 12 Atk / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Scald  
+- Sludge Bomb  
+- Knock Off  
+- Recover  
+
+
+
+
+
+=== [gen8lc] Little#8062-5-3 by LilyAC ===
+
+Mienfoo @ Choice Scarf  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Close Combat  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Sassy Nature  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 236 Def / 76 Spe  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Thunder Punch  
+
+Vullaby (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+- Scald  
+- Sludge Bomb  
+- Recover  
+- Toxic Spikes  
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 156 Spe  
+Adamant Nature  
+- Earthquake  
+- Heavy Slam  
+- Stealth Rock  
+- Rock Slide  
+
+
+
+
+
+
+=== [gen8lc] Little#8063-5-3 by LilyAC ===
+
+Mienfoo @ Choice Band  
+Ability: Reckless  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Knock Off  
+- Drain Punch  
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 36 Def / 236 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Tri Attack  
+- Ice Beam  
+- Thunder Wave  
+- Recover  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 156 Def / 116 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Thunderbolt  
+- Thunder Wave  
+- Recover  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Counter  
+- Protect  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 76 HP / 156 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+
+Vullaby (F) @ Berry Juice  
+Ability: Overcoat  
+Level: 5  
+EVs: 116 HP / 76 Atk / 76 Def / 156 SpD / 36 Spe  
+Jolly Nature  
+- Knock Off  
+- Brave Bird  
+- U-turn  
+- Defog  
+
+
+
+
+
+=== [gen8lc] Little#8064-8-3 by fran17 ===
+
+Natu @ Light Clay
+Ability: Magic Bounce
+Level: 5
+EVs: 116 HP / 76 Def / 36 SpA / 76 SpD / 196 Spe
+Timid Nature
+IVs: 0 Atk
+- Light Screen
+- Reflect
+- Teleport
+- Dazzling Gleam
+
+Croagunk @ Berry Juice
+Ability: Dry Skin
+Level: 5
+EVs: 52 HP / 36 Def / 188 SpA / 36 SpD / 196 Spe
+Timid Nature
+IVs: 0 Atk
+- Nasty Plot
+- Sludge Bomb
+- Focus Blast
+- Vacuum Wave
+
+Vullaby (F) @ Berry Juice
+Ability: Weak Armor
+Level: 5
+EVs: 116 HP / 236 SpA / 116 Spe
+Modest Nature
+IVs: 0 Atk
+- Nasty Plot
+- Air Slash
+- Dark Pulse
+- Heat Wave
+
+Scraggy @ Eviolite
+Ability: Moxie
+Level: 5
+EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe
+Jolly Nature
+- Dragon Dance
+- High Jump Kick
+- Knock Off
+- Drain Punch
+
+Onix @ Berry Juice
+Ability: Sturdy
+Level: 5
+EVs: 236 Atk / 76 SpD / 196 Spe
+Jolly Nature
+- Taunt
+- Stealth Rock
+- Explosion
+- Earthquake
+
+Diglett @ Life Orb
+Ability: Arena Trap
+Level: 5
+EVs: 36 HP / 236 Atk / 236 Spe
+Jolly Nature
+- Earthquake
+- Sucker Punch
+- Substitute
+- Rock Slide
+
+
+
+
+=== [gen8lc] Little#8065-7-3 by Aconit ===
+
+Inkay @ Choice Scarf  
+Ability: Contrary  
+Level: 5  
+EVs: 12 HP / 244 Atk / 12 Def / 236 Spe  
+Adamant Nature  
+- Superpower  
+- Knock Off  
+- Destiny Bond  
+- Switcheroo  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 Atk / 196 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Fake Out  
+
+Vullaby (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 36 Spe  
+Impish Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Relaxed Nature  
+- Stealth Rock  
+- Thunder Wave  
+- Giga Drain  
+- Iron Head  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Scald  
+- Sludge Bomb  
+- Recover  
+
+Porygon @ Eviolite  
+Ability: Download  
+Level: 5  
+EVs: 156 HP / 236 SpA / 116 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Agility  
+- Tri Attack  
+- Psychic  
+- Recover  
+
+
+
+
+
+=== [gen8lc] Little#8066-7-3 by Aconit ===
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+IVs: 0 HP  
+- Liquidation  
+- Crunch  
+- Psychic Fangs  
+- Protect  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 Atk / 196 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Acrobatics  
+
+Vullaby (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 188 Def / 84 SpA / 148 SpD  
+Relaxed Nature  
+- Stealth Rock  
+- Thunder Wave  
+- Giga Drain  
+- Knock Off  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Scald  
+- Sludge Bomb  
+- Recover  
+
+Abra @ Air Balloon  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Encore  
+- Psychic Terrain  
+
+
+
+
+
+=== [gen8lc] Little#8067-0-3 by Aconit ===
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 Atk / 196 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Acrobatics  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Giga Drain  
+- Sludge Bomb  
+- Synthesis  
+
+Vullaby (F) @ Choice Scarf  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 76 SpA / 196 Spe  
+Quirky Nature  
+- Brave Bird  
+- Knock Off  
+- Heat Wave  
+- U-turn  
+
+Onix @ Eviolite  
+Ability: Rock Head  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Head Smash  
+- Earthquake  
+- Explosion  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Rapid Spin  
+- Scald  
+- Thunderbolt  
+- Recover  
+
+Munchlax @ Eviolite  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 HP / 36 Def / 236 SpD  
+Impish Nature  
+- Curse  
+- Body Slam  
+- Rest  
+- Sleep Talk  
+
+
+
+
+
+=== [gen8lc] Little#8068-5-2 by Serene ===
+
+Logan (Spritzee) @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Moonblast  
+- Psychic  
+- Draining Kiss  
+
+Rattlesnake Jack (Onix) @ Eviolite  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Head Smash  
+- Dragon Dance  
+- Explosion  
+- Earthquake  
+
+Jazba 2020 (Vullaby) (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 SpA / 196 Spe  
+Serious Nature  
+- Knock Off  
+- Brave Bird  
+- Heat Wave  
+- Defog  
+
+Wild Gun Wyatt (Cutiefly) @ Eviolite  
+Ability: Shield Dust  
+Level: 5  
+EVs: 236 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sticky Web  
+- Moonblast  
+- Stun Spore  
+- Bug Buzz  
+
+Bobbi Ponder (Mareanie) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 36 HP / 100 Def / 12 SpA / 100 SpD / 236 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Recover  
+- Toxic Spikes  
+
+Izzat (Ferroseed) @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
+Relaxed Nature  
+- Knock Off  
+- Giga Drain  
+- Thunder Wave  
+- Stealth Rock  
+
+
+
+
+
+=== [gen8lc] Little#8069-5-2 by Serene ===
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Moonblast  
+- Psychic  
+- Draining Kiss  
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 36 Def / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Blast  
+- Taunt  
+
+Vullaby @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 116 HP / 76 Def / 236 SpA / 36 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Air Slash  
+- Roost  
+- Heat Wave  
+
+Zigzagoon @ Berry Juice  
+Ability: Pickup  
+Level: 5  
+EVs: 132 HP / 196 Atk / 108 Def / 28 SpD / 36 Spe  
+Adamant Nature  
+- Belly Drum  
+- Extreme Speed  
+- Thief  
+- Substitute  
+
+Vulpix-Alola @ Light Clay  
+Ability: Snow Warning  
+Level: 5  
+EVs: 52 HP / 196 SpA / 240 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Aurora Veil  
+- Freeze-Dry  
+- Protect  
+- Disable  
+
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 76 Atk / 36 Def / 76 SpD / 212 Spe  
+Jolly Nature  
+- Rapid Spin  
+- Earthquake  
+- Rock Slide  
+- Swords Dance  
+
+
+
+
+
+=== [gen8lc] Little#8070-5-2 by Serene ===
+
+Cutiefly @ Eviolite  
+Ability: Shield Dust  
+Level: 5  
+EVs: 36 HP / 36 Def / 156 SpA / 36 SpD / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sticky Web  
+- Moonblast  
+- Stun Spore  
+- Roost  
+
+Onix @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Rock Blast  
+- Earthquake  
+- Explosion  
+
+Vullaby @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 116 HP / 76 Def / 240 SpA / 36 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Roost  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 196 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Superpower  
+- Giga Drain  
+- First Impression  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 36 HP / 100 Def / 12 SpA / 180 SpD / 156 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Recover  
+- Toxic Spikes  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Sucker Punch  
+- Iron Head  
+- Swords Dance  
+
+
+
+
+
+=== [gen8lc] Little#8071-5-2 by Serene ===
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Wish  
+- Protect  
+- Aromatherapy  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Adamant Nature  
+- Earthquake  
+- First Impression  
+- Rock Slide  
+- Superpower  
+
+Vullaby (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 SpA / 196 Spe  
+Serious Nature  
+- Brave Bird  
+- Knock Off  
+- Heat Wave  
+- Defog  
+
+Shellos (Shellos-East) @ Eviolite  
+Ability: Sticky Hold  
+Level: 5  
+EVs: 228 HP / 212 Def / 20 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Toxic  
+- Earth Power  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Will-O-Wisp  
+- Morning Sun  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Sucker Punch  
+- Iron Head  
+- Stealth Rock  
+
+
+
+
+
+=== [gen8lc] Little#8072-5-2 by Serene ===
+
+Cutiefly @ Eviolite  
+Ability: Shield Dust  
+Level: 5  
+EVs: 36 HP / 36 Def / 156 SpA / 36 SpD / 244 Spe  
+Timid Nature  
+- Moonblast  
+- Stun Spore  
+- Sticky Web  
+- U-turn  
+
+Onix @ Eviolite  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Head Smash  
+- Stealth Rock  
+- Explosion  
+
+Vullaby (F) @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Dark Pulse  
+- Heat Wave  
+- Nasty Plot  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 76 HP / 196 Atk / 236 Def  
+Adamant Nature  
+- Drain Punch  
+- Knock Off  
+- Mach Punch  
+- Defog  
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 196 SpA / 76 SpD / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Fire Blast  
+- Thunderbolt  
+- Will-O-Wisp  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 84 SpA / 68 SpD / 36 Spe  
+- Giga Drain  
+- Knock Off  
+- Iron Head  
+- Thunder Wave  
+
+
+
+
+
+=== [gen8lc] Little#8073-5-2 by Serene ===
+
+Cutiefly @ Eviolite  
+Ability: Shield Dust  
+Level: 5  
+EVs: 116 Def / 116 SpD / 244 Spe  
+Timid Nature  
+- U-turn  
+- Bug Buzz  
+- Moonblast  
+- Sticky Web  
+
+Onix @ Choice Scarf  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 36 Def / 196 Spe  
+Jolly Nature  
+- Explosion  
+- Body Press  
+- Earthquake  
+- Head Smash  
+
+Rufflet (M) @ Eviolite  
+Ability: Hustle  
+Level: 5  
+EVs: 116 HP / 12 Atk / 36 Def / 116 SpD / 196 Spe  
+Careful Nature  
+- Aerial Ace  
+- Bulk Up  
+- Roost  
+- Close Combat  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Brave Nature  
+- Earthquake  
+- Quick Attack  
+- Giga Drain  
+- First Impression  
+
+Koffing @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 196 SpA / 76 SpD / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Fire Blast  
+- Thunderbolt  
+- Toxic Spikes  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 188 Def / 148 SpD / 36 Spe  
+Careful Nature  
+- Bullet Seed  
+- Knock Off  
+- Iron Head  
+- Stealth Rock  
+
+
+
+
+
+=== [gen8lc] Little#8074-0-2 by Vhue ===
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Shiny: Yes  
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Will-O-Wisp  
+- Morning Sun  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+- Stealth Rock  
+
+Vullaby (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Knock Off  
+- Brave Bird  
+- Heat Wave  
+- Defog  
+
+Oddish @ Eviolite  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 76 HP / 236 Def / 76 SpD / 116 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Giga Drain  
+- Sludge Bomb  
+- Strength Sap  
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 236 Def / 76 SpD  
+Relaxed Nature  
+- Earthquake  
+- First Impression  
+- Quick Attack  
+- Giga Drain  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Crabhammer  
+- Dragon Dance  
+- Knock Off  
+- Aqua Jet  
+
+
+
+
+
+=== [gen8lc] Little#8075-6-2 by Stoward ===
+
+Timburr @ Eviolite
+Ability: Guts
+Level: 5
+EVs: 196 Atk / 156 Def / 156 Spe
+Adamant Nature
+- Drain Punch
+- Mach Punch
+- Knock Off
+- Defog
+
+Farfetch'd-Galar @ Choice Scarf
+Ability: Scrappy
+Level: 5
+EVs: 20 HP / 236 Atk / 236 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Knock Off
+- Poison Jab
+
+Onix @ Berry Juice
+Ability: Sturdy
+Level: 5
+EVs: 236 Atk / 76 SpD / 196 Spe
+Jolly Nature
+- Stealth Rock
+- Rock Blast
+- Earthquake
+- Dragon Dance
+
+Vullaby (F) @ Berry Juice
+Ability: Weak Armor
+Level: 5
+EVs: 116 HP / 236 SpA / 116 Spe
+Modest Nature
+IVs: 0 Atk
+- Nasty Plot
+- Air Slash
+- Dark Pulse
+- Heat Wave
+
+Ferroseed @ Eviolite
+Ability: Iron Barbs
+Level: 5
+EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe
+Impish Nature
+- Knock Off
+- Bullet Seed
+- Iron Head
+- Spikes
+
+Mareanie @ Eviolite
+Ability: Regenerator
+Level: 5
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD
+Bold Nature
+- Scald
+- Sludge Bomb
+- Recover
+- Toxic Spikes
+
+
+
+
+=== [gen8lc] Little#8076-3-2 by Laroxyl ===
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+Adamant Nature  
+- Counter  
+- Earthquake  
+- Rock Slide  
+- Close Combat  
+
+Farfetch&#39;d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Defog  
+
+Oddish @ Eviolite  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Strength Sap  
+- Giga Drain  
+- Sludge Bomb  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 100 Def / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Iron Defense  
+- Scald  
+- Recover  
+- Sludge Bomb  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Night Slash  
+- Sucker Punch  
+- Iron Head  
+- Stealth Rock  
+
+Vullaby @ Eviolite  
+Ability: Overcoat  
+Level: 5  
+EVs: 116 HP / 76 Def / 156 SpD / 116 Spe  
+Careful Nature  
+- Brave Bird  
+- U-turn  
+- Roost  
+- Knock Off  
+
+
+
+
+
+=== [gen8lc] Little#8077-3-2 by Laroxyl ===
+
+Wynaut @ Berry Juice  
+Ability: Shadow Tag  
+Level: 5  
+EVs: 156 HP / 132 Def / 132 SpD / 12 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Counter  
+- Mirror Coat  
+- Encore  
+- Destiny Bond  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Endure  
+
+Oddish @ Eviolite  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 236 HP / 76 Def / 76 SpD / 116 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Giga Drain  
+- Sludge Bomb  
+- Strength Sap  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 116 Atk / 156 Def / 236 SpD  
+Careful Nature  
+- Drain Punch  
+- Mach Punch  
+- Defog  
+- Thunder Punch  
+
+Krabby @ Life Orb  
+Ability: Sheer Force  
+Level: 5  
+EVs: 116 HP / 236 Atk / 36 Def / 116 Spe  
+Adamant Nature  
+- Agility  
+- Crabhammer  
+- Superpower  
+- Knock Off  
+
+Onix @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Rock Blast  
+- Earthquake  
+- Self-Destruct  
+
+
+
+
+
+=== [gen8lc] Little#8078-3-2 by Laroxyl ===
+
+Snover @ Choice Scarf  
+Ability: Snow Warning  
+Level: 5  
+EVs: 104 Atk / 184 SpA / 200 Spe  
+Naive Nature  
+- Blizzard  
+- Giga Drain  
+- Ice Shard  
+- Shadow Ball  
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Substitute  
+- Rock Slide  
+- Sucker Punch  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Rock Slide  
+- Close Combat  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD  
+Bold Nature  
+- Scald  
+- Sludge Bomb  
+- Recover  
+- Toxic Spikes  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Swords Dance  
+- Iron Head  
+- Sucker Punch  
+- Night Slash  
+
+
+
+
+
+=== [gen8lc] Little#8079-3-2 by Laroxyl ===
+
+Krabby @ Life Orb  
+Ability: Sheer Force  
+Level: 5  
+EVs: 116 HP / 236 Atk / 36 Def / 116 Spe  
+Adamant Nature  
+- Agility  
+- Crabhammer  
+- Superpower  
+- Body Slam  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Crabhammer  
+- Aqua Jet  
+- Knock Off  
+- Swords Dance  
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Rock Blast  
+- Earthquake  
+- Endure  
+
+Natu @ Berry Juice  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- U-turn  
+- Psychic  
+- Heat Wave  
+- Giga Drain  
+
+Drifloon @ Berry Juice  
+Ability: Unburden  
+Level: 5  
+EVs: 116 HP / 196 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Calm Mind  
+- Shadow Ball  
+- Thunderbolt  
+
+Pawniard @ Berry Juice  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Thief  
+- Sucker Punch  
+- Iron Head  
+- Brick Break  
+
+
+
+
+
+=== [gen8lc] Little#8080-3-2 by Laroxyl ===
+
+Wingull @ Life Orb  
+Ability: Keen Eye  
+Level: 5  
+EVs: 36 HP / 236 SpA / 236 Spe  
+Timid Nature  
+- Scald  
+- Hurricane  
+- U-turn  
+- Rain Dance  
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Substitute  
+- Rock Slide  
+- Sucker Punch  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Defog  
+- Ice Punch  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 108 Def / 36 SpA / 228 SpD / 36 Spe  
+Bold Nature  
+- Knock Off  
+- Giga Drain  
+- Thunder Wave  
+- Stealth Rock  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Endure  
+
+Chinchou @ Berry Juice  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 76 HP / 212 Def / 152 SpA / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Volt Switch  
+- Ice Beam  
+- Hydro Pump  
+
+
+
+
+
+=== [gen8lc] Little#8081-2-2 by Corporal ===
+
+Bulbasaur @ Eviolite  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Sludge Bomb  
+- Weather Ball  
+- Growth  
+
+Oddish @ Eviolite  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 156 HP / 236 Def / 76 SpD / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Strength Sap  
+- Sleep Powder  
+- Sludge Bomb  
+- Giga Drain  
+
+Diglett @ Heat Rock  
+Ability: Arena Trap  
+Level: 5  
+EVs: 116 HP / 156 Atk / 236 Spe  
+Jolly Nature  
+- Sunny Day  
+- Memento  
+- Earthquake  
+- Final Gambit  
+
+Ponyta @ Berry Juice  
+Ability: Flash Fire  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Sunny Day  
+- Will-O-Wisp  
+- High Horsepower  
+
+Drilbur @ Berry Juice  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Rapid Spin  
+- Earthquake  
+- Rock Slide  
+- Swords Dance  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Knock Off  
+- Iron Head  
+- Sucker Punch
+
+
+
+
+=== [gen8lc] Little#8082-1-2 by iss ===
+
+Gastly @ Toxic Orb  
+Ability: Levitate  
+Level: 5  
+EVs: 116 HP / 36 Def / 116 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Trick  
+- Sludge Bomb  
+- Thunderbolt  
+- Will-O-Wisp  
+
+Abra @ Life Orb  
+Ability: Magic Guard  
+Level: 5  
+EVs: 240 SpA / 200 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Psychic  
+- Hidden Power [Fighting]
+- Substitute  
+- Protect  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
+Impish Nature  
+- Bullet Seed  
+- Protect  
+- Thunder Wave  
+- Spikes  
+
+Mienfoo @ Flying Gem  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 236 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- U-turn  
+- Acrobatics  
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 228 SpA / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Toxic  
+- Heal Bell  
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 156 HP / 36 Def / 236 SpD / 36 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder Wave  
+- Psychic  
+- Recover  
+
+
+
+
+
+=== [gen8lc] Little#8083-1-2 by iss ===
+
+Omanyte @ Eviolite  
+Ability: Shell Armor  
+Level: 5  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Substitute  
+
+Tentacool @ Eviolite  
+Ability: Liquid Ooze  
+Level: 5  
+EVs: 196 HP / 236 Def / 36 SpA / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Acid Spray  
+- Toxic Spikes  
+- Rapid Spin  
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 5  
+EVs: 132 HP / 20 Atk / 132 Def / 180 SpD / 20 Spe  
+Impish Nature  
+- Earthquake  
+- Stealth Rock  
+- Slack Off  
+- Protect  
+
+Lileep @ Eviolite  
+Ability: Storm Drain  
+Level: 5  
+EVs: 148 HP / 220 Def / 140 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Toxic  
+- Recover  
+- Barrier  
+
+Drifloon @ Flying Gem  
+Ability: Unburden  
+Level: 5  
+EVs: 36 HP / 196 Atk / 4 Def / 4 SpD / 196 Spe  
+Jolly Nature  
+- Acrobatics  
+- Will-O-Wisp  
+- Memento  
+- Substitute  
+
+Vullaby (F) @ Choice Scarf  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- U-turn  
+- Punishment  
+- Tailwind  
+
+
+
+
+
+=== [gen8lc] Little#8084-1-2 by iss ===
+
+Larvesta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 156 Def / 36 Spe  
+Adamant Nature  
+- Flare Blitz  
+- U-turn  
+- Morning Sun  
+- Will-O-Wisp  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+IVs: 0 HP  
+- Waterfall  
+- Crunch  
+- Aqua Jet  
+- Protect  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Thunderbolt  
+- Rapid Spin  
+- Recover  
+
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Stealth Rock  
+- Rapid Spin  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 Spe  
+Adamant Nature  
+- Bulk Up  
+- Drain Punch  
+- Mach Punch  
+- Payback  
+
+Abra @ Focus Sash  
+Ability: Synchronize  
+Level: 5  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Timid Nature  
+- Psychic  
+- Energy Ball  
+- Thunder Wave  
+- Knock Off  
+
+
+
+
+
+=== [gen8lc] Little#8085-1-2 by iss ===
+
+Bronzor @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 140 HP / 148 Def / 84 SpA / 68 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Rest  
+- Sleep Talk  
+- Psychic  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 156 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Fake Out  
+- High Jump Kick  
+- U-turn  
+- Knock Off  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Thunderbolt  
+- Rapid Spin  
+- Recover  
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 5  
+EVs: 132 HP / 20 Atk / 212 Def / 100 SpD / 20 Spe  
+Impish Nature  
+- Earthquake  
+- Stealth Rock  
+- Slack Off  
+- Whirlwind  
+
+Lileep @ Eviolite  
+Ability: Storm Drain  
+Level: 5  
+EVs: 228 HP / 220 Def / 60 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Toxic  
+- Recover  
+- Barrier  
+
+Shelmet @ Eviolite  
+Ability: Overcoat  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Recover  
+- Acid Armor  
+- Baton Pass  
+
+
+
+
+
+=== [gen8lc] Little#8086-1-2 by iss ===
+
+Darumaka @ Choice Scarf  
+Ability: Hustle  
+Level: 5  
+EVs: 116 HP / 196 Atk / 196 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Superpower  
+- U-turn  
+- Fire Punch  
+
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Rapid Spin  
+- Stealth Rock  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 156 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Fake Out  
+- High Jump Kick  
+- U-turn  
+- Knock Off  
+
+Frillish (F) @ Eviolite  
+Ability: Cursed Body  
+Level: 5  
+EVs: 156 HP / 196 Def / 76 SpD / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Will-O-Wisp  
+- Recover  
+- Giga Drain  
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 156 HP / 36 Def / 236 SpD / 36 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Toxic  
+- Psychic  
+- Recover  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
+Impish Nature  
+- Bullet Seed  
+- Payback  
+- Thunder Wave  
+- Spikes  
+
+
+
+
+
+=== [gen8lc] Little#8087-1-2 by iss ===
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 156 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Fake Out  
+- High Jump Kick  
+- U-turn  
+- Knock Off  
+
+Frillish (F) @ Eviolite  
+Ability: Cursed Body  
+Level: 5  
+EVs: 156 HP / 196 Def / 76 SpD / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Will-O-Wisp  
+- Recover  
+- Giga Drain  
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 156 HP / 36 Def / 236 SpD / 36 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder Wave  
+- Psychic  
+- Recover  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+IVs: 0 HP  
+- Waterfall  
+- Crunch  
+- Aqua Jet  
+- Protect  
+
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Rapid Spin  
+- Stealth Rock  
+
+Budew @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 196 HP / 236 Def / 36 SpA / 36 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Stun Spore  
+- Giga Drain  
+- Sludge Bomb  
+
+
+
+
+
+=== [gen8lc] Little#8088-6-2 by Pope ===
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 160 Def / 160 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Sludge Bomb  
+- Giga Drain  
+- Synthesis  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+- Stealth Rock  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 36 Atk / 236 SpA / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Dazzling Gleam  
+- Fire Punch  
+- Protect  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Thunderbolt  
+- Recover  
+- Rapid Spin  
+
+Vullaby (F) @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Dark Pulse  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+- Fake Out  
+
+
+
+
+
+=== [gen8lc] Little#8089-3-1 by AllTerrainVen0moth ===
+
+Why Not? (Wynaut) @ Eviolite 
+Ability: Shadow Tag 
+Level: 5 
+EVs: 236 HP / 212 Def / 60 SpD 
+Impish Nature 
+- Counter 
+- Mirror Coat 
+- Encore 
+- Destiny Bond 
+
+Rocky (Onix) @ Berry Juice 
+Ability: Sturdy 
+Level: 5 
+EVs: 76 HP / 236 Atk / 196 Spe 
+Jolly Nature 
+- Rock Blast 
+- Earthquake 
+- Stealth Rock 
+- Taunt 
+
+Punchy (Mienfoo) @ Eviolite 
+Ability: Regenerator 
+Level: 5 
+EVs: 76 HP / 196 Def / 196 SpD 
+Impish Nature 
+- High Jump Kick 
+- Knock Off 
+- U-turn 
+- Fake Out 
+
+i like turtles (Tirtouga) @ Berry Juice 
+Ability: Sturdy 
+Level: 5 
+EVs: 4 HP / 212 Atk / 12 Def / 76 SpD / 180 Spe 
+Adamant Nature 
+- Shell Smash 
+- Knock Off 
+- Rock Slide 
+- Aqua Tail 
+
+Sprite Cranberry (Spritzee) @ Eviolite 
+Ability: Aroma Veil 
+Level: 5 
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe 
+Bold Nature 
+IVs: 0 Atk 
+- Moonblast 
+- Wish 
+- Protect 
+- Aromatherapy 
+
+Doot Doot (Archen) @ Berry Juice 
+Ability: Defeatist 
+Level: 5 
+EVs: 76 HP / 180 Atk / 196 Spe 
+Jolly Nature 
+- Acrobatics 
+- Rock Slide 
+- Knock Off 
+- U-turn
+
+
+
+
+=== [gen8lc] Little#8090-7-1 by risi ===
+
+Fomantis @ Choice Scarf
+Ability: Contrary
+Level: 5
+EVs: 76 Def / 196 SpA / 236 Spe
+Timid Nature
+IVs: 0 Atk
+- Leaf Storm
+- Defog
+- Weather Ball
+- Giga Drain
+
+Grookey @ Berry Juice
+Ability: Grassy Surge
+Level: 5
+EVs: 236 Atk / 36 Def / 236 Spe
+Jolly Nature
+- Grassy Glide
+- U-turn
+- Acrobatics
+- Swords Dance
+
+Trapinch @ Eviolite
+Ability: Arena Trap
+Level: 5
+EVs: 116 Atk / 236 Def / 156 SpD
+Quiet Nature
+- Earth Power
+- Superpower
+- First Impression
+- Giga Drain
+
+Vullaby (F) @ Berry Juice
+Ability: Overcoat
+Level: 5
+EVs: 116 HP / 76 Atk / 156 SpD / 116 Spe
+Adamant Nature
+- Knock Off
+- Brave Bird
+- U-turn
+- Defog
+
+Mareanie @ Eviolite
+Ability: Regenerator
+Level: 5
+Happiness: 160
+EVs: 196 HP / 12 Atk / 100 Def / 12 SpA / 100 SpD / 76 Spe
+Calm Nature
+- Scald
+- Sludge Bomb
+- Recover
+- Knock Off
+
+Magnemite @ Eviolite  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 36 Def / 236 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Charge Beam  
+- Flash Cannon  
+- Iron Defense  
+- Rest
+
+
+
+
+=== [gen8lc] Little#8091-7-1 by risi ===
+
+Fomantis @ Life Orb
+Ability: Contrary
+Level: 5
+EVs: 76 Def / 196 SpA / 236 Spe
+Timid Nature
+IVs: 0 HP / 0 Atk
+- Leaf Storm
+- Synthesis
+- Weather Ball
+- Giga Drain
+
+Vulpix @ Eject Pack
+Ability: Drought
+Level: 5
+EVs: 36 Def / 196 SpA / 236 Spe
+Timid Nature
+IVs: 0 Atk
+- Overheat
+- Weather Ball
+- Energy Ball
+- Will-O-Wisp
+
+Dewpider @ Berry Juice
+Ability: Water Bubble
+Level: 5
+EVs: 52 HP / 100 Def / 196 SpA / 100 SpD / 60 Spe
+Timid Nature
+IVs: 0 Atk
+- Giga Drain
+- Surf
+- Sticky Web
+- Icy Wind
+
+Pawniard @ Eviolite
+Ability: Defiant
+Level: 5
+EVs: 76 HP / 156 Atk / 36 Def / 36 SpD / 196 Spe
+Jolly Nature
+- Knock Off
+- Sucker Punch
+- Stealth Rock
+- Iron Head
+
+Trapinch @ Eviolite
+Ability: Arena Trap
+Level: 5
+EVs: 36 Atk / 236 Def / 236 SpD
+Brave Nature
+- Earthquake
+- Superpower
+- First Impression
+- Giga Drain
+
+Mienfoo @ Eviolite
+Ability: Regenerator
+Level: 5
+EVs: 236 HP / 196 Def / 36 SpD
+Impish Nature
+- Fake Out
+- Knock Off
+- High Jump Kick
+- U-turn
+
+
+
+
+=== [gen8lc] Little#8092-1-1 by Aconit ===
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Substitute  
+- Sucker Punch  
+- Iron Head  
+- Knock Off  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 12 HP / 196 Atk / 236 Spe  
+Adamant Nature  
+- Swords Dance  
+- Crabhammer  
+- Aqua Jet  
+- Knock Off  
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 36 Atk / 196 Def / 156 Spe  
+Adamant Nature  
+- Earthquake  
+- Close Combat  
+- Stealth Rock  
+- Rock Slide  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Defog  
+- Knock Off  
+
+Oddish @ Eviolite  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 76 HP / 236 Def / 76 SpD / 116 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Sludge Bomb  
+- Growth  
+- Strength Sap  
+
+Vullaby (F) @ Choice Scarf  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Tailwind  
+
+
+
+
+
+=== [gen8lc] Little#8093-7-1 by Embers ===
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpD / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Fake Out  
+- U-turn  
+- Knock Off  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Counter  
+- Protect  
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Beat Up  
+- Substitute  
+
+Vullaby @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Onix @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Rock Blast  
+- Earthquake  
+- Endure  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 160 Def / 160 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Sludge Bomb  
+- Giga Drain  
+- Synthesis  
+
+
+
+
+
+=== [gen8lc] Little#8094-8-1 by Albinson ===
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 40 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+- Psychic Fangs  
+- Liquidation  
+- Crunch  
+- Protect  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dazzling Gleam  
+- Psychic  
+- Shadow Ball  
+- Counter  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 188 Def / 228 SpD / 36 Spe  
+Bold Nature  
+- Stealth Rock  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 52 HP / 196 Def / 12 SpA / 236 SpD / 12 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Wish  
+- Protect  
+- Moonblast  
+- Psychic  
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 220 SpA / 68 SpD / 220 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Ice Beam  
+- Volt Switch  
+- Thunderbolt  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 80 SpD / 76 Spe  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
+
+
+
+
+
+=== [gen8lc] Little#8095-7-1 by sam-testings ===
+
+lobster (Corphish) @ Eviolite
+Ability: Adaptability
+Level: 5
+EVs: 196 Atk / 76 Def / 236 Spe
+Adamant Nature
+- Crabhammer
+- Aqua Jet
+- Knock Off
+- Dragon Dance
+
+krab (Krabby) @ Choice Scarf
+Ability: Sheer Force
+Level: 5
+EVs: 36 HP / 236 Atk / 36 Def / 196 Spe
+Adamant Nature
+- Liquidation
+- Superpower
+- Knock Off
+- Toxic
+
+bird (Vullaby) (F) @ Berry Juice
+Ability: Weak Armor
+Level: 5
+EVs: 236 Atk / 76 Def / 196 Spe
+Adamant Nature
+- Brave Bird
+- Knock Off
+- U-turn
+- Defog
+
+snake (Onix) @ Eviolite
+Ability: Weak Armor
+Level: 5
+EVs: 76 HP / 236 Atk / 196 Spe
+Jolly Nature
+- Stealth Rock
+- Earthquake
+- Rock Blast
+- Toxic
+
+mole (Diglett) @ Life Orb
+Ability: Arena Trap
+Level: 5
+EVs: 36 HP / 236 Atk / 236 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Sucker Punch
+- Substitute
+
+plant (Oddish) @ Eviolite
+Ability: Chlorophyll
+Level: 5
+EVs: 236 HP / 236 Def / 36 Spe
+Bold Nature
+IVs: 0 Atk
+- Sleep Powder
+- Strength Sap
+- Sludge Bomb
+- Giga Drain
+
+
+
+
+=== [gen8lc] Little#8096-3-1 by MegaBanette69 ===
+
+Grubbin @ Focus Sash
+Level: 5
+Shiny: Yes
+Ability: Swarm
+EVs:196 Atk/ 196 Spe/ 116 HP
+Jolly Nature
+- Sticky Web
+- Skitter Smack
+- Thunder Wave
+- Acrobatics
+
+Arrokuda @ Life Orb
+Level: 5
+Shiny: Yes
+Ability: Swift Swim
+EVs: 252 Atk / 228 Spe
+IVs: 17 HP
+Jolly Nature
+- Liquidation
+- Close Combat
+- Psychic Fangs
+- Aqua Jet
+
+Croagunk @ Damp Rock
+Ability: Dry Skin
+Level: 5
+Shiny: Yes
+EVs: 230 SpA/ 190 Spe/88 Def
+Timid Nature
+- Nasty Plot
+- Vacuum Wave
+- Sludge Wave
+- Rain Dance
+
+Deino @ Eviolite
+Ability: Hustle
+Level: 5
+Shiny: Yes
+EVs: 252 Atk/ 196 Def/ 60 Spd
+Adamant Nature
+- Outrage
+- Aqua Tail
+- Crunch
+- Zen Headbutt
+
+Bronzor @ Eviolite
+Ability: Levitate
+Level: 5
+Shiny: Yes
+EVs: 196 Def/ 196 Spd/ 60 HP
+Bold Nature
+- Hypnosis
+- Dream Eater
+- Hex
+- Flash Cannon
+
+Sandile @ Choice Scarf
+Ability: Moxie
+Level: 5
+Shiny: Yes
+EVs: 196 Atk/ 252 Spe/ 60 Def
+Jolly Nature
+- Foul Play
+- Earthquake
+- Thunder Fang
+- Aqua Tail
+
+
+
+
+
+=== [gen8lc] Little#8097-2-1 by iss ===
+
+Snover @ Choice Scarf
+Ability: Snow Warning
+Level: 5
+EVs: 100 Atk / 184 SpA / 200 Spe
+Hasty Nature
+- Blizzard
+- Giga Drain
+- Ice Shard
+- Hidden Power [Fighting]
+
+Drilbur @ Eviolite
+Ability: Mold Breaker
+Level: 5
+EVs: 36 HP / 236 Atk / 212 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Toxic
+- Rapid Spin
+
+Drifloon @ Flying Gem
+Ability: Unburden
+Level: 5
+EVs: 36 HP / 196 Atk / 4 Def / 120 SpA / 8 SpD / 116 Spe
+Lonely Nature
+- Acrobatics
+- Shadow Ball
+- Will-O-Wisp
+- Hidden Power [Ground]
+
+Pawniard @ Eviolite
+Ability: Defiant
+Level: 5
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe
+Jolly Nature
+- Iron Head
+- Sucker Punch
+- Thunder Wave
+- Stealth Rock
+
+Magnemite @ Choice Scarf
+Ability: Magnet Pull
+Level: 5
+EVs: 240 SpA / 240 Spe
+Modest Nature
+IVs: 3 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
+- Volt Switch
+- Flash Cannon
+- Thunderbolt
+- Hidden Power [Fighting]
+
+Mienfoo @ Flying Gem
+Ability: Regenerator
+Level: 5
+EVs: 76 HP / 156 Atk / 36 Def / 236 Spe
+Jolly Nature
+- Fake Out
+- High Jump Kick
+- U-turn
+- Acrobatics
+
+
+
+
+=== [gen8lc] Little#8098-3-1 by -DarkAlex55- ===
+
+Burning sunshine (Vulpix) @ Heat Rock  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Hypnosis  
+
+touchin da child (Drifloon) @ Berry Juice  
+Ability: Unburden  
+Level: 5  
+EVs: 84 Def / 196 SpA / 4 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Substitute  
+- Shadow Ball  
+- Calm Mind  
+
+Burning sunset (Oddish) @ Life Orb  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 240 SpA / 200 Spe  
+Timid Nature  
+IVs: 0 HP / 0 Atk  
+- Solar Beam  
+- Sludge Bomb  
+- Growth  
+- Strength Sap  
+
+chick mama (Vullaby) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 36 HP / 240 Atk / 80 SpA / 116 Spe  
+Adamant Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Heat Wave  
+
+BIG BARRACK (Dwebble) @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Counter  
+- Knock Off  
+- Rock Blast  
+
+Turtwig (Trapinch) @ Choice Band  
+Ability: Arena Trap  
+Level: 5  
+Shiny: Yes  
+Happiness: 160  
+EVs: 196 Atk / 76 Def / 76 SpD / 116 Spe  
+Adamant Nature  
+- Earthquake  
+- Superpower  
+- First Impression  
+- Rock Tomb  
+
+
+
+
+
+=== [gen8lc] Little#8099-3-1 by -DarkAlex55- ===
+
+Burning sunshine (Vulpix) @ Heat Rock  
+Ability: Drought  
+Level: 5  
+EVs: 52 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Weather Ball  
+- Overheat  
+- Hypnosis  
+
+touchin da child (Drifloon) @ Berry Juice  
+Ability: Unburden  
+Level: 5  
+EVs: 84 Def / 196 SpA / 4 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Substitute  
+- Shadow Ball  
+- Calm Mind  
+
+Burning sunset (Oddish) @ Life Orb  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 240 SpA / 200 Spe  
+Timid Nature  
+IVs: 0 HP / 0 Atk  
+- Solar Beam  
+- Sludge Bomb  
+- Growth  
+- Strength Sap  
+
+chick mama (Vullaby) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+big nix (Onix) @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 36 Def / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Endure  
+- Stealth Rock  
+
+Turtwig (Trapinch) @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+Shiny: Yes  
+Happiness: 160  
+EVs: 196 Atk / 76 Def / 76 SpD / 116 Spe  
+Adamant Nature  
+- Earthquake  
+- Superpower  
+- First Impression  
+- Rock Tomb  
+
+
+
+
+
+=== [gen8lc] Little#8100-9-1 by iss ===
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 36 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Flame Charge  
+- Wild Charge  
+- Morning Sun  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 36 HP / 196 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Thunderbolt  
+- Rapid Spin  
+- Recover  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Bulk Up  
+- Drain Punch  
+- Mach Punch  
+- Thunder Punch  
+
+Diglett @ Choice Scarf  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Sucker Punch  
+- Memento  
+
+Carvanha @ Life Orb  
+Ability: Speed Boost  
+Level: 5  
+EVs: 196 Atk / 36 Def / 36 SpD / 236 Spe  
+Adamant Nature  
+IVs: 0 HP  
+- Waterfall  
+- Crunch  
+- Zen Headbutt  
+- Protect  
+
+Archen @ Flying Gem  
+Ability: Defeatist  
+Level: 5  
+EVs: 180 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Acrobatics  
+- Roost  
+- U-turn  
+
+
+
+
+
+=== [gen8lc] Little#8101-9-1 by Aconit ===
+
+geox dragon (Dewpider) @ Eviolite  
+Ability: Water Bubble  
+Level: 5  
+EVs: 52 HP / 20 Def / 196 SpA / 20 SpD / 220 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Sticky Web  
+- Scald  
+- Giga Drain  
+- Mirror Coat  
+
+porsche (Snover) (M) @ Life Orb  
+Ability: Snow Warning  
+Level: 5  
+EVs: 100 Atk / 180 SpA / 196 Spe  
+Hasty Nature  
+- Blizzard  
+- Giga Drain  
+- Ice Shard  
+- Protect  
+
+mercedes (Pawniard) @ Eviolite  
+Ability: Defiant  
+Level: 5  
+Shiny: Yes  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+
+bmw i andretti (Timburr) @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 116 Atk / 236 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Defog  
+- Knock Off  
+
+nio 333 (Vullaby) @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 156 Def / 236 SpA / 116 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Dark Pulse  
+- Heat Wave  
+- Air Slash  
+
+panasonic jaguar (Wynaut) @ Berry Juice  
+Ability: Shadow Tag  
+Level: 5  
+EVs: 156 HP / 52 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Counter  
+- Mirror Coat  
+- Encore  
+- Destiny Bond  
+
+
+
+
+
+=== [gen8lc] Little#8102-4-1 by Laroxyl ===
+
+Cutiefly @ Focus Sash 
+Ability: Sweet Veil 
+Level: 5 
+EVs: 236 SpA / 244 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Moonblast 
+- Sticky Web 
+- Quiver Dance 
+- Psychic 
+
+Corphish @ Eviolite 
+Ability: Adaptability 
+Level: 5 
+EVs: 196 Atk / 76 Def / 236 Spe 
+Adamant Nature 
+- Crabhammer 
+- Aqua Jet 
+- Knock Off 
+- Swords Dance 
+
+Onix @ Eviolite 
+Ability: Rock Head 
+Level: 5 
+EVs: 236 Atk / 36 Def / 196 Spe 
+Jolly Nature 
+- Dragon Dance 
+- Head Smash 
+- Earthquake 
+- Stealth Rock 
+
+Munchlax @ Berry Juice 
+Ability: Thick Fat 
+Level: 5 
+EVs: 236 Atk / 36 Def / 236 SpD 
+Adamant Nature 
+- Double-Edge 
+- Fire Punch 
+- Curse 
+- Recycle 
+
+Timburr @ Eviolite 
+Ability: Guts 
+Level: 5 
+EVs: 116 Atk / 156 Def / 236 SpD 
+Careful Nature 
+- Drain Punch 
+- Mach Punch 
+- Defog 
+- Thunder Punch 
+
+Mareanie @ Eviolite 
+Ability: Regenerator 
+Level: 5 
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD 
+Bold Nature 
+IVs: 0 Atk 
+- Scald 
+- Sludge Bomb 
+- Recover 
+- Toxic Spikes
+
+
+
+
+=== [gen8lc] Little#8103-8-1 by zeilitonk ===
+
+Timburr @ Flame Orb  
+Ability: Guts  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Stone Edge  
+
+Darumaka @ Choice Scarf  
+Ability: Hustle  
+Level: 5  
+EVs: 196 Atk / 58 Def / 58 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Superpower  
+- U-turn  
+- Brick Break  
+
+Krabby @ Life Orb  
+Ability: Hyper Cutter  
+Level: 5  
+EVs: 40 HP / 236 Atk / 36 Def / 196 Spe  
+Jolly Nature  
+- Crabhammer  
+- Brick Break  
+- Knock Off  
+- Swords Dance  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 40 Def / 36 SpD / 196 Spe  
+Adamant Nature  
+- Fake Out  
+- Double-Edge  
+- Aerial Ace  
+- Bite  
+
+Sinistea-Antique @ Focus Sash  
+Ability: Weak Armor  
+Level: 5  
+EVs: 68 HP / 244 SpA / 196 Spe  
+Serious Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Shadow Ball  
+- Giga Drain  
+- Psyshock  
+
+Diglett @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 200 Atk / 236 Spe  
+Serious Nature  
+- Earthquake  
+- Rock Slide  
+- Sucker Punch  
+- Memento  
+
+
+
+
+
+=== [gen8lc] Little#8104-4-1 by KSG ===
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Swords Dance  
+- Crabhammer  
+- Aqua Jet  
+- Knock Off  
+
+Krabby @ Life Orb  
+Ability: Sheer Force  
+Level: 5  
+EVs: 236 Atk / 36 Def / 196 Spe  
+Adamant Nature  
+- Liquidation  
+- Knock Off  
+- Body Slam  
+- Superpower  
+
+Cutiefly @ Heavy-Duty Boots  
+Ability: Shield Dust  
+Level: 5  
+EVs: 236 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Roost  
+- Sticky Web  
+- Defog  
+
+Onix @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Rock Blast  
+- Body Press  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 108 Def / 84 SpA / 228 SpD  
+Relaxed Nature  
+- Giga Drain  
+- Knock Off  
+- Spikes  
+- Thunder Wave  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 100 Def / 12 SpA / 20 SpD / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Iron Defense  
+- Recover  
+
+
+
+
+
+=== [gen8lc] Little#8105-7-1 by Serene ===
+
+Free dcae (Vulpix) @ Heat Rock
+Ability: Drought
+Level: 5
+EVs: 52 HP / 196 SpA / 236 Spe
+Timid Nature
+- Overheat
+- Flame Charge
+- Will-O-Wisp
+- Energy Ball
+
+Diglett @ Life Orb
+Ability: Arena Trap
+Level: 5
+EVs: 36 HP / 236 Atk / 236 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Sucker Punch
+- Sunny Day
+
+Oddish @ Eviolite
+Ability: Chlorophyll
+Level: 5
+EVs: 236 SpA / 76 SpD / 196 Spe
+Timid Nature
+IVs: 0 Atk
+- Growth
+- Strength Sap
+- Giga Drain
+- Sludge Bomb
+
+Timburr @ Eviolite
+Ability: Iron Fist
+Level: 5
+EVs: 196 Atk / 156 Def / 156 Spe
+Adamant Nature
+- Mach Punch
+- Drain Punch
+- Ice Punch
+- Defog
+
+Charmander @ Choice Scarf
+Ability: Solar Power
+Level: 5
+EVs: 44 HP / 12 Def / 196 SpA / 236 Spe
+Modest Nature
+IVs: 0 Atk
+- Fire Blast
+- Flamethrower
+- Weather Ball
+- Sleep Talk
+
+Pawniard @ Eject Button
+Ability: Defiant
+Level: 5
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe
+Jolly Nature
+- Stealth Rock
+- Sucker Punch
+- Iron Head
+- Thief
+
+
+
+
+=== [gen8lc] Little#8106-0-1 by Stoward ===
+
+Cutiefly @ Focus Sash 
+Ability: Sweet Veil 
+Level: 5 
+EVs: 236 SpA / 244 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Moonblast 
+- Sticky Web 
+- Quiver Dance 
+- Psychic 
+
+Onix @ Eviolite 
+Ability: Rock Head 
+Level: 5 
+EVs: 236 Atk / 76 SpD / 196 Spe 
+Jolly Nature 
+- Dragon Dance 
+- Head Smash 
+- Earthquake 
+- Stealth Rock 
+
+Munchlax @ Berry Juice 
+Ability: Thick Fat 
+Level: 5 
+EVs: 236 Atk / 36 Def / 236 SpD 
+Adamant Nature 
+- Double-Edge 
+- Fire Punch 
+- Curse 
+- Recycle 
+
+Timburr @ Eviolite 
+Ability: Iron Fist 
+Level: 5 
+EVs: 116 Atk / 156 Def / 156 SpD 
+Adamant Nature 
+- Drain Punch 
+- Mach Punch 
+- Defog 
+- Thunder Punch 
+
+Mareanie @ Eviolite 
+Ability: Regenerator 
+Level: 5 
+EVs: 196 HP / 20 Def / 92 SpA / 180 SpD 
+Bold Nature 
+IVs: 0 Atk 
+- Scald 
+- Sludge Bomb 
+- Recover 
+- Toxic Spikes 
+
+Drifloon @ Berry Juice 
+Ability: Unburden 
+Level: 5 
+Happiness: 160 
+EVs: 84 Def / 196 SpA / 4 SpD / 196 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Substitute 
+- Calm Mind 
+- Hex 
+- Thunderbolt
+
+
+
+
+=== [gen8lc] Little#8107-8-1 by Gray ===
+
+Mudbray (M) @ Eviolite  
+Ability: Stamina  
+EVs: 116 HP / 116 Atk / 36 Def / 236 SpD  
+Careful Nature  
+- Heavy Slam  
+- Rest  
+- Earthquake  
+- Sleep Talk  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 116 Def / 12 SpA / 156 SpD / 12 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Wish  
+- Protect  
+- Calm Mind  
+
+Ferroseed (M) @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 164 HP / 188 Def / 84 SpA / 68 SpD  
+Bold Nature  
+- Giga Drain  
+- Stealth Rock  
+- Knock Off  
+- Thunder Wave  
+
+Timburr (F) @ Eviolite  
+Ability: Guts  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Mach Punch  
+- Knock Off  
+- Defog  
+- Drain Punch  
+
+Frillish @ Choice Scarf  
+Ability: Water Absorb  
+Level: 5  
+EVs: 76 HP / 236 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Water Spout  
+- Shadow Ball  
+- Trick  
+
+Vullaby (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 196 HP / 76 Def / 156 SpD / 36 Spe  
+Sassy Nature  
+- Brave Bird  
+- Knock Off  
+- Heat Wave  
+- U-turn  
+
+
+
+
+
+=== [gen8lc] Little#8108-0-1 by DC ===
+
+Stunky @ Eviolite  
+Ability: Aftermath  
+Level: 5  
+EVs: 12 HP / 60 Def / 188 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Dark Pulse  
+- Sludge Bomb  
+- Flamethrower  
+
+Mudbray @ Choice Scarf  
+Ability: Stamina  
+Level: 5  
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Heavy Slam  
+- Rock Slide  
+- Close Combat  
+
+Cutiefly @ Focus Sash  
+Ability: Sweet Veil  
+Level: 5  
+EVs: 236 SpA / 244 Spe  
+Timid Nature  
+IVs: 19 HP / 0 Atk  
+- Sticky Web  
+- Quiver Dance  
+- Moonblast  
+- Psychic  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Swords Dance  
+- Crabhammer  
+- Aqua Jet  
+- Knock Off  
+
+Vullaby (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 36 HP / 156 Atk / 76 Def / 76 SpD / 116 Spe  
+Adamant Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 108 Def / 4 SpA / 228 SpD / 36 Spe  
+Relaxed Nature  
+- Giga Drain  
+- Knock Off  
+- Thunder Wave  
+- Stealth Rock
+
+
+
+
+=== [gen8lc] Little#8109-2-1 by KSG ===
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Will-O-Wisp  
+- Morning Sun  
+
+Timburr @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Defog  
+
+Onix @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Explosion  
+- Stealth Rock  
+
+Cutiefly @ Eviolite  
+Ability: Shield Dust  
+Level: 5  
+EVs: 236 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Psychic  
+- Quiver Dance  
+- Roost  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 100 Def / 12 SpA / 20 SpD / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Iron Defense  
+- Recover  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Sucker Punch  
+- Brick Break  
+- Iron Head  
+
+
+
+
+
+=== [gen8lc] Little#8110-9-0 by Aconit ===
+
+xxxxx (Woobat) @ Berry Juice  
+Ability: Simple  
+Level: 5  
+EVs: 92 Def / 236 SpA / 180 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Psychic  
+- Heat Wave  
+- Substitute  
+
+molineux (Timburr) @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 196 Atk / 156 Def / 156 SpD  
+Adamant Nature  
+- Drain Punch  
+- Mach Punch  
+- Knock Off  
+- Stone Edge  
+
+vory v zakone (Drilbur) @ Berry Juice  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Rock Slide  
+- Rapid Spin  
+
+l a m b a d a (Cutiefly) @ Eviolite  
+Ability: Shield Dust  
+Level: 5  
+EVs: 36 HP / 36 Def / 156 SpA / 36 SpD / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Moonblast  
+- Sticky Web  
+- Roost  
+
+testarossa (Pawniard) @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Sucker Punch  
+- Knock Off  
+- Iron Head  
+
+Offset x Quavo (Frillish) (F) @ Eviolite  
+Ability: Water Absorb  
+Level: 5  
+EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Hex  
+- Will-O-Wisp  
+- Psych Up  
+- Recover  
+
+
+
+
+
+=== [gen8lc] Little#8111-1-0 by ojr ===
+
+Pancham @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 180 Atk / 20 Def / 52 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Drain Punch  
+- Knock Off  
+- Gunk Shot  
+
+Cutiefly @ Life Orb  
+Ability: Sweet Veil  
+Level: 5  
+EVs: 236 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 HP / 0 Atk  
+- Moonblast  
+- Sticky Web  
+- Bug Buzz  
+- Psychic  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Knock Off  
+- Sucker Punch  
+- Iron Head  
+- Brick Break  
+
+Spritzee @ Berry Juice  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Moonblast  
+- Psychic  
+- Draining Kiss  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- High Horsepower  
+- Sunny Day  
+- Solar Blade  
+
+Onix @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Rock Blast  
+- Earthquake  
+- Taunt  
+
+
+
+
+
+=== [gen8lc] Little#8112-2-0 by MegaBanette69 ===
+
+Jangmo-o @ Eviolite
+Ability: Bulletproof
+Level: 5
+Shiny: Yes
+EVs: 236 Atk / 36 Def / 236 Spe
+Jolly Nature
+- Dragon Claw
+- Earthquake
+- Dragon Dance
+- Iron Head
+
+Sandshrew @ Eviolite
+Ability: Sand Rush
+Level: 5
+Shiny: Yes
+EVs: 236 Atk / 76 SpD / 196 Spe
+Jolly Nature
+- Leech Life
+- Knock Off
+- Earthquake
+- Swords Dance
+
+Hippopotas @ Smooth Rock
+Ability: Sand Stream
+Level: 5
+Shiny: Yes
+EVs: 116 Atk / 212 Def / 180 SpD
+Careful Nature
+- High Horsepower
+- Superpower
+- Yawn
+- Slack Off
+
+Woobat @ Eviolite
+Ability: Simple
+Level: 5
+Shiny: Yes
+EVs: 92 Def / 144 SpA / 92 SpD / 180 Spe
+Timid Nature
+IVs: 0 Atk
+- Nasty Plot
+- Stored Power
+- Giga Drain
+- Air Slash
+
+Skorupi @ Eviolite
+Ability: Battle Armor
+Level: 5
+Shiny: Yes
+EVs: 156 Atk / 116 Def / 236 Spe
+Adamant Nature
+- Rock Tomb
+- Poison Jab
+- Skitter Smack
+- Knock Off
+
+Drilbur @ Eviolite
+Ability: Sand Rush
+Level: 5
+Shiny: Yes
+EVs: 236 Atk / 116 Def / 156 Spe
+Adamant Nature
+- Drill Run
+- Poison Jab
+- Shadow Claw
+- Swords Dance
+
+
+
+
+
+=== [gen8lc] Little#8113-2-0 by MegaBanette69 ===
+
+Squirtle @ Eviolite
+Ability: Torrent
+Level: 5
+Shiny: Yes
+EVs: 196 SpA / 60 SpD / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Shell Smash
+- Dragon Pulse
+- Aura Sphere
+- Surf
+
+Bergmite @ Eviolite
+Ability: Ice Body
+Level: 5
+Shiny: Yes
+EVs: 36 HP / 236 Def / 236 SpD
+Impish Nature
+- Protect
+- Recover
+- Avalanche
+- Toxic
+
+Sandshrew-Alola @ Eviolite
+Ability: Slush Rush
+Level: 5
+Shiny: Yes
+EVs: 236 Atk / 156 Def / 116 Spe
+Jolly Nature
+- Swords Dance
+- Icicle Crash
+- Iron Head
+- Knock Off
+
+Cubone @ Thick Club
+Ability: Battle Armor
+Level: 5
+Shiny: Yes
+EVs: 196 Atk / 76 SpD / 236 Spe
+Jolly Nature
+- Bonemerang
+- Iron Head
+- Knock Off
+- Thunder Punch
+
+Snover @ Icy Rock
+Ability: Snow Warning
+Level: 5
+Shiny: Yes
+EVs: 116 Atk / 196 Def / 196 SpD
+Careful Nature
+IVs: 0 Atk
+- Giga Drain
+- Ice Beam
+- Light Screen
+- Shadow Ball
+
+Sizzlipede @ Eviolite
+Ability: Flash Fire
+Level: 5
+Shiny: Yes
+EVs: 236 Atk / 36 SpD / 236 Spe
+Jolly Nature
+- Fire Lash
+- Power Whip
+- Lunge
+- Knock Off
+
+
+
+
+
+
+=== [gen8lc] Little#8114-7-0 by Jox ===
+
+Nightwing (Vullaby) (F) @ Berry Juice  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Endure  
+
+Adamantium (Dwebble) @ Heavy-Duty Boots  
+Ability: Sturdy  
+Level: 5  
+Shiny: Yes  
+Happiness: 160  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Adamant Nature  
+- Rock Blast  
+- X-Scissor  
+- Earthquake  
+- Shell Smash  
+
+Indestructible (Mareanie) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+Happiness: 160  
+EVs: 116 HP / 180 Def / 12 SpA / 180 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Toxic Spikes  
+- Recover  
+
+Pantheon (Farfetch&#39;d-Galar) @ Berry Juice  
+Ability: Scrappy  
+Level: 5  
+Happiness: 160  
+EVs: 236 Atk / 156 Def / 100 SpD  
+Adamant Nature  
+- Close Combat  
+- Knock Off  
+- Poison Jab  
+- Defog  
+
+Tempest (Drifloon) @ Weakness Policy  
+Ability: Unburden  
+Level: 5  
+Shiny: Yes  
+Happiness: 160  
+EVs: 116 Atk / 196 SpA / 196 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Thunderbolt  
+- Acrobatics  
+- Endure  
+
+Onixpected (Onix) @ Eviolite  
+Ability: Rock Head  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Jolly Nature  
+- Head Smash  
+- Earthquake  
+- Dragon Dance  
+- Stealth Rock  
+
+
+
+
+
+=== [gen8lc] Little#8115-6-0 by Stoward ===
+
+Onix @ Berry Juice
+Ability: Sturdy
+Level: 5
+EVs: 236 Atk / 76 SpD / 196 Spe
+Jolly Nature
+- Stealth Rock
+- Earthquake
+- Rock Blast
+- Dragon Dance
+
+Pawniard @ Life Orb
+Ability: Defiant
+Level: 5
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe
+Jolly Nature
+IVs: 0 HP
+- Swords Dance
+- Iron Head
+- Sucker Punch
+- Thief
+
+Cutiefly @ Life Orb
+Ability: Sweet Veil
+Level: 5
+EVs: 236 SpA / 244 Spe
+Modest Nature
+IVs: 0 HP
+- Quiver Dance
+- Moonblast
+- Psychic
+- Sticky Web
+
+Timburr @ Eviolite
+Ability: Iron Fist
+Level: 5
+EVs: 196 Atk / 156 Def / 156 SpD
+Adamant Nature
+- Defog
+- Mach Punch
+- Drain Punch
+- Thunder Punch
+
+Drifloon @ Berry Juice
+Ability: Unburden
+Level: 5
+EVs: 4 Def / 196 SpA / 84 SpD / 196 Spe
+Modest Nature
+IVs: 0 Atk
+- Calm Mind
+- Shadow Ball
+- Substitute
+- Thunderbolt
+
+Ferroseed @ Eviolite
+Ability: Iron Barbs
+Level: 5
+EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe
+Impish Nature
+- Knock Off
+- Bullet Seed
+- Thunder Wave
+- Spikes
+
+
+
+
+=== [gen8lc] Little#8116-6-0 by risi ===
+
+Wingull @ Life Orb
+Ability: Hydration
+Level: 5
+EVs: 36 Def / 236 SpA / 236 Spe
+Timid Nature
+IVs: 0 HP
+- Hurricane
+- Scald
+- Knock Off
+- Substitute
+
+Drilbur @ Berry Juice
+Ability: Mold Breaker
+Level: 5
+EVs: 36 HP / 236 Atk / 36 Def / 132 Spe
+Jolly Nature
+- Earthquake
+- Stealth Rock
+- Rapid Spin
+- Rock Slide
+
+Pawniard @ Eviolite
+Ability: Defiant
+Level: 5
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe
+Jolly Nature
+- Knock Off
+- Sucker Punch
+- Iron Head
+- Brick Break
+
+Oddish @ Eviolite
+Ability: Chlorophyll
+Level: 5
+EVs: 76 HP / 236 Def / 76 SpD / 116 Spe
+Bold Nature
+IVs: 0 Atk
+- Sleep Powder
+- Giga Drain
+- Sludge Bomb
+- Strength Sap
+
+Munchlax @ Berry Juice
+Ability: Thick Fat
+Level: 5
+EVs: 236 Atk / 36 Def / 236 SpD
+Adamant Nature
+- Curse
+- Fire Punch
+- Body Slam
+- Recycle
+
+Cutiefly @ Eviolite
+Ability: Sweet Veil
+Level: 5
+EVs: 36 HP / 116 Def / 76 SpA / 36 SpD / 244 Spe
+Modest Nature
+IVs: 0 Atk
+- Quiver Dance
+- Psychic
+- Moonblast
+- Roost
+
+
+
+
+=== [gen8lc] Little#8117-6-0 by risi ===
+
+Chinchou @ Berry Juice 
+Ability: Volt Absorb
+Level: 5
+EVs: 76 HP / 52 Def / 152 SpA / 168 SpD / 60 Spe
+Bold Nature
+- Scald
+- Volt Switch
+- Ice Beam
+- Thunder Wave
+
+Vullaby (F) @ Berry Juice
+Ability: Weak Armor
+Level: 5
+EVs: 116 HP / 236 SpA / 116 Spe
+Modest Nature
+IVs: 0 Atk
+- Dark Pulse
+- Heat Wave
+- Air Slash
+- Nasty Plot
+
+Timburr @ Eviolite 
+Ability: Iron Fist
+Level: 5
+EVs: 76 HP / 196 Atk / 156 Def / 80 SpD
+Careful Nature
+- Defog
+- Drain Punch
+- Mach Punch
+- Knock Off
+
+Mudbray @ Choice Scarf 
+Ability: Stamina
+Level: 5
+EVs: 36 HP / 196 Atk / 36 Def / 236 Spe
+Adamant Nature
+- Earthquake
+- Heavy Slam
+- Rock Slide
+- Close Combat
+
+Pawniard @ Eviolite 
+Ability: Defiant
+Level: 5
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe
+Jolly Nature
+- Knock Off
+- Sucker Punch
+- Iron Head
+- Stealth Rock
+
+Oddish @ Eviolite 
+Ability: Chlorophyll
+Level: 5
+EVs: 76 HP / 236 Def / 76 SpD / 116 Spe
+Bold Nature
+IVs: 0 Atk
+- Sleep Powder
+- Giga Drain
+- Sludge Bomb
+- Strength Sap
+
+
+
+
+=== [gen8lc] Little#8118-7-0 by Kipkluif ===
+
+Pancham @ Eviolite  
+Ability: Iron Fist  
+Level: 5  
+EVs: 180 Atk / 20 Def / 52 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Drain Punch  
+- Knock Off  
+- Zen Headbutt  
+
+Stunky @ Life Orb  
+Ability: Aftermath  
+Level: 5  
+EVs: 12 Atk / 60 Def / 188 SpA / 244 Spe  
+Naive Nature  
+- Sucker Punch  
+- Nasty Plot  
+- Sludge Bomb  
+- Fire Blast  
+
+Helioptile @ Choice Scarf  
+Ability: Dry Skin  
+Level: 5  
+EVs: 84 HP / 12 Def / 188 SpA / 12 SpD / 196 Spe  
+Timid Nature  
+- Volt Switch  
+- Surf  
+- Thunderbolt  
+- U-turn  
+
+Grubbin @ Eviolite  
+Ability: Swarm  
+Level: 5  
+EVs: 60 HP / 76 Def / 76 SpD / 228 Spe  
+Timid Nature  
+- Volt Switch  
+- Thunder Wave  
+- Sticky Web  
+- X-Scissor  
+
+Frillish @ Eviolite  
+Ability: Cursed Body  
+Level: 5  
+EVs: 236 HP / 116 Def / 76 SpD / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Scald  
+- Hex  
+- Recover  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 76 Atk / 76 Def / 196 SpD / 116 Spe  
+Adamant Nature  
+- Earthquake  
+- Knock Off  
+- Rapid Spin  
+- Stealth Rock  
+
+
+
+
+
+=== [gen8lc] Little#8119-7-0 by Kipkluif ===
+
+Hippopotas @ Smooth Rock  
+Ability: Sand Stream  
+Level: 5  
+EVs: 132 HP / 100 Atk / 132 Def / 100 SpD / 20 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Crunch  
+- Whirlwind  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 156 Atk / 76 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Knock Off  
+- Rapid Spin  
+
+Lileep @ Eviolite  
+Ability: Storm Drain  
+Level: 5  
+EVs: 148 HP / 140 Def / 108 SpA / 60 SpD / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Earth Power  
+- Recover  
+- Toxic  
+
+Squirtle @ Eviolite  
+Ability: Torrent  
+Level: 5  
+EVs: 4 HP / 76 Def / 196 SpA / 4 SpD / 172 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Surf  
+- Aura Sphere  
+- Ice Beam  
+
+Stunky @ Berry Juice  
+Ability: Aftermath  
+Level: 5  
+EVs: 12 HP / 60 Def / 188 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Nasty Plot  
+- Sludge Bomb  
+- Fire Blast  
+
+Larvesta @ Heavy-Duty Boots  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 HP / 236 Atk / 196 Spe  
+Adamant Nature  
+- U-turn  
+- Flare Blitz  
+- Wild Charge  
+- Leech Life  
+
+
+
+
+
+=== [gen8lc] Little#8120-7-0 by Kipkluif ===
+
+Kabuto @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 116 HP / 36 Atk / 36 Def / 156 SpD / 156 Spe  
+Careful Nature  
+- Rapid Spin  
+- Stealth Rock  
+- Knock Off  
+- Stone Edge  
+
+Meowth @ Life Orb  
+Ability: Technician  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Jolly Nature  
+IVs: 11 HP  
+- Fake Out  
+- Double-Edge  
+- Feint  
+- U-turn  
+
+Joltik @ Choice Scarf  
+Ability: Swarm  
+Level: 5  
+EVs: 36 Def / 220 SpA / 236 Spe  
+Timid Nature  
+- Volt Switch  
+- Thunderbolt  
+- Giga Drain  
+- Bug Buzz  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 116 Def / 188 SpA / 196 Spe  
+Timid Nature  
+- Nasty Plot  
+- Vacuum Wave  
+- Sludge Wave  
+- Focus Blast  
+
+Pumpkaboo-Small @ Life Orb  
+Ability: Frisk  
+Level: 5  
+EVs: 228 Atk / 36 Def / 228 Spe  
+Adamant Nature  
+IVs: 11 HP  
+- Poltergeist  
+- Bullet Seed  
+- Flame Charge  
+- Shadow Sneak  
+
+Ponyta-Galar @ Eviolite  
+Ability: Pastel Veil  
+Level: 5  
+EVs: 156 Def / 76 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Calm Mind  
+- Morning Sun  
+
+
+
+
+
+=== [gen8lc] Little#8121-7-0 by Kipkluif ===
+
+Lileep @ Eviolite  
+Ability: Storm Drain  
+Level: 5  
+EVs: 148 HP / 60 Def / 188 SpA / 60 SpD / 12 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Giga Drain  
+- Ancient Power  
+- Recover  
+
+Sandshrew @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 236 Atk / 76 Def / 36 SpD / 116 Spe  
+Adamant Nature  
+- Knock Off  
+- Rapid Spin  
+- Earthquake  
+- Leech Life  
+
+Frillish @ Eviolite  
+Ability: Cursed Body  
+Level: 5  
+EVs: 236 HP / 116 Def / 76 SpD / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Taunt  
+- Hex  
+- Recover  
+
+Trubbish @ Berry Juice  
+Ability: Sticky Hold  
+Level: 5  
+EVs: 36 HP / 36 Atk / 100 Def / 100 SpD / 236 Spe  
+Jolly Nature  
+- Spikes  
+- Toxic Spikes  
+- Recycle  
+- Gunk Shot  
+
+Natu @ Choice Scarf  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 36 HP / 76 Def / 196 SpA / 196 Spe  
+Modest Nature  
+- U-turn  
+- Heat Wave  
+- Psychic  
+- Dazzling Gleam  
+
+Cufant @ Eviolite  
+Ability: Sheer Force  
+Level: 5  
+EVs: 20 HP / 196 Atk / 44 Def / 44 SpD / 196 Spe  
+Jolly Nature  
+- Iron Head  
+- Power Whip  
+- Zen Headbutt  
+- High Horsepower  
+
+
+
+
+
+=== [gen8lc] Little#8122-4-0 by iss ===
+
+Bronzor @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 140 HP / 148 Def / 84 SpA / 68 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Rest  
+- Sleep Talk  
+- Psychic  
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 5  
+EVs: 132 HP / 20 Atk / 212 Def / 100 SpD / 20 Spe  
+Impish Nature  
+- Earthquake  
+- Stealth Rock  
+- Slack Off  
+- Whirlwind  
+
+Lileep @ Eviolite  
+Ability: Storm Drain  
+Level: 5  
+EVs: 228 HP / 220 Def / 60 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Toxic  
+- Recover  
+- Barrier  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 76 HP / 156 Atk / 196 Def / 76 SpD  
+Impish Nature  
+- Fake Out  
+- High Jump Kick  
+- U-turn  
+- Knock Off  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Thunderbolt  
+- Rapid Spin  
+- Recover  
+
+Shelmet @ Eviolite  
+Ability: Overcoat  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Recover  
+- Acid Armor  
+- Baton Pass  
+
+
+
+
+
+=== [gen8lc] Little#8123-5-0 by sam-testings ===
+
+lobster (Corphish) @ Eviolite
+Ability: Adaptability
+Level: 5
+EVs: 196 Atk / 76 Def / 236 Spe
+Adamant Nature
+- Crabhammer
+- Aqua Jet
+- Knock Off
+- Dragon Dance
+
+krab (Krabby) @ Choice Scarf
+Ability: Sheer Force
+Level: 5
+EVs: 36 HP / 236 Atk / 36 Def / 196 Spe
+Adamant Nature
+- Liquidation
+- Superpower
+- Knock Off
+- Body Slam
+
+bird (Vullaby) (F) @ Berry Juice
+Ability: Weak Armor
+Level: 5
+EVs: 236 Atk / 76 Def / 196 Spe
+Adamant Nature
+- Brave Bird
+- Knock Off
+- U-turn
+- Defog
+
+snake (Onix) @ Eviolite
+Ability: Weak Armor
+Level: 5
+EVs: 76 HP / 236 Atk / 196 Spe
+Jolly Nature
+- Stealth Rock
+- Earthquake
+- Rock Blast
+- Body Press
+
+mole (Diglett) @ Life Orb
+Ability: Arena Trap
+Level: 5
+EVs: 36 HP / 236 Atk / 236 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Sucker Punch
+- Substitute
+
+plant (Oddish) @ Eviolite
+Ability: Chlorophyll
+Level: 5
+EVs: 236 HP / 236 Def / 36 Spe
+Bold Nature
+IVs: 0 Atk
+- Sleep Powder
+- Strength Sap
+- Sludge Bomb
+- Giga Drain
+
+
+
+
+=== [gen8lc] Little#8124-1-0 by Funbot28 ===
+
+Natu @ Light Clay  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 196 HP / 76 Def / 36 SpA / 196 Spe  
+Timid Nature  
+- Reflect  
+- Light Screen  
+- U-turn  
+- Psychic  
+
+Dwebble @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 36 HP / 156 Atk / 76 Def / 236 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Spikes  
+- Rock Blast  
+- Knock Off  
+
+Onix @ Eviolite  
+Ability: Rock Head  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Head Smash  
+- Earthquake  
+- Taunt  
+
+Vullaby @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 116 HP / 240 SpA / 116 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Air Slash  
+- Heat Wave  
+- Dark Pulse  
+
+Sinistea @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 36 HP / 76 Def / 164 SpA / 4 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Shadow Ball  
+- Giga Drain  
+- Stored Power  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+- Swords Dance  
+- Iron Head  
+- Night Slash  
+- Sucker Punch  
+
+
+
+
+
+=== [gen8lc] Little#8125-1-0 by Funbot28 ===
+
+Trapinch @ Eviolite  
+Ability: Arena Trap  
+Level: 5  
+EVs: 76 HP / 116 Atk / 156 Def / 76 SpD / 36 Spe  
+Adamant Nature  
+- Earthquake  
+- Giga Drain  
+- First Impression  
+- Rock Slide  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe  
+Impish Nature  
+- Bullet Seed  
+- Knock Off  
+- Thunder Wave  
+- Spikes  
+
+Mareanie @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 12 Atk / 100 Def / 92 SpA / 100 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Recover  
+- Iron Defense  
+
+Gastly @ Life Orb  
+Ability: Levitate  
+Level: 5  
+EVs: 36 Def / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Shadow Ball  
+- Thunderbolt  
+- Dazzling Gleam  
+
+Farfetch&#39;d-Galar @ Choice Scarf  
+Ability: Scrappy  
+Level: 5  
+EVs: 236 Atk / 20 SpD / 236 Spe  
+Jolly Nature  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Defog  
+
+Vullaby (F) @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 116 HP / 236 SpA / 116 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Air Slash  
+- Dark Pulse  
+- Heat Wave  
+
+
+
+
+
+=== [gen8lc] Little#8126-0-0 by Evan. ===
+
+Gastly @ Life Orb  
+Ability: Levitate  
+Level: 5  
+EVs: 76 Atk / 196 SpA / 196 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Sludge Wave  
+- Sucker Punch  
+- Thunderbolt  
+
+Mudbray @ Eviolite  
+Ability: Stamina  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 156 SpD  
+Adamant Nature  
+- Stealth Rock  
+- Counter  
+- Earthquake  
+- Heavy Slam  
+
+Spritzee @ Eviolite  
+Ability: Aroma Veil  
+Level: 5  
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Wish  
+- Protect  
+- Moonblast  
+- Calm Mind  
+
+Farfetch&#39;d-Galar @ Eviolite  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Close Combat  
+- Knock Off  
+- Defog  
+- Brave Bird  
+
+Munchlax @ Berry Juice  
+Ability: Thick Fat  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 SpD  
+Adamant Nature  
+- Recycle  
+- Facade  
+- Fire Punch  
+- Curse  
+
+Vullaby @ Choice Scarf  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Jolly Nature  
+- Brave Bird  
+- Knock Off  
+- U-turn  
+- Defog  
+
+
+
+
+
+=== [gen8lc] Little#8127-0-0 by Altariel ===
+
+Dwebble @ Berry Juice  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+- Knock Off  
+- Stealth Rock  
+- Spikes  
+- Rock Blast  
+
+Corsola-Galar @ Eviolite  
+Ability: Cursed Body  
+Level: 5  
+EVs: 196 HP / 196 Def / 116 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Strength Sap  
+- Calm Mind  
+- Hex  
+
+Gastly @ Life Orb  
+Ability: Levitate  
+Level: 5  
+EVs: 36 Def / 196 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Energy Ball  
+- Substitute  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Brick Break  
+- Night Slash  
+- Sucker Punch  
+- Iron Head  
+
+Croagunk @ Berry Juice  
+Ability: Dry Skin  
+Level: 5  
+EVs: 52 HP / 116 Def / 188 SpA / 116 SpD / 36 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Sludge Wave  
+- Vacuum Wave  
+- Focus Blast  
+
+Farfetch'd-Galar @ Choice Scarf  
+Ability: Scrappy  
+Level: 5  
+EVs: 20 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Brave Bird  
+- Poison Jab  
+- Close Combat  
+- Knock Off
+
+
+
+
+=== [gen8lc] Little#8128-6-0 by Take ===
+
+Cutiefly @ Focus Sash  
+Ability: Shield Dust  
+Level: 5  
+EVs: 236 SpA / 244 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sticky Web  
+- Moonblast  
+- Bug Buzz  
+- Psychic  
+
+Farfetch'd-Galar @ Berry Juice  
+Ability: Scrappy  
+Level: 5  
+EVs: 236 Atk / 76 Def / 196 Spe  
+Adamant Nature  
+- Close Combat  
+- Brave Bird  
+- Knock Off  
+- Defog  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Jolly Nature  
+- Night Slash  
+- Sucker Punch  
+- Iron Head  
+- Stealth Rock  
+
+Frillish @ Eviolite  
+Ability: Water Absorb  
+Level: 5  
+EVs: 236 HP / 116 Def / 76 SpA / 76 SpD  
+Bold Nature  
+- Scald  
+- Shadow Ball  
+- Recover  
+- Will-O-Wisp  
+
+Corphish @ Eviolite  
+Ability: Adaptability  
+Level: 5  
+EVs: 196 Atk / 76 Def / 236 Spe  
+Adamant Nature  
+- Crabhammer  
+- Aqua Jet  
+- Knock Off  
+- Swords Dance  
+
+Trapinch @ Berry Juice  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 36 Atk / 156 Def / 160 Spe  
+Adamant Nature  
+- Earthquake  
+- First Impression  
+- Quick Attack  
+- Superpower
+
+
+
+=== [gen8lc] Little#8129-3-0 by risi ===
+
+Cutiefly @ Focus Sash
+Ability: Sweet Veil
+Level: 5
+EVs: 236 SpA / 244 Spe
+Timid Nature
+IVs: 0 Atk
+- Moonblast
+- Psychic
+- Quiver Dance
+- Energy Ball
+
+Chinchou @ Berry Juice
+Ability: Volt Absorb
+Level: 5
+EVs: 76 HP / 52 Def / 152 SpA / 168 SpD / 60 Spe
+Bold Nature
+- Scald
+- Volt Switch
+- Ice Beam
+- Thunder Wave
+
+Timburr @ Eviolite
+Ability: Guts
+Level: 5
+EVs: 76 HP / 196 Atk / 156 Def / 80 SpD
+Careful Nature
+- Defog
+- Drain Punch
+- Mach Punch
+- Thunder Punch
+
+Pawniard @ Berry Juice
+Ability: Defiant
+Level: 5
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe
+Jolly Nature
+- Thief
+- Sucker Punch
+- Iron Head
+- Stealth Rock
+
+Koffing @ Berry Juice
+Ability: Levitate
+Level: 5
+EVs: 36 HP / 236 Def / 236 SpD
+Bold Nature
+IVs: 0 Atk
+- Will-O-Wisp
+- Sludge Bomb
+- Fire Blast
+- Haze
+
+Wingull @ Life Orb
+Ability: Hydration
+Level: 5
+EVs: 36 Def / 236 SpA / 236 Spe
+Timid Nature
+IVs: 0 HP
+- Hurricane
+- Scald
+- Knock Off
+- Substitute
+
+
+
+
+=== [gen8lc] Little#8130-2-0 by risi ===
+
+Onix @ Eviolite
+Ability: Rock Head
+Level: 5
+EVs: 236 Atk / 36 Def / 196 Spe
+Jolly Nature
+- Earthquake
+- Rock Blast
+- Body Press
+- Dragon Dance
+
+Croagunk @ Eviolite
+Ability: Dry Skin
+Level: 5
+EVs: 132 HP / 116 Def / 188 SpA / 36 SpD / 36 Spe
+Bold Nature
+IVs: 0 Atk
+- Sludge Bomb
+- Focus Blast
+- Vacuum Wave
+- Nasty Plot
+
+Vullaby (F) @ Berry Juice
+Ability: Weak Armor
+Level: 5
+EVs: 116 HP / 156 Def / 156 SpD / 36 Spe
+Adamant Nature
+- Brave Bird
+- Knock Off
+- Heat Wave
+- Defog
+
+Corphish @ Eviolite
+Ability: Adaptability
+Level: 5
+EVs: 196 Atk / 76 Def / 236 Spe
+Adamant Nature
+- Aqua Jet
+- Crabhammer
+- Swords Dance
+- Knock Off
+
+Cutiefly @ Focus Sash
+Ability: Sweet Veil
+Level: 5
+EVs: 236 SpA / 244 Spe
+Timid Nature
+IVs: 0 Atk
+- Moonblast
+- Psychic
+- Reflect
+- Sticky Web
+
+Ferroseed @ Eviolite
+Ability: Iron Barbs
+Level: 5
+EVs: 84 HP / 108 Def / 4 SpA / 228 SpD / 36 Spe
+Bold Nature
+- Giga Drain
+- Knock Off
+- Thunder Wave
+- Stealth Rock
+
+
+
+
+=== [gen8lc] Little#8131-2-0 by risi ===
+
+Drilbur @ Eviolite
+Ability: Mold Breaker
+Level: 5
+EVs: 36 HP / 236 Atk / 36 Def / 132 Spe
+Jolly Nature
+- Earthquake
+- Swords Dance
+- Rapid Spin
+- Rock Slide
+
+Pawniard @ Eviolite
+Ability: Defiant
+Level: 5
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe
+Jolly Nature
+- Knock Off
+- Sucker Punch
+- Iron Head
+- Stealth Rock
+
+Grookey @ Berry Juice
+Ability: Overgrow
+Level: 5
+EVs: 116 HP / 160 Atk / 116 Def / 116 SpD
+Jolly Nature
+- Knock Off
+- Drain Punch
+- Wood Hammer
+- Taunt
+
+Croagunk @ Eviolite
+Ability: Dry Skin
+Level: 5
+EVs: 132 HP / 116 Def / 188 SpA / 36 SpD / 36 Spe
+Bold Nature
+IVs: 0 Atk
+- Sludge Bomb
+- Focus Blast
+- Vacuum Wave
+- Nasty Plot
+
+Cutiefly @ Focus Sash
+Ability: Sweet Veil
+Level: 5
+EVs: 236 SpA / 244 Spe
+Timid Nature
+IVs: 0 Atk
+- Moonblast
+- Psychic
+- Reflect
+- Sticky Web
+
+Chinchou @ Berry Juice
+Ability: Volt Absorb
+Level: 5
+EVs: 76 HP / 52 Def / 152 SpA / 168 SpD / 60 Spe
+Bold Nature
+- Scald
+- Volt Switch
+- Ice Beam
+- Thunder Wave
+
+
+
+
+=== [gen8lc] Little#8132-2-0 by risi ===
+
+Ferroseed @ Eviolite
+Ability: Iron Barbs
+Level: 5
+EVs: 84 HP / 36 Atk / 108 Def / 228 SpD / 36 Spe
+Impish Nature
+- Bullet Seed
+- Knock Off
+- Thunder Wave
+- Stealth Rock
+
+Spritzee @ Eviolite
+Ability: Aroma Veil
+Level: 5
+Happiness: 160
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe
+Bold Nature
+IVs: 0 Atk
+- Wish
+- Protect
+- Moonblast
+- Psychic
+
+Dewpider @ Eviolite
+Ability: Water Bubble
+Level: 5
+EVs: 52 HP / 180 Def / 116 SpA / 20 SpD / 140 Spe
+Modest Nature
+IVs: 0 Atk
+- Sticky Web
+- Scald
+- Ice Beam
+- Giga Drain
+
+Croagunk @ Eviolite
+Ability: Dry Skin
+Level: 5
+EVs: 132 HP / 116 Def / 188 SpA / 36 SpD / 36 Spe
+Bold Nature
+IVs: 0 Atk
+- Sludge Bomb
+- Focus Blast
+- Vacuum Wave
+- Nasty Plot
+
+Drilbur @ Eviolite
+Ability: Mold Breaker
+Level: 5
+EVs: 36 HP / 236 Atk / 36 Def / 132 Spe
+Jolly Nature
+- Earthquake
+- Swords Dance
+- Rapid Spin
+- Rock Slide
+
+Scorbunny @ Life Orb
+Ability: Blaze
+Level: 5
+EVs: 36 HP / 188 Atk / 36 Def / 36 SpD / 204 Spe
+Jolly Nature
+- Blaze Kick
+- Gunk Shot
+- High Jump Kick
+- U-turn
+
+
+
+
+=== [gen8lc] Little#8133-2-0 by risi ===
+
+Onix @ Eviolite
+Ability: Rock Head
+Level: 5
+EVs: 236 Atk / 36 Def / 196 Spe
+Jolly Nature
+- Earthquake
+- Rock Blast
+- Stealth Rock
+- Dragon Dance
+
+Croagunk @ Eviolite
+Ability: Dry Skin
+Level: 5
+EVs: 132 HP / 116 Def / 188 SpA / 36 SpD / 36 Spe
+Bold Nature
+IVs: 0 Atk
+- Sludge Bomb
+- Focus Blast
+- Vacuum Wave
+- Nasty Plot
+
+Vullaby (F) @ Berry Juice
+Ability: Weak Armor
+Level: 5
+EVs: 116 HP / 156 Def / 156 SpD / 36 Spe
+Adamant Nature
+- Brave Bird
+- Knock Off
+- Heat Wave
+- Defog
+
+Grookey @ Berry Juice
+Ability: Overgrow
+Level: 5
+EVs: 116 HP / 160 Atk / 116 Def / 116 SpD
+Jolly Nature
+- Knock Off
+- Drain Punch
+- Wood Hammer
+- Taunt
+
+Spritzee @ Eviolite
+Ability: Aroma Veil
+Level: 5
+Happiness: 160
+EVs: 212 HP / 196 Def / 12 SpA / 76 SpD / 12 Spe
+Bold Nature
+IVs: 0 Atk
+- Wish
+- Protect
+- Moonblast
+- Psychic
+
+Wingull @ Life Orb
+Ability: Hydration
+Level: 5
+EVs: 36 Def / 236 SpA / 236 Spe
+Timid Nature
+IVs: 0 HP
+- Hurricane
+- Scald
+- Knock Off
+- Substitute
+
+
+
+

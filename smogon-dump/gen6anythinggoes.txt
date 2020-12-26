@@ -1,0 +1,124 @@
+=== [gen6anythinggoes] Anything Goes/#18938 2 Likes 0 Score posted by BananaLaddersPS Untitled 256 http://www.smogon.com/forums/threads/ag-team-bazaar-and-showcase.3646732/page-2#post-8128445 ===
+
+Rayquaza @ Life Orb  
+Ability: Air Lock  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Draco Meteor  
+- Dragon Ascent  
+- Extreme Speed  
+- V-create  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Extreme Speed  
+- Swords Dance  
+- Stone Edge  
+
+Deoxys-Speed @ Light Clay  
+Ability: Pressure  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Light Screen  
+- Reflect  
+- Stealth Rock  
+- Taunt  
+
+Groudon @ Red Orb  
+Ability: Drought  
+EVs: 104 HP / 252 Atk / 96 SpD / 56 Spe  
+Adamant Nature  
+- Dragon Claw  
+- Precipice Blades  
+- Rock Polish  
+- Stone Edge  
+
+Xerneas @ Choice Scarf  
+Ability: Fairy Aura  
+EVs: 28 Def / 244 SpA / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Sleep Talk  
+- Geomancy  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 152 HP / 28 Def / 252 SpA / 76 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Aromatherapy  
+- Focus Blast  
+- Geomancy  
+- Moonblast  
+
+
+
+
+
+
+=== [gen6anythinggoes] Anything Goes/#18939 2 Likes 0 Score posted by BananaLaddersPS Untitled 224 http://www.smogon.com/forums/threads/ag-team-bazaar-and-showcase.3646732/page-2#post-8128445 ===
+
+Arceus @ Life Orb  
+Ability: Multitype  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Swords Dance  
+- Earthquake  
+- Shadow Claw  
+
+Arceus @ Leftovers  
+Ability: Multitype  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Recover  
+- Defog  
+- Toxic  
+- Extreme Speed  
+
+Arceus @ Life Orb  
+Ability: Multitype  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Swords Dance  
+- Earthquake  
+- Shadow Claw  
+
+Arceus @ Leftovers  
+Ability: Multitype  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Substitute  
+- Swords Dance  
+- Extreme Speed  
+- Shadow Claw  
+
+Arceus @ Leftovers  
+Ability: Multitype  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Substitute  
+- Swords Dance  
+- Earthquake  
+- Extreme Speed  
+
+Arceus @ Life Orb  
+Ability: Multitype  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Extreme Speed  
+- Earthquake  
+- Shadow Claw  
+
+
+
+
+
+

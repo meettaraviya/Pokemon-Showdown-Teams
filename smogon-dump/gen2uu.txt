@@ -1,0 +1,407 @@
+=== [gen2uu] Ruins of Alph/#23527 13 Likes 0 Score posted by Arai Ampharos Balance http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347619 ===
+
+
+Qwilfish @ Leftovers
+- Spikes
+- Sludge Bomb
+- Hydro Pump
+- Haze
+
+Nidoqueen @ Leftovers
+- Earthquake
+- Thunder
+- Ice Beam
+- Moonlight
+
+Ampharos @ Leftovers
+IVs: 26 Def
+- Thunder
+- Hidden Power [Ice]
+- Rest
+- Sleep Talk
+
+Haunter @ Leftovers
+- Hypnosis
+- Psychic
+- Thunderbolt
+- Explosion
+
+Dodrio @ Leftovers
+IVs: 14 HP / 24 Atk
+- Double-Edge
+- Hidden Power [Ground]
+- Rest
+- Sleep Talk
+
+Slowking @ Leftovers
+- Psychic
+- Surf
+- Rest
+- Sleep Talk
+
+
+
+
+
+=== [gen2uu] Ruins of Alph/#23528 13 Likes 0 Score posted by Arai Double SlowTank Stall http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347619 ===
+
+
+Slowking @ Leftovers
+- Thunder Wave
+- Surf
+- Rest
+- Sleep Talk
+
+Bellossom @ Leftovers
+IVs: 6 HP / 28 Atk / 28 Def
+- Leech Seed
+- Stun Spore
+- Hidden Power [Grass]
+- Moonlight
+
+Crobat
+- Thief
+- Confuse Ray
+- Wing Attack
+- Haze
+
+Nidoqueen @ Leftovers
+- Moonlight
+- Earthquake
+- Thunder
+- Fire Blast
+
+Qwilfish @ Leftovers
+- Spikes
+- Sludge Bomb
+- Hydro Pump
+- Haze
+
+Slowbro @ Leftovers
+- Surf
+- Psychic
+- Rest
+- Sleep Talk
+
+
+
+
+
+=== [gen2uu] Ruins of Alph/#23529 13 Likes 0 Score posted by Arai Para + Sub SD Sandslash http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347619 ===
+
+
+Mr. Mime @ Leftovers
+- Substitute
+- Thunder Wave
+- Baton Pass
+- Psychic
+
+Ampharos @ Leftovers
+IVs: 26 Def
+- Thunder
+- Hidden Power [Ice]
+- Rest
+- Light Screen
+
+Jumpluff @ Leftovers
+- Stun Spore
+- Encore
+- Leech Seed
+- Synthesis
+
+Qwilfish @ Leftovers
+- Spikes
+- Sludge Bomb
+- Hydro Pump
+- Haze
+
+Sandslash @ Leftovers
+- Swords Dance
+- Rock Slide
+- Earthquake
+- Substitute
+
+Slowbro @ Leftovers
+- Psychic
+- Rest
+- Sleep Talk
+- Surf
+
+
+
+
+
+=== [gen2uu] Ruins of Alph/#23530 13 Likes 0 Score posted by Arai Double Psychic http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347619 ===
+
+
+Mr. Mime
+- Thief
+- Hypnosis
+- Thunder
+- Psychic
+
+Bellossom @ Leftovers
+IVs: 6 HP / 28 Atk / 24 Def
+- Stun Spore
+- Razor Leaf
+- Hidden Power [Fire]
+- Moonlight
+
+Kadabra @ Leftovers
+- Encore
+- Psychic
+- Recover
+- Thunder Punch
+
+Nidoqueen @ Leftovers
+- Thunder
+- Fire Blast
+- Moonlight
+- Earthquake
+
+Omastar @ Leftovers
+- Rest
+- Surf
+- Sleep Talk
+- Ice Beam
+
+Qwilfish @ Leftovers
+- Hydro Pump
+- Spikes
+- Sludge Bomb
+- Haze
+
+
+
+
+
+=== [gen2uu] Ruins of Alph/#23531 13 Likes 0 Score posted by Arai Screen Baton Pass http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347619 ===
+
+
+Electrode @ Miracle Berry
+- Explosion
+- Thunder Wave
+- Light Screen
+- Reflect
+
+Mr. Mime @ Leftovers
+- Baton Pass
+- Barrier
+- Psychic
+- Thunder Wave
+
+Quagsire @ Leftovers
+IVs: 22 HP / 26 Atk / 24 Def
+- Belly Drum
+- Earthquake
+- Hidden Power [Rock]
+- Amnesia
+
+Poliwrath @ Leftovers
+- Belly Drum
+- Earthquake
+- Lovely Kiss
+- Return
+
+Girafarig @ Leftovers
+- Baton Pass
+- Thunder
+- Agility
+- Psychic
+
+Haunter
+- Thief
+- Explosion
+- Thunder
+- Hypnosis
+
+
+
+
+
+=== [gen2uu] Ruins of Alph/#23532 13 Likes 0 Score posted by Arai Explosion Scyther Mime http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347619 ===
+
+
+Weezing @ Miracle Berry
+IVs: 14 HP / 24 Atk
+- Sludge Bomb
+- Thunder
+- Hidden Power [Ground]
+- Explosion
+
+Haunter @ Pink Bow
+- Hypnosis
+- Explosion
+- Thunder
+- Psychic
+
+Graveler @ Leftovers
+IVs: 22 HP / 26 Atk / 24 Def
+- Explosion
+- Counter
+- Hidden Power [Rock]
+- Earthquake
+
+Electrode @ Miracle Berry
+IVs: 26 Def
+- Thunder
+- Hidden Power [Ice]
+- Light Screen
+- Explosion
+
+Scyther @ Leftovers
+IVs: 14 HP / 24 Atk
+- Swords Dance
+- Wing Attack
+- Hidden Power [Ground]
+- Hyper Beam
+
+Mr. Mime @ Leftovers
+- Psychic
+- Thunder
+- Encore
+- Reflect
+
+
+
+
+
+=== [gen2uu] Ruins of Alph/#23533 13 Likes 0 Score posted by Arai Gligar Chansey Stall http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347619 ===
+
+
+Slowbro @ Leftovers
+- Surf
+- Psychic
+- Rest
+- Sleep Talk
+
+Qwilfish @ Leftovers
+- Spikes
+- Hydro Pump
+- Sludge Bomb
+- Haze
+
+Gligar @ Leftovers
+- Earthquake
+- Wing Attack
+- Rest
+- Counter
+
+Chansey @ Leftovers
+- Curse
+- Double-Edge
+- Soft-Boiled
+- Heal Bell
+
+Nidoqueen @ Leftovers
+- Moonlight
+- Earthquake
+- Thunder
+- Fire Blast
+
+Magneton @ Leftovers
+IVs: 14 HP / 28 Atk / 26 Def
+- Substitute
+- Reflect
+- Thunderbolt
+- Hidden Power [Water]
+
+
+
+
+
+=== [gen2uu] Ruins of Alph/#23534 13 Likes 0 Score posted by Arai Hypno Support SDers http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347619 ===
+
+
+Hypno @ Leftovers
+- Thunder Wave
+- Psychic
+- Light Screen
+- Sleep Talk
+
+Scyther @ Leftovers
+IVs: 26 Atk / 26 Def
+- Swords Dance
+- Hidden Power [Bug]
+- Wing Attack
+- Baton Pass
+
+Kabutops @ Leftovers
+IVs: 14 HP / 24 Atk
+- Swords Dance
+- Ancient Power
+- Double-Edge
+- Hidden Power [Ground]
+
+Nidoqueen @ Leftovers
+- Earthquake
+- Thunder
+- Ice Beam
+- Moonlight
+
+Gyarados @ Leftovers
+IVs: 14 HP / 24 Atk
+- Hydro Pump
+- Thunder
+- Double-Edge
+- Hidden Power [Ground]
+
+Bellossom @ Leftovers
+IVs: 6 HP / 28 Atk / 28 Def
+- Sleep Powder
+- Leech Seed
+- Reflect
+- Hidden Power [Grass]
+
+
+
+=== [gen2uu] Ruins of Alph/#23535 7 Likes 0 Score posted by alive http://www.smogon.com/forums/threads/gsc-uu-viability-ranking-thread.3636234/page-2#post-8193688 ===
+
+Piloswine @ Leftovers  
+Ability: none  
+- Earthquake  
+- Ice Beam  
+- Roar  
+- Rest  
+
+Chansey @ Leftovers  
+Ability: none  
+- Present  
+- Light Screen  
+- Soft-Boiled  
+- Heal Bell  
+
+Qwilfish @ Leftovers  
+Ability: none  
+- Spikes  
+- Sludge Bomb  
+- Hydro Pump  
+- Haze  
+
+Blastoise @ Leftovers  
+Ability: none  
+- Rest  
+- Sleep Talk  
+- Surf  
+- Rapid Spin  
+
+Jumpluff @ Leftovers  
+Ability: none  
+IVs: 6 HP / 28 Atk / 28 Def  
+- Stun Spore  
+- Leech Seed  
+- Synthesis  
+- Hidden Power [Grass]
+
+Omastar @ Leftovers  
+Ability: none  
+- Rest  
+- Toxic  
+- Surf  
+- Ice Beam  
+
+
+
+
+
+

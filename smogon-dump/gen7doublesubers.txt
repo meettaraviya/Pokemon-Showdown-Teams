@@ -1,0 +1,63 @@
+=== [gen7doublesubers] Anything Goes/#19640 2 Likes 0 Score posted by BananaLaddersPS Untitled 6 http://www.smogon.com/forums/threads/ag-team-bazaar-and-showcase.3646732/page-2#post-8128445 ===
+
+Kyogre-Primal @ Blue Orb  
+Ability: Primordial Sea  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Origin Pulse  
+- Ice Beam  
+- Water Spout  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Thousand Arrows  
+- Dragon Tail  
+- Coil  
+- Rest  
+
+Arceus-Ghost @ Spooky Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Swords Dance  
+- Shadow Force  
+- Extreme Speed  
+- Shadow Claw  
+
+Necrozma-Dusk-Mane @ Ultranecrozium Z  
+Ability: Prism Armor  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+IVs: 0 SpA  
+- Swords Dance  
+- Photon Geyser  
+- Earthquake  
+- Sunsteel Strike  
+
+Marshadow @ Focus Sash  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Endeavor  
+- Shadow Sneak  
+- Spectral Thief  
+- Close Combat  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Stealth Rock  
+- Fire Punch  
+- Precipice Blades  
+- Dragon Claw  
+
+
+
+
+
+

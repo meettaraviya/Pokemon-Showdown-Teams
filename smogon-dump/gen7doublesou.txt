@@ -1,0 +1,2644 @@
+=== [gen7doublesou] SM Doubles OU/#25235 23 Likes 0 Score posted by RMT Staff http://www.smogon.com/forums/threads/zygarde-mew-offense-by-stax.3655259/page-1#post-8253028 ===
+
+Manectric @ Manectite  
+Ability: Lightning Rod  
+EVs: 132 HP / 124 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Overheat  
+- Snarl  
+- Protect  
+
+Incineroar @ Aguav Berry  
+Ability: Intimidate  
+EVs: 252 HP / 100 Def / 156 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Flare Blitz  
+- U-turn  
+- Fake Out  
+- Knock Off  
+
+Tapu Fini @ Wiki Berry  
+Ability: Misty Surge  
+EVs: 252 HP / 40 Def / 168 SpA / 32 SpD / 16 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Muddy Water  
+- Moonblast  
+- Calm Mind  
+- Protect  
+
+Kartana @ Grassium Z  
+Ability: Beast Boost  
+EVs: 64 HP / 252 SpD / 192 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Substitute  
+- Protect  
+
+Zygarde @ Choice Band  
+Ability: Aura Break  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Thousand Arrows  
+- Thousand Waves  
+- Extreme Speed  
+- Superpower  
+
+Mew @ Mago Berry  
+Ability: Synchronize  
+EVs: 252 HP / 12 Def / 24 SpD / 220 Spe  
+Bold Nature  
+- U-turn  
+- Tailwind  
+- Stealth Rock  
+- Ice Beam  
+
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25236 2 Likes 0 Score posted by n1n1 http://www.smogon.com/forums/threads/fake-out-volt-turn-repeat.3654969/page-1#post-8264349 ===
+
+Tapu Koko @ Choice Specs 
+Ability: Electric Surge 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Volt Switch 
+- Thunderbolt 
+- Dazzling Gleam 
+- Hidden Power [Ice]
+
+Raichu-Alola @ Focus Sash 
+Ability: Surge Surfer 
+EVs: 4 Atk / 252 SpA / 252 Spe 
+Hasty Nature 
+- Fake Out 
+- Thunderbolt 
+- Volt Switch 
+- Psyshock 
+
+Incineroar @ Figy Berry 
+Ability: Intimidate 
+EVs: 252 HP / 44 Atk / 56 Def / 156 SpD 
+Adamant Nature 
+- Fake Out 
+- Flare Blitz 
+- Knock Off 
+- U-turn 
+
+Landorus-Therian @ Wiki Berry 
+Ability: Intimidate 
+EVs: 252 HP / 44 Def / 212 SpD 
+Modest Nature 
+IVs: 30 Atk 
+- Earth Power 
+- U-turn 
+- Stealth Rock 
+- Hidden Power [Ice]
+
+Celesteela @ Leftovers 
+Ability: Beast Boost 
+EVs: 248 HP / 120 Atk / 12 Def / 128 SpD 
+Sassy Nature 
+- Heavy Slam 
+- Flamethrower 
+- Leech Seed 
+- Protect 
+
+Kommo-o @ Kommonium Z 
+Ability: Soundproof 
+EVs: 4 Atk / 252 SpA / 252 Spe 
+Hasty Nature 
+- Clanging Scales 
+- Flamethrower 
+- Close Combat 
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25237 2 Likes 0 Score posted by n1n1 http://www.smogon.com/forums/threads/fake-out-volt-turn-repeat.3654969/page-1#post-8264349 ===
+
+Charizard-Mega-Y @ Charizardite Y
+Ability: Drought
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Heat Wave
+- Overheat
+- Solar Beam
+- Protect
+
+Kommo-o @ Kommonium Z
+Ability: Soundproof
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Clanging Scales
+- Stealth Rock
+- Flamethrower
+- Protect
+
+Kartana @ Focus Sash
+Ability: Beast Boost
+Shiny: Yes
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Tailwind
+- Detect
+
+Tapu Koko @ Life Orb
+Ability: Electric Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Thunderbolt
+- Volt Switch
+- Dazzling Gleam
+- Protect
+
+Porygon2 @ Eviolite
+Ability: Download
+EVs: 248 HP / 68 Def / 192 SpA
+Quiet Nature
+IVs: 0 Atk / 2 Spe
+- Icy Wind
+- Thunderbolt
+- Recover
+- Ally Switch
+
+Landorus-Therian @ Iapapa Berry
+Ability: Intimidate
+EVs: 232 HP / 12 Atk / 56 Def / 4 SpD / 204 Spe
+Adamant Nature
+- Earthquake
+- U-turn
+- Defog
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25238 3 Likes 0 Score posted by Level 51 http://www.smogon.com/forums/threads/sunny-day-team-tapu-bulu-torkoal-core.3649367/page-1#post-8118899 ===
+
+pop pop (Charizard) @ Charizardite Y  
+Ability: Blaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Solar Beam  
+- Overheat  
+- Protect  
+
+womp womp (Cresselia) @ Electric Seed  
+Ability: Levitate  
+EVs: 244 HP / 128 Def / 24 SpD / 112 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Icy Wind  
+- Psyshock  
+- Moonlight  
+
+zop zop (Tapu Koko) @ Life Orb  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dazzling Gleam  
+- Volt Switch  
+- Protect  
+
+clang clang (Kommo-o) @ Kommonium Z  
+Ability: Soundproof  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Clanging Scales  
+- Flamethrower  
+- Substitute  
+- Protect  
+
+bop bop (Incineroar) @ Figy Berry  
+Ability: Intimidate  
+EVs: 252 HP / 36 Atk / 20 Def / 116 SpD / 84 Spe  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- U-turn  
+
+shroom shroom (Amoonguss) @ Wiki Berry  
+Ability: Regenerator  
+EVs: 240 HP / 172 Def / 96 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Spore  
+- Rage Powder  
+- Giga Drain  
+- Protect  
+
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25239 3 Likes 0 Score posted by IanGible http://www.smogon.com/forums/threads/undefeatable-double-trouble.3649363/page-1#post-8102109 ===
+
+Gyarados (M) @ Leftovers 
+Ability: Intimidate 
+Shiny: Yes 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Jolly Nature 
+- Substitute 
+- Earthquake 
+- Thunder Wave 
+- Waterfall 
+
+Tyranitar (F) @ Choice Band 
+Ability: Sand Stream 
+EVs: 252 HP / 252 Atk / 4 SpA 
+Brave Nature 
+- Rock Slide 
+- Earthquake 
+- Ice Punch 
+- Pursuit 
+
+Heatran @ Groundium Z 
+Ability: Flash Fire 
+EVs: 252 HP / 252 SpA / 4 SpD 
+Modest Nature 
+IVs: 0 Atk 
+- Stealth Rock 
+- Earth Power 
+- Hidden Power [Ice]
+- Heat Wave 
+
+Zapdos @ Rocky Helmet 
+Ability: Pressure 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Modest Nature 
+IVs: 0 Atk 
+- Heat Wave 
+- Hidden Power [Ice]
+- Thunderbolt 
+- Tailwind 
+
+Amoonguss (F) @ Leftovers 
+Ability: Regenerator 
+EVs: 252 HP / 4 SpA / 252 SpD 
+Calm Nature 
+IVs: 0 Atk 
+- Clear Smog 
+- Toxic 
+- Giga Drain 
+- Protect 
+
+Lucario @ Life Orb 
+Ability: Steadfast 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Jolly Nature 
+- Blaze Kick 
+- Ice Punch 
+- Drain Punch 
+- Meteor Mash
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25240 2 Likes 0 Score posted by Test Bots http://www.smogon.com/forums/threads/undefeatable-double-trouble.3649363/page-1#post-8126142 ===
+
+Gyarados @ Mago Berry  
+Ability: Intimidate  
+Shiny: Yes  
+EVs: 20 HP / 252 Atk / 236 Spe  
+Jolly Nature  
+- Waterfall  
+- Stone Edge  
+- Dragon Dance  
+- Protect  
+
+Manectric-Mega @ Manectite  
+Ability: Lightning Rod  
+EVs: 128 HP / 44 Def / 80 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Volt Switch  
+- Snarl  
+- Overheat  
+- Protect  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Earth Power  
+- Sludge Bomb  
+- Hidden Power [Ice]
+- U-turn  
+
+Kartana @ Fightinium Z  
+Ability: Beast Boost  
+EVs: 192 HP / 64 Atk / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Tailwind  
+- Protect  
+
+Tapu Lele @ Life Orb  
+Ability: Psychic Surge  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Taunt  
+- Protect  
+
+Chansey @ Eviolite  
+Ability: Healer  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Soft-Boiled  
+- Seismic Toss  
+- Toxic  
+- Ally Switch  
+
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25241 2 Likes 0 Score posted by Cody323 http://www.smogon.com/forums/threads/hoopa-u-tailroom.3649442/page-1#post-8104864 ===
+
+Hoopa-Unbound @ Sitrus Berry  
+Ability: Magician  
+EVs: 192 HP / 212 Atk / 104 Def  
+Brave Nature  
+- Hyperspace Fury  
+- Hyperspace Hole  
+- Trick Room  
+- Protect  
+
+Tapu Fini @ Wiki Berry  
+Ability: Misty Surge  
+EVs: 252 HP / 32 Def / 224 SpA  
+Bold Nature  
+- Muddy Water  
+- Moonblast  
+- Calm Mind  
+- Protect  
+
+Incineroar @ Figy Berry  
+Ability: Intimidate  
+EVs: 252 HP / 108 Atk / 20 Def / 116 SpD / 12 Spe  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- U-turn  
+
+Ferrothorn @ Wiki Berry  
+Ability: Iron Barbs  
+EVs: 252 HP / 88 Atk / 88 Def / 80 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Power Whip  
+- Leech Seed  
+- Protect  
+
+Pikachu @ Light Ball  
+Ability: Lightning Rod  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Fake Out  
+- Volt Tackle  
+- Hidden Power [Ice]
+- Protect  
+
+Salamence @ Salamencite  
+Ability: Intimidate  
+EVs: 60 Atk / 196 SpA / 252 Spe  
+Hasty Nature  
+- Double-Edge  
+- Hyper Voice  
+- Tailwind  
+- Protect  
+
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25242 36 Likes 0 Score posted by marilli http://www.smogon.com/forums/threads/team-big-fat-cat-tats.3631994/page-1#post-7747167 ===
+
+Nadeko (Zygarde) @ Choice Band
+Ability: Aura Break
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Thousand Arrows
+- Thousand Waves
+- Extreme Speed
+- Superpower
+
+Mew @ Mago Berry
+Ability: Synchronize
+Happiness: 0
+EVs: 252 HP / 64 Def / 28 SpA / 164 SpD
+Bold Nature
+- Fake Out
+- Trick Room
+- Transform
+- Ice Beam
+
+Tapu Koko @ Light Clay
+Ability: Electric Surge
+Happiness: 0
+EVs: 248 HP / 8 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Light Screen
+- Reflect
+- Taunt
+- Volt Switch
+
+Kyurem-Black @ Icium Z
+Ability: Teravolt
+Happiness: 0
+EVs: 204 Atk / 52 SpA / 252 Spe
+Hasty Nature
+- Freeze Shock
+- Fusion Bolt
+- Protect
+- Ice Beam
+
+Metagross-Mega @ Metagrossite
+Ability: Tough Claws
+Happiness: 0
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Stomping Tantrum
+- Iron Head
+- Ice Punch
+- Protect
+
+Snorlax @ Figy Berry
+Ability: Gluttony
+Happiness: 0
+EVs: 252 HP / 4 Atk / 252 Def
+Relaxed Nature
+IVs: 0 Spe
+- Frustration
+- Belly Drum
+- Recycle
+- Fire Punch
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25243 11 Likes 0 Score posted by AbsurdityNL http://www.smogon.com/forums/threads/the-hungry-spider-peaked-1901-1.3633844/page-1#post-7774094 ===
+
+Metagross-Mega @ Metagrossite 
+Ability: Tough Claws 
+EVs: 80 HP / 136 Atk / 40 Def / 252 Spe 
+Jolly Nature 
+- Iron Head 
+- Ice Punch 
+- Stomping Tantrum 
+- Protect 
+
+Incineroar @ Figy Berry 
+Ability: Intimidate 
+EVs: 216 HP / 40 Atk / 116 Def / 136 SpD 
+Impish Nature 
+- Fake Out 
+- Flare Blitz 
+- Knock Off 
+- Protect 
+
+Landorus-Therian @ Groundium Z 
+Ability: Intimidate 
+EVs: 120 HP / 60 Atk / 76 SpD / 252 Spe 
+Adamant Nature 
+- Earthquake 
+- Rock Slide 
+- U-turn 
+- Protect 
+
+Tapu Koko @ Assault Vest 
+Ability: Electric Surge 
+EVs: 200 HP / 48 Def / 8 SpA / 252 Spe 
+Timid Nature 
+- Volt Switch 
+- Dazzling Gleam 
+- Nature's Madness 
+- Sky Drop 
+
+Porygon2 @ Eviolite 
+Ability: Download 
+EVs: 252 HP / 132 Def / 16 SpA / 108 SpD 
+Quiet Nature 
+IVs: 0 Atk / 0 Spe 
+- Ice Beam 
+- Thunderbolt 
+- Trick Room 
+- Recover 
+
+Araquanid @ Aguav Berry 
+Ability: Water Bubble 
+EVs: 224 HP / 184 Atk / 100 Def 
+Brave Nature 
+IVs: 0 Spe 
+- Liquidation 
+- Toxic 
+- Wide Guard 
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25244 31 Likes 0 Score posted by Memoric http://www.smogon.com/forums/threads/rev-22-13-mega-gardevoir-semiroom-snake-team-peaked-suspect-1.3620515/page-1#post-7579147 ===
+
+the Alpha (Gardevoir-Mega) @ Gardevoirite
+Ability: Trace
+EVs: 224 HP / 140 Def / 144 SpA
+Modest Nature
+IVs: 0 Atk
+- Hyper Voice
+- Psyshock
+- Trick Room
+- Protect
+
+the Omega (Tyranitar) @ Choice Band
+Ability: Sand Stream
+EVs: 252 HP / 252 Atk / 4 SpD
+Brave Nature
+IVs: 0 Spe
+- Rock Slide
+- Crunch
+- Stone Edge
+- Low Kick
+
+the First (Marshadow) @ Marshadium Z
+Ability: Technician
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Spectral Thief
+- Shadow Sneak
+- Protect
+
+the Last (Volcanion) @ Assault Vest
+Ability: Water Absorb
+EVs: 252 HP / 160 SpA / 96 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Spe
+- Heat Wave
+- Steam Eruption
+- Sludge Bomb
+- Hidden Power [Ice]
+
+the Beginning (Tapu Bulu) @ Assault Vest
+Ability: Grassy Surge
+EVs: 252 HP / 120 Atk / 136 SpD
+Brave Nature
+IVs: 0 Spe
+- Wood Hammer
+- Horn Leech
+- Nature's Madness
+- Stone Edge
+
+the End (Celesteela) @ Leftovers
+Ability: Beast Boost
+EVs: 252 HP / 40 Atk / 48 Def / 168 SpD
+Relaxed Nature
+IVs: 0 Spe
+- Heavy Slam
+- Flamethrower
+- Leech Seed
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25245 22 Likes 0 Score posted by Arcticblast http://www.smogon.com/forums/threads/checkmater-fixes-his-runes.3621483/page-1#post-7589961 ===
+
+Marshadow @ Life Orb
+Ability: Technician
+EVs: 228 Atk / 28 Def / 252 Spe
+Jolly Nature
+- Protect
+- Shadow Sneak
+- Close Combat
+- Spectral Thief
+
+Tapu Fini @ Mago Berry
+Ability: Misty Surge
+EVs: 252 HP / 72 Def / 156 SpA / 28 SpD
+Modest Nature
+IVs: 0 Atk
+- Muddy Water
+- Moonblast
+- Taunt
+- Protect
+
+Landorus-Therian @ Choice Scarf
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Superpower
+- U-turn
+
+Zapdos @ Misty Seed
+Ability: Static
+EVs: 244 HP / 56 Def / 52 SpA / 80 SpD / 76 Spe
+Modest Nature
+IVs: 0 Atk
+- Tailwind
+- Thunderbolt
+- Hidden Power [Ice]
+- Roost
+
+Charizard @ Charizardite Y
+Ability: Blaze
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Protect
+- Flamethrower
+- Solar Beam
+- Heat Wave
+
+Kartana @ Grassium Z
+Ability: Beast Boost
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Detect
+- Leaf Blade
+- Smart Strike
+- Substitute
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25246 39 Likes 0 Score posted by AuraRayquaza http://www.smogon.com/forums/threads/fire-team-1k-rmt.3612899/page-1#post-7481115 ===
+
+Tyranitar-Mega @ Tyranitarite
+Ability: Sand Stream
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Rock Slide
+- Crunch
+- Protect
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Moonblast
+- Dazzling Gleam
+- Focus Blast
+
+Amoonguss @ Wiki Berry
+Ability: Regenerator
+EVs: 240 HP / 72 Def / 196 SpD
+Sassy Nature
+IVs: 0 Atk / 0 Spe
+- Spore
+- Rage Powder
+- Sludge Bomb
+- Protect
+
+Zapdos @ Psychic Seed
+Ability: Static
+EVs: 244 HP / 56 Def / 52 SpA / 80 SpD / 76 Spe
+Modest Nature
+IVs: 0 Atk
+- Tailwind
+- Thunderbolt
+- Hidden Power [Ice]
+- Roost
+
+Landorus-Therian @ Groundium Z
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Earthquake
+- Knock Off
+- U-turn
+- Protect
+
+Heatran @ Shuca Berry
+Ability: Flash Fire
+EVs: 188 HP / 4 Def / 144 SpA / 172 Spe
+Modest Nature
+IVs: 0 Atk
+- Heat Wave
+- Earth Power
+- Hidden Power [Ice]
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25247 52 Likes 0 Score posted by Mizuhime http://www.smogon.com/forums/threads/oceans-deep.3607914/page-1#post-7410719 ===
+
+Mimikyu @ Mental Herb  
+Ability: Disguise  
+Shiny: Yes  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Play Rough  
+- Trick Room  
+- Shadow Claw  
+- Protect  
+
+Abomasnow-Mega @ Abomasite  
+Ability: Snow Warning  
+Shiny: Yes  
+EVs: 248 HP / 8 Atk / 252 SpA  
+Quiet Nature  
+IVs: 0 Spe  
+- Blizzard  
+- Giga Drain  
+- Ice Shard  
+- Protect  
+
+Araquanid @ Waterium Z  
+Ability: Water Bubble  
+Shiny: Yes  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Liquidation  
+- Leech Life  
+- Wide Guard  
+- Protect  
+
+Snorlax @ Iapapa Berry  
+Ability: Gluttony  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+IVs: 0 Spe  
+- Curse  
+- Recycle  
+- Double-Edge  
+- High Horsepower  
+
+Diancie @ Weakness Policy  
+Ability: Clear Body  
+EVs: 248 HP / 252 Atk / 8 Def  
+Brave Nature  
+IVs: 0 Spe  
+- Diamond Storm  
+- Moonblast  
+- Trick Room  
+- Protect  
+
+Hariyama @ Flame Orb  
+Ability: Guts  
+EVs: 8 HP / 252 Atk / 124 Def / 124 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Fake Out  
+- Close Combat  
+- Heavy Slam  
+- Ice Punch
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25248 62 Likes 0 Score posted by TSR http://www.smogon.com/forums/threads/gold.3603808/page-1#post-7355335 ===
+
+Kangaskhan-Mega @ Kangaskhanite 
+Ability: Early Bird 
+EVs: 252 HP / 100 Def / 156 SpD 
+Careful Nature 
+- Fake Out 
+- Seismic Toss 
+- Body Slam 
+- Protect 
+
+Tapu Koko @ Fairium Z 
+Ability: Electric Surge 
+EVs: 4 HP / 252 SpA / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Thunderbolt 
+- Dazzling Gleam 
+- Discharge 
+- Protect 
+
+Gastrodon-East @ Leftovers 
+Ability: Storm Drain 
+EVs: 232 HP / 108 Def / 44 SpA / 124 SpD 
+Calm Nature 
+IVs: 0 Atk 
+- Scald 
+- Ice Beam 
+- Recover 
+- Protect 
+
+Celesteela @ Leftovers 
+Ability: Beast Boost 
+EVs: 252 HP / 68 Def / 168 SpD / 20 Spe 
+Careful Nature 
+- Heavy Slam 
+- Leech Seed 
+- Substitute 
+- Protect 
+
+Heatran @ Firium Z 
+Ability: Flash Fire 
+EVs: 4 HP / 252 SpA / 252 Spe 
+Modest Nature 
+IVs: 0 Atk 
+- Heat Wave 
+- Earth Power 
+- Taunt 
+- Protect 
+
+Landorus-Therian @ Choice Scarf 
+Ability: Intimidate 
+EVs: 252 Atk / 52 SpD / 204 Spe 
+Jolly Nature 
+- Earthquake 
+- U-turn 
+- Rock Slide 
+- Superpower
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25249 50 Likes 0 Score posted by MajorBowman http://www.smogon.com/forums/threads/seedy-beginnings.3604549/page-1#post-7364780 ===
+
+Salamence @ Salamencite 
+Ability: Intimidate 
+EVs: 52 Atk / 204 SpA / 252 Spe 
+Hasty Nature 
+- Double-Edge 
+- Hyper Voice 
+- Draco Meteor
+- Protect 
+
+Tyranitar @ Chople Berry 
+Ability: Sand Stream 
+EVs: 232 HP / 136 Atk / 8 Def / 132 SpA 
+Brave Nature 
+- Rock Slide 
+- Crunch 
+- Ice Beam 
+- Protect 
+
+Aegislash @ Ghostium Z 
+Ability: Stance Change 
+EVs: 132 HP / 252 SpA / 124 Spe 
+Modest Nature 
+- Shadow Ball 
+- Hidden Power [Ice]
+- Shadow Sneak 
+- King's Shield 
+
+Zapdos @ Misty Seed 
+Ability: Static 
+EVs: 232 HP / 136 Def / 84 SpD / 56 Spe 
+Bold Nature 
+IVs: 0 Atk 
+- Thunderbolt 
+- Hidden Power [Ice]
+- Tailwind 
+- Roost 
+
+Tapu Fini @ Leftovers 
+Ability: Misty Surge 
+EVs: 252 HP / 16 Def / 152 SpA / 32 SpD / 56 Spe 
+Bold Nature 
+IVs: 0 Atk 
+- Muddy Water 
+- Moonblast 
+- Calm Mind 
+- Protect 
+
+Landorus-Therian @ Choice Band 
+Ability: Intimidate 
+EVs: 4 HP / 252 Atk / 252 Spe 
+Adamant Nature 
+- Earthquake 
+- Superpower 
+- Rock Slide 
+- Explosion
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25250 28 Likes 0 Score posted by Memoric http://www.smogon.com/forums/threads/wanderlust.3602511/page-1#post-7335105 ===
+
+hot milk (Kangaskhan-Mega) @ Kangaskhanite 
+Ability: Scrappy 
+EVs: 252 HP / 212 SpD / 44 Spe 
+Careful Nature 
+- Fake Out 
+- Seismic Toss 
+- Wish 
+- Protect 
+
+walking on snow (Ferrothorn) @ Leftovers 
+Ability: Iron Barbs 
+EVs: 252 HP / 124 Atk / 32 Def / 100 SpD 
+Relaxed Nature 
+IVs: 0 Spe 
+- Power Whip 
+- Gyro Ball 
+- Leech Seed 
+- Protect 
+
+fizzy resort (Volcanion) @ Assault Vest 
+Ability: Water Absorb 
+EVs: 252 HP / 64 SpA / 96 SpD / 96 Spe 
+Modest Nature 
+IVs: 0 Atk 
+- Heat Wave 
+- Steam Eruption 
+- Sludge Bomb 
+- Hidden Power [Ice]
+
+Capuccino (Hydreigon) @ Life Orb 
+Ability: Levitate 
+EVs: 4 Def / 252 SpA / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Draco Meteor 
+- Dark Pulse 
+- Tailwind 
+- Protect 
+
+sweetheart (Tapu Koko) @ Life Orb 
+Ability: Electric Surge 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 29 HP / 0 Atk 
+- Thunderbolt 
+- Hidden Power [Ice]
+- Volt Switch 
+- Protect 
+
+white day (Landorus-Therian) @ Choice Scarf 
+Ability: Intimidate 
+EVs: 252 Atk / 4 SpA / 252 Spe 
+Hasty Nature 
+- Earthquake 
+- Rock Slide 
+- U-turn 
+- Hidden Power [Ice]
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25251 47 Likes 0 Score posted by Matame http://www.smogon.com/forums/threads/froot-peaked-no1-twice.3594640/page-1#post-7216576 ===
+
+I'm a Ruin (Tapu Lele) @ Life Orb
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Protect  
+- Taunt  
+
+Blue (Deoxys-Attack) @ Focus Sash  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psycho Boost  
+- Superpower  
+- Knock Off  
+- Detect  
+
+Better Than That (Zygarde) @ Groundium Z
+Ability: Aura Break  
+EVs: 104 HP / 252 Atk / 152 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Glare
+- Thousand Arrows  
+- Protect  
+
+Happy (Charizard) @ Charizardite Y  
+Ability: Blaze  
+EVs: 248 HP / 64 Def / 140 SpA / 56 Spe  
+Modest Nature  
+- Heat Wave  
+- Solar Beam  
+- Overheat  
+- Protect  
+
+Forget (Heatran) @ Shuca Berry  
+Ability: Flash Fire  
+EVs: 252 HP / 72 Def / 160 SpA / 20 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Earth Power  
+- Flamethrower  
+- Protect  
+
+Immortal (Zapdos) @ Psychic Seed  
+Ability: Static  
+EVs: 84 HP / 252 SpA / 172 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Roost  
+- Tailwind  <
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25252 21 Likes 0 Score posted by BlueSkiddo http://www.smogon.com/forums/threads/animal.3600180/page-1#post-7300260 ===
+
+Kangaroo (Kangaskhan-Mega) @ Kangaskhanite  
+Ability: Parental Bond  
+EVs: 252 HP / 80 Atk / 40 Def / 132 SpD / 4 Spe  
+Careful Nature  
+- Fake Out  
+- Seismic Toss  
+- Low Kick  
+- Protect  
+
+Fish (Tapu Fini) @ Mago Berry  
+Ability: Misty Surge  
+Shiny: Yes  
+EVs: 252 HP / 16 Def / 152 SpA / 32 SpD / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Muddy Water  
+- Moonblast  
+- Calm Mind  
+- Protect  
+
+Bird (Zapdos) @ Misty Seed  
+Ability: Static  
+EVs: 252 HP / 136 Def / 36 SpA / 32 SpD / 52 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Tailwind  
+- Roost  
+
+Demon (Hoopa-Unbound) @ Sitrus Berry  
+Ability: Magician  
+EVs: 80 HP / 236 Atk / 152 Def / 40 SpA  
+Brave Nature  
+- Hyperspace Fury  
+- Hyperspace Hole  
+- Trick Room  
+- Protect  
+
+Human (Snorlax) @ Iapapa Berry  
+Ability: Gluttony  
+Shiny: Yes  
+EVs: 100 HP / 144 Atk / 204 Def / 60 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Return  
+- High Horsepower  
+- Curse  
+- Recycle  
+
+Dragon (Kyurem-Black) @ Life Orb  
+Ability: Teravolt  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Earth Power  
+- Fusion Bolt  
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25253 1 Likes 0 Score posted by Mack Knife http://www.smogon.com/forums/threads/trapping-fun-mk2.3630695/page-1#post-7723262 ===
+
+Landorus-Therian @ Yache Berry  
+Ability: Intimidate  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+- Earth Power  
+- U-turn  
+- Hidden Power [Ice]
+- Protect  
+
+Tapu Koko @ Light Clay  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Reflect  
+- Light Screen  
+- Volt Switch  
+- Protect  
+
+Kyurem-Black @ Icium Z  
+Ability: Teravolt  
+EVs: 28 HP / 96 Atk / 160 SpA / 224 Spe  
+Hasty Nature  
+- Ice Beam  
+- Fusion Bolt  
+- Freeze Shock  
+- Protect  
+
+Scizor @ Scizorite  
+Ability: Light Metal  
+EVs: 252 HP / 216 Atk / 40 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Bullet Punch  
+- Bug Bite  
+- Swords Dance  
+- Protect  
+
+Volcanion @ Leftovers  
+Ability: Water Absorb  
+EVs: 252 HP / 8 Def / 164 SpA / 64 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Steam Eruption  
+- Substitute  
+- Protect  
+
+Gothitelle @ Wiki Berry  
+Ability: Shadow Tag  
+EVs: 252 HP / 188 Def / 68 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Helping Hand  
+- Heal Pulse  
+- Trick Room  
+- Recycle
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25254 1 Likes 0 Score posted by Mack Knife http://www.smogon.com/forums/threads/trapping-fun-mk2.3630695/page-1#post-7723262 ===
+
+... (Ninetales-Alola) @ Light Clay  
+Ability: Snow Warning  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Freeze-Dry  
+- Moonblast  
+- Aurora Veil  
+- Protect  
+
+! (Gothitelle) (F) @ Wiki Berry  
+Ability: Shadow Tag  
+EVs: 252 HP / 32 Def / 216 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Heal Pulse  
+- Helping Hand  
+- Trick Room  
+- Recycle  
+
+.... (Incineroar) @ Assault Vest  
+Ability: Intimidate  
+EVs: 240 HP / 88 Atk / 148 Def / 32 SpD  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- U-turn  
+
+..... (Tapu Fini) @ Mago Berry  
+Ability: Misty Surge  
+EVs: 252 HP / 72 Def / 112 SpA / 72 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Muddy Water  
+- Moonblast  
+- Protect  
+
+,,, (Zygarde) @ Groundium Z  
+Ability: Aura Break  
+EVs: 92 HP / 252 Atk / 164 Spe  
+Adamant Nature  
+- Thousand Arrows  
+- Extreme Speed  
+- Dragon Dance  
+- Protect  
+
+? (Genesect) @ Expert Belt  
+Ability: Download  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Flash Cannon  
+- Flamethrower  
+- Blizzard  
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25255 12 Likes 0 Score posted by ClaimingRobin http://www.smogon.com/forums/threads/i-cant-read-the-vr.3601215/page-1#post-7315706 ===
+
+Kyurem-Black @ Life Orb
+Ability: Teravolt
+EVs: 96 Atk / 160 SpA / 252 Spe
+Hasty Nature
+- Protect
+- Ice Beam
+- Earth Power
+- Fusion Bolt
+
+Landorus @ Life Orb
+Ability: Sheer Force
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+- Protect
+- Earth Power
+- Sludge Bomb
+- Rock Slide
+
+Rotom-Heat @ Firium Z
+Ability: Levitate
+EVs: 236 HP / 4 Def / 252 SpA / 4 SpD / 12 Spe
+Modest Nature
+IVs: 0 Atk
+- Overheat
+- Thunderbolt
+- Electroweb
+- Protect
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Psychic
+- Moonblast
+- Shadow Ball
+- Dazzling Gleam
+
+Metagross-Mega @ Metagrossite
+Ability: Tough Claws
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Protect
+- Substitute
+- Iron Head
+- Zen Headbutt
+
+credit:robin (Zygarde) @ Leftovers
+Ability: Aura Break
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Protect
+- Substitute
+- Dragon Dance
+- Thousand Arrows
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25256 2 Likes 0 Score posted by implaser http://www.smogon.com/forums/threads/sun-offense.3618358/page-1#post-7550626 ===
+
+Charizard-Mega-Y @ Charizardite Y
+Ability: Drought
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Heat Wave
+- Focus Blast
+- Solar Beam
+- Protect
+
+Heatran @ Shuca Berry
+Ability: Flash Fire
+EVs: 8 HP / 4 Def / 244 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Earth Power
+- Heat Wave
+- Protect
+- Flash Cannon
+
+Zapdos @ Misty Seed
+Ability: Static
+EVs: 244 HP / 136 Def / 80 SpD / 48 Spe
+Bold Nature
+- Tailwind
+- Roost
+- Thunderbolt
+- Hidden Power [Ice]
+
+Tapu Fini @ Leftovers
+Ability: Misty Surge
+EVs: 252 HP / 72 Def / 156 SpA / 28 SpD
+Modest Nature
+- Muddy Water
+- Moonblast
+- Calm Mind
+- Protect
+
+Landorus-Therian @ Choice Scarf
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Rock Slide
+- Earthquake
+- U-turn
+- Superpower
+
+Marshadow @ Marshadium Z
+Ability: Technician
+EVs: 252 Atk / 4 Def / 252 Spe
+Naive Nature
+- Close Combat
+- Spectral Thief
+- Shadow Sneak
+- Hidden Power [Ice]
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25257 3 Likes 0 Score posted by deoxys speed http://www.smogon.com/forums/threads/pouring-rain.3606244/page-1#post-7387487 ===
+
+Pelipper @ Damp Rock 
+Ability: Drizzle 
+EVs: 240 HP / 32 Def / 76 SpA / 120 SpD / 40 Spe 
+Bold Nature 
+- Tailwind 
+- Hurricane 
+- Scald 
+- U-turn 
+
+Swampert-Mega @ Swampertite 
+Ability: Swift Swim 
+EVs: 12 HP / 252 Atk / 244 Spe 
+Jolly Nature 
+- Waterfall 
+- Earthquake 
+- Ice Punch 
+- Protect 
+
+Tapu Lele @ Fightinium Z 
+Ability: Psychic Surge 
+EVs: 4 Def / 252 SpA / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Psyshock 
+- Moonblast 
+- Focus Blast 
+- Protect 
+
+Thundurus-Therian @ Assault Vest 
+Ability: Volt Absorb 
+EVs: 24 HP / 184 SpA / 52 SpD / 248 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Thunder 
+- Volt Switch 
+- Hidden Power [Ice]
+- Sludge Bomb 
+
+Ferrothorn @ Leftovers 
+Ability: Iron Barbs 
+EVs: 252 HP / 92 Atk / 88 Def / 76 SpD 
+Brave Nature 
+IVs: 0 Spe 
+- Iron Head 
+- Power Whip 
+- Stealth Rock 
+- Protect 
+
+Hoopa-Unbound @ Psychic Seed 
+Ability: Magician 
+EVs: 80 HP / 236 Atk / 152 Def / 28 SpA / 12 Spe 
+Naughty Nature 
+- Hyperspace Fury 
+- Hyperspace Hole 
+- Trick Room 
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25258 10 Likes 0 Score posted by Test Bot # http://www.smogon.com/forums/threads/volcarona-streak-26-0.3592562/page-1#post-7184741 ===
+
+Amon (Salamence-Mega) @ Salamencite
+Ability: Intimidate
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Hyper Voice
+- Draco Meteor
+- Protect
+- Tailwind
+
+Kerrigan (Volcarona) @ Firium Z
+Ability: Flame Body
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Heat Wave
+- Quiver Dance
+- Protect
+- Giga Drain
+
+Zerutal (Aegislash) @ Wiki Berry
+Ability: Stance Change
+EVs: 88 HP / 252 SpA / 168 Spe
+Modest Nature
+IVs: 0 Atk
+- Shadow Ball
+- Flash Cannon
+- Wide Guard
+- King's Shield
+
+Raynor (Landorus-Therian) @ Choice Scarf
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Superpower
+- U-turn
+- Rock Slide
+
+Artanis (Tapu Koko) @ Life Orb
+Ability: Electric Surge
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Thunderbolt
+- Dazzling Gleam
+- Taunt
+- Protect
+
+Nova (Milotic) @ Maranga Berry
+Ability: Competitive
+EVs: 252 HP / 104 Def / 64 SpD / 88 Spe
+Calm Nature
+IVs: 0 Atk
+- Recover
+- Icy Wind
+- Scald
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25259 10 Likes 0 Score posted by Test Bot # http://www.smogon.com/forums/threads/volcarona-streak-26-0.3592562/page-1#post-7184741 ===
+
+Salamence-Mega @ Salamencite  
+Ability: Intimidate  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Draco Meteor  
+- Protect  
+- Tailwind  
+
+Volcarona @ Firium Z  
+Ability: Flame Body  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Quiver Dance  
+- Protect  
+- Giga Drain  
+
+Aegislash @ Wiki Berry  
+Ability: Stance Change  
+Level: 50  
+EVs: 92 HP / 252 SpA / 164 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Flash Cannon  
+- Wide Guard  
+- King's Shield  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature  
+- Rock Slide  
+- Superpower  
+- U-turn  
+- Earthquake  
+
+Tapu Koko @ Life Orb  
+Ability: Electric Surge  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dazzling Gleam  
+- Taunt  
+- Protect  
+
+Milotic @ Maranga Berry  
+Ability: Competitive  
+Level: 50  
+EVs: 252 HP / 44 Def / 124 SpD / 88 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Recover  
+- Icy Wind  
+- Scald  
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25260 4 Likes 0 Score posted by ElMustacho http://www.smogon.com/forums/threads/dance-dance-dance-starring-oricorio.3601482/page-1#post-7320684 ===
+
+Oricorio-Pom-Pom @ Sitrus Berry 
+Oricorio-Pom-Pom @ Sitrus Berry 
+Ability: Dancer 
+EVs: 4 HP / 252 SpA / 252 Spe 
+Modest Nature 
+IVs: 0 Atk 
+- Revelation Dance 
+- Roost 
+- Hurricane 
+- Protect 
+
+Murkrow @ Eviolite 
+Ability: Prankster 
+EVs: 248 HP / 8 SpA / 252 SpD 
+Calm Nature 
+IVs: 0 Atk 
+- Feather Dance 
+- Taunt 
+- Quash 
+- Tailwind 
+
+Volcarona @ Charti Berry 
+Ability: Flame Body 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Modest Nature 
+IVs: 0 Atk 
+- Fiery Dance 
+- Quiver Dance 
+- Bug Buzz 
+- Hidden Power [Ground]
+
+Pelipper @ Damp Rock 
+Ability: Drizzle 
+EVs: 248 HP / 252 Def / 8 SpA 
+Bold Nature 
+- Hurricane 
+- U-turn 
+- Roost 
+- Scald 
+
+Pheromosa @ Focus Sash 
+Ability: Beast Boost 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Modest Nature 
+IVs: 0 Atk 
+- Quiver Dance 
+- Bug Buzz 
+- Focus Blast 
+- Ice Beam 
+
+Lilligant @ Focus Sash 
+Ability: Own Tempo 
+EVs: 4 HP / 252 SpA / 252 Spe 
+Modest Nature 
+IVs: 0 Atk 
+- Quiver Dance 
+- Teeter Dance 
+- Petal Dance 
+- Sleep Powder
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25261 1 Likes 0 Score posted by Un passant ordinaire http://www.smogon.com/forums/threads/your-trick-room-is-aids.3612399/page-1#post-7475407 ===
+
+Mimiku dayo ! (Mimikyu) @ Mental Herb
+Ability: Disguise
+EVs: 252 HP / 4 Atk / 252 SpD
+Sassy Nature
+IVs: 0 Spe
+- Trick Room
+- Play Rough
+- Protect
+- Destiny Bond
+
+Sushi master (Wishiwashi) @ Aguav Berry
+Ability: Schooling
+Shiny: Yes
+EVs: 252 HP / 252 SpA / 4 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Spe
+- Surf
+- Hydro Pump
+- Protect
+- Ice Beam
+
+Boiler (Volcanion) @ Firium Z
+Ability: Water Absorb
+EVs: 248 HP / 252 SpA / 8 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Spe
+- Heat Wave
+- Steam Eruption
+- Sludge Bomb
+- Protect
+
+Bzzzzt (Xurkitree) @ Assault Vest
+Ability: Beast Boost
+EVs: 252 HP / 252 SpA / 4 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Spe
+- Thunderbolt
+- Volt Switch
+- Signal Beam
+- Energy Ball
+
+Socks (Dusclops) @ Eviolite
+Ability: Frisk
+Shiny: Yes
+EVs: 248 HP / 252 Def / 8 SpD
+Relaxed Nature
+IVs: 0 Atk / 0 Spe
+- Trick Room
+- Night Shade
+- Pain Split
+- Haze
+
+Christmas spirit (Abomasnow) @ Abomasite
+Ability: Soundproof
+EVs: 248 HP / 252 SpA / 8 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Spe
+- Blizzard
+- Giga Drain
+- Protect
+- Focus Blast
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25262 4 Likes 0 Score posted by Yellow Paint http://www.smogon.com/forums/threads/lightspeed-assault-team.3590792/page-1#post-7155811 ===
+
+War Paint (Tapu Bulu) @ Life Orb  
+Ability: Grassy Surge  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 5 Spe  
+- Wood Hammer  
+- Superpower  
+- Stone Edge  
+- Protect  
+
+Predator Drone (Necrozma) @ Grassy Seed  
+Ability: Prism Armor  
+EVs: 252 HP / 140 SpA / 116 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Stored Power  
+- Calm Mind  
+- Trick Room  
+- Moonlight  
+
+Exfoliate! (Heatran) @ Firium Z  
+Ability: Flash Fire  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Eruption  
+- Earth Power  
+- Flash Cannon  
+- Protect  
+
+Mama Jen (Kangaskhan-Mega) @ Kangaskhanite  
+Ability: Scrappy  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Fake Out  
+- Double-Edge  
+- Seismic Toss  
+- Sucker Punch  
+
+Crystallographer (Diancie) @ Life Orb  
+Ability: Clear Body  
+EVs: 252 HP / 208 Atk / 48 SpA  
+Brave Nature  
+IVs: 0 Spe  
+- Diamond Storm  
+- Moonblast  
+- Trick Room  
+- Protect  
+
+Unsinkable (Wishiwashi-School) @ Life Orb  
+Ability: Schooling  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Muddy Water  
+- Ice Beam  
+- Endeavor  
+- Protect
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25263 1 Likes 0 Score posted by itram2001 http://www.smogon.com/forums/threads/mega-sableye-celesteela-stall-peaked-arround-1350.3601694/page-1#post-7323259 ===
+
+Kayuga (Celesteela) @ Leftovers
+Ability: Beast Boost
+EVs: 252 HP / 40 Atk / 116 Def / 100 SpD
+Adamant Nature
+- Heavy Slam
+- Leech Seed
+- Substitute
+- Protect
+
+Stall-Da (Sableye-Mega) @ Sablenite
+Ability: Prankster
+Shiny: Yes
+EVs: 248 HP / 116 Def / 144 SpD
+Careful Nature
+IVs: 0 Atk
+- Will-O-Wisp
+- Foul Play
+- Recover
+- Taunt
+
+Mudball (Muk-Alola) @ Assault Vest
+Ability: Power of Alchemy
+EVs: 4 Atk / 252 Def / 252 SpD
+Careful Nature
+- Knock Off
+- Shadow Sneak
+- Gunk Shot
+- Fire Blast
+
+Buff'd (Buzzwole) @ Assault Vest
+Ability: Beast Boost
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+- Ice Punch
+- Leech Life
+- Power-Up Punch
+- Earthquake
+
+Skull Kid (Marowak-Alola) @ Thick Club
+Ability: Lightning Rod
+EVs: 252 HP / 180 Atk / 4 Def / 68 SpD / 4 Spe
+Adamant Nature
+- Flare Blitz
+- Shadow Bone
+- Bonemerang
+- Detect
+
+DROP IT! (Hydreigon) @ Choice Scarf
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Draco Meteor
+- Fire Blast
+- Dark Pulse
+- U-turn
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25264 2 Likes 0 Score posted by Paraplegic http://www.smogon.com/forums/threads/dance-dance-revolution.3591715/page-1#post-7175933 ===
+
+Oricorio-Pom-Pom @ Life Orb  
+Ability: Dancer  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 29 HP / 0 Atk  
+- Tailwind  
+- Revelation Dance  
+- Air Slash  
+- Protect  
+
+Volcarona @ Lum Berry  
+Ability: Flame Body  
+EVs: 72 HP / 252 SpA / 184 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Fiery Dance  
+- Giga Drain  
+- Protect  
+
+Gyarados @ Waterium Z  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Waterfall  
+- Return  
+- Protect  
+
+Kangaskhan-Mega (F) @ Kangaskhanite  
+Ability: Inner Focus  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Double-Edge  
+- Low Kick  
+- Sucker Punch  
+
+Kyurem-Black @ Choice Scarf  
+Ability: Teravolt  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Dragon Claw  
+- Fusion Bolt  
+- Ice Beam  
+- Earth Power  
+
+Jirachi @ Sitrus Berry  
+Ability: Serene Grace  
+EVs: 252 HP / 148 Def / 108 Spe  
+Impish Nature  
+- Follow Me  
+- Iron Head  
+- Icy Wind  
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25265 1 Likes 0 Score posted by Ewanator http://www.smogon.com/forums/threads/the-tricky-torterra-team.3597734/page-1#post-7261474 ===
+
+Shelly (Torterra) (M) @ Ghostium Z 
+Ability: Overgrow 
+EVs: 252 HP / 252 Atk / 4 SpD 
+Brave Nature 
+IVs: 0 Spe 
+- Wood Hammer 
+- Earthquake 
+- Curse 
+- Stone Edge 
+
+Harambe's ghost (Oranguru) (M) @ Mental Herb 
+Ability: Telepathy 
+Shiny: Yes 
+EVs: 252 HP / 80 Def / 176 SpD 
+Relaxed Nature 
+IVs: 0 Atk / 0 Spe 
+- Trick Room 
+- Instruct 
+- Foul Play 
+- Taunt 
+
+Welcome to the Himalayas! (Crabominable) @ Life Orb 
+Ability: Iron Fist 
+EVs: 252 HP / 252 Atk / 4 SpD 
+Brave Nature 
+IVs: 0 Spe 
+- Ice Hammer 
+- Power-Up Punch 
+- Crabhammer 
+- Superpower 
+
+Liberty (Bronzong) @ Macho Brace 
+Ability: Levitate 
+EVs: 252 HP / 180 Def / 76 SpD 
+Relaxed Nature 
+IVs: 0 Spe 
+- Gyro Ball 
+- Stealth Rock 
+- Zen Headbutt 
+- Trick Room 
+
+Water Nope (Araquanid) @ Leftovers 
+Ability: Water Bubble 
+EVs: 252 HP / 168 Atk / 88 Def 
+Brave Nature 
+IVs: 0 Spe 
+- Aqua Ring 
+- Stockpile 
+- Liquidation 
+- Leech Life 
+
+Stubby arms (Golem-Alola) @ Life Orb 
+Ability: Galvanize 
+EVs: 252 HP / 252 Atk / 4 SpD 
+Brave Nature 
+IVs: 0 Spe 
+- Double-Edge 
+- Explosion 
+- Rock Slide 
+- Stealth Rock
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25266 1 Likes 0 Score posted by Crab-kun http://www.smogon.com/forums/threads/charizard-y-with-zygarde.3591330/page-1#post-7163818 ===
+
+Zygarde @ Sitrus Berry  
+Ability: Aura Break  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Thousand Arrows  
+- Substitute  
+- Dragon Dance  
+- Protect  
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 148 HP / 124 Def / 20 SpA / 108 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Solar Beam  
+- Hidden Power [Ice]
+- Protect  
+
+Tapu Lele @ Sitrus Berry  
+Ability: Psychic Surge  
+EVs: 252 HP / 144 Def / 108 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Taunt  
+- Protect  
+
+Milotic @ Psychic Seed  
+Ability: Competitive  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Icy Wind  
+- Recover  
+- Protect  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 252 Atk / 64 SpA / 192 Spe  
+Naive Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Flamethrower  
+
+Hydreigon @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Dark Pulse  
+- Earth Power  
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25267 1 Likes 0 Score posted by Blazing Mewtwo http://www.smogon.com/forums/threads/lightspeed-assault-team.3590792/page-1#post-7155448 ===
+
+Tsareena @ Assault Vest 
+Ability: Queenly Majesty 
+EVs: 252 HP / 252 Atk / 4 SpD 
+Adamant Nature 
+- Rapid Spin 
+- Play Rough 
+- Trop Kick 
+- High Jump Kick 
+Pheromosa @ Focus Sash 
+Ability: Beast Boost 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Adamant Nature 
+- Brick Break 
+- Lunge 
+- Poison Jab 
+- U-turn 
+Snorlax @ Leftovers 
+Ability: Immunity 
+EVs: 252 HP / 252 Atk / 4 SpD 
+Brave Nature 
+- Curse 
+- Crunch 
+- Brick Break 
+- Earthquake 
+Minior-Blue @ Focus Sash 
+Ability: Shields Down 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Adamant Nature 
+- Acrobatics 
+- Shell Smash 
+- Earthquake 
+- Rock Slide 
+Tapu Lele @ Life Orb 
+Ability: Psychic Surge 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+- Moonblast 
+- Psychic 
+- Shadow Ball 
+- Energy Ball 
+Salazzle @ Focus Sash 
+Ability: Corrosion 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+- Dragon Pulse 
+- Fire Blast 
+- Sludge Wave 
+- Toxic
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25268 0 Likes 0 Score posted by Boomy http://www.smogon.com/forums/threads/garchomp-sweeps-everything.3598554/page-1#post-7274477 ===
+
+Garchomp @ Firium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fire Fang  
+- Swords Dance  
+- Earthquake  
+- Dragon Claw  
+
+Typhlosion @ Choice Scarf  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Eruption  
+- Lava Plume  
+- Extrasensory  
+- Hidden Power [Grass]
+
+Dhelmise @ Choice Band  
+Ability: Steelworker  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Anchor Shot  
+- Earthquake  
+- Power Whip  
+- Rock Slide  
+
+Slowbro-Mega @ Slowbronite  
+Ability: Own Tempo  
+EVs: 248 HP / 232 Def / 28 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Slack Off  
+- Thunder Wave  
+- Psyshock  
+- Scald  
+
+Landorus-Therian (M) @ Rockium Z  
+Ability: Intimidate  
+EVs: 244 HP / 192 Atk / 72 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 192 Def / 16 SpD / 52 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Taunt  
+- Nature's Madness  
+- Moonblast  
+- Defog
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25269 0 Likes 0 Score posted by Swimmer128 http://www.smogon.com/forums/threads/swimmer128s-doubles-ou-team.3642039/page-1#post-7916902 ===
+
+Metagross @ Life Orb  
+Ability: Clear Body  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Bullet Punch  
+- Stealth Rock  
+- Explosion  
+- Zen Headbutt  
+
+Gengar @ Life Orb  
+Ability: Cursed Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Destiny Bond  
+- Shadow Ball  
+- Sludge Bomb  
+- Thunder  
+
+Flygon @ Yache Berry  
+Ability: Levitate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Outrage  
+- Dragon Claw  
+- Fire Punch  
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Solar Beam  
+- Roost  
+- Heat Wave  
+- Air Slash  
+
+Ludicolo @ Damp Rock  
+Ability: Swift Swim  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Rain Dance  
+- Energy Ball  
+- Surf  
+- Ice Beam  
+
+Poliwrath @ Leftovers  
+Ability: Water Absorb  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Bulk Up  
+- Circle Throw  
+- Waterfall  
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25270 0 Likes 0 Score posted by M4mal http://www.smogon.com/forums/threads/doubles-sandstorm-team.3631813/page-1#post-7743570 ===
+
+Hippowdon @ Weakness Policy  
+Ability: Sand Stream  
+Level: 50  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Slack Off  
+- Iron Head  
+
+Stoutland @ Life Orb  
+Ability: Sand Rush  
+Level: 50  
+EVs: 180 HP / 252 Atk / 76 Spe  
+Jolly Nature  
+- Retaliate  
+- Fire Fang  
+- Play Rough  
+- Iron Head  
+
+Garchomp @ BrightPowder  
+Ability: Sand Veil  
+Level: 50  
+EVs: 128 HP / 252 Atk / 128 Spe  
+Jolly Nature  
+- Double Team  
+- Earthquake  
+- Poison Jab  
+- Dragon Tail  
+Gastrodon-East @ Sitrus Berry  
+Ability: Storm Drain  
+Level: 50  
+EVs: 252 HP / 252 Def  
+Bold Nature  
+IVs: 0 Atk  
+- Recover  
+- Stockpile  
+- Scald  
+- Toxic  
+
+Crobat @ Black Sludge  
+Ability: Inner Focus  
+Level: 50  
+EVs: 128 HP / 64 Def / 64 SpD / 252 Spe  
+Adamant Nature  
+- Tailwind  
+- Roost  
+- Super Fang  
+- Poison Fang  
+
+Magnezone @ Leftovers  
+Ability: Sturdy  
+Level: 50  
+EVs: 252 HP / 232 Def / 24 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Discharge  
+- Flash Cannon  
+- Protect  
+- Substitute  
+
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25271 0 Likes 0 Score posted by Woodl http://www.smogon.com/forums/threads/doubles-ou-team-my-1st-team-in-doubles-ou.3634403/page-1#post-7782052 ===
+
+Landorus-Therian @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Earthquake  
+- Stealth Rock  
+- Rock Slide  
+- Superpower  
+
+Tapu Lele @ Leftovers  
+Ability: Psychic Surge  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Shadow Ball  
+- Thunderbolt  
+
+Zapdos @ Psychic Seed  
+Ability: Static  
+EVs: 225 HP / 8 SpA / 252 SpD / 23 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Discharge  
+- Heat Wave  
+- Tailwind  
+- Defog  
+
+Sceptile-Mega @ Sceptilite  
+Ability: Lightning Rod  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Claw  
+- Swords Dance  
+- Thunder Punch  
+- Brick Break  
+
+Volcanion @ Air Balloon  
+Ability: Water Absorb  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Earth Power  
+- Flash Cannon  
+- Steam Eruption  
+
+Electivire @ Life Orb  
+Ability: Motor Drive  
+EVs: 252 Atk / 126 SpD / 126 Spe  
+Adamant Nature  
+- Fire Punch  
+- Ice Punch  
+- Thunder Punch  
+- Power-Up Punch  
+
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25272 0 Likes 0 Score posted by Hitagi http://www.smogon.com/forums/threads/mega-diancie-aggro.3646987/page-1#post-8036034 ===
+
+Diancie @ Diancite  
+Ability: Clear Body  
+EVs: 28 HP / 140 Atk / 68 SpA / 20 SpD / 252 Spe  
+Hasty Nature  
+- Diamond Storm  
+- Moonblast  
+- Earth Power  
+- Protect  
+
+Volcarona @ Firium Z  
+Ability: Flame Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Giga Drain  
+- Quiver Dance  
+- Protect  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 164 Atk / 92 SpA / 252 Spe  
+Hasty Nature  
+- U-turn  
+- Iron Head  
+- Ice Beam  
+- Gunk Shot  
+
+Kyurem-Black @ Life Orb  
+Ability: Teravolt  
+EVs: 112 HP / 144 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Earth Power  
+- Fusion Bolt  
+- Protect  
+
+Rotom-Wash @ Wiki Berry  
+Ability: Levitate  
+EVs: 252 HP / 112 Def / 76 SpA / 68 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Thunderbolt  
+- Will-O-Wisp  
+- Protect  
+
+Thundurus @ Life Orb  
+Ability: Prankster  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Taunt  
+- Thunder Wave
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25273 0 Likes 0 Score posted by Test Bots http://www.smogon.com/forums/threads/tailwind-voltturn-please-rate.3649907/page-1#post-8125361 ===
+
+Manectric-Mega @ Manectite  
+Ability: Lightning Rod  
+EVs: 128 HP / 44 Def / 80 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Snarl  
+- Overheat  
+- Protect  
+
+Genesect @ Choice Scarf  
+Ability: Download  
+EVs: 168 Atk / 88 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Flamethrower  
+- U-turn  
+- Iron Head  
+
+Landorus-Therian @ Wiki Berry  
+Ability: Intimidate  
+EVs: 252 HP / 44 Def / 176 SpA / 28 SpD / 8 Spe  
+Modest Nature  
+- Earth Power  
+- U-turn  
+- Knock Off  
+- Stealth Rock  
+
+Suicune @ Aguav Berry  
+Ability: Inner Focus  
+EVs: 252 HP / 48 Def / 44 SpA / 108 SpD / 56 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Ice Beam  
+- Tailwind  
+- Roar  
+
+Tapu Bulu @ Figy Berry  
+Ability: Grassy Surge  
+EVs: 252 HP / 56 Atk / 116 SpD / 84 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Superpower  
+- Swords Dance  
+- Protect  
+
+Mew @ Normalium Z  
+Ability: Synchronize  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Fake Out  
+- Ally Switch  
+- U-turn  
+- Transform
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25274 0 Likes 0 Score posted by Cody323 http://www.smogon.com/forums/threads/tailwind-voltturn-please-rate.3649907/page-1#post-8125088 ===
+
+Manectric-Mega @ Manectite  
+Ability: Intimidate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Snarl  
+- Flamethrower  
+- Protect  
+
+Landorus-Therian @ Iapapa Berry  
+Ability: Intimidate  
+EVs: 252 HP / 44 Def / 176 SpA / 28 SpD / 8 Spe  
+Modest Nature  
+- Earth Power  
+- U-turn  
+- Knock Off  
+- Stealth Rock  
+
+Tapu Fini @ Wiki Berry  
+Ability: Misty Surge  
+EVs: 252 HP / 32 Def / 224 SpA  
+Bold Nature  
+- Muddy Water  
+- Moonblast  
+- Calm Mind  
+- Protect  
+
+Volcarona @ Firium Z  
+Ability: Flame Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Heat Wave  
+- Bug Buzz  
+- Quiver Dance  
+- Protect  
+
+Kartana @ Mago Berry  
+Ability: Beast Boost  
+EVs: 128 HP / 8 Atk / 248 SpD / 124 Spe  
+Adamant Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Tailwind  
+- Protect  
+
+Kyurem-Black @ Life Orb  
+Ability: Teravolt  
+EVs: 112 Atk / 144 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Fusion Bolt  
+- Earth Power  
+- Protect  
+
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25275 0 Likes 0 Score posted by Mack Knife http://www.smogon.com/forums/threads/voltturn-offense.3651071/page-1#post-8148680 ===
+
+Manectric @ Manectite  
+Ability: Lightning Rod  
+EVs: 128 HP / 44 Def / 80 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Snarl  
+- Overheat  
+- Protect  
+
+Landorus-Therian @ Iapapa Berry  
+Ability: Intimidate  
+EVs: 252 HP / 44 Def / 140 SpA / 28 SpD / 44 Spe  
+Modest Nature  
+- Earth Power  
+- U-turn  
+- Defog  
+- Stealth Rock  
+
+Tapu Fini @ Wiki Berry  
+Ability: Misty Surge  
+EVs: 252 HP / 140 Def / 48 SpA / 68 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Nature's Madness  
+- Taunt  
+- Protect  
+
+Kyurem-Black @ Assault Vest  
+Ability: Teravolt  
+EVs: 248 HP / 96 Atk / 76 Def / 4 SpA / 84 Spe  
+Quiet Nature  
+- Dragon Tail  
+- Fusion Bolt  
+- Earth Power  
+- Icy Wind  
+
+Volcarona @ Buginium Z  
+Ability: Flame Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Bug Buzz  
+- Quiver Dance  
+- Protect  
+
+Kartana @ Mago Berry  
+Ability: Beast Boost  
+EVs: 112 HP / 64 Atk / 8 Def / 176 SpD / 148 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Tailwind  
+- Protect
+
+
+
+
+=== [gen7doublesou] SM Doubles OU/#25276 0 Likes 0 Score posted by Test Bot # http://www.smogon.com/forums/threads/my-first-ever-trick-room-team.3589710/page-1#post-7137380 ===
+
+Kangaskhan-Mega @ Kangaskhanite
+Ability: Scrappy
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+IVs: 0 Spe
+- Fake Out
+- Seismic Toss
+- Hammer Arm
+- Ice Punch
+
+Tapu Bulu @ Life Orb
+Ability: Grassy Surge
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+IVs: 0 Spe
+- Superpower
+- Wood Hammer
+- Stone Edge
+- Protect
+
+Necrozma @ Grassy Seed
+Ability: Prism Armor
+Shiny: Yes
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+IVs: 0 Atk
+- Trick Room
+- Stored Power
+- Calm Mind
+- Morning Sun
+
+Marowak-Alola @ Thick Club
+Ability: Lightning Rod
+EVs: 252 HP / 252 Atk / 4 Def
+Brave Nature
+IVs: 0 Spe
+- Flare Blitz
+- Shadow Bone
+- Bonemerang
+- Protect
+
+Wishiwashi-School @ Life Orb
+Ability: Schooling
+EVs: 252 HP / 252 SpA / 4 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Spe
+- Muddy Water
+- Ice Beam
+- Soak
+- Protect
+
+Diancie @ Life Orb
+Ability: Clear Body
+EVs: 252 HP / 208 Atk / 48 SpA
+Brave Nature
+IVs: 0 Spe
+- Diamond Storm
+- Moonblast
+- Trick Room
+- Protect
+
+
+
+

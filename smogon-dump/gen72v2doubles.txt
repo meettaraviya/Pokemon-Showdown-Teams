@@ -1,0 +1,814 @@
+=== [gen72v2doubles] 1v1/#19809 3 Likes 0 Score posted by AllFourtyOne Dark: Full Trick Room http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Muk-Alola @ Life Orb  
+Ability: Poison Touch  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Gunk Shot  
+- Thunder Punch  
+- Explosion  
+- Protect  
+
+Malamar @ Tanga Berry  
+Ability: Contrary  
+EVs: 248 HP / 8 Atk / 252 Def  
+Relaxed Nature  
+- Superpower  
+- Trick Room  
+- Protect  
+- Ally Switch  
+
+Scrafty @ Roseli Berry  
+Ability: Shed Skin  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Drain Punch  
+- Fake Out  
+- Protect  
+- High Jump Kick  
+
+Krookodile @ Iron Ball  
+Ability: Intimidate  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Earthquake  
+- Superpower  
+- Protect  
+- Bulk Up  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19810 3 Likes 0 Score posted by AllFourtyOne Bug: Pinsir + Support http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Vivillon @ Charti Berry  
+Ability: Friend Guard  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Rage Powder  
+- Sleep Powder  
+- Electroweb  
+- Struggle Bug  
+
+Pinsir-Mega @ Pinsirite  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Feint  
+- Protect  
+- Stone Edge  
+
+Volcarona @ Charcoal  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Heat Wave  
+- Fire Blast  
+- Protect  
+- Rage Powder  
+
+Wormadam-Trash @ Occa Berry  
+Ability: Overcoat  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Ally Switch  
+- Struggle Bug  
+- Protect  
+- Hidden Power [Fire]
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19811 3 Likes 0 Score posted by AllFourtyOne Ice: Slush Rush + Anti Slush Rush http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Ninetales-Alola @ Sitrus Berry  
+Ability: Snow Warning  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Aurora Veil  
+- Hidden Power [Fire]
+- Encore  
+- Moonblast  
+
+Sandslash-Alola @ Life Orb  
+Ability: Slush Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Brick Break  
+- Protect  
+- Swords Dance  
+
+Beartic @ Life Orb  
+Ability: Slush Rush  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Superpower  
+- Stone Edge  
+- Swords Dance  
+- Protect  
+
+Crabominable @ Chople Berry  
+Ability: Iron Fist  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Drain Punch  
+- Wide Guard  
+- Rock Slide  
+- Iron Head  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19812 3 Likes 0 Score posted by AllFourtyOne Dragon: Haxorus Support http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Kommo-o @ Choice Scarf  
+Ability: Soundproof  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Clanging Scales  
+- Draco Meteor  
+- Outrage  
+- Close Combat  
+
+Haxorus @ Haban Berry  
+Ability: Unnerve  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Protect  
+- Draco Meteor  
+- Endeavor  
+- Dual Chop  
+
+Naganadel @ Haban Berry  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Protect  
+- Dragon Pulse  
+- Hidden Power [Ice]
+
+Salamence @ Haban Berry  
+Ability: Intimidate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Protect  
+- Draco Meteor  
+- Outrage  
+- Tailwind  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19813 3 Likes 0 Score posted by AllFourtyOne Grass: Abomasnow and Supports http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Abomasnow-Mega @ Abomasite  
+Ability: Snow Warning  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+IVs: 1 Spe  
+- Blizzard  
+- Protect  
+- Ice Shard  
+- Hidden Power [Fire]
+
+Tangrowth @ Kebia Berry  
+Ability: Chlorophyll  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Rage Powder  
+- Protect  
+- Hidden Power [Fire]
+- Sludge Bomb  
+
+Celebi @ Tanga Berry  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Trick Room  
+- Hidden Power [Fire]
+- Heal Block  
+- Protect  
+
+Exeggutor-Alola @ Sitrus Berry  
+Ability: Harvest  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Trick Room  
+- Hypnosis  
+- Explosion  
+- Hidden Power [Bug]
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19814 3 Likes 0 Score posted by AllFourtyOne Ghost: Hoopa + TR http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Hoopa @ Choice Scarf  
+Ability: Magician  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyperspace Hole  
+- Shadow Ball  
+- Destiny Bond  
+- Trick  
+
+Aegislash @ Kasib Berry  
+Ability: Stance Change  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Shadow Ball  
+- Wide Guard  
+- King&#39;s Shield  
+- Shadow Sneak  
+
+Banette-Mega @ Banettite  
+Ability: Prankster  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Phantom Force  
+- Protect  
+- Shadow Claw  
+- Shadow Sneak  
+
+Cofagrigus @ Kasib Berry  
+Ability: Mummy  
+EVs: 248 HP / 8 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Shadow Ball  
+- Protect  
+- Will-O-Wisp  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19815 3 Likes 0 Score posted by AllFourtyOne Electric: Togedemaru and Gang Focus Punch http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Togedemaru @ Choice Scarf  
+Ability: Sturdy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- After You  
+- Fling  
+- Magnet Rise  
+- Zen Headbutt  
+
+Stunfisk @ Life Orb  
+Ability: Sand Veil  
+EVs: 252 HP / 4 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Protect  
+- Yawn  
+- Sludge Wave  
+
+Electivire @ Life Orb  
+Ability: Motor Drive  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Ice Punch  
+- Protect  
+- Focus Punch  
+
+Raichu-Alola @ Sitrus Berry  
+Ability: Surge Surfer  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 30 Atk  
+- Psychic  
+- Hidden Power [Ground]
+- Follow Me  
+- Fake Out  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19816 3 Likes 0 Score posted by AllFourtyOne Steel: Heatran + Support http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Heatran @ Choice Specs  
+Ability: Flash Fire  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Eruption  
+- Heat Wave  
+- Earth Power  
+- Magma Storm  
+
+Togedemaru @ Choice Scarf  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- After You  
+- Zing Zap  
+- Electroweb  
+- Nuzzle  
+
+Lucario-Mega @ Lucarionite  
+Ability: Adaptability  
+EVs: 248 HP / 8 Atk / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Follow Me  
+- Quick Guard  
+- Protect  
+
+Cobalion @ Choice Scarf  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Taunt  
+- Close Combat  
+- Quick Guard  
+- Helping Hand  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19817 3 Likes 0 Score posted by AllFourtyOne Poison: Rage Powder HO http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Amoonguss @ Coba Berry  
+Ability: Effect Spore  
+EVs: 248 HP / 8 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Hidden Power [Psychic]
+- Rage Powder  
+- Spore  
+- Protect  
+
+Nidoking @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Ice Beam  
+- Protect  
+- Taunt  
+
+Venomoth @ Life Orb  
+Ability: Wonder Skin  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Rage Powder  
+- Quiver Dance  
+- Psychic  
+
+Venusaur-Mega @ Venusaurite  
+Ability: Thick Fat  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stomping Tantrum  
+- Swords Dance  
+- Return  
+- Protect  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19818 3 Likes 0 Score posted by AllFourtyOne Fire: TorkDoom HO http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Houndoom-Mega @ Houndoominite  
+Ability: Solar Power  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Protect  
+- Nasty Plot  
+- Hidden Power [Ground]
+
+Volcarona @ Charti Berry  
+Ability: Flame Body  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Rage Powder  
+- Magnet Rise  
+- Tailwind  
+- Hidden Power [Ground]
+
+Infernape @ Life Orb  
+Ability: Iron Fist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Rock Slide  
+- Mach Punch  
+- Swords Dance  
+- Protect  
+
+Torkoal @ Life Orb  
+Ability: Drought  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Shell Smash  
+- Protect  
+- Rock Slide  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19819 3 Likes 0 Score posted by AllFourtyOne Rock: Trick Room + Fast http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Stakataka @ Air Balloon  
+Ability: Beast Boost  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Earthquake  
+- Gyro Ball  
+- Protect  
+- Superpower  
+
+Lunatone @ Passho Berry  
+Ability: Levitate  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Power Gem  
+- Trick Room  
+- Earth Power  
+- Moonlight  
+
+Terrakion @ Life Orb  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Earthquake  
+- Iron Head  
+- Protect  
+
+Kabutops @ Life Orb  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Aqua Tail  
+- Aqua Jet  
+- Swords Dance  
+- Protect  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19820 3 Likes 0 Score posted by AllFourtyOne Fairy: Clefcott HO http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Whimsicott @ Babiri Berry  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Helping Hand  
+- Tailwind  
+- Hidden Power [Poison]
+- Protect  
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Magnet Rise  
+- Iron Head  
+- Protect  
+- Swords Dance  
+
+Clefairy @ Eviolite  
+Ability: Friend Guard  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+- Helping Hand  
+- Follow Me  
+- Soft-Boiled  
+- Seismic Toss  
+
+Tapu Koko @ Life Orb  
+Ability: Electric Surge  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Protect  
+- Electroweb  
+- Sky Drop  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19821 3 Likes 0 Score posted by AllFourtyOne Flying: Therian + Wide Guard http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Wide Guard  
+- Leech Seed  
+- Protect  
+- Rock Slide  
+
+Thundurus-Therian @ Life Orb  
+Ability: Volt Absorb  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Discharge  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Protect  
+
+Landorus-Therian @ Yache Berry  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Stone Edge  
+- Protect  
+- Swords Dance  
+
+Mantine @ Wacan Berry  
+Ability: Swift Swim  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Wide Guard  
+- Protect  
+- Tailwind  
+- Ice Beam  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19822 3 Likes 0 Score posted by AllFourtyOne Normal: Full Trick Room http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Exploud @ Life Orb  
+Ability: Soundproof  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+IVs: 0 Spe  
+- Boomburst  
+- Focus Blast  
+- Hammer Arm  
+- Protect  
+
+Bewear @ Life Orb  
+Ability: Fluffy  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+IVs: 15 Spe  
+- Hammer Arm  
+- Protect  
+- Double-Edge  
+- Swords Dance  
+
+Porygon2 @ Eviolite  
+Ability: Download  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 17 Spe  
+- Recover  
+- Tri Attack  
+- Ally Switch  
+- Trick Room  
+
+Oranguru @ Sitrus Berry  
+Ability: Inner Focus  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Atk / 17 Spe  
+- Focus Blast  
+- Trick Room  
+- Instruct  
+- Taunt  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19823 3 Likes 0 Score posted by AllFourtyOne Fighting: TR + Keldeo-o http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Gallade @ Sitrus Berry  
+Ability: Steadfast  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+- Trick Room  
+- Zen Headbutt  
+- Shadow Sneak  
+- Protect  
+
+Keldeo @ Payapa Berry  
+Ability: Justified  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quick Guard  
+- Scald  
+- Protect  
+- Helping Hand  
+
+Kommo-o @ Choice Scarf  
+Ability: Bulletproof  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Draco Meteor  
+- Clanging Scales  
+- Close Combat  
+- Thunder Punch  
+
+Emboar @ Life Orb  
+Ability: Reckless  
+EVs: 248 HP / 252 Atk / 8 SpA  
+Brave Nature  
+- Flare Blitz  
+- Blast Burn  
+- Superpower  
+- Protect  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19824 3 Likes 0 Score posted by AllFourtyOne Ground: Weather + TR http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Camerupt-Mega @ Cameruptite  
+Ability: Sheer Force  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Eruption  
+- Heat Wave  
+- Earth Power  
+- Protect  
+
+Claydol @ Yache Berry  
+Ability: Levitate  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Trick Room  
+- Grass Knot  
+- Protect  
+- Explosion  
+
+Mamoswine @ Life Orb  
+Ability: Thick Fat  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Earthquake  
+- Freeze-Dry  
+- Blizzard  
+- Protect  
+
+Swampert-Mega @ Swampertite  
+Ability: Swift Swim  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hail  
+- Rain Dance  
+- Hydro Pump  
+- Blizzard  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19825 3 Likes 0 Score posted by AllFourtyOne Psychic: TR + DeoHoop http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Meloetta @ Life Orb  
+Ability: Serene Grace  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Hyper Voice  
+- Hyper Beam  
+- Protect  
+- Shadow Ball  
+
+Oranguru @ Colbur Berry  
+Ability: Inner Focus  
+EVs: 252 HP / 212 SpD / 44 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Instruct  
+- Shadow Ball  
+- Taunt  
+
+Deoxys-Attack @ Life Orb  
+Ability: Pressure  
+EVs: 32 Atk / 252 SpA / 224 Spe  
+Mild Nature  
+- Extreme Speed  
+- Protect  
+- Shadow Ball  
+- Dark Pulse  
+
+Hoopa @ Choice Scarf  
+Ability: Magician  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Hyperspace Hole  
+- Shadow Ball  
+- Destiny Bond  
+- Phantom Force  
+
+
+
+
+
+
+=== [gen72v2doubles] 1v1/#19826 3 Likes 0 Score posted by AllFourtyOne Water: Keldeo Qwilfish + Fireworks http://www.smogon.com/forums/threads/1v1-oms.3648454/page-3#post-8137567 ===
+
+Qwilfish @ Choice Band  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Poison Jab  
+- Explosion  
+- Fell Stinger  
+- Destiny Bond  
+
+Keldeo @ Sitrus Berry  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 1 Atk  
+- Hidden Power [Electric]
+- Helping Hand  
+- Quick Guard  
+- Secret Sword  
+
+Politoed @ Rindo Berry  
+Ability: Drizzle  
+EVs: 248 HP / 8 SpA / 252 SpD  
+Calm Nature  
+- Protect  
+- Icy Wind  
+- Seismic Toss  
+- Helping Hand  
+
+Kingdra @ Choice Specs  
+Ability: Swift Swim  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Hyper Beam  
+- Signal Beam  
+- Hidden Power [Electric]
+
+
+
+
+

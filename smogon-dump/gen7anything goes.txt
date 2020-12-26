@@ -1,0 +1,63 @@
+=== [gen7anything goes] Anything Goes/#18926 4 Likes 1 Score posted by YaBoiJD lo kyu scogre with mmy in dat mix http://www.smogon.com/forums/threads/ag-team-bazaar-and-showcase.3646732/page-3#post-8240491 ===
+
+Arceus @ Normalium Z  
+Ability: Multitype  
+EVs: 132 HP / 252 Atk / 124 Spe  
+Adamant Nature  
+- Swords Dance  
+- Extreme Speed  
+- Refresh  
+- Shadow Claw  
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Thunder  
+- Origin Pulse  
+- Ice Beam  
+
+Kyurem-White @ Life Orb  
+Ability: Turboblaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Draco Meteor  
+- Flash Cannon  
+- Fusion Flare  
+
+Ho-Oh @ Leftovers  
+Ability: Regenerator  
+EVs: 252 HP / 204 Def / 52 SpD  
+Impish Nature  
+- Sacred Fire  
+- Recover  
+- Toxic  
+- Defog  
+
+Marshadow @ Choice Scarf  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Spectral Thief  
+- Close Combat  
+- Pursuit  
+- Shadow Sneak  
+
+Mewtwo @ Mewtwonite Y  
+Ability: Pressure  
+EVs: 252 SpA / 8 SpD / 248 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Recover  
+- Fire Blast  
+- Psystrike  
+- Thunderbolt  
+
+
+
+
+

@@ -1,0 +1,125 @@
+=== [gen7natureswap] OM Archives/#20464 23 Likes 5 Score posted by Chazm Untitled 23 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Hasty Nature  
+- Play Rough  
+- Thunder Punch  
+- Sucker Punch  
+- Swords Dance  
+
+Kartana @ Normalium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Hasty Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Giga Impact  
+- Swords Dance  
+
+Buzzwole @ Life Orb  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Hasty Nature  
+- Drain Punch  
+- Ice Punch  
+- Poison Jab  
+- Bulk Up  
+
+Shuckle @ Mental Herb  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Sticky Web  
+- Stealth Rock  
+- Toxic  
+- Encore  
+
+Landorus-Therian @ Focus Sash  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Explosion  
+- Stealth Rock  
+- Swords Dance  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Mild Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Moonblast  
+- Hidden Power [Fire]
+- Calm Mind  
+
+
+
+
+
+
+=== [gen7natureswap] OM Archives/#20465 23 Likes 5 Score posted by Chazm Untitled 32 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Focus Blast  
+- Shift Gear  
+- Calm Mind  
+
+Toxapex @ Choice Band  
+Ability: Regenerator  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Lonely Nature  
+- Liquidation  
+- Gunk Shot  
+- Knock Off  
+- Toxic Spikes  
+
+Tornadus-Therian @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpA  
+Relaxed Nature  
+- Hurricane  
+- U-turn  
+- Knock Off  
+- Defog  
+
+Aggron @ Choice Scarf  
+Ability: Rock Head  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Hasty Nature  
+- Head Smash  
+- Heavy Slam  
+- Earthquake  
+- Fire Punch  
+
+Mawile-Mega @ Mawilite  
+Ability: Huge Power  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Hasty Nature  
+- Play Rough  
+- Sucker Punch  
+- Knock Off  
+- Swords Dance  
+
+Landorus-Therian @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Earthquake  
+- U-turn  
+- Smack Down  
+- Stealth Rock  
+
+
+
+
+
+

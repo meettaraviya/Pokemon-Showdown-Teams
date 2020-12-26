@@ -1,0 +1,1185 @@
+=== [gen7camomons] OM Archives/#19621 23 Likes 5 Score posted by Chazm Untitled 4 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Chansey @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Aromatherapy  
+- Toxic  
+- Seismic Toss  
+- Soft-Boiled  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 248 HP / 76 Atk / 164 SpD / 20 Spe  
+Careful Nature  
+- Earthquake  
+- Will-O-Wisp  
+- Soft-Boiled  
+- Stealth Rock  
+
+Slowbro-Mega @ Slowbronite  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Slack Off  
+- Calm Mind  
+
+Snorlax @ Choice Band  
+Ability: Thick Fat  
+EVs: 252 Atk / 4 Def / 252 SpD  
+Adamant Nature  
+- Gunk Shot  
+- Pursuit  
+- Earthquake  
+- Rest  
+
+Salamence @ Rocky Helmet  
+Ability: Intimidate  
+EVs: 252 HP / 240 Def / 16 Spe  
+Impish Nature  
+- Iron Tail  
+- Roost  
+- Defog  
+- Roar  
+
+Cresselia @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Shadow Ball  
+- Calm Mind  
+- Moonlight  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19622 23 Likes 5 Score posted by Chazm Untitled 20 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Tornadus-Therian @ Assault Vest  
+Ability: Regenerator  
+EVs: 8 HP / 220 Atk / 112 SpD / 168 Spe  
+Jolly Nature  
+- Iron Tail  
+- U-turn  
+- Knock Off  
+- Superpower  
+
+Garchomp @ Waterium Z  
+Ability: Sand Veil  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Aqua Tail  
+- Swords Dance  
+- Stealth Rock  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 240 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Dazzling Gleam  
+- Calm Mind  
+- Roost  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Superpower  
+- Stone Edge  
+- Defog  
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Dragon Dance  
+- Taunt  
+
+Magnezone @ Choice Specs  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Sunny Day  
+- Volt Switch  
+- Hidden Power [Fire]
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19623 23 Likes 5 Score posted by Chazm Untitled 85 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Lucario @ Life Orb  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Blaze Kick  
+- Close Combat  
+- Swords Dance  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 120 HP / 136 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Iron Tail  
+- Superpower  
+- Knock Off  
+
+Latias-Mega @ Latiasite  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Draco Meteor  
+- Calm Mind  
+- Roost  
+
+Garchomp @ Waterium Z  
+Ability: Sand Veil  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Aqua Tail  
+- Iron Head  
+- Swords Dance  
+- Stealth Rock  
+
+Tornadus-Therian @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 8 HP / 80 Def / 168 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Focus Blast  
+- Defog  
+- U-turn  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 144 SpD / 112 Spe  
+Jolly Nature  
+- Earthquake  
+- Aqua Tail  
+- Swords Dance  
+- Roost  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19624 23 Likes 5 Score posted by Chazm camo ubers http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 80 HP / 188 Atk / 8 Def / 232 Spe  
+Impish Nature  
+- Thousand Arrows  
+- Toxic  
+- Dragon Dance  
+- Protect  
+
+Deoxys-Attack @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Knock Off  
+- Pursuit  
+- Superpower  
+
+Latias (F) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 160 Def / 96 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Toxic  
+- Defog  
+- Roost  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hex  
+- Focus Blast  
+- Substitute  
+- Will-O-Wisp  
+
+Lunala @ Lunalium Z  
+Ability: Shadow Shield  
+EVs: 244 SpA / 12 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moongeist Beam  
+- Moonblast  
+- Calm Mind  
+- Roost  
+
+Necrozma-Dusk-Mane @ Leftovers  
+Ability: Prism Armor  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Sunsteel Strike  
+- Moonlight  
+- Toxic  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19625 23 Likes 5 Score posted by Chazm Untitled 128 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Deoxys-Attack @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Knock Off  
+- Pursuit  
+- Superpower  
+
+Ho-Oh @ Life Orb  
+Ability: Regenerator  
+EVs: 104 HP / 252 Atk / 152 Spe  
+Adamant Nature  
+- Earthquake  
+- Brave Bird  
+- Recover  
+- Defog  
+
+Lunala @ Leftovers  
+Ability: Shadow Shield  
+EVs: 56 HP / 200 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Night Daze  
+- Toxic  
+- Roost  
+- Calm Mind  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 168 Def / 252 SpA / 88 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Flash Cannon  
+- Focus Blast  
+- Geomancy  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 SpA / 100 SpD / 156 Spe  
+Mild Nature  
+- Precipice Blades  
+- Eruption  
+- Smack Down  
+- Stealth Rock  
+
+Latias-Mega (F) @ Latiasite  
+Ability: Levitate  
+EVs: 252 HP / 100 Def / 156 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Toxic  
+- Surf  
+- Recover  
+- Calm Mind  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19626 23 Likes 5 Score posted by Chazm Untitled 129 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Tapu Koko @ Light Clay  
+Ability: Electric Surge  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Jolly Nature  
+- Reflect  
+- Light Screen  
+- U-turn  
+- Taunt  
+
+Landorus-Therian (M) @ Focus Sash  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Explosion  
+- Swords Dance  
+- Stealth Rock  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 96 HP / 252 Atk / 32 SpD / 128 Spe  
+Adamant Nature  
+- Acrobatics  
+- High Jump Kick  
+- Swords Dance  
+- Roost  
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Thunderbolt  
+- Calm Mind  
+- Shift Gear  
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Earthquake  
+- Dragon Dance  
+- Taunt  
+
+Manaphy @ Leftovers  
+Ability: Hydration  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Dazzling Gleam  
+- Substitute  
+- Tail Glow  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19627 23 Likes 5 Score posted by Chazm Untitled 138 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Thunderbolt  
+- Shift Gear  
+- Calm Mind  
+
+Tornadus-Therian (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 96 HP / 68 Atk / 176 SpD / 168 Spe  
+Jolly Nature  
+- Iron Tail  
+- U-turn  
+- Knock Off  
+- Superpower  
+
+Latias (F) @ Black Sludge  
+Ability: Levitate  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Toxic  
+- Defog  
+- Roost  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 240 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Giga Drain  
+- Stealth Rock  
+- Roost  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Moonblast  
+- Psyshock  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Knock Off  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19628 23 Likes 5 Score posted by Chazm Untitled 147 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Earthquake  
+- Substitute  
+- Dragon Dance  
+
+Tornadus-Therian (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 96 HP / 68 Atk / 176 SpD / 168 Spe  
+Jolly Nature  
+- Iron Tail  
+- U-turn  
+- Superpower  
+- Knock Off  
+
+Zygarde-10% @ Choice Band  
+Ability: Aura Break  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Thousand Arrows  
+- Glare  
+- Crunch  
+Slowbro @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 96 Def / 160 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Shadow Ball  
+- Calm Mind  
+- Slack Off  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Superpower  
+- U-turn  
+- Stone Edge  
+- Defog  
+
+Kommo-o @ Kommonium Z  
+Ability: Bulletproof  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Clanging Scales  
+- Flamethrower  
+- Taunt  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19629 23 Likes 5 Score posted by Chazm specs torn (ti g2) http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Tornadus-Therian (M) @ Choice Specs  
+Ability: Regenerator  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Focus Blast  
+- Heat Wave  
+- Knock Off  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Earthquake  
+- Dragon Dance  
+- Roost  
+
+Latios (M) @ Dragonium Z  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Thunderbolt  
+- Calm Mind  
+- Roost  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 236 Def / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Dazzling Gleam  
+- Roost  
+- Defog  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 232 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Power Whip  
+- Gyro Ball  
+- Leech Seed  
+- Stealth Rock  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 120 HP / 192 Atk / 196 Spe  
+Jolly Nature  
+- U-turn  
+- Iron Tail  
+- Superpower  
+- Stone Edge  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19630 23 Likes 5 Score posted by Chazm Untitled 152 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Bisharp @ Life Orb  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Knock Off  
+- Poison Jab  
+- Sucker Punch  
+- Swords Dance  
+
+Manaphy @ Leftovers  
+Ability: Hydration  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Dazzling Gleam  
+- Psychic  
+- Tail Glow  
+
+Shuckle @ Mental Herb  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic  
+- Sticky Web  
+- Stealth Rock  
+- Encore  
+
+Porygon-Z @ Life Orb  
+Ability: Adaptability  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Nasty Plot  
+- Substitute  
+
+Latios (M) @ Dragonium Z  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Shadow Ball  
+- Calm Mind  
+- Roost  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Return  
+- Flare Blitz  
+- Swords Dance  
+- Roost  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19631 23 Likes 5 Score posted by Chazm Untitled 161 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Kommo-o @ Kommonium Z  
+Ability: Bulletproof  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Clanging Scales  
+- Flash Cannon  
+- Stealth Rock  
+- Taunt  
+
+Manaphy @ Leftovers  
+Ability: Hydration  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Dazzling Gleam  
+- Tail Glow  
+- Substitute  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Knock Off  
+- Toxic Spikes  
+- Recover  
+- Haze  
+
+Tornadus-Therian (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 8 HP / 80 Def / 168 SpA / 252 Spe  
+Timid Nature  
+- Focus Blast  
+- Hurricane  
+- Defog  
+- U-turn  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Superpower  
+- Knock Off  
+- Stone Edge  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Flare Blitz  
+- Dragon Dance  
+- Roost  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19632 23 Likes 5 Score posted by Chazm ti g1 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Gallade-Mega (M) @ Galladite  
+Ability: Inner Focus  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Ice Punch  
+- Zen Headbutt  
+- Swords Dance  
+
+Magearna @ Choice Specs  
+Ability: Soul-Heart  
+EVs: 176 HP / 196 SpA / 136 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Fleur Cannon  
+- Thunderbolt  
+- Focus Blast  
+
+Mew @ Rocky Helmet  
+Ability: Synchronize  
+EVs: 252 HP / 236 Def / 20 Spe  
+Impish Nature  
+- Iron Head  
+- Roost  
+- Stealth Rock  
+- U-turn  
+
+Tornadus-Therian (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 96 HP / 68 Atk / 176 SpD / 168 Spe  
+Jolly Nature  
+- Knock Off  
+- Sludge Bomb  
+- U-turn  
+- Superpower  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Explosion  
+- Knock Off  
+- Defog  
+
+Manaphy @ Waterium Z  
+Ability: Hydration  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Dazzling Gleam  
+- Psychic  
+- Tail Glow  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19633 23 Likes 5 Score posted by Chazm ti g3 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Mew @ Shuca Berry  
+Ability: Synchronize  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Fire Blast  
+- Nasty Plot  
+- Roost  
+
+Rotom-Heat @ Colbur Berry  
+Ability: Levitate  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hex  
+- Volt Switch  
+- Will-O-Wisp  
+- Defog  
+
+Tornadus-Therian (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 92 HP / 72 Atk / 176 SpD / 168 Spe  
+Jolly Nature  
+- U-turn  
+- Iron Tail  
+- Knock Off  
+- Superpower  
+
+Kommo-o @ Kommonium Z  
+Ability: Soundproof  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Clanging Scales  
+- Flash Cannon  
+- Taunt  
+- Stealth Rock  
+
+Latios (M) @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Trick  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Earthquake  
+- Roost  
+- Dragon Dance  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19634 23 Likes 5 Score posted by Chazm Untitled 173 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Hydreigon @ Choice Specs  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Flash Cannon  
+- Draco Meteor  
+- Fire Blast  
+- U-turn  
+
+Mawile-Mega @ Mawilite  
+Ability: Huge Power  
+EVs: 92 HP / 252 Atk / 164 Spe  
+Adamant Nature  
+- Sucker Punch  
+- Play Rough  
+- Knock Off  
+- Swords Dance  
+
+Tornadus-Therian (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 96 HP / 68 Atk / 176 SpD / 168 Spe  
+Jolly Nature  
+- Iron Tail  
+- U-turn  
+- Knock Off  
+- Superpower  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 236 Def / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Roost  
+- Volt Switch  
+- Ice Beam  
+- Defog  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunder  
+- Moonblast  
+- U-turn  
+- Healing Wish  
+
+Garchomp @ Waterium Z  
+Ability: Sand Veil  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Aqua Tail  
+- Return  
+- Swords Dance  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19635 23 Likes 5 Score posted by Chazm ashgren http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Greninja @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Extrasensory  
+- Water Shuriken  
+- Spikes  
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Earthquake  
+- Taunt  
+- Dragon Dance  
+
+Tapu Bulu @ Choice Band  
+Ability: Grassy Surge  
+EVs: 84 HP / 248 Atk / 176 Spe  
+Adamant Nature  
+- Wood Hammer  
+- Superpower  
+- Stone Edge  
+- Horn Leech  
+
+Tornadus-Therian (M) @ Fightinium Z  
+Ability: Regenerator  
+EVs: 12 HP / 40 Def / 204 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Focus Blast  
+- Defog  
+- U-turn  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Fire Blast  
+- Stealth Rock  
+- Soft-Boiled  
+
+Mew @ Choice Scarf  
+Ability: Synchronize  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Liquidation  
+- U-turn  
+- Earthquake  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19636 23 Likes 5 Score posted by Chazm Untitled 191 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Porygon-Z @ Choice Scarf  
+Ability: Adaptability  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Trick  
+- Nasty Plot  
+
+Tornadus-Therian (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 96 HP / 68 Atk / 176 SpD / 168 Spe  
+Jolly Nature  
+- Iron Tail  
+- U-turn  
+- Knock Off  
+- Superpower  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 252 Def / 12 SpD  
+Impish Nature  
+- Aqua Tail  
+- Facade  
+- Swords Dance  
+- Roost  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+EVs: 240 HP / 164 SpA / 92 SpD / 12 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Moonblast  
+- Stealth Rock  
+- Soft-Boiled  
+
+Mew @ Rocky Helmet  
+Ability: Synchronize  
+EVs: 252 HP / 4 Def / 180 SpD / 72 Spe  
+Careful Nature  
+- Roost  
+- Drain Punch  
+- Toxic  
+- Defog  
+
+Landorus-Therian (M) @ Groundium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Tail  
+- Gravity  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19637 23 Likes 5 Score posted by Chazm Untitled 134 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+EVs: 248 HP / 32 Def / 228 SpD  
+Calm Nature  
+- U-turn  
+- Scald  
+- Roost  
+- Defog  
+
+Tornadus-Therian (M) @ Choice Specs  
+Ability: Regenerator  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Focus Blast  
+- Knock Off  
+- U-turn  
+
+Swampert-Mega @ Swampertite  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Waterfall  
+- Superpower  
+- Ice Punch  
+- Stealth Rock  
+
+Magearna @ Iapapa Berry  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 96 SpA / 136 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shift Gear  
+- Shadow Ball  
+- Thunderbolt  
+- Calm Mind  
+
+Latios (M) @ Dragonium Z  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Thunder  
+- Calm Mind  
+- Roost  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Waterfall  
+- Earthquake  
+- Gunk Shot  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen7camomons] OM Archives/#19638 23 Likes 5 Score posted by Chazm Untitled 144 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 244 SpD / 20 Spe  
+Jolly Nature  
+- Facade  
+- Earthquake  
+- Roost  
+- Swords Dance  
+
+Magearna @ Choice Specs  
+Ability: Soul-Heart  
+EVs: 184 HP / 188 SpA / 136 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Fleur Cannon  
+- Thunderbolt  
+- Volt Switch  
+- Focus Blast  
+
+Tornadus-Therian (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 96 HP / 68 Atk / 176 SpD / 168 Spe  
+Jolly Nature  
+- U-turn  
+- Iron Tail  
+- Superpower  
+- Knock Off  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 236 Def / 20 Spe  
+Bold Nature  
+- Scald  
+- Dragon Tail  
+- Roost  
+- Defog  
+
+
+
+
+
+
+
+=== [gen7camomons] Anything Goes/#19639 2 Likes 0 Score posted by BananaLaddersPS Untitled 21 http://www.smogon.com/forums/threads/ag-team-bazaar-and-showcase.3646732/page-2#post-8128445 ===
+
+Slowbro @ Leftovers  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Grass Knot  
+- Slack Off  
+- Toxic  
+
+Reuniclus @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 252 SpD  
+Sassy Nature  
+- Flash Cannon  
+- Charm  
+- Knock Off  
+- Focus Blast  
+
+Latias-Mega @ Latiasite  
+Ability: Levitate  
+EVs: 252 HP / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Defog  
+- Recover  
+- Surf  
+- Toxic  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Earthquake  
+- Stealth Rock  
+- Stone Edge  
+
+Tyranitar @ Dragonium Z  
+Ability: Sand Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Outrage  
+- Stone Edge  
+- Dragon Dance  
+- Earthquake  
+
+Heracross @ Flame Orb  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Facade  
+- Close Combat  
+- Swords Dance  
+- Knock Off  
+
+
+
+
+
+

@@ -1,0 +1,252 @@
+=== [gen7followtheleader] OM Archives/#20466 23 Likes 5 Score posted by Chazm Untitled 24 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Slowking @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Scald  
+- Future Sight  
+- Dragon Tail  
+- Ice Beam  
+
+Excadrill @ Steelium Z  
+Ability: Regenerator  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Tail  
+- Belly Drum  
+- Slack Off  
+
+Greninja @ Life Orb  
+Ability: Regenerator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Fire Blast  
+- Ice Beam  
+- Nasty Plot  
+
+Garchomp @ Leftovers  
+Ability: Regenerator  
+EVs: 252 HP / 200 Def / 56 Spe  
+Impish Nature  
+- Earthquake  
+- Dragon Tail  
+- Fire Blast  
+- Slack Off  
+
+Alakazam @ Alakazite  
+Ability: Regenerator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Fire Blast  
+- Focus Blast  
+- Nasty Plot  
+
+Buzzwole @ Choice Scarf  
+Ability: Regenerator  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Drain Punch  
+- Ice Punch  
+- Earthquake  
+- Toxic  
+
+
+
+
+
+
+=== [gen7followtheleader] OM Archives/#20467 23 Likes 5 Score posted by Chazm Untitled 25 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Thunder Wave  
+- Stealth Rock  
+- Soft-Boiled  
+
+Magearna @ Life Orb  
+Ability: Magic Guard  
+EVs: 212 HP / 252 SpA / 44 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Fire Blast  
+- Calm Mind  
+- Soft-Boiled  
+
+Tapu Koko @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Moonblast  
+- Calm Mind  
+- Focus Blast  
+
+Chansey @ Eviolite  
+Ability: Unaware  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Wish  
+- Knock Off  
+- Toxic  
+- Protect  
+
+Buzzwole @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Drain Punch  
+- Toxic  
+- Moonlight  
+- Aromatherapy  
+
+Cobalion @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Drain Punch  
+- Meteor Mash  
+- Belly Drum  
+- Soft-Boiled  
+
+
+
+
+
+
+=== [gen7followtheleader] OM Archives/#20468 23 Likes 5 Score posted by Chazm Prankcer http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Sableye @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+- Foul Play  
+- Will-O-Wisp  
+- Recover  
+- Fake Out  
+
+Magearna @ Fairium Z  
+Ability: Prankster  
+EVs: 252 HP / 196 Def / 60 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Dazzling Gleam  
+- Calm Mind  
+- Recover  
+- Taunt  
+
+Tapu Fini @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Dazzling Gleam  
+- Taunt  
+- Will-O-Wisp  
+- Recover  
+
+Chansey @ Eviolite  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Will-O-Wisp  
+- Recover  
+- Taunt  
+- Metal Burst  
+
+Incineroar @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Fire Punch  
+- Knock Off  
+- Taunt  
+- Recover  
+
+Palossand @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Shadow Claw  
+- Punishment  
+- Recover  
+- Taunt  
+
+
+
+
+
+
+=== [gen7followtheleader] OM Archives/#20469 23 Likes 5 Score posted by Chazm Untitled 47 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Mawile-Mega @ Mawilite  
+Ability: Intimidate  
+EVs: 92 HP / 252 Atk / 164 Spe  
+Adamant Nature  
+- Sucker Punch  
+- Play Rough  
+- Knock Off  
+- Swords Dance  
+
+Zeraora @ Focus Sash  
+Ability: Sheer Force  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Thunder Punch  
+- Ice Punch  
+- Taunt  
+- Stealth Rock  
+
+Tapu Koko @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Thunder Punch  
+- Play Rough  
+- Swords Dance  
+- Fire Fang  
+
+Heatran @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Flash Cannon  
+- Focus Blast  
+- Taunt  
+
+Weavile @ Icium Z  
+Ability: Sheer Force  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Sucker Punch  
+- Ice Punch  
+- Fire Fang  
+- Swords Dance  
+
+Bisharp @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Iron Head  
+- Knock Off  
+- Sucker Punch  
+- Swords Dance  
+
+
+
+
+
+

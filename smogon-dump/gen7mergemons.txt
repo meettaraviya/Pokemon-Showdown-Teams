@@ -1,0 +1,616 @@
+=== [gen7mergemons] OM Archives/#20449 23 Likes 5 Score posted by Chazm Untitled 184 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Victini @ Life Orb  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- V-create  
+- Bolt Strike  
+- Extreme Speed  
+- Swords Dance  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- Earthquake  
+- Substitute  
+- Dragon Dance  
+
+Hawlucha @ Light Clay  
+Ability: Mold Breaker  
+EVs: 248 HP / 8 Atk / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Light Screen  
+- Reflect  
+- Taunt  
+
+Landorus-Therian (M) @ Focus Sash  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Explosion  
+- Swords Dance  
+- Stealth Rock  
+
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Diamond Storm  
+- Thousand Arrows  
+- Extreme Speed  
+
+Kartana @ Fightinium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Stone Edge  
+- Sacred Sword  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen7mergemons] Other Metagames/#20450 1 Likes 0 Score posted by Pf987 Gen 1 http://www.smogon.com/forums/threads/mergemons.3591780/page-3#post-7215232 ===
+
+
+Dragonite @ Leftovers 
+Ability: Multiscale 
+EVs: 252 HP / 4 Atk / 196 Def / 56 SpD 
+Careful Nature 
+- Drain Punch 
+- Foul Play 
+- Roost 
+- Toxic 
+
+Raichu-Alola @ Focus Sash 
+Ability: Surge Surfer 
+Shiny: Yes 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Ice Beam 
+- Psychic 
+- Shadow Ball 
+- Thunderbolt 
+
+Charizard-Mega-Y @ Charizardite Y 
+Ability: Drought 
+Shiny: Yes 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Solar Beam 
+- Fire Blast 
+- Synthesis 
+- Ice Beam 
+
+Slowbro @ Leftovers 
+Ability: Regenerator 
+Shiny: Yes 
+EVs: 252 HP / 4 SpA / 252 SpD 
+Calm Nature 
+IVs: 0 Atk 
+- Will-O-Wisp 
+- Calm Mind 
+- Slack Off 
+- Psyshock 
+
+Zapdos @ Life Orb 
+Ability: Pressure 
+Shiny: Yes 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Freeze-Dry 
+- Flamethrower 
+- Air Slash 
+- Discharge 
+
+Clefable @ Leftovers 
+Ability: Magic Guard 
+Shiny: Yes 
+EVs: 252 HP / 252 Def / 4 SpA 
+Bold Nature 
+IVs: 0 Atk 
+- Earth Power 
+- Soft-Boiled 
+- Moonblast 
+- Calm Mind 
+
+
+
+
+
+
+=== [gen7mergemons] Other Metagames/#20451 1 Likes 0 Score posted by Pf987 Gen 2 http://www.smogon.com/forums/threads/mergemons.3591780/page-3#post-7215232 ===
+
+
+Skarmory @ Leftovers 
+Ability: Sturdy 
+EVs: 252 HP / 232 SpD / 24 Spe 
+Careful Nature 
+- Will-O-Wisp 
+- Earthquake 
+- Stealth Rock 
+- Roost 
+
+Entei @ Assault Vest 
+Ability: Pressure 
+Shiny: Yes 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Jolly Nature 
+- Crunch 
+- Sacred Fire 
+- Ice Fang 
+- Extreme Speed 
+
+Raikou @ Choice Specs 
+Ability: Pressure 
+Shiny: Yes 
+IVs: 0 Atk 
+- Ice Beam 
+- Eruption 
+- Discharge 
+- Aura Sphere 
+
+Scizor-Mega @ Scizorite 
+Ability: Technician 
+Shiny: Yes 
+EVs: 248 HP / 252 Atk / 8 SpD 
+Adamant Nature 
+- Aqua Jet 
+- Bullet Punch 
+- Fell Stinger 
+- Aerial Ace 
+
+Espeon @ Rocky Helmet 
+Ability: Magic Bounce 
+Shiny: Yes 
+EVs: 252 HP / 252 Def / 4 SpA 
+Bold Nature 
+IVs: 0 Atk 
+- Acid Spray 
+- Recover 
+- Taunt 
+- Scald 
+
+Quagsire @ Leftovers 
+Ability: Damp 
+Shiny: Yes 
+EVs: 252 HP / 4 Def / 252 SpD 
+Bold Nature 
+IVs: 0 Atk 
+- Leech Seed 
+- Wish 
+- Toxic 
+- Protect 
+
+
+
+
+
+
+=== [gen7mergemons] Other Metagames/#20452 1 Likes 0 Score posted by Pf987 Gen 3 http://www.smogon.com/forums/threads/mergemons.3591780/page-3#post-7215232 ===
+
+
+Sableye @ Leftovers 
+Ability: Prankster 
+Shiny: Yes 
+EVs: 248 HP / 8 Def / 252 SpD 
+Calm Nature 
+IVs: 0 Atk 
+- Cosmic Power 
+- Recover 
+- Toxic 
+- Foul Play 
+
+Latios @ Choice Scarf 
+Ability: Levitate 
+Shiny: Yes 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Water Spout 
+- Psyshock 
+- Draco Meteor 
+- Energy Ball 
+
+Breloom @ Life Orb 
+Ability: Technician 
+Shiny: Yes 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Jolly Nature 
+- Aqua Jet 
+- Mach Punch 
+- Spore 
+- Fell Stinger 
+
+Jirachi @ Leftovers 
+Ability: Serene Grace 
+Shiny: Yes 
+EVs: 224 HP / 252 Atk / 32 Spe 
+Adamant Nature 
+- Thunder Wave 
+- Iron Head 
+- Recover 
+- Air Slash 
+
+Metagross-Mega @ Metagrossite 
+Ability: Tough Claws 
+Shiny: Yes 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Adamant Nature 
+- Roost 
+- Crunch 
+- Meteor Mash 
+- Zen Headbutt 
+
+Swampert @ Rindo Berry 
+Ability: Damp 
+Shiny: Yes 
+EVs: 252 HP / 252 Atk / 4 SpD 
+Adamant Nature 
+- Bulk Up 
+- High Jump Kick 
+- Blaze Kick 
+- Earthquake 
+
+
+
+
+
+
+=== [gen7mergemons] Other Metagames/#20453 1 Likes 0 Score posted by Pf987 Gen 4 Part 1 http://www.smogon.com/forums/threads/mergemons.3591780/page-3#post-7215232 ===
+
+
+Lucario @ Choice Specs 
+Ability: Steadfast 
+Shiny: Yes 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Surf 
+- Flamethrower 
+- Earth Power 
+- Aura Sphere 
+
+Staraptor @ Choice Scarf 
+Ability: Intimidate 
+Shiny: Yes 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Jolly Nature 
+- Earthquake 
+- Brave Bird 
+- Close Combat 
+- Double-Edge 
+
+Bronzong @ Leftovers 
+Ability: Levitate 
+Shiny: Yes 
+EVs: 252 HP / 4 Def / 252 SpD 
+Calm Nature 
+IVs: 0 Atk 
+- Defog 
+- Foul Play 
+- Toxic 
+- Roost 
+
+Roserade @ Leftovers 
+Ability: Natural Cure 
+Shiny: Yes 
+EVs: 252 HP / 252 Def / 4 SpA 
+Calm Nature 
+IVs: 0 Atk 
+- Leech Seed 
+- Thunder Wave 
+- Giga Drain 
+- Stealth Rock 
+
+Empoleon @ Leftovers 
+Ability: Torrent 
+Shiny: Yes 
+EVs: 252 HP / 4 SpA / 252 SpD 
+Calm Nature 
+IVs: 0 Atk 
+- Defog 
+- Slack Off 
+- Vacuum Wave 
+- Toxic 
+
+Drapion @ Lum Berry 
+Ability: Battle Armor 
+Shiny: Yes 
+EVs: 252 Atk / 4 Def / 252 Spe 
+Jolly Nature 
+- Slack Off 
+- Knock Off 
+- Aqua Tail 
+- Bullet Punch 
+
+
+
+
+
+
+=== [gen7mergemons] Other Metagames/#20454 1 Likes 0 Score posted by Pf987 Gen 4 Part 2 http://www.smogon.com/forums/threads/mergemons.3591780/page-3#post-7215232 ===
+
+
+Garchomp @ Assault Vest 
+Ability: Sand Veil 
+Shiny: Yes 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Jolly Nature 
+- Blaze Kick 
+- Dragon Claw 
+- Earthquake 
+- Bullet Punch 
+
+Heatran @ Air Balloon 
+Ability: Flash Fire 
+Shiny: Yes 
+EVs: 252 HP / 252 SpA / 4 SpD 
+Modest Nature 
+IVs: 0 Atk 
+- Spacial Rend 
+- Hydro Pump 
+- Thunder Wave 
+- Lava Plume 
+
+Rotom-Wash @ Leftovers 
+Ability: Levitate 
+EVs: 248 HP / 252 SpA / 8 SpD 
+Modest Nature 
+IVs: 0 Atk 
+- Hydro Pump 
+- Discharge 
+- Frost Breath 
+- Will-O-Wisp 
+
+Porygon-Z @ Normalium Z 
+Ability: Adaptability 
+Shiny: Yes 
+EVs: 252 HP / 252 SpA / 4 SpD 
+Modest Nature 
+IVs: 0 Atk 
+- Stored Power 
+- Conversion 
+- Discharge 
+- Ice Beam 
+
+Weavile @ Focus Sash 
+Ability: Pressure 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Jolly Nature 
+- Earthquake 
+- Icicle Crash 
+- Knock Off 
+- Volt Switch 
+
+Yanmega @ Focus Sash 
+Ability: Speed Boost 
+Shiny: Yes 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Modest Nature 
+IVs: 0 Atk 
+- Flamethrower 
+- Bug Buzz 
+- Air Slash 
+- Aura Sphere 
+
+
+
+
+
+
+=== [gen7mergemons] Other Metagames/#20455 1 Likes 0 Score posted by Pf987 Gen 5 http://www.smogon.com/forums/threads/mergemons.3591780/page-3#post-7215232 ===
+
+
+Keldeo-Resolute @ Life Orb 
+Ability: Justified 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Secret Sword 
+- Fusion Flare 
+- Ice Beam 
+- Surf 
+
+Kyurem-Black @ Assault Vest 
+Ability: Teravolt 
+EVs: 252 HP / 252 Atk / 4 SpD 
+Adamant Nature 
+- Earthquake 
+- Knock Off 
+- Fusion Bolt 
+- Dragon Claw 
+
+Serperior @ Weakness Policy 
+Ability: Contrary 
+Shiny: Yes 
+EVs: 4 Atk / 252 SpA / 252 Spe 
+Hasty Nature 
+- V-create 
+- Leaf Storm 
+- Searing Shot 
+- Stored Power 
+
+Amoonguss @ Leftovers 
+Ability: Regenerator 
+Shiny: Yes 
+EVs: 248 HP / 252 Def / 8 SpA 
+Bold Nature 
+IVs: 0 Atk 
+- Spore 
+- Giga Drain 
+- Recover 
+- Scald 
+
+Thundurus-Therian @ Assault Vest 
+Ability: Volt Absorb 
+Shiny: Yes 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Air Slash 
+- Fusion Flare 
+- Discharge 
+- Foul Play 
+
+Volcarona @ Lum Berry 
+Ability: Flame Body 
+Shiny: Yes 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Modest Nature 
+IVs: 0 Atk 
+- Fiery Dance 
+- Bug Buzz 
+- Quiver Dance 
+- Surf 
+
+
+
+
+
+
+=== [gen7mergemons] Other Metagames/#20456 1 Likes 0 Score posted by Pf987 Gen 6 http://www.smogon.com/forums/threads/mergemons.3591780/page-3#post-7215232 ===
+
+
+Noivern @ Focus Sash 
+Ability: Frisk 
+Shiny: Yes 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Frost Breath 
+- Moonblast 
+- Thunderbolt 
+- Surf 
+
+Klefki @ Leftovers 
+Ability: Prankster 
+Shiny: Yes 
+EVs: 252 HP / 252 Def / 4 SpD 
+Bold Nature 
+IVs: 0 Atk 
+- Leech Seed 
+- Toxic 
+- Confuse Ray 
+- Destiny Bond 
+
+Sylveon @ Sitrus Berry 
+Ability: Pixilate 
+Shiny: Yes 
+EVs: 252 HP / 252 SpA / 4 SpD 
+Modest Nature 
+IVs: 0 Atk 
+- Hyper Voice 
+- Frost Breath 
+- Thunder Wave 
+- Thunderbolt 
+
+Greninja @ Choice Band 
+Ability: Protean 
+Shiny: Yes 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Jolly Nature 
+- Knock Off 
+- Earthquake 
+- Waterfall 
+- Switcheroo 
+
+Hawlucha 
+Ability: Unburden 
+Shiny: Yes 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Adamant Nature 
+- Acrobatics 
+- High Jump Kick 
+- Play Rough 
+- Iron Head 
+
+Zygarde @ Sitrus Berry 
+Ability: Aura Break 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Adamant Nature 
+- Roost 
+- Dragon Dance 
+- Thousand Arrows 
+- Outrage 
+
+
+
+
+
+
+=== [gen7mergemons] Other Metagames/#20457 1 Likes 0 Score posted by Pf987 Gen 7 http://www.smogon.com/forums/threads/mergemons.3591780/page-3#post-7215232 ===
+
+
+Xurkitree @ Choice Scarf 
+Ability: Beast Boost 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Bug Buzz 
+- Thunderbolt 
+- Ice Beam 
+- Flamethrower 
+
+Pheromosa @ Focus Sash 
+Ability: Beast Boost 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Jolly Nature 
+- Ice Punch 
+- Earthquake 
+- Fell Stinger 
+- High Jump Kick 
+
+Tapu Koko @ Life Orb 
+Ability: Electric Surge 
+EVs: 252 Atk / 4 SpD / 252 Spe 
+Adamant Nature 
+- Earthquake 
+- Dragon Dance 
+- Brick Break 
+- Wild Charge 
+
+Tsareena @ Lum Berry 
+Ability: Queenly Majesty 
+Shiny: Yes 
+EVs: 252 HP / 252 Atk / 4 SpD 
+Adamant Nature 
+- Bulk Up 
+- Petal Blizzard 
+- Earthquake 
+- Ice Punch 
+
+Mudsdale @ Leftovers 
+Ability: Stamina 
+EVs: 252 HP / 252 Atk / 4 SpD 
+Adamant Nature 
+- Leech Life 
+- Earthquake 
+- Baneful Bunker 
+- Liquidation 
+
+Tapu Fini @ Leftovers 
+Ability: Misty Surge 
+EVs: 248 HP / 252 Def / 8 SpA 
+Bold Nature 
+IVs: 0 Atk 
+- Leech Seed 
+- Scald 
+- Defog 
+- Moonblast
+
+
+
+

@@ -1,0 +1,432 @@
+=== [gen2ubers] Ruins of Alph/#23520 13 Likes 0 Score posted by Arai Lugia + HPwater Dos + Triple Boom http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347619 ===
+
+
+Mewtwo @ Leftovers  
+- Thunder  
+- Fire Blast  
+- Ice Beam  
+- Self-Destruct  
+
+Mew @ Leftovers  
+- Earthquake  
+- Rock Slide  
+- Explosion  
+- Swords Dance  
+
+Lugia @ Leftovers  
+Serious Nature  
+- Aeroblast  
+- Whirlwind  
+- Curse  
+- Recover  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Double-Edge  
+- Curse  
+- Lovely Kiss  
+- Self-Destruct  
+
+Zapdos @ Leftovers  
+IVs: 14 HP / 28 Atk / 26 Def  
+- Thunder  
+- Hidden Power [Water]
+- Rest  
+- Sleep Talk  
+
+Steelix @ Leftovers  
+Ability: Rock Head  
+- Explosion  
+- Curse  
+- Roar  
+- Iron Tail  
+
+
+
+
+
+
+=== [gen2ubers] Ruins of Alph/#23521 13 Likes 0 Score posted by Arai Jolteon GrowthPass Offense http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347619 ===
+
+
+Mewtwo @ Leftovers  
+- Thunder  
+- Ice Beam  
+- Submission  
+- Psychic  
+
+Jolteon @ Leftovers  
+IVs: 14 HP / 28 Atk / 26 Def  
+- Growth  
+- Baton Pass  
+- Thunder  
+- Hidden Power [Water]
+
+Mew @ Leftovers  
+- Swords Dance  
+- Explosion  
+- Shadow Ball  
+- Submission  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+- Lovely Kiss  
+- Belly Drum  
+- Return  
+- Rest  
+
+Tyranitar @ Leftovers  
+- Roar  
+- Crunch  
+- Pursuit  
+- Rock Slide  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+- Spikes  
+- Explosion  
+- Surf  
+- Icy Wind  
+
+
+
+
+
+
+=== [gen2ubers] Ruins of Alph/#23522 13 Likes 0 Score posted by Arai Forry Stall http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347619 ===
+
+
+Forretress (M) @ Leftovers  
+- Spikes  
+- Rapid Spin  
+- Toxic  
+- Explosion  
+
+Snorlax (M) @ Leftovers  
+Ability: Immunity  
+- Rest  
+- Curse  
+- Lovely Kiss  
+- Double-Edge  
+
+Lugia @ Leftovers  
+- Whirlwind  
+- Recover  
+- Curse  
+- Aeroblast  
+
+Celebi @ Leftovers  
+- Recover  
+- Heal Bell  
+- Leech Seed  
+- Toxic  
+
+Steelix (M) @ Leftovers  
+Ability: Rock Head  
+- Iron Tail  
+- Roar  
+- Explosion  
+- Curse  
+
+Mew @ Leftovers  
+- Soft-Boiled  
+- Earthquake  
+- Swords Dance  
+- Rock Slide
+
+
+
+=== [gen2ubers] Ruins of Alph/#23523 32 Likes 0 Score posted by Earthworm http://www.smogon.com/forums/threads/gsc-ubers-discussion.3652838/page-1#post-8193950 ===
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-11-1608799754"
+data-lb-id="_xfUid-11-1608799754">
+
+
+
+&quot;Recovering sweeper&quot;
+Mew @ Leftovers  
+- Swords Dance  
+- Submission  
+- Shadow Ball  
+- Soft-Boiled
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-12-1608799754"
+data-lb-id="_xfUid-12-1608799754">
+
+
+
+&quot;Wallbreaker (coverage for Psychics/Normals/Darks)&quot;
+Mew @ Leftovers  
+- Swords Dance  
+- Submission  
+- Shadow Ball  
+- Explosion
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-13-1608799754"
+data-lb-id="_xfUid-13-1608799754">
+
+
+
+&quot;Wallbreaker 2 (coverage for Zapdos/Lugia/Ho-Oh)&quot;
+Mew @ Leftovers  
+- Swords Dance  
+- Earthquake  
+- Rock Slide  
+- Explosion
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-14-1608799754"
+data-lb-id="_xfUid-14-1608799754">
+
+
+
+&quot;Para Spreader&quot;
+Mew @ Leftovers  
+- Swords Dance  
+- Earthquake  
+- Rock Slide  
+- Thunder Wave
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-15-1608799754"
+data-lb-id="_xfUid-15-1608799754">
+
+
+
+&quot;Mixed Sweeper&quot;
+Mew @ Leftovers  
+- Swords Dance  
+- Submission  
+- Rock Slide  
+- Fire Blast
+
+
+
+
+
+
+
+
+
+
+data-xf-init="lightbox"
+data-lb-single-image="1"
+data-lb-container-zoom="1"
+data-lb-trigger=".js-lbImage-_xfUid-16-1608799754"
+data-lb-id="_xfUid-16-1608799754">
+
+
+
+&quot;Growth receiver&quot;
+Mew @ Leftovers  
+- Ice Beam  
+- Thunderbolt  
+- Flamethrower  
+- Explosion
+
+
+
+
+=== [gen2ubers] Ruins of Alph/#23524 16 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/gsc-ubers-discussion.3652838/page-1#post-8194415 ===
+
+Snorlax @ Leftovers 
+Ability: none 
+- Double-Edge 
+- Lovely Kiss 
+- Curse 
+- Rest 
+
+Zapdos @ Leftovers 
+Ability: none 
+IVs: 14 HP / 28 Atk / 26 Def 
+- Thunder 
+- Hidden Power [Water]
+- Rest 
+- Sleep Talk 
+
+Forretress @ Leftovers 
+Ability: none 
+IVs: 6 HP / 28 Atk / 24 Def 
+- Explosion 
+- Hidden Power [Fire]
+- Spikes 
+- Rapid Spin 
+
+Mew @ Leftovers 
+Ability: none 
+- Earthquake 
+- Rock Slide 
+- Explosion 
+- Swords Dance 
+
+Mewtwo @ Leftovers 
+Ability: none 
+- Thunder 
+- Ice Beam 
+- Submission 
+- Self-Destruct 
+
+Golem @ Leftovers 
+Ability: none 
+- Earthquake 
+- Rock Slide 
+- Explosion 
+- Roar
+
+
+
+
+=== [gen2ubers] Ruins of Alph/#23525 16 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/gsc-ubers-discussion.3652838/page-1#post-8194415 ===
+
+Snorlax @ Leftovers 
+Ability: none 
+- Body Slam 
+- Lovely Kiss 
+- Belly Drum 
+- Rest 
+
+Mewtwo @ Leftovers 
+Ability: none 
+- Flamethrower 
+- Toxic 
+- Self-Destruct 
+- Recover 
+
+Umbreon @ Leftovers 
+Ability: none 
+- Pursuit 
+- Charm 
+- Rest 
+- Sleep Talk 
+
+Forretress @ Leftovers 
+Ability: none 
+IVs: 6 HP / 28 Atk / 24 Def 
+- Explosion 
+- Hidden Power [Fire]
+- Rapid Spin 
+- Spikes 
+
+Lugia @ Leftovers 
+Ability: none 
+- Aeroblast 
+- Curse 
+- Whirlwind 
+- Recover 
+
+Raikou @ Leftovers 
+Ability: none 
+- Thunder 
+- Reflect 
+- Roar 
+- Rest
+
+
+
+
+=== [gen2ubers] Ruins of Alph/#23526 16 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/gsc-ubers-discussion.3652838/page-1#post-8194415 ===
+
+Snorlax @ Leftovers 
+Ability: none 
+- Double-Edge 
+- Lovely Kiss 
+- Curse 
+- Self-Destruct 
+
+Mew @ Leftovers 
+Ability: none 
+- Earthquake 
+- Rock Slide 
+- Explosion 
+- Swords Dance 
+
+Jolteon @ Leftovers 
+Ability: none 
+IVs: 14 HP / 28 Atk / 26 Def 
+- Thunder 
+- Hidden Power [Water]
+- Growth 
+- Baton Pass 
+
+Mewtwo @ Leftovers 
+Ability: none 
+- Thunder 
+- Ice Beam 
+- Fire Blast 
+- Self-Destruct 
+
+Cloyster @ Leftovers 
+Ability: none 
+IVs: 14 HP / 28 Atk 
+- Surf 
+- Icy Wind 
+- Explosion 
+- Spikes 
+
+Tyranitar @ Leftovers 
+Ability: none 
+- Crunch 
+- Fire Blast 
+- Ice Beam 
+- Roar
+
+
+
+

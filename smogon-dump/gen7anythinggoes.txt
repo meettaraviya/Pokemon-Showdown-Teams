@@ -1,0 +1,1478 @@
+=== [gen7anythinggoes] Anything Goes/#17851 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK23 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 200 HP / 252 Atk / 52 Def  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Disable  
+- Shadow Ball  
+- Substitute  
+- Perish Song  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA  
+- Bullet Seed  
+- Stealth Rock  
+- Protect  
+- Leech Seed  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Coil  
+- Thousand Arrows  
+- Rest  
+- Glare  
+
+Arceus-Poison @ Poisonium Z  
+Ability: Multitype  
+EVs: 236 HP / 36 Def / 136 SpD / 100 Spe  
+Jolly Nature  
+- Poison Jab  
+- Recover  
+- Will-O-Wisp  
+- Defog  
+
+Arceus-Steel @ Iron Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Judgment  
+- Earth Power  
+- Recover  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17852 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK22 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde @ Metronome  
+Ability: Power Construct  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA  
+- Bullet Seed  
+- Stealth Rock  
+- Protect  
+- Leech Seed  
+
+Zygarde @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Coil  
+- Thousand Arrows  
+- Rest  
+- Glare  
+
+Arceus-Poison @ Poisonium Z  
+Ability: Multitype  
+EVs: 236 HP / 36 Def / 136 SpD / 100 Spe  
+Jolly Nature  
+- Poison Jab  
+- Recover  
+- Will-O-Wisp  
+- Defog  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 232 HP / 252 Def / 24 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Toxic  
+- Defog  
+- Recover  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17853 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK21 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA  
+- Power Whip  
+- Stealth Rock  
+- Protect  
+- Leech Seed  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Coil  
+- Thousand Arrows  
+- Rest  
+- Glare  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Recover  
+- Fire Blast  
+- Calm Mind  
+
+Arceus-Poison @ Poisonium Z  
+Ability: Multitype  
+EVs: 236 HP / 36 Def / 136 SpD / 100 Spe  
+Jolly Nature  
+- Poison Jab  
+- Recover  
+- Will-O-Wisp  
+- Defog  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17854 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK20 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA  
+- Power Whip  
+- Stealth Rock  
+- Protect  
+- Leech Seed  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Coil  
+- Thousand Arrows  
+- Rest  
+- Glare  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Recover  
+- Fire Blast  
+- Calm Mind  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 232 HP / 240 Def / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Recover  
+- Defog  
+- Roar  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17855 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK19 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Coil  
+- Thousand Arrows  
+- Rest  
+- Glare  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 36 Def / 4 SpA / 216 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Recover  
+- Defog  
+- Toxic  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 232 HP / 240 Def / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Recover  
+- Stealth Rock  
+- Toxic  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17856 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK18 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Necrozma-Dusk-Mane @ Leftovers  
+Ability: Prism Armor  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sunsteel Strike  
+- Morning Sun  
+- Toxic  
+- Stealth Rock  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Coil  
+- Thousand Arrows  
+- Rest  
+- Glare  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Recover  
+- Defog  
+- Toxic  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17857 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK17 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Thousand Waves  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Defog  
+- Recover  
+- Toxic  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 80 HP / 26 Def / 252 SpA / 150 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Geomancy  
+- Moonblast  
+- Focus Blast  
+- Psyshock  
+
+Necrozma-Dusk-Mane @ Leftovers  
+Ability: Prism Armor  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Sunsteel Strike  
+- Morning Sun  
+- Toxic  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17858 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK16 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Thousand Waves  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Flame Charge  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Defog  
+- Recover  
+- Toxic  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 80 HP / 26 Def / 252 SpA / 150 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Geomancy  
+- Moonblast  
+- Focus Blast  
+- Psyshock  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17859 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK15 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Thousand Waves  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Flame Charge  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Defog  
+- Recover  
+- Toxic  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17860 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK14 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Thousand Waves  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Flame Charge  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+Arceus-Dark @ Dread Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Stealth Rock  
+- Recover  
+- Toxic  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17861 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK13 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Thousand Waves  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Flame Charge  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+Xerneas @ Leftovers  
+Ability: Fairy Aura  
+EVs: 252 HP / 128 SpA / 128 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic  
+- Aromatherapy  
+- Moonblast  
+- Rest  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17862 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK12 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Thousand Waves  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Flame Charge  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+Kyogre-Primal @ Blue Orb  
+Ability: Primordial Sea  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Rest  
+- Origin Pulse  
+- Ice Beam  
+- Thunder  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17863 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK11 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Thousand Waves  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Flame Charge  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Grass Knot  
+- Calm Mind  
+- Ice Beam  
+- Recover  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17864 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK10 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Rest  
+- Dragon Dance  
+- Thousand Arrows  
+- Thousand Waves  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Flame Charge  
+- Leech Seed  
+- Substitute  
+- Protect  
+
+Necrozma-Dusk-Mane @ Solganium Z  
+Ability: Prism Armor  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Sunsteel Strike  
+- Earthquake  
+- Rock Polish  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17865 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK9 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Toxic  
+- Defog  
+- Recover  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Serious Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Necrozma-Dusk-Mane @ Solganium Z  
+Ability: Prism Armor  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Rock Polish  
+- Sunsteel Strike  
+- Earthquake  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17866 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK8 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Toxic  
+- Defog  
+- Recover  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Serious Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Necrozma-Dusk-Mane @ Solganium Z  
+Ability: Prism Armor  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Stealth Rock  
+- Sunsteel Strike  
+- Moonlight  
+- Toxic  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17867 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK7 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Toxic  
+- Defog  
+- Recover  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Serious Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Necrozma-Dusk-Mane @ Leftovers  
+Ability: Prism Armor  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Serious Nature  
+- Stealth Rock  
+- Sunsteel Strike  
+- Moonlight  
+- Toxic  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17868 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK6 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Toxic  
+- Defog  
+- Recover  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Serious Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+IVs: 0 SpA / 0 Spe  
+- Gyro Ball  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Ice Beam  
+- Judgment  
+- Recover  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17869 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK5 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Toxic  
+- Defog  
+- Recover  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Serious Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+IVs: 0 SpA  
+- Power Whip  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Ice Beam  
+- Judgment  
+- Recover  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17870 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK4 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Arceus-Rock @ Stone Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Ice Beam  
+- Recover  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Toxic  
+- Defog  
+- Recover  
+
+Zygarde-Complete @ Leftovers  
+Ability: Power Construct  
+EVs: 252 HP / 4 Atk / 252 Def  
+Serious Nature  
+- Glare  
+- Rest  
+- Thousand Arrows  
+- Coil  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+IVs: 0 SpA  
+- Power Whip  
+- Spikes  
+- Protect  
+- Leech Seed  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17871 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK3 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Arceus-Rock @ Stone Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Ice Beam  
+- Recover  
+
+Necrozma-Dusk-Mane @ Leftovers  
+Ability: Prism Armor  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sunsteel Strike  
+- Morning Sun  
+- Stealth Rock  
+- Earthquake  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Earth Power  
+- Rock Polish  
+- Hidden Power [Ice]
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Toxic  
+- Defog  
+- Recover  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17872 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK2 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Arceus-Rock @ Stone Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Ice Beam  
+- Recover  
+
+Necrozma-Dusk-Mane @ Leftovers  
+Ability: Prism Armor  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sunsteel Strike  
+- Morning Sun  
+- Stealth Rock  
+- Earthquake  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Fire Punch  
+- Swords Dance  
+- Rock Polish  
+- Precipice Blades  
+
+Arceus-Dark @ Dread Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Refresh  
+- Recover  
+- Defog  
+
+
+
+
+
+
+=== [gen7anythinggoes] Anything Goes/#17873 25 Likes 13 Score posted by Geysers Offensive Zygs/Offensive zyggy experiment MK1 http://www.smogon.com/forums/threads/national-dex-ag-team-bazaar.3658537/page-3#post-8620693 ===
+
+Zygarde-Complete @ Metronome  
+Ability: Power Construct  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Substitute  
+- Dragon Dance  
+- Thousand Arrows  
+- Block  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Substitute  
+- Taunt  
+
+Arceus-Rock @ Stone Plate  
+Ability: Multitype  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Will-O-Wisp  
+- Ice Beam  
+- Recover  
+
+Necrozma-Dusk-Mane @ Leftovers  
+Ability: Prism Armor  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sunsteel Strike  
+- Morning Sun  
+- Stealth Rock  
+- Earthquake  
+
+Arceus-Dark @ Dread Plate  
+Ability: Multitype  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Refresh  
+- Recover  
+- Defog  
+
+Ho-Oh @ Life Orb  
+Ability: Regenerator  
+- Sacred Fire  
+- Brave Bird  
+- Recover  
+- Defog  
+
+
+
+
+
+
+

@@ -1,0 +1,1111 @@
+=== [gen4nu] Ruins of Alph/#23545 11 Likes 0 Score posted by Arai Standard RegiKing Balance http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347621 ===
+
+
+Jynx @ Focus Sash  
+Ability: Forewarn  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Fake Out  
+- Lovely Kiss  
+- Psychic  
+- Ice Beam  
+
+Haunter (F) @ Life Orb  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Substitute  
+- Shadow Ball  
+- Hidden Power [Ground]
+- Sludge Bomb  
+
+Manectric (F) @ Choice Scarf  
+Ability: Static  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Flamethrower  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Switcheroo  
+
+Regirock @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Explosion  
+- Rock Slide  
+- Stealth Rock  
+- Thunder Wave  
+
+Tauros @ Choice Band  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Earthquake  
+- Stone Edge  
+- Zen Headbutt  
+
+Slowking @ Leftovers  
+Ability: Own Tempo  
+EVs: 252 HP / 144 Def / 112 SpD  
+Calm Nature  
+- Surf  
+- Psychic  
+- Slack Off  
+- Thunder Wave  
+
+
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23546 11 Likes 0 Score posted by Arai Sash Jynx Offense (atomicllamas) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347621 ===
+
+
+Jynx @ Focus Sash  
+Ability: Forewarn  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Lovely Kiss  
+- Ice Beam  
+- Grass Knot  
+- Nasty Plot  
+
+Regirock @ Leftovers  
+Ability: Clear Body  
+EVs: 204 HP / 148 Atk / 156 SpD  
+Adamant Nature  
+- Rock Slide  
+- Stealth Rock  
+- Earthquake  
+- Explosion  
+
+Haunter @ Life Orb  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Sludge Bomb  
+- Shadow Ball  
+- Substitute  
+- Hidden Power [Ground]
+
+Manectric @ Choice Scarf  
+Ability: Static  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Overheat  
+- Hidden Power [Grass]
+- Switcheroo  
+
+Hitmonchan @ Leftovers  
+Ability: Iron Fist  
+EVs: 160 HP / 252 Atk / 96 Spe  
+Adamant Nature  
+- Bulk Up  
+- Drain Punch  
+- Ice Punch  
+- Mach Punch  
+
+Skuntank @ Leftovers  
+Ability: Aftermath  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Taunt  
+- Pursuit  
+- Explosion  
+- Sucker Punch  
+
+
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23547 11 Likes 0 Score posted by Arai SubNP Jynx Offense (Heysup) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347621 ===
+
+
+Piloswine (M) @ Life Orb  
+Ability: Oblivious  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+- Earthquake  
+- Avalanche  
+- Ice Shard  
+- Stealth Rock  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 64 HP / 228 SpA / 216 Spe  
+Modest Nature  
+- Substitute  
+- Flash Cannon  
+- Thunderbolt  
+- Hidden Power [Ground]
+
+Politoed (M) @ Leftovers  
+Ability: Water Absorb  
+EVs: 188 HP / 68 Def / 252 SpD  
+Calm Nature  
+- Surf  
+- Encore  
+- Toxic  
+- Protect  
+
+Haunter (M) @ Life Orb  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Ground]
+- Substitute  
+- Sludge Bomb  
+
+Magmortar (M) @ Choice Scarf  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Fire Blast  
+- Focus Blast  
+- Earthquake  
+
+Jynx @ Leftovers  
+Ability: Forewarn  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Lovely Kiss  
+- Ice Beam  
+- Substitute  
+- Nasty Plot  
+
+
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23548 11 Likes 0 Score posted by Arai Firespam Offense (Honko) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347621 ===
+
+
+Regirock @ Lum Berry  
+Ability: Clear Body  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Stone Edge  
+- Earthquake  
+- Explosion  
+
+Skuntank @ Life Orb  
+Ability: Aftermath  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Pursuit  
+- Sucker Punch  
+- Crunch  
+- Explosion  
+
+Hitmonchan @ Life Orb  
+Ability: Iron Fist  
+EVs: 32 HP / 252 Atk / 12 Def / 212 Spe  
+Adamant Nature  
+- Close Combat  
+- Mach Punch  
+- Ice Punch  
+- Rapid Spin  
+
+Whiscash @ Life Orb  
+Ability: Anticipation  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Earthquake  
+- Bounce  
+
+Charizard @ Life Orb  
+Ability: Blaze  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Flare Blitz  
+- Earthquake  
+- Thunder Punch  
+
+Magmortar @ Choice Scarf  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Fire Blast  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Flamethrower  
+
+
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23549 11 Likes 0 Score posted by Arai ZardPlume Offense (Oglemi) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347621 ===
+
+
+Floatzel @ Focus Sash  
+Ability: Swift Swim  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Taunt  
+- Waterfall  
+- Baton Pass  
+- Ice Punch  
+
+Gardevoir @ Choice Scarf  
+Ability: Trace  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Psychic  
+- Trick  
+- Thunderbolt  
+- Focus Blast  
+
+Sandslash @ Leftovers  
+Ability: Sand Veil  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Rapid Spin  
+- Stealth Rock  
+- Shadow Claw  
+- Earthquake  
+
+Skuntank @ Black Glasses  
+Ability: Aftermath  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Sucker Punch  
+- Explosion  
+
+Charizard @ Life Orb  
+Ability: Blaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Air Slash  
+- Fire Blast  
+- Hidden Power [Grass]
+- Roost  
+
+Vileplume @ Life Orb  
+Ability: Chlorophyll  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Sunny Day  
+- Solar Beam  
+- Sludge Bomb  
+- Sleep Powder  
+
+
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23550 11 Likes 0 Score posted by Arai Dual Fighting Balance (Honko) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347621 ===
+
+
+Medicham @ Life Orb  
+Ability: Pure Power  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Zen Headbutt  
+- Thunder Punch  
+
+Gligar @ Leftovers  
+Ability: Hyper Cutter  
+EVs: 252 HP / 240 Def / 16 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Taunt  
+- Roost  
+
+Hypno @ Leftovers  
+Ability: Insomnia  
+EVs: 252 HP / 120 Def / 136 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Wish  
+- Protect  
+- Seismic Toss  
+- Toxic  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Substitute  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Grass]
+
+Tauros @ Choice Band  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Earthquake  
+- Pursuit  
+- Return  
+
+Hitmonchan @ Choice Scarf  
+Ability: Iron Fist  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Adamant Nature  
+- Close Combat  
+- Thunder Punch  
+- Ice Punch  
+- Earthquake  
+
+
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23551 11 Likes 0 Score posted by Arai DD Whiscash Offense (BKC) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347621 ===
+
+
+Machoke (F) @ Lum Berry  
+Ability: No Guard  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Dynamic Punch  
+- Payback  
+- Ice Punch  
+- Bullet Punch  
+
+Sandslash (M) @ Leftovers  
+Ability: Sand Veil  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Earthquake  
+- Shadow Claw  
+- Stealth Rock  
+- Rapid Spin  
+
+Charizard (M) @ Life Orb  
+Ability: Blaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Air Slash  
+- Hidden Power [Grass]
+- Roost  
+
+Manectric (M) @ Choice Scarf  
+Ability: Static  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Thunderbolt  
+- Flamethrower  
+- Hidden Power [Grass]
+- Switcheroo  
+
+Whiscash (M) @ Leftovers  
+Ability: Anticipation  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Waterfall  
+- Dragon Dance  
+- Stone Edge  
+
+Jumpluff (M) @ Life Orb  
+Ability: Chlorophyll  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Seed Bomb  
+- Aerial Ace  
+- Sleep Powder  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23552 11 Likes 0 Score posted by Arai Semi-Room (FLCL) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347621 ===
+
+
+Solrock @ Lum Berry  
+Ability: Levitate  
+EVs: 252 HP / 252 Atk / 4 Def  
+Brave Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Explosion  
+- Trick Room  
+- Stone Edge  
+
+Marowak @ Thick Club  
+Ability: Rock Head  
+EVs: 248 HP / 252 Atk / 8 Def  
+Brave Nature  
+IVs: 0 Spe  
+- Double-Edge  
+- Earthquake  
+- Swords Dance  
+- Rock Slide  
+
+Camerupt @ Life Orb  
+Ability: Solid Rock  
+EVs: 252 Atk / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 30 Atk / 30 SpA / 1 Spe  
+- Hidden Power [Grass]
+- Earthquake  
+- Explosion  
+- Fire Blast  
+
+Medicham @ Life Orb  
+Ability: Pure Power  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Fake Out  
+- Bullet Punch  
+- High Jump Kick  
+- Thunder Punch  
+
+Tauros @ Choice Band  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Return  
+- Earthquake  
+- Pursuit  
+- Facade  
+
+Gardevoir @ Choice Scarf  
+Ability: Trace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Thunderbolt  
+- Focus Blast  
+- Trick  
+
+
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23553 11 Likes 0 Score posted by Arai SubEncoreWrath Balance (atomicllamas) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347621 ===
+
+
+Charizard (F) @ Choice Specs  
+Ability: Blaze  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fire Blast  
+- Hidden Power [Grass]
+- Focus Blast  
+- Air Slash  
+
+Jumpluff (F) @ Life Orb  
+Ability: Chlorophyll  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Seed Bomb  
+- Aerial Ace  
+- Sleep Powder  
+
+Sandslash (F) @ Leftovers  
+Ability: Sand Veil  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Earthquake  
+- Rapid Spin  
+- Stealth Rock  
+- Night Slash  
+
+Grumpig (F) @ Leftovers  
+Ability: Thick Fat  
+EVs: 252 HP / 80 Def / 176 SpD  
+Calm Nature  
+- Heal Bell  
+- Toxic  
+- Psychic  
+- Focus Blast  
+
+Poliwrath (F) @ Leftovers  
+Ability: Water Absorb  
+EVs: 120 HP / 252 Atk / 136 Spe  
+Adamant Nature  
+- Substitute  
+- Encore  
+- Waterfall  
+- Focus Punch  
+
+Tauros @ Choice Band  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Pursuit  
+- Double-Edge  
+- Rock Slide  
+- Earthquake  
+
+
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23554 11 Likes 0 Score posted by Arai Sunny Day (Honko) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347621 ===
+
+
+Persian @ Heat Rock  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Sunny Day  
+- Taunt  
+- U-turn  
+
+Hypno @ Heat Rock  
+Ability: Insomnia  
+EVs: 252 HP / 160 Def / 96 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Sunny Day  
+- Thunder Wave  
+- Psychic  
+- Baton Pass  
+
+Regirock @ Heat Rock  
+Ability: Clear Body  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Sunny Day  
+- Stealth Rock  
+- Stone Edge  
+- Explosion  
+
+Victreebel @ Life Orb  
+Ability: Chlorophyll  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 Def / 30 SpD / 30 Spe  
+- Sleep Powder  
+- Solar Beam  
+- Hidden Power [Rock]
+- Weather Ball  
+
+Shiftry @ Life Orb  
+Ability: Chlorophyll  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Seed Bomb  
+- Sucker Punch  
+- Explosion  
+
+Typhlosion @ Choice Scarf  
+Ability: Blaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Eruption  
+- Flamethrower  
+- Focus Blast  
+- Hidden Power [Grass]
+
+
+
+=== [gen4nu] Ruins of Alph/#23555 5 Likes 0 Score posted by Honko http://www.smogon.com/forums/threads/dpp-nu-general-discussion.3583742/page-2#post-7941698 ===
+
+Sharpedo @ Focus Sash  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Crunch  
+- Waterfall  
+- Zen Headbutt  
+- Aqua Jet  
+
+Golduck @ Leftovers  
+Ability: Cloud Nine  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Calm Mind  
+- Surf  
+- Signal Beam  
+
+Camerupt @ Leftovers  
+Ability: Solid Rock  
+EVs: 252 HP / 4 Atk / 252 SpA  
+Quiet Nature  
+- Stealth Rock  
+- Fire Blast  
+- Earth Power  
+- Explosion  
+
+Vileplume @ Black Sludge  
+Ability: Chlorophyll  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Energy Ball  
+- Sludge Bomb  
+- Moonlight  
+
+Regirock @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 144 Atk / 112 SpD  
+Adamant Nature  
+- Stone Edge  
+- Earthquake  
+- Thunder Wave  
+- Explosion  
+
+Slowking @ Leftovers  
+Ability: Own Tempo  
+EVs: 252 HP / 160 Def / 96 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Surf  
+- Psychic  
+- Thunder Wave  
+- Slack Off
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23556 13 Likes 0 Score posted by Honko http://www.smogon.com/forums/threads/dpp-nu-general-discussion.3583742/page-1#post-7014880 ===
+
+Jynx @ Focus Sash
+Ability: Oblivious
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Fake Out
+- Lovely Kiss
+- Psychic
+- Ice Beam
+
+Haunter (F) @ Life Orb
+Ability: Levitate
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Substitute
+- Shadow Ball
+- Hidden Power [Ground]
+- Sludge Bomb
+
+Manectric (F) @ Choice Scarf
+Ability: Lightning Rod
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Flamethrower
+- Thunderbolt
+- Hidden Power [Grass]
+- Switcheroo
+
+Regirock @ Leftovers
+Ability: Clear Body
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+- Explosion
+- Rock Slide
+- Stealth Rock
+- Thunder Wave
+
+Tauros @ Choice Band
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Earthquake
+- Stone Edge
+- Zen Headbutt
+
+Slowking @ Leftovers
+Ability: Own Tempo
+EVs: 252 HP / 144 Def / 112 SpD
+Calm Nature
+- Surf
+- Psychic
+- Slack Off
+- Thunder Wave
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23557 13 Likes 0 Score posted by Honko http://www.smogon.com/forums/threads/dpp-nu-general-discussion.3583742/page-1#post-7014880 ===
+
+Jynx @ Focus Sash
+Ability: Oblivious
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Lovely Kiss
+- Ice Beam
+- Grass Knot
+- Nasty Plot
+
+Regirock @ Leftovers
+Ability: Clear Body
+EVs: 204 HP / 148 Atk / 156 SpD
+Adamant Nature
+- Rock Slide
+- Stealth Rock
+- Earthquake
+- Explosion
+
+Haunter @ Life Orb
+Ability: Levitate
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Sludge Bomb
+- Shadow Ball
+- Substitute
+- Hidden Power [Ground]
+
+Manectric @ Choice Scarf
+Ability: Static
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Overheat
+- Hidden Power [Grass]
+- Switcheroo
+
+Hitmonchan @ Leftovers
+Ability: Iron Fist
+EVs: 160 HP / 252 Atk / 96 Spe
+Adamant Nature
+- Bulk Up
+- Drain Punch
+- Ice Punch
+- Mach Punch
+
+Skuntank @ Leftovers
+Ability: Aftermath
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Taunt
+- Pursuit
+- Explosion
+- Sucker Punch
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23558 13 Likes 0 Score posted by Honko http://www.smogon.com/forums/threads/dpp-nu-general-discussion.3583742/page-1#post-7014880 ===
+
+Piloswine (M) @ Life Orb
+Ability: Oblivious
+EVs: 200 HP / 252 Atk / 56 Spe
+Adamant Nature
+- Earthquake
+- Avalanche
+- Ice Shard
+- Stealth Rock
+
+Magneton @ Leftovers
+Ability: Magnet Pull
+EVs: 64 HP / 228 SpA / 216 Spe
+Modest Nature
+- Substitute
+- Flash Cannon
+- Thunderbolt
+- Hidden Power [Ground]
+
+Politoed (M) @ Leftovers
+Ability: Water Absorb
+EVs: 188 HP / 68 Def / 252 SpD
+Calm Nature
+- Surf
+- Encore
+- Toxic
+- Protect
+
+Haunter (M) @ Life Orb
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Hidden Power [Ground]
+- Substitute
+- Sludge Bomb
+
+Magmortar (M) @ Choice Scarf
+Ability: Flame Body
+EVs: 252 SpA / 4 SpD / 252 Spe
+Hasty Nature
+- Thunderbolt
+- Fire Blast
+- Focus Blast
+- Earthquake
+
+Jynx @ Leftovers
+Ability: Oblivious
+EVs: 8 HP / 248 SpA / 252 Spe
+Timid Nature
+- Lovely Kiss
+- Ice Beam
+- Substitute
+- Nasty Plot
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23559 13 Likes 0 Score posted by Honko http://www.smogon.com/forums/threads/dpp-nu-general-discussion.3583742/page-1#post-7014880 ===
+
+Glalie @ Focus Sash
+Ability: Inner Focus
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Spikes
+- Taunt
+- Explosion
+- Ice Shard
+
+Haunter @ Life Orb
+EVs: 4 Atk / 252 SpA / 252 Spe
+Timid Nature
+- Substitute
+- Shadow Ball
+- Sludge Bomb
+- Hidden Power [Ground]
+
+Tauros @ Choice Band
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Earthquake
+- Stone Edge
+- Payback
+
+Rhydon @ Leftovers
+Ability: Lightning Rod
+EVs: 244 HP / 16 Atk / 248 SpD
+Adamant Nature
+- Earthquake
+- Stone Edge
+- Megahorn
+- Stealth Rock
+
+Manectric @ Choice Scarf
+Ability: Static
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Overheat
+- Hidden Power [Grass]
+- Switcheroo
+
+Drifblim @ Chesto Berry
+Ability: Unburden
+EVs: 252 Def / 108 SpA / 148 Spe
+Modest Nature
+- Calm Mind
+- Rest
+- Shadow Ball
+- Hidden Power [Fighting]
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23560 13 Likes 0 Score posted by Honko http://www.smogon.com/forums/threads/dpp-nu-general-discussion.3583742/page-1#post-7014880 ===
+
+Solrock @ Lum Berry
+Ability: Levitate
+EVs: 248 HP / 252 Atk / 8 SpD
+Brave Nature
+IVs: 0 Spe
+- Stealth Rock
+- Trick Room
+- Stone Edge
+- Explosion
+
+Slowking @ Leftovers
+Ability: Own Tempo
+EVs: 248 HP / 252 SpA / 8 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Spe
+- Trick Room
+- Surf
+- Psychic
+- Nasty Plot
+
+Porygon2 @ Life Orb
+Ability: Download
+EVs: 248 HP / 252 SpA / 8 SpD
+Quiet Nature
+IVs: 0 Atk / 0 Spe
+- Trick Room
+- Tri Attack
+- Ice Beam
+- Thunderbolt
+
+Marowak @ Thick Club
+Ability: Rock Head
+EVs: 248 HP / 252 Atk / 8 SpD
+Brave Nature
+IVs: 0 Spe
+- Substitute
+- Earthquake
+- Stone Edge
+- Double-Edge
+
+Crawdaunt @ Life Orb
+Ability: Hyper Cutter
+EVs: 248 HP / 252 Atk / 8 SpD
+Brave Nature
+IVs: 0 Spe
+- Waterfall
+- Crunch
+- Superpower
+- X-Scissor
+
+Regice @ Life Orb
+Ability: Clear Body
+EVs: 248 HP / 8 Atk / 252 SpA
+Quiet Nature
+IVs: 30 Def / 30 SpA / 3 Spe
+- Ice Beam
+- Thunderbolt
+- Hidden Power [Grass]
+- Explosion
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23561 13 Likes 0 Score posted by Honko http://www.smogon.com/forums/threads/dpp-nu-general-discussion.3583742/page-1#post-7014880 ===
+
+Electrode @ Focus Sash
+Ability: Static
+EVs: 72 Atk / 252 SpA / 184 Spe
+Lonely Nature
+- Taunt
+- Rain Dance
+- Explosion
+- Hidden Power [Water]
+
+Gorebyss @ Life Orb
+Ability: Swift Swim
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Hydro Pump
+- Hidden Power [Grass]
+- Ice Beam
+- Shadow Ball
+
+Relicanth @ Life Orb
+Ability: Swift Swim
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Stone Edge
+- Earthquake
+- Return
+- Waterfall
+
+Skuntank @ Black Glasses
+Ability: Aftermath
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Rain Dance
+- Explosion
+- Sucker Punch
+- Poison Jab
+
+Medicham @ Choice Scarf
+Ability: Pure Power
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- High Jump Kick
+- Psycho Cut
+- Ice Punch
+- Thunder Punch
+
+Lickilicky @ Damp Rock
+Ability: Own Tempo
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Rain Dance
+- Explosion
+- Earthquake
+- Power Whip
+
+
+
+
+=== [gen4nu] Ruins of Alph/#23562 0 Likes 0 Score posted by Bughouse http://www.smogon.com/forums/threads/dpp-nu-general-discussion.3583742/page-1#post-7027330 ===
+
+Kadabra @ Focus Sash  
+Ability: Inner Focus  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk / 0 Def  
+- Taunt  
+- Counter  
+- Psychic  
+- Thunder Wave  
+
+Charizard @ Salac Berry  
+Ability: Blaze  
+EVs: 92 HP / 220 Atk / 196 Spe  
+Adamant Nature  
+- Belly Drum  
+- Substitute  
+- Fire Punch  
+- Earthquake  
+
+Jumpluff @ Sitrus Berry  
+Ability: Chlorophyll  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Memento  
+- Encore  
+- Reflect  
+
+Medicham @ Choice Scarf  
+Ability: Pure Power  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- High Jump Kick  
+- Psycho Cut  
+- Thunder Punch  
+- Trick  
+
+Skuntank @ Black Glasses  
+Ability: Aftermath  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Crunch  
+- Pursuit  
+- Sucker Punch  
+- Explosion  
+
+Solrock @ Focus Sash  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Light Screen  
+- Reflect  
+- Explosion
+
+
+
+

@@ -1,0 +1,545 @@
+=== [gen1uu] Ruins of Alph/#23536 13 Likes 0 Score posted by Arai [Sceptross] Hypno lead + Kanga + Haunter back http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Hypno  
+Ability: Insomnia  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Hypnosis  
+- Psychic  
+- Thunder Wave  
+- Rest  
+
+Kadabra  
+Ability: Synchronize  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Thunder Wave  
+- Psychic  
+- Seismic Toss  
+- Recover  
+
+Dugtrio  
+Ability: Sand Veil  
+- Earthquake  
+- Rock Slide  
+- Substitute  
+- Toxic  
+
+Kangaskhan  
+Ability: Early Bird  
+- Body Slam  
+- Earthquake  
+- Surf  
+- Hyper Beam  
+
+Tentacruel  
+Ability: Clear Body  
+- Wrap  
+- Hydro Pump  
+- Blizzard  
+- Rest  
+
+Haunter  
+Ability: Levitate  
+- Hypnosis  
+- Thunderbolt  
+- Night Shade  
+- Explosion  
+
+
+
+
+
+
+=== [gen1uu] Ruins of Alph/#23537 13 Likes 0 Score posted by Arai [Kaz] SubTenta lead + 3 attacks Vap http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Tentacruel  
+Ability: Clear Body  
+- Surf  
+- Wrap  
+- Rest  
+- Substitute  
+
+Vaporeon  
+Ability: Water Absorb  
+- Hydro Pump  
+- Ice Beam  
+- Body Slam  
+- Rest  
+
+Hypno  
+Ability: Insomnia  
+- Psychic  
+- Thunder Wave  
+- Seismic Toss  
+- Rest  
+
+Haunter  
+Ability: Levitate  
+- Hypnosis  
+- Psychic  
+- Thunderbolt  
+- Explosion  
+
+Dugtrio  
+Ability: Sand Veil  
+- Earthquake  
+- Rock Slide  
+- Substitute  
+- Toxic  
+
+Dragonite  
+Ability: Inner Focus  
+- Blizzard  
+- Thunder Wave  
+- Wrap  
+- Agility  
+
+
+
+
+
+
+=== [gen1uu] Ruins of Alph/#23538 13 Likes 0 Score posted by Arai [Kaz] SDWrap Tenta lead + Tangela + AgiliWrap Dnite http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Tentacruel  
+Ability: Clear Body  
+- Surf  
+- Wrap  
+- Swords Dance  
+- Rest  
+
+Omastar  
+Ability: Swift Swim  
+- Surf  
+- Blizzard  
+- Body Slam  
+- Rest  
+
+Tangela  
+Ability: Chlorophyll  
+- Sleep Powder  
+- Stun Spore  
+- Mega Drain  
+- Bind  
+
+Hypno  
+Ability: Insomnia  
+- Psychic  
+- Thunder Wave  
+- Seismic Toss  
+- Rest  
+
+Dragonite  
+Ability: Inner Focus  
+- Blizzard  
+- Wrap  
+- Thunder Wave  
+- Agility  
+
+Kadabra  
+Ability: Synchronize  
+- Psychic  
+- Recover  
+- Thunder Wave  
+- Seismic Toss  
+
+
+
+
+
+
+=== [gen1uu] Ruins of Alph/#23539 13 Likes 0 Score posted by Arai [Lusch] Omastar+Dragonite http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Tentacruel  
+Ability: Clear Body  
+- Rest  
+- Surf  
+- Wrap  
+- Blizzard  
+
+Gyarados  
+Ability: Intimidate  
+- Body Slam  
+- Hydro Pump  
+- Blizzard  
+- Hyper Beam  
+
+Dragonite  
+Ability: Inner Focus  
+- Body Slam  
+- Blizzard  
+- Wrap  
+- Agility  
+
+Dugtrio  
+Ability: Sand Veil  
+- Earthquake  
+- Rock Slide  
+- Substitute  
+- Toxic  
+
+Omastar  
+Ability: Swift Swim  
+- Hydro Pump  
+- Body Slam  
+- Blizzard  
+- Rest  
+
+Hypno  
+Ability: Insomnia  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Rest  
+- Thunder Wave  
+- Seismic Toss  
+- Psychic  
+
+
+
+
+
+
+=== [gen1uu] Ruins of Alph/#23540 13 Likes 0 Score posted by Arai [Lusch] Gyarados+Dragonite http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Hypno  
+Ability: Insomnia  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Thunder Wave  
+- Psychic  
+- Hypnosis  
+- Rest  
+
+Tentacruel  
+Ability: Clear Body  
+- Wrap  
+- Blizzard  
+- Swords Dance  
+- Hyper Beam  
+
+Articuno  
+- Double-Edge  
+- Hyper Beam  
+- Agility  
+- Blizzard  
+
+Dragonite  
+- Agility  
+- Wrap  
+- Blizzard  
+- Body Slam  
+
+Gyarados  
+- Blizzard  
+- Hyper Beam  
+- Body Slam  
+- Thunderbolt  
+
+Dugtrio  
+Ability: Sand Veil  
+- Earthquake  
+- Rock Slide  
+- Slash  
+- Toxic  
+
+
+
+
+
+
+=== [gen1uu] Ruins of Alph/#23541 13 Likes 0 Score posted by Arai [Lusch] Persian+Kadabra http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Tentacruel  
+Ability: none  
+- Wrap  
+- Blizzard  
+- Surf  
+- Hyper Beam  
+
+Persian  
+Ability: none  
+- Slash  
+- Thunderbolt  
+- Toxic  
+- Hyper Beam  
+
+Kadabra  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Psychic  
+- Recover  
+- Seismic Toss  
+- Thunder Wave  
+
+Hypno  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Psychic  
+- Rest  
+- Thunder Wave  
+- Seismic Toss  
+
+Gyarados  
+Ability: none  
+- Body Slam  
+- Hydro Pump  
+- Hyper Beam  
+- Blizzard  
+
+Kangaskhan  
+Ability: none  
+- Body Slam  
+- Counter  
+- Earthquake  
+- Hyper Beam  
+
+
+
+
+
+
+=== [gen1uu] Ruins of Alph/#23542 13 Likes 0 Score posted by Arai [Lusch] Kadabra+Victreebel http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Kadabra  
+Ability: Synchronize  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Psychic  
+- Recover  
+- Seismic Toss  
+- Thunder Wave  
+
+Hypno  
+Ability: Insomnia  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Psychic  
+- Seismic Toss  
+- Rest  
+- Thunder Wave  
+
+Tentacruel  
+Ability: Clear Body  
+- Rest  
+- Blizzard  
+- Surf  
+- Wrap  
+
+Dragonite  
+Ability: Inner Focus  
+- Agility  
+- Body Slam  
+- Wrap  
+- Blizzard  
+
+Victreebel  
+Ability: none  
+- Razor Leaf  
+- Sleep Powder  
+- Wrap  
+- Stun Spore  
+
+Kangaskhan  
+Ability: Early Bird  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Rock Slide  
+
+
+
+
+
+
+=== [gen1uu] Ruins of Alph/#23543 13 Likes 0 Score posted by Arai [Lusch] Omastar+Vaporeon http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Hypno  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Psychic  
+- Rest  
+- Thunder Wave  
+- Hypnosis  
+
+Tentacruel  
+Ability: none  
+- Hyper Beam  
+- Surf  
+- Swords Dance  
+- Wrap  
+
+Omastar  
+Ability: none  
+- Surf  
+- Blizzard  
+- Rest  
+- Body Slam  
+
+Vaporeon  
+Ability: none  
+- Body Slam  
+- Blizzard  
+- Rest  
+- Hydro Pump  
+
+Dugtrio  
+Ability: none  
+- Earthquake  
+- Rock Slide  
+- Substitute  
+- Toxic  
+
+Kangaskhan  
+Ability: none  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Counter
+
+
+
+=== [gen1uu] Ruins of Alph/#23544 2 Likes 0 Score posted by Jellicent http://www.smogon.com/forums/threads/rby-uu-general-discussion.3573896/page-3#post-7605495 ===
+
+Haunter  
+Ability: Levitate  
+- Hypnosis  
+- Thunderbolt  
+- Explosion  
+- Psychic  
+
+Moltres  
+Ability: Pressure  
+- Fire Blast  
+- Hyper Beam  
+- Fire Spin  
+- Agility  
+
+Golduck  
+Ability: Damp  
+- Amnesia  
+- Hydro Pump  
+- Seismic Toss  
+- Rest  
+
+Dugtrio  
+Ability: Sand Veil  
+- Rock Slide  
+- Earthquake  
+- Substitute  
+- Body Slam  
+
+Raichu  
+Ability: Static  
+- Thunderbolt  
+- Thunder Wave  
+- Body Slam  
+- Surf  
+
+Tangela  
+Ability: Chlorophyll  
+- Body Slam  
+- Sleep Powder  
+- Swords Dance  
+- Mega Drain  
+
+-----------------------
+
+Hypno  
+Ability: Insomnia  
+- Hypnosis  
+- Thunder Wave  
+- Psychic  
+- Rest  
+
+Moltres  
+Ability: Pressure  
+- Fire Blast  
+- Hyper Beam  
+- Fire Spin  
+- Agility  
+
+Kangaskhan  
+Ability: Early Bird  
+- Body Slam  
+- Hyper Beam  
+- Earthquake  
+- Counter  
+
+Raichu  
+Ability: Static  
+- Thunderbolt  
+- Thunder Wave  
+- Body Slam  
+- Surf  
+
+Golduck  
+Ability: Water Absorb  
+- Amnesia  
+- Ice Beam  
+- Surf  
+- Rest  
+
+Pinsir  
+Ability: Hyper Cutter  
+- Body Slam  
+- Swords Dance  
+- Hyper Beam  
+- Submission  
+
+-----------------------
+
+Victreebel  
+Ability: Chlorophyll  
+- Sleep Powder  
+- Swords Dance  
+- Razor Leaf  
+- Body Slam  
+
+Articuno  
+Ability: Pressure  
+- Blizzard  
+- Hyper Beam  
+- Agility  
+- Rest  
+
+Haunter  
+Ability: Levitate  
+- Hypnosis  
+- Thunderbolt  
+- Explosion  
+- Psychic  
+
+Raichu  
+- Thunderbolt  
+- Thunder Wave  
+- Body Slam  
+- Surf  
+
+Sandslash  
+Ability: Sand Veil  
+- Earthquake  
+- Swords Dance  
+- Body Slam  
+- Rock Slide  
+
+Golduck  
+Ability: Damp  
+- Amnesia  
+- Blizzard  
+- Surf  
+- Rest
+
+
+

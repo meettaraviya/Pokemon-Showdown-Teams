@@ -1,0 +1,899 @@
+=== [gen7purehackmons] Ruins of Alph/#22808 8 Likes 1 Score posted by AV Cosmoem Normal Offense http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-6#post-8433505 ===
+
+Lopunny-Mega @ Focus Sash  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Fissure  
+- Sing  
+- Stealth Rock  
+- Sticky Web  
+
+Lopunny-Mega @ Focus Sash  
+Ability: Huge Power  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Sunsteel Strike  
+- Searing Sunraze Smash  
+- U-turn  
+
+Audino-Mega @ Shed Shell  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Magic Coat  
+- Defog  
+- U-turn  
+- Recover  
+
+Lopunny-Mega @ Choice Scarf  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Sheer Cold  
+- Fissure  
+- Trick  
+- U-turn  
+
+Chansey (F) @ Iapapa Berry  
+Ability: Innards Out  
+EVs: 252 HP / 252 SpD / 252 Spe  
+Gentle Nature  
+IVs: 0 Atk / 0 Def  
+- Soft-Boiled  
+- Magic Coat  
+- Final Gambit  
+- Parting Shot  
+
+Chansey (F) @ Spooky Plate  
+Ability: Imposter  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Fake Out  
+- Whirlwind  
+- Soft-Boiled  
+- Parting Shot  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22809 8 Likes 1 Score posted by AV Cosmoem Water Offense http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-6#post-8433505 ===
+
+Greninja-Ash (M) @ Focus Sash  
+Ability: No Guard  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sheer Cold  
+- Sing  
+- Stealth Rock  
+- Sticky Web  
+
+Kyogre-Primal @ Leftovers  
+Ability: Water Bubble  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Steam Eruption  
+- Moongeist Beam  
+- Substitute  
+
+Gyarados @ Gyaradosite  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Shell Smash  
+- Substitute  
+- Taunt  
+- Power Trip  
+
+Palkia @ Shed Shell  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Draco Meteor  
+- Recover  
+- Defog  
+- U-turn  
+
+Greninja-Ash (M) @ Focus Sash  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Sheer Cold  
+- Fissure  
+- Sing  
+- Gastro Acid  
+
+Wailord @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Whirlwind  
+- Recover  
+- Trick  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22810 8 Likes 1 Score posted by AV Cosmoem Electric Offense http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-6#post-8433505 ===
+
+Zeraora @ Focus Sash  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Fissure  
+- Bolt Strike  
+- Sing  
+- Gastro Acid  
+
+Zekrom @ Zap Plate  
+Ability: Galvanize  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Fake Out  
+- Extreme Speed  
+- Thousand Arrows  
+- Sunsteel Strike  
+
+Zekrom @ Safety Goggles  
+Ability: Huge Power  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Hammer  
+- Bolt Strike  
+- Sacred Fire  
+- U-turn  
+
+Ampharos @ Ampharosite  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Thunderbolt  
+- Dragon Pulse  
+- Spore  
+
+Galvantula @ Choice Scarf  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+- Volt Switch  
+- Copycat  
+- Recover  
+- Trick  
+
+Lanturn @ Iapapa Berry  
+Ability: Innards Out  
+EVs: 248 HP / 252 SpA / 252 Spe  
+Mild Nature  
+IVs: 0 Atk / 0 Def / 0 SpD  
+- Recover  
+- Magic Coat  
+- Encore  
+- Parting Shot  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22811 8 Likes 1 Score posted by AV Cosmoem Fighting Offense http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-6#post-8433505 ===
+
+Pheromosa @ Focus Sash  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Sheer Cold  
+- Sing  
+- Sticky Web  
+- Stealth Rock  
+
+Lucario-Mega @ Ground Memory  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Shell Smash  
+- Sunsteel Strike  
+- Multi-Attack  
+- Thunderbolt  
+
+Mewtwo-Mega-X @ Choice Scarf  
+Ability: Huge Power  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Photon Geyser  
+- Play Rough  
+- Thousand Arrows  
+- Sacred Fire  
+
+Mewtwo-Mega-X @ Shed Shell  
+Ability: Huge Power  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Photon Geyser  
+- Thousand Arrows  
+- Knock Off  
+- Diamond Storm  
+
+Hariyama @ Iapapa Berry  
+Ability: Innards Out  
+EVs: 248 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+IVs: 0 Def / 0 SpD  
+- Shell Smash  
+- Close Combat  
+- Sunsteel Strike  
+- Photon Geyser  
+
+Hariyama @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Whirlwind  
+- Recover  
+- Trick  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22812 8 Likes 1 Score posted by AV Cosmoem Poison Offense http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-6#post-8433505 ===
+
+Nihilego @ Lum Berry  
+Ability: Innards Out  
+EVs: 252 HP / 252 SpD / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk / 0 Def  
+- Stealth Rock  
+- Sticky Web  
+- Whirlwind  
+- Spore  
+
+Gengar-Mega @ Focus Sash  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Moongeist Beam  
+- Secret Sword  
+- Sludge Wave  
+
+Venusaur-Mega @ Leftovers  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Substitute  
+- Shell Smash  
+- Baton Pass  
+
+Beedrill-Mega @ Focus Sash  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Fissure  
+- Sing  
+- Gastro Acid  
+- U-turn  
+
+Beedrill-Mega @ Shed Shell  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Recover  
+- Toxic Spikes  
+- Rapid Spin  
+
+Nihilego @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Whirlwind  
+- Recover  
+- Trick  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22813 8 Likes 1 Score posted by AV Cosmoem Bug Offense http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-6#post-8433505 ===
+
+Ninjask @ Focus Sash  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Fissure  
+- Sing  
+- Stealth Rock  
+- Sticky Web  
+
+Pinsir-Mega @ Sky Plate  
+Ability: Aerilate  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Extreme Speed  
+- Thousand Arrows  
+- Sunsteel Strike  
+
+Scizor-Mega @ Shed Shell  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Defog  
+- Magic Coat  
+- Roost  
+- U-turn  
+
+Volcarona @ Grassium Z  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Careful Nature  
+- U-turn  
+- Aromatherapy  
+- Stealth Rock  
+- Roost  
+
+Beedrill-Mega @ Focus Sash  
+Ability: Huge Power  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- First Impression  
+- Sacred Fire  
+- Knock Off  
+- U-turn  
+
+Yanmega @ Iapapa Berry  
+Ability: Innards Out  
+EVs: 248 HP / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk / 0 Def / 0 SpD  
+- Electrify  
+- Shift Gear  
+- Taunt  
+- Baton Pass  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22814 8 Likes 0 Score posted by AV Cosmoem Rain/gen 7 rain http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+Kyogre-Primal @ Damp Rock  
+Ability: Drizzle  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Steam Eruption  
+- Taunt  
+- Recover  
+- Parting Shot  
+
+Greninja-Ash (M) @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Water Shuriken  
+- Steam Eruption  
+- Volt Switch  
+
+Greninja-Ash (M) @ Choice Band  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Crabhammer  
+- Knock Off  
+- Thousand Arrows  
+- U-turn  
+
+Lopunny-Mega @ Focus Sash  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 252 SpA / 252 SpD / 252 Spe  
+Hasty Nature  
+- Stealth Rock  
+- Sticky Web  
+- Sheer Cold  
+- Sacred Fire  
+
+Gyarados @ Gyaradosite  
+Ability: Wonder Guard  
+EVs: 248 HP / 252 Def / 252 SpA / 25 SpD / 252 Spe  
+Timid Nature  
+- Shell Smash  
+- Taunt  
+- Waterfall  
+- Power Trip  
+
+Necrozma-Ultra @ Ultranecrozium Z  
+Ability: Magic Bounce  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Photon Geyser  
+- Rapid Spin  
+- Quiver Dance  
+- Baton Pass  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22815 8 Likes 0 Score posted by AV Cosmoem ho http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+spirit (Sceptile-Mega) (M) @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 HP / 252 Def / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Clanging Scales  
+- Taunt  
+- Spikes  
+- Spore  
+
+foresight (Gengar-Mega) @ Focus Sash  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 248 Spe  
+Timid Nature  
+- Moongeist Beam  
+- Secret Sword  
+- Rapid Spin  
+- Metal Burst  
+
+foresight (Gengar-Mega) (M) @ Spooky Plate  
+Ability: Mold Breaker  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Judgment  
+- Secret Sword  
+- Boomburst  
+- Shell Smash  
+
+paradox (Alakazam-Mega) (M) @ Focus Sash  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+IVs: 0 Atk  
+- Light That Burns the Sky  
+- Sheer Cold  
+- Sing  
+- Gastro Acid  
+
+trickster (Gyarados) (M) @ Gyaradosite  
+Ability: Wonder Guard  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Shell Smash  
+- Substitute  
+- Taunt  
+- Power Trip  
+
+wrath (Emboar) @ Wiki Berry  
+Ability: Innards Out  
+EVs: 248 HP / 252 Atk / 252 Spe  
+Naive Nature  
+IVs: 0 Def / 0 SpD  
+- Shell Smash  
+- V-create  
+- Close Combat  
+- Photon Geyser  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22816 8 Likes 0 Score posted by AV Cosmoem assist http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+Groudon-Primal @ Choice Band  
+Ability: Prankster  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Assist  
+- Beak Blast  
+- Shadow Force  
+- Trick  
+
+Groudon-Primal @ Choice Band  
+Ability: Prankster  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Assist  
+- Dig  
+- Shadow Force  
+- Trick  
+
+Groudon-Primal @ Choice Band  
+Ability: Prankster  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Assist  
+- Circle Throw  
+- Destiny Bond  
+- Trick  
+
+Swampert-Mega @ Safety Goggles  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Impish Nature  
+- Thousand Arrows  
+- Spiky Shield  
+- Destiny Bond  
+- Whirlwind  
+
+Groudon-Primal @ Choice Scarf  
+Ability: Mold Breaker  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Assist  
+- Shell Trap  
+- Destiny Bond  
+- Trick  
+
+Groudon-Primal @ Choice Scarf  
+Ability: Mold Breaker  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Assist  
+- Beak Blast  
+- King&#39;s Shield  
+- Trick  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22817 8 Likes 0 Score posted by AV Cosmoem no status http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+Zygarde-Complete (F) @ Choice Scarf  
+Ability: Imposter  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Thousand Waves  
+- U-turn  
+- Final Gambit  
+- Poison Fang  
+
+Lucario-Mega @ Focus Sash  
+Ability: Contrary  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Sunsteel Strike  
+- Superpower  
+- V-create  
+- Thousand Arrows  
+
+Gyarados @ Iapapa Berry  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Dragon Ascent  
+- U-turn  
+- Rapid Spin  
+- Spectral Thief  
+
+Heliolisk @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Volt Switch  
+- Rapid Spin  
+- Nuzzle  
+
+Mewtwo-Mega-X @ Choice Scarf  
+Ability: Huge Power  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Photon Geyser  
+- Sunsteel Strike  
+- Play Rough  
+- Thousand Arrows  
+
+Blissey (F) @ Iapapa Berry  
+Ability: Innards Out  
+EVs: 252 HP / 252 Atk / 252 SpA / 252 SpD  
+Gentle Nature  
+IVs: 0 Def  
+- Rapid Spin  
+- U-turn  
+- Thunderbolt  
+- Ice Beam  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22818 8 Likes 0 Score posted by AV Cosmoem baton pass http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+Sceptile-Mega @ Mental Herb  
+Ability: Speed Boost  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Spiky Shield  
+- Spore  
+- Baton Pass  
+
+Audino-Mega @ Leppa Berry  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Careful Nature  
+IVs: 0 Atk  
+- Spore  
+- Extreme Evoboost  
+- Roost  
+- Baton Pass  
+
+Giratina @ Mental Herb  
+Ability: Prankster  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Taunt  
+- Topsy-Turvy  
+- Substitute  
+- Baton Pass  
+
+Lugia @ Safety Goggles  
+Ability: Magic Bounce  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- King&#39;s Shield  
+- Shell Smash  
+- Aromatherapy  
+- Baton Pass  
+
+Arceus @ Focus Sash  
+Ability: Soundproof  
+EVs: 248 HP / 252 Def / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Imprison  
+- Haze  
+- Shell Smash  
+- Baton Pass  
+
+Hoopa-Unbound @ Protective Pads  
+Ability: Wonder Guard  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Power Trip  
+- Sunsteel Strike  
+- Thousand Arrows  
+- Baton Pass  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22819 8 Likes 0 Score posted by AV Cosmoem cresselia http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+Pride (Cresselia) (F) @ Shed Shell  
+Ability: Fur Coat  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Wish  
+- King&#39;s Shield  
+- Spectral Thief  
+- Baton Pass  
+
+Sloth (Audino-Mega) @ Shed Shell  
+Ability: Wonder Guard  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Magic Coat  
+- Aromatherapy  
+- Recover  
+- Parting Shot  
+
+Envy (Gengar-Mega) @ Focus Sash  
+Ability: Magic Guard  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Moongeist Beam  
+- Secret Sword  
+- Taunt  
+
+Wrath (Mewtwo-Mega-X) @ Choice Scarf  
+Ability: Huge Power  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Photon Geyser  
+- Drain Punch  
+- Thousand Arrows  
+- Gear Grind  
+
+Greed (Kartana) @ Focus Sash  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Shell Smash  
+- Sunsteel Strike  
+- Leaf Blade  
+- Sacred Fire  
+
+Gluttony (Chansey) (F) @ Iapapa Berry  
+Ability: Innards Out  
+EVs: 248 HP / 252 SpD / 252 Spe  
+Gentle Nature  
+IVs: 0 Atk / 0 Def  
+- Soft-Boiled  
+- Parting Shot  
+- Magic Coat  
+- Encore  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22820 8 Likes 0 Score posted by AV Cosmoem ng mmane http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+Manectric-Mega @ Focus Sash  
+Ability: No Guard  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fissure  
+- Sing  
+- Zap Cannon  
+- Gastro Acid  
+
+Rayquaza-Mega (M) @ Grassium Z  
+Ability: Magic Bounce  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Careful Nature  
+- Baneful Bunker  
+- Aromatherapy  
+- Wish  
+- U-turn  
+
+Gengar-Mega @ Focus Sash  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Moongeist Beam  
+- Secret Sword  
+- Taunt  
+
+Audino-Mega @ Shed Shell  
+Ability: Wonder Guard  
+EVs: 248 HP / 252 Def / 252 SpD / 252 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magic Coat  
+- Defog  
+- Parting Shot  
+- Recover  
+
+Slowbro-Mega @ Shed Shell  
+Ability: Wonder Guard  
+EVs: 248 HP / 252 Def / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Slack Off  
+- King&#39;s Shield  
+- Stealth Rock  
+
+Rayquaza-Mega (M) @ Sky Plate  
+Ability: Aerilate  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Extreme Speed  
+- Sacred Fire  
+- Sunsteel Strike  
+
+
+
+
+
+
+=== [gen7purehackmons] Ruins of Alph/#22821 8 Likes 0 Score posted by AV Cosmoem doubles http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+Alakazam-Mega @ Focus Sash  
+Ability: Psychic Surge  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Photon Geyser  
+- Heat Wave  
+- Shell Smash  
+- Spiky Shield  
+
+Necrozma-Ultra @ Ultranecrozium Z  
+Ability: Mold Breaker  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Photon Geyser  
+- Clanging Scales  
+- Shell Smash  
+- Spiky Shield  
+
+Mewtwo-Mega-X @ Terrain Extender  
+Ability: Psychic Surge  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Photon Geyser  
+- Play Rough  
+- Thousand Arrows  
+- Spiky Shield  
+
+Muk-Alola @ Air Balloon  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Def / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Follow Me  
+- Spore  
+- Parting Shot  
+- Spiky Shield  
+
+Kyogre-Primal @ Iapapa Berry  
+Ability: Wonder Guard  
+EVs: 252 HP / 252 Def / 252 SpD / 252 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Spiky Shield  
+- Tailwind  
+- Follow Me  
+- Floral Healing  
+
+Zygarde-Complete @ Ghostium Z  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Safeguard  
+- Glare  
+- Haze  
+- Destiny Bond  
+
+
+
+
+
+

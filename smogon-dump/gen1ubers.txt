@@ -1,0 +1,996 @@
+=== [gen1ubers] Ruins of Alph/#22662 49 Likes 12 Score posted by Peasounay http://www.smogon.com/forums/threads/rby-ubers-analysis-thoughts-on-the-metagame.3667314/page-1#post-8536521 ===
+
+Tauros (M)  
+Ability: none  
+- Blizzard  
+- Body Slam  
+- Hyper Beam  
+- Earthquake  
+
+Mewtwo  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Amnesia  
+- Psychic  
+- Thunderbolt  
+- Recover  
+
+Mew  
+Ability: none  
+- Swords Dance  
+- Body Slam  
+- Explosion  
+- Thunder Wave  
+
+Snorlax  
+Ability: none  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Self-Destruct  
+
+Chansey (F)  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Soft-Boiled  
+- Ice Beam  
+- Thunder Wave  
+- Counter  
+
+Exeggutor  
+Ability: none  
+- Sleep Powder  
+- Psychic  
+- Stun Spore  
+- Explosion  
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22663 49 Likes 12 Score posted by Peasounay http://www.smogon.com/forums/threads/rby-ubers-analysis-thoughts-on-the-metagame.3667314/page-1#post-8536521 ===
+
+Gengar  
+Ability: none  
+- Hypnosis  
+- Night Shade  
+- Thunderbolt  
+- Explosion  
+
+Mewtwo  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Amnesia  
+- Psychic  
+- Thunderbolt  
+- Recover  
+
+Mew  
+Ability: none  
+- Swords Dance  
+- Earthquake  
+- Explosion  
+- Soft-Boiled  
+
+Snorlax  
+Ability: none  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Self-Destruct  
+
+Chansey (F)  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Soft-Boiled  
+- Ice Beam  
+- Thunder Wave  
+- Sing  
+
+Zapdos  
+Ability: none  
+- Drill Peck  
+- Thunderbolt  
+- Thunder Wave  
+- Agility  
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22664 49 Likes 12 Score posted by Peasounay http://www.smogon.com/forums/threads/rby-ubers-analysis-thoughts-on-the-metagame.3667314/page-1#post-8536521 ===
+
+Alakazam  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Thunder Wave  
+- Psychic  
+- Recover  
+- Seismic Toss  
+
+Mewtwo  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Amnesia  
+- Psychic  
+- Thunderbolt  
+- Recover  
+
+Mew  
+Ability: none  
+- Swords Dance  
+- Body Slam  
+- Explosion  
+- Soft-Boiled  
+
+Snorlax  
+Ability: none  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Self-Destruct  
+
+Chansey (F)  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Soft-Boiled  
+- Ice Beam  
+- Thunder Wave  
+- Sing  
+
+Slowbro  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Thunder Wave  
+- Amnesia  
+- Surf  
+- Rest  
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22665 49 Likes 12 Score posted by Peasounay http://www.smogon.com/forums/threads/rby-ubers-analysis-thoughts-on-the-metagame.3667314/page-1#post-8536521 ===
+
+Jolteon  
+Ability: none  
+- Thunder Wave  
+- Thunderbolt  
+- Pin Missile  
+- Double Kick  
+
+Mewtwo  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Amnesia  
+- Psychic  
+- Thunderbolt  
+- Recover  
+
+Mew  
+Ability: none  
+- Swords Dance  
+- Earthquake  
+- Explosion  
+- Soft-Boiled  
+
+Snorlax  
+Ability: none  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Self-Destruct  
+
+Chansey (F)  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Soft-Boiled  
+- Ice Beam  
+- Thunder Wave  
+- Sing  
+
+Tauros (M)  
+Ability: none  
+- Blizzard  
+- Body Slam  
+- Hyper Beam  
+- Earthquake  
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22666 10 Likes 8 Score posted by Oiseau Bleu http://www.smogon.com/forums/threads/rby-ubers-analysis-thoughts-on-the-metagame.3667314/page-1#post-8671660 ===
+
+Alakazam  
+Ability: none  
+- Psychic  
+- Thunder Wave  
+- Recover  
+- Seismic Toss  
+
+Victreebel  
+Ability: none  
+- Swords Dance  
+- Wrap  
+- Hyper Beam  
+- Sleep Powder  
+
+Chansey (F)  
+Ability: none  
+- Ice Beam  
+- Counter  
+- Soft-Boiled  
+- Thunder Wave  
+
+Snorlax  
+Ability: none  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+- Hyper Beam  
+
+Mewtwo  
+Ability: none  
+- Amnesia  
+- Psychic  
+- Thunderbolt  
+- Recover  
+
+Mew  
+Ability: none  
+- Earthquake  
+- Explosion  
+- Swords Dance  
+- Soft-Boiled  
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22667 10 Likes 8 Score posted by Oiseau Bleu http://www.smogon.com/forums/threads/rby-ubers-analysis-thoughts-on-the-metagame.3667314/page-1#post-8671660 ===
+
+Jolteon  
+Ability: none  
+- Thunder Wave  
+- Thunderbolt  
+- Rest  
+- Double Kick  
+
+Mewtwo  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Amnesia  
+- Psychic  
+- Thunderbolt  
+- Recover  
+
+Mew  
+Ability: none  
+- Swords Dance  
+- Earthquake  
+- Explosion  
+- Soft-Boiled  
+
+Snorlax  
+Ability: none  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Self-Destruct  
+
+Chansey (F)  
+Ability: none  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Soft-Boiled  
+- Ice Beam  
+- Thunder Wave  
+- Counter  
+
+Exeggutor  
+Ability: none  
+- Sleep Powder  
+- Psychic  
+- Stun Spore  
+- Explosion  
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22668 13 Likes 0 Score posted by Arai Lutra's Team (went 9-0 in a mini tour and to round 4 in a 64 man tournament) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Jynx  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk    
+- Blizzard  
+- Lovely Kiss  
+- Rest  
+- Seismic Toss  
+
+Chansey  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk    
+- Light Screen  
+- Seismic Toss  
+- Soft-Boiled  
+- Thunder Wave  
+
+Mewtwo
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Amnesia  
+- Ice Beam  
+- Psychic  
+- Recover  
+
+Exeggutor  
+- Explosion  
+- Psychic  
+- Sleep Powder  
+- Stun Spore  
+
+Slowbro  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Amnesia  
+- Rest  
+- Surf  
+- Thunder Wave  
+
+Mew
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Reflect  
+- Soft-Boiled  
+- Transform  
+- Thunder Wave  
+
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22669 13 Likes 0 Score posted by Arai marcoasd's team (Went 8-2 in the minitour and won the 64 man tournament) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Tauros  
+Ability: Intimidate  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Blizzard  
+
+Mew  
+- Swords Dance  
+- Body Slam  
+- Reflect  
+- Soft-Boiled  
+
+Exeggutor  
+- Sleep Powder  
+- Stun Spore  
+- Psychic  
+- Explosion  
+
+Mewtwo  
+- Amnesia  
+- Psychic  
+- Ice Beam  
+- Recover  
+
+Slowbro  
+Ability: Oblivious  
+- Thunder Wave  
+- Amnesia  
+- Ice Beam  
+- Rest  
+
+Snorlax  
+Ability: Immunity  
+- Body Slam  
+- Hyper Beam  
+- Earthquake  
+- Self-Destruct  
+
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22670 13 Likes 0 Score posted by Arai Mr.378's team (Won a 32 man tournament) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Jynx  
+Ability: Oblivious  
+- Blizzard  
+- Seismic Toss  
+- Rest  
+- Lovely Kiss  
+
+Chansey  
+Ability: Natural Cure  
+- Ice Beam  
+- Light Screen  
+- Soft-Boiled  
+- Thunder Wave  
+
+Snorlax  
+Ability: Immunity  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Self-Destruct  
+
+Slowbro  
+Ability: Oblivious  
+- Surf  
+- Thunder Wave  
+- Amnesia  
+- Rest  
+
+Mew  
+- Body Slam  
+- Earthquake  
+- Explosion  
+- Swords Dance  
+
+Mewtwo  
+- Thunderbolt  
+- Ice Beam  
+- Amnesia  
+- Recover  
+
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22671 13 Likes 0 Score posted by Arai Sunny's team (Runner-up in the 32 man tournament) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Exeggutor  
+- Sleep Powder  
+- Stun Spore  
+- Explosion  
+- Psychic  
+
+Snorlax  
+Ability: Immunity  
+- Body Slam  
+- Counter  
+- Earthquake  
+- Self-Destruct  
+
+Zapdos  
+- Thunderbolt  
+- Thunder Wave  
+- Drill Peck  
+- Agility  
+
+Slowbro  
+Ability: Oblivious  
+- Withdraw  
+- Rest  
+- Surf  
+- Psychic  
+
+Mewtwo  
+- Amnesia  
+- Thunder Wave  
+- Psychic  
+- Self-Destruct  
+
+Mew  
+- Reflect  
+- Swords Dance  
+- Body Slam  
+- Soft-Boiled  
+
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22672 13 Likes 0 Score posted by Arai 1st of 2 Teams that serial RBY winner Peasounay had http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Gengar  
+Ability: Cursed Body  
+- Hypnosis  
+- Thunderbolt  
+- Night Shade  
+- Explosion  
+
+Mewtwo  
+Ability: Pressure  
+- Amnesia  
+- Ice Beam  
+- Thunderbolt  
+- Recover  
+
+Mew  
+Ability: Synchronize  
+- Swords Dance  
+- Earthquake  
+- Explosion  
+- Soft-Boiled  
+
+Snorlax  
+Ability: Immunity  
+- Body Slam  
+- Earthquake  
+- Counter  
+- Self-Destruct  
+
+Exeggutor  
+Ability: Chlorophyll  
+- Sleep Powder  
+- Psychic  
+- Stun Spore  
+- Explosion  
+
+Chansey  
+Ability: Natural Cure  
+- Soft-Boiled  
+- Ice Beam  
+- Thunder Wave  
+- Light Screen  
+
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22673 13 Likes 0 Score posted by Arai 2nd of 2 Teams that serial RBY winner Peasounay had: http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Gengar  
+Ability: Cursed Body  
+- Hypnosis  
+- Thunderbolt  
+- Night Shade  
+- Explosion  
+
+Mewtwo  
+Ability: Pressure  
+- Amnesia  
+- Ice Beam  
+- Psychic  
+- Recover  
+
+Mew  
+Ability: Synchronize  
+- Swords Dance  
+- Earthquake  
+- Body Slam  
+- Soft-Boiled  
+
+Snorlax  
+Ability: Immunity  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Self-Destruct  
+
+Chansey  
+Ability: Natural Cure  
+- Soft-Boiled  
+- Ice Beam  
+- Thunder Wave  
+- Sing  
+
+Slowbro  
+Ability: Oblivious  
+- Thunder Wave  
+- Amnesia  
+- Ice Beam  
+- Rest  
+
+
+
+
+
+
+=== [gen1ubers] Ruins of Alph/#22674 13 Likes 0 Score posted by Arai Lutra's New Team (went 24-6 as RBY Ubers Veteran Trainer) http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347618 ===
+
+
+Rain's Melody (Jynx)   
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Blizzard  
+- Lovely Kiss  
+- Psychic  
+- Counter  
+
+Boat of Clouds (Chansey)  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Light Screen  
+- Seismic Toss  
+- Soft-Boiled  
+- Thunder Wave  
+
+The Sky (Mewtwo)  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Amnesia  
+- Ice Beam  
+- Psychic  
+- Recover  
+
+Rainbow (Mew)  
+- Explosion  
+- Reflect  
+- Swords Dance  
+- Thunder Wave  
+
+Bad Dreams (Snorlax)   
+- Amnesia  
+- Body Slam  
+- Reflect  
+- Rest  
+
+Fly Freely (Zapdos)  
+- Drill Peck  
+- Reflect  
+- Rest  
+- Thunderbolt
+
+
+
+=== [gen1ubers] Gen 1/#22675 36 Likes 0 Score posted by Lutra Lutra's Team (went 9-0 in a mini tour and to round 4 in a 64 man tournament) http://www.smogon.com/forums/threads/ubers-fresh-out-of-the-factory.3610447/page-1#post-7446558 ===
+
+
+Jynx  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk    
+- Blizzard  
+- Lovely Kiss  
+- Rest  
+- Seismic Toss  
+
+Chansey  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk    
+- Light Screen  
+- Seismic Toss  
+- Soft-Boiled  
+- Thunder Wave  
+
+Mewtwo
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Amnesia  
+- Ice Beam  
+- Psychic  
+- Recover  
+
+Exeggutor  
+- Explosion  
+- Psychic  
+- Sleep Powder  
+- Stun Spore  
+
+Slowbro  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Amnesia  
+- Rest  
+- Surf  
+- Thunder Wave  
+
+Mew
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Reflect  
+- Soft-Boiled  
+- Transform  
+- Thunder Wave  
+
+
+
+
+
+
+=== [gen1ubers] Gen 1/#22676 36 Likes 0 Score posted by Lutra marcoasd's team (Went 8-2 in the minitour and won the 64 man tournament) http://www.smogon.com/forums/threads/ubers-fresh-out-of-the-factory.3610447/page-1#post-7446558 ===
+
+
+Tauros  
+Ability: Intimidate  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Blizzard  
+
+Mew  
+- Swords Dance  
+- Body Slam  
+- Reflect  
+- Soft-Boiled  
+
+Exeggutor  
+- Sleep Powder  
+- Stun Spore  
+- Psychic  
+- Explosion  
+
+Mewtwo  
+- Amnesia  
+- Psychic  
+- Ice Beam  
+- Recover  
+
+Slowbro  
+Ability: Oblivious  
+- Thunder Wave  
+- Amnesia  
+- Ice Beam  
+- Rest  
+
+Snorlax  
+Ability: Immunity  
+- Body Slam  
+- Hyper Beam  
+- Earthquake  
+- Self-Destruct  
+
+
+
+
+
+
+=== [gen1ubers] Gen 1/#22677 36 Likes 0 Score posted by Lutra Mr.378's team (Won a 32 man tournament) http://www.smogon.com/forums/threads/ubers-fresh-out-of-the-factory.3610447/page-1#post-7446558 ===
+
+
+Jynx  
+Ability: Oblivious  
+- Blizzard  
+- Seismic Toss  
+- Rest  
+- Lovely Kiss  
+
+Chansey  
+Ability: Natural Cure  
+- Ice Beam  
+- Light Screen  
+- Soft-Boiled  
+- Thunder Wave  
+
+Snorlax  
+Ability: Immunity  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Self-Destruct  
+
+Slowbro  
+Ability: Oblivious  
+- Surf  
+- Thunder Wave  
+- Amnesia  
+- Rest  
+
+Mew  
+- Body Slam  
+- Earthquake  
+- Explosion  
+- Swords Dance  
+
+Mewtwo  
+- Thunderbolt  
+- Ice Beam  
+- Amnesia  
+- Recover  
+
+
+
+
+
+
+=== [gen1ubers] Gen 1/#22678 36 Likes 0 Score posted by Lutra Sunny's team (Runner-up in the 32 man tournament) http://www.smogon.com/forums/threads/ubers-fresh-out-of-the-factory.3610447/page-1#post-7446558 ===
+
+
+Exeggutor  
+- Sleep Powder  
+- Stun Spore  
+- Explosion  
+- Psychic  
+
+Snorlax  
+Ability: Immunity  
+- Body Slam  
+- Counter  
+- Earthquake  
+- Self-Destruct  
+
+Zapdos  
+- Thunderbolt  
+- Thunder Wave  
+- Drill Peck  
+- Agility  
+
+Slowbro  
+Ability: Oblivious  
+- Withdraw  
+- Rest  
+- Surf  
+- Psychic  
+
+Mewtwo  
+- Amnesia  
+- Thunder Wave  
+- Psychic  
+- Self-Destruct  
+
+Mew  
+- Reflect  
+- Swords Dance  
+- Body Slam  
+- Soft-Boiled  
+
+
+
+
+
+
+=== [gen1ubers] Gen 1/#22679 36 Likes 0 Score posted by Lutra 1st of 2 Teams that serial RBY winner Peasounay had http://www.smogon.com/forums/threads/ubers-fresh-out-of-the-factory.3610447/page-1#post-7446558 ===
+
+
+Gengar  
+Ability: Cursed Body  
+- Hypnosis  
+- Thunderbolt  
+- Night Shade  
+- Explosion  
+
+Mewtwo  
+Ability: Pressure  
+- Amnesia  
+- Ice Beam  
+- Thunderbolt  
+- Recover  
+
+Mew  
+Ability: Synchronize  
+- Swords Dance  
+- Earthquake  
+- Explosion  
+- Soft-Boiled  
+
+Snorlax  
+Ability: Immunity  
+- Body Slam  
+- Earthquake  
+- Counter  
+- Self-Destruct  
+
+Exeggutor  
+Ability: Chlorophyll  
+- Sleep Powder  
+- Psychic  
+- Stun Spore  
+- Explosion  
+
+Chansey  
+Ability: Natural Cure  
+- Soft-Boiled  
+- Ice Beam  
+- Thunder Wave  
+- Light Screen  
+
+
+
+
+
+
+=== [gen1ubers] Gen 1/#22680 36 Likes 0 Score posted by Lutra 2nd of 2 Teams that serial RBY winner Peasounay had: http://www.smogon.com/forums/threads/ubers-fresh-out-of-the-factory.3610447/page-1#post-7446558 ===
+
+
+Gengar  
+Ability: Cursed Body  
+- Hypnosis  
+- Thunderbolt  
+- Night Shade  
+- Explosion  
+
+Mewtwo  
+Ability: Pressure  
+- Amnesia  
+- Ice Beam  
+- Psychic  
+- Recover  
+
+Mew  
+Ability: Synchronize  
+- Swords Dance  
+- Earthquake  
+- Body Slam  
+- Soft-Boiled  
+
+Snorlax  
+Ability: Immunity  
+- Body Slam  
+- Earthquake  
+- Hyper Beam  
+- Self-Destruct  
+
+Chansey  
+Ability: Natural Cure  
+- Soft-Boiled  
+- Ice Beam  
+- Thunder Wave  
+- Sing  
+
+Slowbro  
+Ability: Oblivious  
+- Thunder Wave  
+- Amnesia  
+- Ice Beam  
+- Rest  
+
+
+
+
+
+
+=== [gen1ubers] Gen 1/#22681 36 Likes 0 Score posted by Lutra Lutra's New Team (went 24-6 as RBY Ubers Veteran Trainer) http://www.smogon.com/forums/threads/ubers-fresh-out-of-the-factory.3610447/page-1#post-7446558 ===
+
+
+Rain's Melody (Jynx)   
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Blizzard  
+- Lovely Kiss  
+- Psychic  
+- Counter  
+
+Boat of Clouds (Chansey)  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Light Screen  
+- Seismic Toss  
+- Soft-Boiled  
+- Thunder Wave  
+
+The Sky (Mewtwo)  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+IVs: 2 Atk  
+- Amnesia  
+- Ice Beam  
+- Psychic  
+- Recover  
+
+Rainbow (Mew)  
+- Explosion  
+- Reflect  
+- Swords Dance  
+- Thunder Wave  
+
+Bad Dreams (Snorlax)   
+- Amnesia  
+- Body Slam  
+- Reflect  
+- Rest  
+
+Fly Freely (Zapdos)  
+- Drill Peck  
+- Reflect  
+- Rest  
+- Thunderbolt
+
+
+

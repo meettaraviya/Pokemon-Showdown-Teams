@@ -1,0 +1,5676 @@
+=== [gen3ubers] Ruins of Alph/#23415 8 Likes 0 Score posted by AV Cosmoem kingdra bo http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Explosion  
+- Trick  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 252 Def / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Whirlwind  
+- Counter  
+- Recover  
+- Skill Swap  
+
+Latias (F) @ Soul Dew  
+Ability: Levitate  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Dragon Claw  
+- Recover  
+- Refresh  
+
+Banette @ Choice Band  
+Ability: Insomnia  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Shadow Ball  
+- Earthquake  
+- Cross Chop  
+- Trick  
+
+Kyogre @ Lum Berry  
+Ability: Drizzle  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Thunder  
+- Recover  
+- Substitute  
+
+Kingdra @ Lum Berry  
+Ability: Swift Swim  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Claw  
+- Thunder  
+- Spore  
+- Tail Glow  
+
+
+
+
+
+
+=== [gen3ubers] Ruins of Alph/#23416 8 Likes 0 Score posted by AV Cosmoem baton pass http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+Ninjask @ Lum Berry  
+Ability: Speed Boost  
+EVs: 248 HP / 252 Def / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Spore  
+- Substitute  
+- Taunt  
+- Baton Pass  
+
+Ninjask @ Lum Berry  
+Ability: Speed Boost  
+EVs: 248 HP / 252 Def / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Protect  
+- Substitute  
+- Taunt  
+- Baton Pass  
+
+Lugia @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 252 Def / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Minimize  
+- Taunt  
+- Baton Pass  
+
+Lugia @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 252 Def / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Tail Glow  
+- Taunt  
+- Baton Pass  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 248 HP / 252 Def / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Cosmic Power  
+- Taunt  
+- Baton Pass  
+
+Latias (F) @ Soul Dew  
+Ability: Levitate  
+EVs: 248 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Claw  
+- Flamethrower  
+- Taunt  
+- Baton Pass  
+
+
+
+
+
+
+=== [gen3ubers] Ruins of Alph/#23417 8 Likes 0 Score posted by AV Cosmoem explosion spam http://www.smogon.com/forums/threads/old-gen-hackmons-megathread.3649618/page-5#post-8428631 ===
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Blast  
+- Explosion  
+- Baton Pass  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Shadow Ball  
+- Cross Chop  
+- Extreme Speed  
+- Explosion  
+
+Deoxys-Attack @ Lum Berry  
+Ability: Pressure  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Extreme Speed  
+- Explosion  
+
+Wobbuffet @ Leftovers  
+Ability: Shadow Tag  
+EVs: 248 HP / 252 Def / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Taunt  
+- Perish Song  
+- Protect  
+- Recover  
+
+Groudon @ Lum Berry  
+Ability: Drought  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Earthquake  
+- Rock Blast  
+- Explosion  
+
+Victreebel @ Lum Berry  
+Ability: Chlorophyll  
+EVs: 248 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- Sludge Bomb  
+- Earthquake  
+- Rock Blast  
+- Explosion  
+
+
+
+
+
+=== [gen3ubers] Ruins of Alph/#23418 15 Likes 0 Score posted by Arai ADV Ubers Sample 1 http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347620 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 168 HP / 176 Atk / 132 SpD / 32 Spe  
+Adamant Nature  
+- Earthquake  
+- Swords Dance  
+- Thunder Wave  
+- Rock Slide  
+
+Lugia @ Choice Band  
+Ability: Pressure  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Jolly Nature  
+- Aeroblast  
+- Shadow Ball  
+- Earthquake  
+- Ice Beam  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 252 HP / 116 SpA / 140 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Claw  
+- Refresh  
+- Calm Mind  
+- Recover  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Wish  
+- Seismic Toss  
+- Toxic  
+- Protect  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Protect  
+- Toxic  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Impish Nature  
+- Hidden Power [Bug]
+- Explosion  
+- Rapid Spin  
+- Spikes  
+
+
+
+
+
+
+=== [gen3ubers] Ruins of Alph/#23419 15 Likes 0 Score posted by Arai Rain Offense provided by Minority http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347620 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 156 HP / 252 SpA / 100 Spe  
+Modest Nature  
+- Calm Mind  
+- Recover  
+- Ice Beam  
+- Thunder  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 252 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Ice Beam  
+- Thunder  
+- Surf  
+
+Omastar @ Mystic Water  
+Ability: Swift Swim  
+EVs: 40 Def / 252 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Toxic  
+- Spikes  
+- Ice Beam  
+- Hydro Pump  
+
+Regice @ Leftovers  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 136 HP / 120 Atk / 252 SpA  
+Sassy Nature  
+- Psych Up  
+- Explosion  
+- Thunder  
+- Ice Beam  
+
+Steelix @ Choice Band  
+Ability: Rock Head  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Rock Slide  
+- Double-Edge  
+- Earthquake  
+- Explosion  
+
+Deoxys-Attack @ Petaya Berry  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Mild Nature  
+IVs: 30 HP  
+- Substitute  
+- Superpower  
+- Ice Beam  
+- Thunder  
+
+
+
+
+
+
+=== [gen3ubers] Ruins of Alph/#23420 15 Likes 0 Score posted by Arai Sun semi stall provided by Magsyy http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347620 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 248 HP / 8 Def / 252 SpD  
+Impish Nature  
+- Rest  
+- Toxic  
+- Rock Slide  
+- Earthquake  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 252 HP / 236 Def / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Recover  
+- Roar  
+- Dragon Claw  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 64 Def / 176 SpD / 20 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Recover  
+- Whirlwind  
+- Toxic  
+- Sacred Fire  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Heal Bell  
+- Soft-Boiled  
+- Toxic  
+- Seismic Toss  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+- Spikes  
+- Rapid Spin  
+- Hidden Power [Fire]
+- Explosion  
+
+Regirock @ Choice Band  
+Ability: Clear Body  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Explosion  
+- Rock Slide  
+- Superpower  
+- Rest
+
+
+
+=== [gen3ubers] Ruins of Alph/#23421 77 Likes 0 Score posted by gorgie UMBYOXYS http://www.smogon.com/forums/threads/gorgie-old-gens-team-dump.3618023/page-1#post-7546019 ===
+
+
+Kyogre @ Mystic Water  
+Ability: Drizzle  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+Deoxys-A (Deoxys-Attack) @ White Herb  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+IVs: 15 HP / 15 Atk  
+- Extreme Speed  
+- Superpower  
+- Shadow Ball  
+- Double-Edge  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 124 Atk / 128 SpA / 4 Spe  
+Brave Nature  
+- Meteor Mash  
+- Explosion  
+- Hidden Power [Fire]
+- Pursuit  
+
+Umbreon (M) @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 160 Def / 96 SpD  
+Impish Nature  
+- Mean Look  
+- Curse  
+- Baton Pass  
+- Taunt  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 76 Atk / 180 SpD  
+Sassy Nature  
+IVs: 30 HP / 30 Atk / 30 SpA / 30 SpD / 30 Spe  
+- Shadow Ball  
+- Recover  
+- Sacred Fire  
+- Hidden Power [Fighting]
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 144 HP / 252 Def / 112 SpA  
+Bold Nature  
+- Soft-Boiled  
+- Thunder  
+- Calm Mind  
+- Toxic  
+
+
+
+
+
+
+=== [gen3ubers] Ruins of Alph/#23422 77 Likes 0 Score posted by gorgie GODSPEED! http://www.smogon.com/forums/threads/gorgie-old-gens-team-dump.3618023/page-1#post-7546019 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Dragon Claw  
+- Solar Beam  
+- Thunder  
+- Hidden Power [Fire]
+
+Groudon @ Salac Berry  
+Ability: Drought  
+EVs: 64 Atk / 252 SpD / 192 Spe  
+Adamant Nature  
+- Swords Dance  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Bug]
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 124 HP / 252 Atk / 128 SpA / 4 Spe  
+Brave Nature  
+- Meteor Mash  
+- Hidden Power [Fire]
+- Explosion  
+- Pursuit  
+
+Kyogre @ Mystic Water  
+Ability: Drizzle  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Calm Mind  
+- Hydro Pump  
+- Thunder  
+- Ice Beam  
+
+Mewtwo @ Leftovers  
+Ability: Pressure  
+EVs: 224 Atk / 32 SpA / 252 Spe  
+Naive Nature  
+- Thunder  
+- Ice Beam  
+- Brick Break  
+- Self-Destruct  
+
+Deoxys-Attack @ Spell Tag  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Fire Punch  
+- Shadow Ball  
+- Extreme Speed  
+- Superpower  
+
+
+
+
+
+
+=== [gen3ubers] Ruins of Alph/#23423 77 Likes 0 Score posted by gorgie TauntMewTwo http://www.smogon.com/forums/threads/gorgie-old-gens-team-dump.3618023/page-1#post-7546019 ===
+
+
+Kyogre (Groudon) @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 136 Atk / 80 SpD  
+Careful Nature  
+- Earthquake  
+- Rock Slide  
+- Swords Dance  
+- Thunder Wave  
+
+Mewtwo @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Psychic  
+- Recover  
+- Taunt  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 244 Def / 24 Spe  
+Modest Nature  
+- Calm Mind  
+- Rest  
+- Surf  
+- Toxic  
+
+cyclops (Forretress) (F) @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 252 SpA / 8 Spe  
+Modest Nature  
+- Explosion  
+- Hidden Power [Fire]
+- Rapid Spin  
+- Spikes  
+
+Heracross (F) @ Salac Berry  
+Ability: Swarm  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Megahorn  
+- Reversal  
+- Substitute  
+- Swords Dance  
+
+aww (Latias) @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Dragon Claw  
+- Recover  
+- Refresh  
+
+
+
+
+
+
+=== [gen3ubers] Ruins of Alph/#23424 77 Likes 0 Score posted by gorgie HYPER UBER http://www.smogon.com/forums/threads/gorgie-old-gens-team-dump.3618023/page-1#post-7546019 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Toxic  
+- Earthquake  
+- Hidden Power [Bug]
+- Rock Slide  
+
+Deoxys-Attack @ Spell Tag  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Fire Punch  
+- Shadow Ball  
+- Extreme Speed  
+- Superpower  
+
+Mewtwo @ Leftovers  
+Ability: Pressure  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Rash Nature  
+- Self-Destruct  
+- Thunder  
+- Ice Beam  
+- Brick Break  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Dragon Claw  
+- Thunder  
+- Solar Beam  
+- Hidden Power [Fire]
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+Happiness: 0  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Calm Mind  
+- Surf  
+- Toxic  
+- Rest  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+Happiness: 0  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Substitute  
+- Fire Punch  
+- Focus Punch
+
+
+
+=== [gen3ubers] Gen 3/#23425 98 Likes 0 Score posted by zf Sand stall attempt http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 248 HP / 8 Atk / 252 SpA  
+Quiet Nature  
+- Pursuit  
+- Rock Slide  
+- Fire Blast  
+- Toxic  
+
+Lugia @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 52 Def / 204 Spe  
+Bold Nature  
+- Reflect  
+- Toxic  
+- Whirlwind  
+- Recover  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 180 Atk / 76 SpD  
+Careful Nature  
+- Sacred Fire  
+- Shadow Ball  
+- Toxic  
+- Recover  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 140 HP / 144 SpA / 48 SpD / 176 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+- Rapid Spin  
+- Spikes  
+- Hidden Power [Fire]
+- Toxic  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 188 HP / 68 Def / 252 SpD  
+Calm Nature  
+- Icy Wind  
+- Toxic  
+- Heal Bell  
+- Soft-Boiled  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23426 98 Likes 0 Score posted by zf CB Ho-Oh http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Modest Nature  
+- Ice Beam  
+- Fire Blast  
+- Thunderbolt  
+- Self-Destruct  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 184 Atk / 180 SpD  
+Brave Nature  
+- Body Slam  
+- Self-Destruct  
+- Shadow Ball  
+- Fire Blast  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 48 HP / 208 SpA / 252 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunderbolt  
+- Calm Mind  
+- Recover  
+
+Exeggutor @ Leftovers  
+Ability: Chlorophyll  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Naive Nature  
+- Solar Beam  
+- Explosion  
+- Hidden Power [Fire]
+- Sleep Powder  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 240 HP / 140 Atk / 100 Def / 28 Spe  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Thunder Wave  
+- Swords Dance  
+
+Ho-Oh @ Choice Band  
+Ability: Pressure  
+EVs: 152 HP / 192 Atk / 116 SpD / 48 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Shadow Ball  
+- Hidden Power [Rock]
+- Earthquake  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23427 98 Likes 0 Score posted by zf Ho-Oh+Shiftry http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Mild Nature  
+- Ice Beam  
+- Fire Blast  
+- Thunderbolt  
+- Self-Destruct  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 144 HP / 184 Atk / 180 SpD  
+Brave Nature  
+- Body Slam  
+- Self-Destruct  
+- Shadow Ball  
+- Fire Blast  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 48 HP / 208 SpA / 252 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunderbolt  
+- Calm Mind  
+- Recover  
+
+Shiftry @ Choice Band  
+Ability: Chlorophyll  
+EVs: 252 Atk / 156 SpA / 100 Spe  
+Naughty Nature  
+- Explosion  
+- Solar Beam  
+- Shadow Ball  
+- Hidden Power [Fire]
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 240 HP / 140 Atk / 100 Def / 28 Spe  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Thunder Wave  
+- Swords Dance  
+
+Ho-Oh @ Choice Band  
+Ability: Pressure  
+EVs: 224 HP / 192 Atk / 56 SpD / 36 Spe  
+Lonely Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Earthquake  
+- Hidden Power [Rock]
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23428 98 Likes 0 Score posted by zf Gengar Sand Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Lugia @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 156 Def / 100 Spe  
+Bold Nature  
+- Ice Beam  
+- Whirlwind  
+- Toxic  
+- Recover  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 188 HP / 68 Def / 252 SpD  
+Calm Nature  
+- Icy Wind  
+- Toxic  
+- Soft-Boiled  
+- Aromatherapy  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 112 HP / 184 SpA / 68 SpD / 144 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Gengar @ Leftovers  
+Ability: Cursed Body  
+EVs: 252 HP / 112 Def / 144 Spe  
+Timid Nature  
+- Will-O-Wisp  
+- Taunt  
+- Fire Punch  
+- Perish Song  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Careful Nature  
+- Hidden Power [Bug]
+- Toxic  
+- Spikes  
+- Rapid Spin  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 16 Atk / 252 SpA  
+Quiet Nature  
+- Fire Blast  
+- Pursuit  
+- Rock Slide  
+- Toxic  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23429 98 Likes 0 Score posted by zf Egg Sun http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 240 HP / 140 Atk / 100 Def / 28 Spe  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Thunder Wave  
+- Swords Dance  
+
+Exeggutor @ Lum Berry  
+Ability: Chlorophyll  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Naive Nature  
+- Solar Beam  
+- Hidden Power [Fire]
+- Explosion  
+- Sleep Powder  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 48 HP / 184 SpA / 24 SpD / 252 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunderbolt  
+- Calm Mind  
+- Recover  
+
+Regirock @ Choice Band  
+Ability: Clear Body  
+EVs: 232 HP / 152 Atk / 124 SpD  
+Adamant Nature  
+- Rock Slide  
+- Explosion  
+- Hidden Power [Bug]
+- Earthquake  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Shadow Ball  
+- Superpower  
+- Extreme Speed  
+- Fire Punch  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 184 Atk / 180 SpD  
+Brave Nature  
+- Body Slam  
+- Self-Destruct  
+- Fire Blast  
+- Earthquake  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23430 98 Likes 0 Score posted by zf Raikou Team http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+From Finner (Kyogre) @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 164 SpA / 92 Spe  
+Modest Nature  
+- Surf  
+- Ice Beam  
+- Substitute  
+- Calm Mind  
+
+Counting Stars (Raikou) @ Leftovers  
+Ability: Pressure  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Thunder  
+- Hidden Power [Ice]
+- Calm Mind  
+- Roar  
+
+Daylight (Latias) @ Soul Dew  
+Ability: Levitate  
+EVs: 144 HP / 184 SpA / 24 SpD / 156 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Lose Yourself (Skarmory) @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 176 Def / 84 SpD  
+Bold Nature  
+- Spikes  
+- Whirlwind  
+- Rest  
+- Toxic  
+
+Fortune Days (Gengar) @ Leftovers  
+Ability: Cursed Body  
+EVs: 252 HP / 84 Atk / 28 Def / 144 Spe  
+Jolly Nature  
+- Will-O-Wisp  
+- Taunt  
+- Shadow Ball  
+- Explosion  
+
+Helena Beat (Blissey) @ Leftovers  
+Ability: Natural Cure  
+EVs: 168 HP / 88 Def / 252 SpD  
+Calm Nature  
+- Icy Wind  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23431 98 Likes 0 Score posted by zf McMeghan Offense http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Smeargle (M) @ Salac Berry  
+Ability: Own Tempo  
+EVs: 252 Atk / 252 Spe  
+Jolly Nature  
+- Spikes  
+- Endure  
+- Spore  
+- Explosion  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 40 Atk / 56 Def / 160 SpD  
+Sassy Nature  
+- Swords Dance  
+- Shadow Ball  
+- Baton Pass  
+- Recover  
+
+Deoxys (Deoxys-Attack) @ Liechi Berry  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Extreme Speed  
+- Shadow Ball  
+- Hidden Power [Ground]
+
+Gengar (M) @ Leftovers  
+Ability: Cursed Body  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- Explosion  
+- Destiny Bond  
+- Shadow Ball  
+- Fire Punch  
+
+Rayquaza @ Liechi Berry  
+Ability: Air Lock  
+EVs: 88 HP / 252 Atk / 4 Def / 164 Spe  
+Adamant Nature  
+IVs: 30 HP / 30 Def / 30 SpD  
+- Dragon Dance  
+- Extreme Speed  
+- Hidden Power [Ghost]
+- Substitute  
+
+X11 (Magneton) @ Leftovers  
+Ability: Magnet Pull  
+EVs: 72 HP / 212 SpA / 184 Spe  
+Modest Nature  
+- Hidden Power [Fire]
+- Thunderbolt  
+- Toxic  
+- Thunder Wave  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23432 98 Likes 0 Score posted by zf Umbreon Rain [Optimized] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 164 SpA / 88 Spe  
+Modest Nature  
+- Surf  
+- Ice Beam  
+- Calm Mind  
+- Substitute  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 12 Def / 244 SpD  
+Careful Nature  
+- Shadow Ball  
+- Toxic  
+- Protect  
+- Wish  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Superpower  
+- Hidden Power [Ground]
+- Shadow Ball  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 112 HP / 248 SpA / 148 Spe  
+Timid Nature  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Lugia @ Choice Band  
+Ability: Pressure  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Jolly Nature  
+- Aeroblast  
+- Earthquake  
+- Shadow Ball  
+- Ice Beam  
+
+Umbreon @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 104 Def / 152 SpD  
+Calm Nature  
+IVs: 0 Spe  
+- Pursuit  
+- Mean Look  
+- Baton Pass  
+- Toxic  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23433 98 Likes 0 Score posted by zf WreckDra's Rain http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Lugia @ Choice Band  
+Ability: Pressure  
+EVs: 112 HP / 252 Atk / 144 Spe  
+Jolly Nature  
+- Aeroblast  
+- Earthquake  
+- Shadow Ball  
+- Ice Beam  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 156 SpA / 100 Spe  
+Modest Nature  
+- Surf  
+- Ice Beam  
+- Substitute  
+- Calm Mind  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunder  
+- Hidden Power [Fire]
+- Toxic  
+- Thunder Wave  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 184 Atk / 180 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+- Shadow Ball  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 176 HP / 184 SpA / 148 Spe  
+Timid Nature  
+- Thunderbolt  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Qwilfish @ Choice Band  
+Ability: Poison Point  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Shadow Ball  
+- Sludge Bomb  
+- Self-Destruct  
+- Spikes  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23434 98 Likes 0 Score posted by zf Shedinja Stall [new] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 160 Def / 80 SpD / 16 Spe  
+Impish Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Toxic  
+- Roar  
+
+Umbreon @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 180 Def / 76 SpD  
+Calm Nature  
+- Pursuit  
+- Toxic  
+- Wish  
+- Protect  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Calm Nature  
+- Hidden Power [Fire]
+- Rapid Spin  
+- Spikes  
+- Toxic  
+
+Shedinja @ Lum Berry  
+Ability: Wonder Guard  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Swords Dance  
+- Toxic  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 112 HP / 252 Def / 144 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23435 98 Likes 0 Score posted by zf Dual Weather Stall [Optimized] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 164 Def / 92 Spe  
+Bold Nature  
+- Surf  
+- Ice Beam  
+- Calm Mind  
+- Rest  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Spikes  
+- Toxic  
+- Hidden Power [Bug]
+- Rapid Spin  
+
+Gengar @ Leftovers  
+Ability: Cursed Body  
+EVs: 104 HP / 252 Atk / 152 Spe  
+Jolly Nature  
+- Will-O-Wisp  
+- Taunt  
+- Shadow Ball  
+- Hidden Power [Rock]
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 176 HP / 184 SpA / 148 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunderbolt  
+- Calm Mind  
+- Recover  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 156 Atk / 112 SpA  
+Brave Nature  
+- Earthquake  
+- Pursuit  
+- Fire Blast  
+- Roar  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23436 98 Likes 0 Score posted by zf CM Spam http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Modest Nature  
+- Self-Destruct  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 68 Def / 112 SpA / 76 Spe  
+Timid Nature  
+- Thunder  
+- Ice Punch  
+- Calm Mind  
+- Wish  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 180 Atk / 184 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Shadow Ball  
+- Self-Destruct  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 156 SpA / 100 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Ice Beam  
+- Calm Mind  
+- Thunder Wave  
+
+Omastar @ Mystic Water  
+Ability: Swift Swim  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Modest Nature  
+- Hydro Pump  
+- Ice Beam  
+- Spikes  
+- Blizzard  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23437 98 Likes 0 Score posted by zf Deo-D Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Defense @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 172 SpD / 84 Spe  
+Calm Nature  
+- Toxic  
+- Knock Off  
+- Taunt  
+- Recover  
+
+Gengar @ Leftovers  
+Ability: Cursed Body  
+EVs: 104 HP / 252 Atk / 152 Spe  
+Jolly Nature  
+- Fire Punch  
+- Hidden Power [Rock]
+- Taunt  
+- Will-O-Wisp  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 248 SpD / 12 Spe  
+Calm Nature  
+- Hidden Power [Fire]
+- Rapid Spin  
+- Toxic  
+- Spikes  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 136 Atk / 100 Def / 20 Spe  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Toxic  
+- Swords Dance  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 SpA / 248 SpD  
+Modest Nature  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Soft-Boiled  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 172 Def / 84 Spe  
+Bold Nature  
+- Surf  
+- Ice Beam  
+- Calm Mind  
+- Rest  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23438 98 Likes 0 Score posted by zf Raikou v2 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+ANIK (Latios) @ Soul Dew  
+Ability: Levitate  
+EVs: 112 HP / 248 SpA / 148 Spe  
+Timid Nature  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+SWEEP (Kyogre) @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 164 Def / 92 Spe  
+Modest Nature  
+- Surf  
+- Ice Beam  
+- Rest  
+- Calm Mind  
+
+EVUELF (Raikou) @ Leftovers  
+Ability: Pressure  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Thunder  
+- Hidden Power [Ice]
+- Calm Mind  
+- Roar  
+
+orch... (Skarmory) @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 176 Def / 84 SpD  
+Bold Nature  
+- Spikes  
+- Whirlwind  
+- Taunt  
+- Toxic  
+
+STEEL (Gengar) @ Leftovers  
+Ability: Cursed Body  
+EVs: 252 HP / 84 Atk / 28 Def / 144 Spe  
+Jolly Nature  
+- Will-O-Wisp  
+- Taunt  
+- Shadow Ball  
+- Explosion  
+
+HACK (Blissey) @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 248 Def / 252 SpD  
+Calm Nature  
+- Seismic Toss  
+- Aromatherapy  
+- Toxic  
+- Soft-Boiled  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23439 98 Likes 0 Score posted by zf Batshit Crazy! [ZF Version] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 72 HP / 252 SpA / 184 Spe  
+Timid Nature  
+- Solar Beam  
+- Thunderbolt  
+- Dragon Claw  
+- Hidden Power [Fire]
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 184 Atk / 180 SpD  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Self-Destruct  
+- Curse  
+
+Rayquaza @ Lum Berry  
+Ability: Air Lock  
+EVs: 92 HP / 252 Atk / 164 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Hidden Power [Ghost]
+- Earthquake  
+- Dragon Dance  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 40 Atk / 56 Def / 160 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Shadow Ball  
+- Recover  
+- Swords Dance  
+- Baton Pass  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 72 HP / 212 SpA / 184 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Metal Sound  
+
+Deoxys-Attack @ Liechi Berry  
+Ability: Pressure  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Shadow Ball  
+- Hidden Power [Ground]
+- Extreme Speed  
+- Substitute  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23440 98 Likes 0 Score posted by zf Batshit Crazy [No Celebi] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Solar Beam  
+- Thunder  
+- Dragon Claw  
+- Hidden Power [Fire]
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 184 Atk / 180 SpD  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Self-Destruct  
+- Curse  
+
+Rayquaza @ Lum Berry  
+Ability: Air Lock  
+EVs: 92 HP / 252 Atk / 164 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Hidden Power [Ghost]
+- Earthquake  
+- Dragon Dance  
+
+Groudon @ Salac Berry  
+Ability: Drought  
+EVs: 44 HP / 252 Atk / 8 SpD / 204 Spe  
+Adamant Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Substitute  
+- Swords Dance  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 72 HP / 212 SpA / 184 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Metal Sound  
+
+Deoxys-Attack @ Liechi Berry  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+IVs: 30 HP / 30 SpA / 30 SpD  
+- Shadow Ball  
+- Hidden Power [Ground]
+- Extreme Speed  
+- Substitute  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23441 98 Likes 0 Score posted by zf Kabutops v1 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Lugia @ Choice Band  
+Ability: Pressure  
+EVs: 112 HP / 252 Atk / 144 Spe  
+Jolly Nature  
+- Aeroblast  
+- Earthquake  
+- Shadow Ball  
+- Ice Beam  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 156 SpA / 100 Spe  
+Modest Nature  
+- Surf  
+- Ice Beam  
+- Substitute  
+- Calm Mind  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunder  
+- Hidden Power [Fire]
+- Toxic  
+- Thunder Wave  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 184 Atk / 180 SpD  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+- Shadow Ball  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 112 HP / 252 SpA / 144 Spe  
+Timid Nature  
+- Dragon Claw  
+- Calm Mind  
+- Recover  
+- Refresh  
+
+Kabutops @ Choice Band  
+Ability: Swift Swim  
+EVs: 160 HP / 252 Atk / 96 Spe  
+Adamant Nature  
+- Double-Edge  
+- Rock Slide  
+- Hidden Power [Ground]
+- Brick Break  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23442 98 Likes 0 Score posted by zf Lax stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 164 Def / 92 Spe  
+Bold Nature  
+- Surf  
+- Ice Beam  
+- Calm Mind  
+- Rest  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Spikes  
+- Toxic  
+- Hidden Power [Bug]
+- Rapid Spin  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 252 Def / 112 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 176 HP / 184 SpA / 148 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 156 Atk / 112 SpA  
+Brave Nature  
+- Earthquake  
+- Pursuit  
+- Fire Blast  
+- Roar  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23443 98 Likes 0 Score posted by zf Egg sun http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 240 HP / 40 Atk / 228 SpD  
+Careful Nature  
+- Earthquake  
+- Rock Slide  
+- Thunder Wave  
+- Swords Dance  
+
+Exeggutor @ Lum Berry  
+Ability: Chlorophyll  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Naive Nature  
+- Solar Beam  
+- Hidden Power [Fire]
+- Explosion  
+- Sleep Powder  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Regirock @ Choice Band  
+Ability: Clear Body  
+EVs: 232 HP / 152 Atk / 124 SpD  
+Adamant Nature  
+- Rock Slide  
+- Explosion  
+- Hidden Power [Bug]
+- Superpower  
+
+Deoxys-Attack @ Spell Tag  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Shadow Ball  
+- Superpower  
+- Solar Beam  
+- Fire Punch  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 144 HP / 184 Atk / 180 SpD  
+Brave Nature  
+- Body Slam  
+- Earthquake  
+- Fire Blast  
+- Self-Destruct  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23444 98 Likes 0 Score posted by zf DragMag http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 112 HP / 144 SpA / 252 Spe  
+Modest Nature  
+- Thunder  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Metal Sound  
+
+Kyogre @ Lum Berry  
+Ability: Drizzle  
+EVs: 168 HP / 252 SpA / 88 Spe  
+Modest Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunder Wave  
+- Calm Mind  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 144 HP / 180 Atk / 184 SpD  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Self-Destruct  
+- Curse  
+
+Kabutops @ Choice Band  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Hidden Power [Ghost]
+- Brick Break  
+- Double-Edge  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 252 HP / 112 SpA / 144 Spe  
+Timid Nature  
+- Dragon Claw  
+- Refresh  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23445 98 Likes 0 Score posted by zf Sun "Stall" http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 44 Atk / 124 Def / 88 Spe  
+Impish Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Toxic  
+- Fire Blast  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Hidden Power [Ghost]
+- Toxic  
+
+Lugia @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 156 Def / 100 Spe  
+Bold Nature  
+- Ice Beam  
+- Calm Mind  
+- Whirlwind  
+- Recover  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 56 Atk / 200 SpD  
+Brave Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Toxic  
+- Recover  
+
+Regirock @ Choice Band  
+Ability: Clear Body  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Rock Slide  
+- Superpower  
+- Hidden Power [Ghost]
+- Explosion  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23446 98 Likes 0 Score posted by zf umbreon+lax http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 164 Def / 92 SpD  
+Relaxed Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Toxic  
+- Fire Blast  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 252 Def / 112 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Umbreon @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 156 SpD / 100 Spe  
+Calm Nature  
+- Mean Look  
+- Baton Pass  
+- Pursuit  
+- Taunt  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Hidden Power [Ghost]
+- Toxic  
+- Rapid Spin  
+- Spikes  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Dragon Claw  
+- Refresh  
+- Calm Mind  
+- Recover  
+
+Lugia @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 116 Def / 140 Spe  
+Timid Nature  
+- Ice Beam  
+- Whirlwind  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23447 98 Likes 0 Score posted by zf Aero Sun v1 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Mild Nature  
+- Ice Beam  
+- Fire Blast  
+- Thunderbolt  
+- Self-Destruct  
+
+Groudon @ Salac Berry  
+Ability: Drought  
+EVs: 60 HP / 252 Atk / 8 Def / 188 Spe  
+Adamant Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Substitute  
+- Swords Dance  
+
+Exeggutor @ Lum Berry  
+Ability: Chlorophyll  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Naive Nature  
+- Solar Beam  
+- Hidden Power [Fire]
+- Explosion  
+- Sleep Powder  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 116 HP / 248 SpA / 144 Spe  
+Timid Nature  
+- Dragon Claw  
+- Refresh  
+- Calm Mind  
+- Recover  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Hidden Power [Bug]
+- Double-Edge  
+- Earthquake  
+
+Snorlax @ Choice Band  
+Ability: Thick Fat  
+EVs: 252 Atk / 252 SpD / 4 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Self-Destruct  
+- Earthquake  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23448 98 Likes 0 Score posted by zf CB META RainStack http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 8 HP / 248 SpA / 252 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 176 Def / 80 SpD  
+Bold Nature  
+- Spikes  
+- Toxic  
+- Protect  
+- Whirlwind  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Gengar @ Leftovers  
+Ability: Cursed Body  
+EVs: 104 HP / 252 Atk / 152 Spe  
+Jolly Nature  
+- Shadow Ball  
+- Hidden Power [Rock]
+- Will-O-Wisp  
+- Taunt  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 160 Def / 96 Spe  
+Bold Nature  
+- Surf  
+- Ice Beam  
+- Calm Mind  
+- Rest  
+
+Metagross @ Choice Band  
+Ability: Clear Body  
+EVs: 252 HP / 116 Atk / 140 SpD  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Rock Slide  
+- Explosion  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23449 98 Likes 0 Score posted by zf SubCM Ogre http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 224 SpD / 32 Spe  
+Careful Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Swords Dance  
+- Thunder Wave  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 152 SpA / 104 Spe  
+Modest Nature  
+- Surf  
+- Ice Beam  
+- Calm Mind  
+- Substitute  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 112 HP / 252 SpA / 144 Spe  
+Timid Nature  
+- Dragon Claw  
+- Refresh  
+- Calm Mind  
+- Recover  
+
+Snorlax @ Choice Band  
+Ability: Thick Fat  
+EVs: 252 Atk / 248 SpD / 8 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Earthquake  
+- Self-Destruct  
+
+Rayquaza @ Never-Melt Ice  
+Ability: Air Lock  
+EVs: 40 Atk / 252 SpA / 216 Spe  
+Naive Nature  
+- Ice Beam  
+- Thunderbolt  
+- Brick Break  
+- Extreme Speed  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 44 Def / 212 SpD  
+Sassy Nature  
+- Body Slam  
+- Fire Punch  
+- Wish  
+- Protect  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23450 98 Likes 0 Score posted by zf Heracross Offense v1 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 116 HP / 248 SpA / 144 Spe  
+Timid Nature  
+- Dragon Claw  
+- Refresh  
+- Calm Mind  
+- Recover  
+
+Heracross @ Salac Berry  
+Ability: Swarm  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Megahorn  
+- Rock Slide  
+- Endure  
+- Swords Dance  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 72 HP / 184 Atk / 252 SpD  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Self-Destruct  
+- Earthquake  
+
+Metagross @ Choice Band  
+Ability: Clear Body  
+EVs: 252 HP / 116 Atk / 140 SpD  
+Brave Nature  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+- Pursuit  
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 228 Def / 28 Spe  
+Bold Nature  
+- Flamethrower  
+- Toxic  
+- Wish  
+- Protect  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23451 98 Likes 0 Score posted by zf Umbreon [new] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Shadow Ball  
+- Superpower  
+- Extreme Speed  
+- Hidden Power [Ground]
+
+Umbreon @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 100 Def / 156 SpD  
+Calm Nature  
+- Pursuit  
+- Taunt  
+- Mean Look  
+- Baton Pass  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 152 Def / 104 Spe  
+Bold Nature  
+- Surf  
+- Ice Beam  
+- Rest  
+- Calm Mind  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 32 Def / 224 SpD  
+Careful Nature  
+- Body Slam  
+- Shadow Ball  
+- Wish  
+- Protect  
+
+Rayquaza @ Never-Melt Ice  
+Ability: Air Lock  
+EVs: 40 Atk / 252 SpA / 216 Spe  
+Rash Nature  
+- Ice Beam  
+- Thunderbolt  
+- Brick Break  
+- Extreme Speed  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23452 98 Likes 0 Score posted by zf MonoLax Sun http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 240 HP / 140 Atk / 100 Def / 28 Spe  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Thunder Wave  
+- Swords Dance  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 252 Def / 112 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Toxic  
+
+Regirock @ Choice Band  
+Ability: Clear Body  
+EVs: 240 HP / 252 Atk / 16 Spe  
+Adamant Nature  
+- Rock Slide  
+- Hidden Power [Ghost]
+- Superpower  
+- Explosion  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 64 Def / 192 SpD  
+Sassy Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Toxic  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23453 98 Likes 0 Score posted by zf Untitled 745 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+- Dragon Claw  
+- Thunder  
+- Solar Beam  
+- Hidden Power [Fire]
+
+Salamence  
+Ability: Intimidate  
+
+Snorlax  
+Ability: Immunity  
+
+Metagross  
+Ability: Clear Body  
+
+Magneton  
+Ability: Magnet Pull  
+
+Latias  
+Ability: Levitate  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23454 98 Likes 0 Score posted by zf Untitled 746 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Knock Off  
+- Spikes  
+- Taunt  
+- Counter  
+
+Magneton  
+Ability: Magnet Pull  
+
+Snorlax @ Choice Band  
+Ability: Immunity  
+
+Rayquaza @ Choice Band  
+Ability: Air Lock  
+
+Latios  
+Ability: Levitate  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23455 98 Likes 0 Score posted by zf Untitled 754 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Self-Destruct  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+- Spikes  
+- Rapid Spin  
+- Hidden Power [Ghost]
+- Explosion  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 160 Def / 96 Spe  
+Calm Nature  
+- Surf  
+- Ice Beam  
+- Calm Mind  
+- Roar  
+
+Gengar @ Silk Scarf  
+Ability: Cursed Body  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Thunder  
+- Explosion  
+- Will-O-Wisp  
+- Taunt  
+
+Snorlax @ Choice Band  
+Ability: Thick Fat  
+- Body Slam  
+- Earthquake  
+- Self-Destruct  
+- Shadow Ball  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+- Thunder  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23456 98 Likes 0 Score posted by zf Monolax Sun [Latios variant] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 240 HP / 140 Atk / 100 Def / 28 Spe  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Thunder Wave  
+- Swords Dance  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 252 Def / 112 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Toxic  
+
+Regirock @ Choice Band  
+Ability: Clear Body  
+EVs: 240 HP / 252 Atk / 16 Spe  
+Adamant Nature  
+- Rock Slide  
+- Hidden Power [Ghost]
+- Superpower  
+- Explosion  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 64 Def / 192 SpD  
+Sassy Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Toxic  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23457 98 Likes 0 Score posted by zf Sun Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 152 Def / 104 Spe  
+Impish Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Fire Blast  
+- Toxic  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 240 HP / 16 Atk / 252 SpD  
+Careful Nature  
+- Hidden Power [Ghost]
+- Rapid Spin  
+- Toxic  
+- Spikes  
+
+Lugia @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 116 Def / 140 Spe  
+Timid Nature  
+- Ice Beam  
+- Whirlwind  
+- Calm Mind  
+- Recover  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 80 Atk / 64 Def / 112 SpD  
+Careful Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Toxic  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23458 98 Likes 0 Score posted by zf DD Latios+T-Wave Spam http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 228 SpD / 28 Spe  
+Careful Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Swords Dance  
+- Thunder Wave  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 Atk / 100 SpA / 156 Spe  
+Lonely Nature  
+- Thunder  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Dragon Dance  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 116 HP / 248 SpA / 144 Spe  
+Timid Nature  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 184 Atk / 180 SpD  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Earthquake  
+- Self-Destruct  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 240 HP / 176 SpA / 56 SpD / 36 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Metal Sound  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 160 HP / 252 SpA / 96 Spe  
+Modest Nature  
+- Hydro Pump  
+- Ice Beam  
+- Thunder Wave  
+- Calm Mind  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23459 98 Likes 0 Score posted by zf Untitled 1161 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 32 Atk / 252 SpA / 224 Spe  
+Mild Nature  
+- Ice Beam  
+- Thunder  
+- Fire Blast  
+- Self-Destruct  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Double-Edge  
+- Earthquake  
+- Hidden Power [Bug]
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 4 HP / 252 Atk / 252 SpD  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Self-Destruct  
+- Curse  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 84 Atk / 172 SpD  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Swords Dance  
+- Thunder Wave  
+
+Heracross @ Salac Berry  
+Ability: Swarm  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+IVs: 30 HP  
+- Megahorn  
+- Rock Slide  
+- Swords Dance  
+- Substitute  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23460 98 Likes 0 Score posted by zf Egg Sun v2 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 32 Atk / 252 SpA / 224 Spe  
+Mild Nature  
+- Ice Beam  
+- Thunderbolt  
+- Fire Blast  
+- Self-Destruct  
+
+Snorlax @ Choice Band  
+Ability: Thick Fat  
+Shiny: Yes  
+EVs: 252 Atk / 248 SpD / 8 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Earthquake  
+- Self-Destruct  
+
+Exeggutor @ Lum Berry  
+Ability: Chlorophyll  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Naive Nature  
+- Solar Beam  
+- Hidden Power [Fire]
+- Sleep Powder  
+- Explosion  
+
+Deoxys-Attack @ Spell Tag  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Shadow Ball  
+- Superpower  
+- Rock Slide  
+- Fire Punch  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Claw  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Groudon @ Salac Berry  
+Ability: Drought  
+EVs: 60 HP / 252 Atk / 8 Def / 188 Spe  
+Adamant Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Swords Dance  
+- Substitute  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23461 98 Likes 0 Score posted by zf SubSalac Ogre http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 32 Atk / 252 SpA / 224 Spe  
+Mild Nature  
+- Ice Beam  
+- Thunderbolt  
+- Fire Blast  
+- Self-Destruct  
+
+Snorlax @ Choice Band  
+Ability: Thick Fat  
+Shiny: Yes  
+EVs: 252 Atk / 248 SpD / 8 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Earthquake  
+- Self-Destruct  
+
+Kyogre @ Salac Berry  
+Ability: Drizzle  
+EVs: 60 HP / 8 Def / 252 SpA / 188 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Substitute  
+- Calm Mind  
+
+Deoxys-Attack @ Spell Tag  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Shadow Ball  
+- Superpower  
+- Extreme Speed  
+- Thunder  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Double-Edge  
+- Hidden Power [Bug]
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23462 98 Likes 0 Score posted by zf Shedinja+Claydol Stall [Hack] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Lugia @ Leftovers  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 HP / 116 Def / 140 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Toxic  
+- Whirlwind  
+- Reflect  
+- Recover  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 248 HP / 100 Def / 160 SpD  
+Impish Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Toxic  
+- Rest  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 248 HP / 172 Def / 88 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Toxic  
+- Calm Mind  
+- Rest  
+
+Shedinja @ Lum Berry  
+Ability: Wonder Guard  
+EVs: 252 Atk / 252 Spe  
+Adamant Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Toxic  
+- Baton Pass  
+
+Claydol @ Leftovers  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 248 HP / 240 Def / 20 SpA  
+Bold Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Psychic  
+- Hidden Power [Fire]
+- Toxic  
+- Rapid Spin  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+Shiny: Yes  
+EVs: 8 HP / 248 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23463 98 Likes 0 Score posted by zf Untitled 1278 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Calm Mind  
+- Thunder Wave  
+
+Steelix @ Choice Band  
+Ability: Rock Head  
+- Earthquake  
+- Rock Slide  
+- Double-Edge  
+- Explosion  
+
+Qwilfish @ Choice Band  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Sludge Bomb  
+- Hydro Pump  
+- Self-Destruct  
+- Spikes  
+
+Regice @ Leftovers  
+Ability: Clear Body  
+- Ice Beam  
+- Thunder  
+- Explosion  
+- Thunder Wave  
+
+Gengar @ Leftovers  
+Ability: Cursed Body  
+- Thunder  
+- Explosion  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+IVs: 0 Atk  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23464 98 Likes 0 Score posted by zf Deo-D stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Defense @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 232 SpD / 28 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Knock Off  
+- Fire Punch  
+- Recover  
+- Spikes  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 248 HP / 32 Def / 228 SpD  
+Sassy Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Fire Blast  
+- Toxic  
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Toxic  
+- Protect  
+- Wish  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 104 HP / 252 Atk / 152 Spe  
+Jolly Nature  
+- Hidden Power [Rock]
+- Explosion  
+- Will-O-Wisp  
+- Taunt  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+Shiny: Yes  
+EVs: 8 HP / 248 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Flamethrower  
+- Toxic  
+- Soft-Boiled  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23465 98 Likes 0 Score posted by zf TSS http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 152 Atk / 16 SpA / 100 Spe  
+Naughty Nature  
+- Rock Slide  
+- Fire Blast  
+- Pursuit  
+- Toxic  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 248 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Double-Edge  
+- Hidden Power [Bug]
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 240 Def / 20 Spe  
+Bold Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Hidden Power [Fire]
+- Toxic  
+- Spikes  
+- Whirlwind  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 92 Def / 164 SpD  
+Sassy Nature  
+- Body Slam  
+- Fire Punch  
+- Wish  
+- Protect  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23466 98 Likes 0 Score posted by zf TSS [WishMence Version] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 88 Atk / 40 Def / 16 SpA / 124 SpD  
+Brave Nature  
+- Rock Slide  
+- Pursuit  
+- Toxic  
+- Roar  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 248 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Double-Edge  
+- Hidden Power [Bug]
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Toxic  
+- Wish  
+- Protect  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 16 Def / 244 SpD  
+Calm Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Hidden Power [Fire]
+- Rapid Spin  
+- Toxic  
+- Spikes  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23467 98 Likes 0 Score posted by zf CounterLax+SBeam Deo-A+Aero http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Rash Nature  
+- Ice Beam  
+- Thunderbolt  
+- Fire Blast  
+- Self-Destruct  
+
+Groudon @ Salac Berry  
+Ability: Drought  
+EVs: 60 HP / 252 Atk / 8 Def / 188 Spe  
+Adamant Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Swords Dance  
+- Substitute  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Bug]
+- Double-Edge  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Deoxys-Attack @ Spell Tag  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Shadow Ball  
+- Superpower  
+- Extreme Speed  
+- Solar Beam  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 128 Atk / 100 Def / 136 SpD  
+Brave Nature  
+- Body Slam  
+- Self-Destruct  
+- Fire Blast  
+- Counter  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23468 98 Likes 0 Score posted by zf Quickstall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 44 Def / 196 SpD / 16 Spe  
+Timid Nature  
+- Fire Punch  
+- Knock Off  
+- Taunt  
+- Spikes  
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Fire Blast  
+- Ice Beam  
+- Calm Mind  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 248 HP / 32 Def / 228 SpD  
+Sassy Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Fire Blast  
+- Toxic  
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Toxic  
+- Protect  
+- Wish  
+
+Gengar @ Leftovers  
+Ability: Cursed Body  
+Shiny: Yes  
+EVs: 104 HP / 252 Atk / 152 Spe  
+Jolly Nature  
+- Hidden Power [Rock]
+- Explosion  
+- Will-O-Wisp  
+- Taunt  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+Shiny: Yes  
+EVs: 8 HP / 248 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Flamethrower  
+- Toxic  
+- Soft-Boiled  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23469 98 Likes 0 Score posted by zf Mag+WishBliss Sun http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Dragon Claw  
+- Thunderbolt  
+- Solar Beam  
+- Hidden Power [Fire]
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+Shiny: Yes  
+EVs: 8 HP / 248 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Wish  
+- Soft-Boiled  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+Shiny: Yes  
+EVs: 240 HP / 176 SpA / 56 SpD / 36 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 248 HP / 16 Atk / 120 Def / 100 SpD / 24 Spe  
+Adamant Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Thunder Wave  
+- Swords Dance  
+
+Deoxys-Attack @ Spell Tag  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Shadow Ball  
+- Superpower  
+- Extreme Speed  
+- Rock Slide  
+
+Exeggutor @ Lum Berry  
+Ability: Chlorophyll  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Naive Nature  
+- Solar Beam  
+- Hidden Power [Fire]
+- Explosion  
+- Sleep Powder  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23470 98 Likes 0 Score posted by zf Mag+Dual Normal Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+Shiny: Yes  
+EVs: 240 HP / 176 SpA / 56 SpD / 36 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+Shiny: Yes  
+EVs: 144 HP / 212 Def / 152 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Toxic  
+- Wish  
+- Protect  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 248 HP / 144 Atk / 100 SpD / 16 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Pursuit  
+- Toxic  
+- Psych Up  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+Shiny: Yes  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23471 98 Likes 0 Score posted by zf Claydol+Dual Normal Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Toxic  
+- Wish  
+- Protect  
+
+Claydol @ Leftovers  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 248 HP / 252 Def / 8 SpD  
+Relaxed Nature  
+- Earthquake  
+- Psychic  
+- Rapid Spin  
+- Toxic  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+Shiny: Yes  
+EVs: 240 HP / 176 SpA / 56 SpD / 36 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+Shiny: Yes  
+EVs: 144 HP / 212 Def / 152 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 248 HP / 144 Atk / 100 SpD / 16 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Pursuit  
+- Toxic  
+- Psych Up  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+Shiny: Yes  
+EVs: 8 HP / 252 SpA / 248 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Toxic  
+- Calm Mind  
+- Soft-Boiled  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23472 98 Likes 0 Score posted by zf Untitled 1300 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 224 HP / 252 SpA / 32 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Thunder  
+- Thunder Wave  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 248 HP / 16 Atk / 120 Def / 100 SpD / 24 Spe  
+Adamant Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Swords Dance  
+- Thunder Wave  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Refresh  
+- Recover  
+
+Heracross @ Salac Berry  
+Ability: Swarm  
+EVs: 12 HP / 244 Atk / 252 Spe  
+Adamant Nature  
+- Megahorn  
+- Hidden Power [Rock]
+- Swords Dance  
+- Substitute  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+Shiny: Yes  
+EVs: 144 HP / 212 Def / 152 SpD  
+Careful Nature  
+- Body Slam  
+- Shadow Ball  
+- Earthquake  
+- Self-Destruct  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+Shiny: Yes  
+EVs: 240 HP / 176 SpA / 56 SpD / 36 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Metal Sound  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23473 98 Likes 0 Score posted by zf Untitled 1537 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios  
+Ability: Levitate  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Soft-Boiled  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+IVs: 0 Atk  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+IVs: 0 Atk  
+- Surf  
+- Toxic  
+- Calm Mind  
+- Rest  
+
+Metagross  
+Ability: Clear Body  
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+IVs: 0 Atk  
+- Flamethrower  
+- Toxic  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23474 98 Likes 0 Score posted by zf Claydol+Ho-oh Sand Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Growl  
+- Soft-Boiled  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 240 HP / 176 SpA / 56 SpD / 36 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+Claydol @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Ice Beam  
+- Toxic  
+- Explosion  
+- Rapid Spin  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 32 Atk / 40 Def / 72 SpA / 124 SpD  
+Quiet Nature  
+- Rock Slide  
+- Crunch  
+- Pursuit  
+- Toxic  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 80 Atk / 92 Def / 84 SpD  
+Careful Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Toxic  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23475 98 Likes 0 Score posted by zf Untitled 1540 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios  
+Ability: Levitate  
+
+Snorlax  
+Ability: Immunity  
+
+Magneton  
+Ability: Magnet Pull  
+
+Claydol  
+Ability: Levitate  
+
+Umbreon @ Leftovers  
+Ability: Synchronize  
+IVs: 0 Atk  
+- Pursuit  
+- Toxic  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+IVs: 0 Atk  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23476 98 Likes 0 Score posted by zf Untitled 1541 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+IVs: 0 Atk  
+
+Claydol @ Leftovers  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 248 HP / 252 Def / 8 SpD  
+Relaxed Nature  
+- Earthquake  
+- Psychic  
+- Rapid Spin  
+- Toxic  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+Shiny: Yes  
+EVs: 240 HP / 176 SpA / 56 SpD / 36 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+Shiny: Yes  
+EVs: 144 HP / 212 Def / 152 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 248 HP / 144 Atk / 100 SpD / 16 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Pursuit  
+- Toxic  
+- Psych Up  
+
+Ho-Oh  
+Ability: Pressure  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23477 98 Likes 0 Score posted by zf Monolax+Umbreon sun http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+Shiny: Yes  
+EVs: 144 HP / 212 Def / 152 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+Claydol @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Relaxed Nature  
+- Ice Beam  
+- Toxic  
+- Explosion  
+- Rapid Spin  
+
+Umbreon @ Leftovers  
+Ability: Synchronize  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Pursuit  
+- Toxic  
+- Wish  
+- Protect  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 152 Def / 104 SpD  
+Impish Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Toxic  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23478 98 Likes 0 Score posted by zf Untitled 1543 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+IVs: 0 Atk  
+
+Claydol @ Leftovers  
+Ability: Levitate  
+IVs: 0 Atk  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Toxic  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+IVs: 0 Atk  
+- Seismic Toss  
+
+Shedinja @ Lum Berry  
+Ability: Wonder Guard  
+IVs: 0 Atk  
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+IVs: 0 Atk  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23479 98 Likes 0 Score posted by zf Rain stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Dragon Claw  
+- Toxic  
+- Wish  
+- Protect  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 16 Atk / 244 SpD  
+Careful Nature  
+- Hidden Power [Ghost]
+- Rapid Spin  
+- Spikes  
+- Toxic  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 240 HP / 240 Def / 28 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Toxic  
+- Calm Mind  
+- Rest  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Shedinja @ Lum Berry  
+Ability: Wonder Guard  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Toxic  
+- Baton Pass  
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Bug]
+- Toxic  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23480 98 Likes 0 Score posted by zf Untitled 1737 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+total eclipse (Latios) @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Bud Lite??? (Snorlax) @ Leftovers  
+Ability: Thick Fat  
+Shiny: Yes  
+EVs: 144 HP / 212 Def / 152 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+magnetosphere (Magneton) @ Leftovers  
+Ability: Magnet Pull  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+pabst (Heracross) @ Salac Berry  
+Ability: Swarm  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+IVs: 30 HP / 30 Atk / 30 SpD / 30 Spe  
+- Megahorn  
+- Hidden Power [Rock]
+- Swords Dance  
+- Substitute  
+
+blue moon (Umbreon) @ Leftovers  
+Ability: Synchronize  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Pursuit  
+- Toxic  
+- Wish  
+- Protect  
+
+corona (Groudon) @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 152 Def / 104 SpD  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Toxic  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23481 98 Likes 0 Score posted by zf MonoLax Sun http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+Shiny: Yes  
+EVs: 144 HP / 212 Def / 152 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 HP / 80 Atk / 92 Def / 84 SpD  
+Careful Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Toxic  
+- Recover  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 248 HP / 76 Atk / 100 SpD / 84 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Pursuit  
+- Toxic  
+- Explosion  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 152 Def / 104 SpD  
+Impish Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Toxic  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23482 98 Likes 0 Score posted by zf RACHI TSS [NEW SPREADS] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 88 Atk / 40 Def / 16 SpA / 124 SpD  
+Brave Nature  
+- Rock Slide  
+- Fire Blast  
+- Pursuit  
+- Toxic  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 248 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Double-Edge  
+- Hidden Power [Bug]
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 240 Def / 20 Spe  
+Bold Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Hidden Power [Fire]
+- Toxic  
+- Spikes  
+- Whirlwind  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 92 Def / 164 SpD  
+Sassy Nature  
+- Body Slam  
+- Fire Punch  
+- Wish  
+- Protect  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23483 98 Likes 0 Score posted by zf Untitled 1785 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 240 Def / 16 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Calm Mind  
+- Substitute  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Wish  
+- Soft-Boiled  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Superpower  
+- Shadow Ball  
+- Extreme Speed  
+- Hidden Power [Ground]
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 64 Def / 52 SpA / 140 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Punch  
+- Calm Mind  
+- Wish  
+
+Omastar @ Mystic Water  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Toxic  
+- Spikes  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23484 98 Likes 0 Score posted by zf Untitled 1786 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 32 Atk / 40 Def / 72 SpA / 124 SpD  
+Quiet Nature  
+- Rock Slide  
+- Crunch  
+- Pursuit  
+- Toxic  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 240 HP / 16 Def / 240 SpD / 12 Spe  
+Calm Nature  
+- Hidden Power [Fire]
+- Explosion  
+- Rapid Spin  
+- Spikes  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Double-Edge  
+- Hidden Power [Bug]
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 80 Atk / 64 Def / 112 SpD  
+Sassy Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Toxic  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23485 98 Likes 0 Score posted by zf Deo-S HO http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Leftovers  
+Ability: Pressure  
+EVs: 240 HP / 252 SpA / 16 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Knock Off  
+- Taunt  
+- Spikes  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Refresh  
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Mild Nature  
+- Thunder  
+- Ice Beam  
+- Self-Destruct  
+- Calm Mind  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+- Agility  
+
+Kyogre @ Salac Berry  
+Ability: Drizzle  
+EVs: 252 HP / 48 SpA / 208 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Calm Mind  
+- Substitute  
+
+Snorlax @ Choice Band  
+Ability: Thick Fat  
+EVs: 252 Atk / 236 SpD / 20 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Earthquake  
+- Self-Destruct  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23486 98 Likes 0 Score posted by zf Tri Weather + Dual CB HO http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 228 SpD / 28 Spe  
+Careful Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Thunder Wave  
+- Swords Dance  
+
+Kyogre @ Salac Berry  
+Ability: Drizzle  
+EVs: 252 HP / 48 SpA / 208 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Calm Mind  
+- Substitute  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Superpower  
+- Shadow Ball  
+- Extreme Speed  
+- Hidden Power [Ground]
+
+Snorlax @ Choice Band  
+Ability: Thick Fat  
+EVs: 252 Atk / 240 SpD / 16 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Focus Punch  
+- Self-Destruct  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 32 Atk / 40 Def / 72 SpA / 124 SpD  
+Quiet Nature  
+- Rock Slide  
+- Crunch  
+- Fire Blast  
+- Focus Punch  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23487 98 Likes 0 Score posted by zf Untitled 1791 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 240 Def / 16 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Thunder Wave  
+- Calm Mind  
+
+Regice @ Leftovers  
+Ability: Clear Body  
+EVs: 136 HP / 120 Atk / 252 SpA  
+Sassy Nature  
+- Ice Beam  
+- Thunder  
+- Explosion  
+- Thunder Wave  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Superpower  
+- Shadow Ball  
+- Extreme Speed  
+- Hidden Power [Ground]
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 32 Atk / 40 Def / 72 SpA / 124 SpD  
+Quiet Nature  
+- Rock Slide  
+- Crunch  
+- Fire Blast  
+- Focus Punch  
+
+Rayquaza @ Black Belt  
+Ability: Air Lock  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Ice Beam  
+- Thunderbolt  
+- Brick Break  
+- Extreme Speed  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23488 98 Likes 0 Score posted by zf taunt+tox deo-d, hp fire forre stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Defense @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Knock Off  
+- Toxic  
+- Taunt  
+- Recover  
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Toxic  
+- Wish  
+- Protect  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 152 Def / 104 SpD  
+Impish Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Toxic  
+- Swords Dance  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 240 HP / 16 Def / 240 SpD / 12 Spe  
+Calm Nature  
+- Hidden Power [Fire]
+- Explosion  
+- Rapid Spin  
+- Spikes  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23489 98 Likes 0 Score posted by zf spikes deo-d, claydol stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Defense @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Fire Punch  
+- Knock Off  
+- Spikes  
+- Recover  
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Toxic  
+- Wish  
+- Protect  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Heal Bell  
+- Soft-Boiled  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 248 HP / 144 Atk / 100 SpD / 16 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Pursuit  
+- Toxic  
+
+Claydol @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Psychic  
+- Ice Beam  
+- Toxic  
+- Rapid Spin  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23490 98 Likes 0 Score posted by zf lum egg, para based http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 240 HP / 140 Atk / 100 Def / 28 Spe  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Thunder Wave  
+- Swords Dance  
+
+Exeggutor @ Lum Berry  
+Ability: Chlorophyll  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Naive Nature  
+- Solar Beam  
+- Hidden Power [Fire]
+- Explosion  
+- Sleep Powder  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+Shiny: Yes  
+EVs: 144 HP / 212 Def / 152 SpD  
+Careful Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Sleep Talk  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Toxic  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Superpower  
+- Shadow Ball  
+- Extreme Speed  
+- Hidden Power [Ground]
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23491 98 Likes 0 Score posted by zf wishbliss [tox based, subseed egg?] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+IVs: 0 Atk  
+
+Groudon  
+Ability: Drought  
+
+Exeggutor  
+Ability: Chlorophyll  
+
+Blissey  
+Ability: Natural Cure  
+
+Magneton  
+Ability: Magnet Pull  
+
+Deoxys-Attack  
+Ability: Pressure  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23492 98 Likes 0 Score posted by zf lati@s rain, work in progress http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+IVs: 0 Atk  
+- Thunder  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+IVs: 0 Atk  
+
+Kyogre  
+Ability: Drizzle  
+
+Snorlax  
+Ability: Immunity  
+IVs: 0 Atk  
+
+Deoxys-Attack  
+Ability: Pressure  
+IVs: 0 Atk  
+
+Omastar  
+Ability: Swift Swim  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23493 98 Likes 0 Score posted by zf lati@s, hp fire forre sun stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 244 SpD / 16 Spe  
+Calm Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Hidden Power [Fire]
+- Toxic  
+- Spikes  
+- Rapid Spin  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 80 Atk / 64 Def / 112 SpD  
+Careful Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Toxic  
+- Recover  
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 152 Def / 104 SpD  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Toxic  
+- Swords Dance  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Dragon Claw  
+- Calm Mind  
+- Roar  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23494 98 Likes 0 Score posted by zf Untitled 1821 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+pohjis @ nite (Kyogre) @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 224 Def / 32 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Thunder  
+- Thunder Wave  
+
+pohjis @ day (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 240 Atk / 16 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+- Pursuit  
+
+pohjis @ dinner (Snorlax) @ Choice Band  
+Ability: Thick Fat  
+EVs: 240 Atk / 252 SpD / 16 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Earthquake  
+- Self-Destruct  
+
+pohjis @ work (Magneton) @ Leftovers  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Toxic  
+
+pohjis @ life (Latias) @ Soul Dew  
+Ability: Levitate  
+EVs: 248 HP / 120 Def / 140 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Claw  
+- Calm Mind  
+- Refresh  
+- Recover  
+
+pohjis alone. (Deoxys-Attack) @ Petaya Berry  
+Ability: Pressure  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+IVs: 30 HP  
+- Thunder  
+- Ice Beam  
+- Superpower  
+- Substitute  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23495 98 Likes 0 Score posted by zf Untitled 1827 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Rash Nature  
+- Thunder  
+- Fire Blast  
+- Ice Beam  
+- Self-Destruct  
+
+Groudon @ Salac Berry  
+Ability: Drought  
+EVs: 44 HP / 252 Atk / 212 Spe  
+Adamant Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Swords Dance  
+- Substitute  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 248 HP / 120 Def / 140 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Claw  
+- Refresh  
+- Calm Mind  
+- Recover  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 148 Atk / 144 Def / 204 SpD / 12 Spe  
+Adamant Nature  
+- Body Slam  
+- Self-Destruct  
+- Protect  
+- Curse  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Superpower  
+- Shadow Ball  
+- Extreme Speed  
+- Fire Punch  
+
+Exeggutor @ Lum Berry  
+Ability: Chlorophyll  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Naive Nature  
+- Solar Beam  
+- Hidden Power [Fire]
+- Explosion  
+- Sleep Powder  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23496 98 Likes 0 Score posted by zf Untitled 1828 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 228 SpD / 28 Spe  
+Careful Nature  
+- Earthquake  
+- Rock Slide  
+- Thunder Wave  
+- Swords Dance  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 252 HP / 112 Def / 144 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Claw  
+- Refresh  
+- Calm Mind  
+- Recover  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 148 Atk / 144 Def / 204 SpD / 12 Spe  
+Adamant Nature  
+- Body Slam  
+- Self-Destruct  
+- Curse  
+- Protect  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Toxic  
+- Thunder Wave  
+
+Heracross @ Salac Berry  
+Ability: Swarm  
+EVs: 12 HP / 244 Atk / 252 Spe  
+Adamant Nature  
+- Megahorn  
+- Hidden Power [Rock]
+- Substitute  
+- Swords Dance  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Superpower  
+- Shadow Ball  
+- Extreme Speed  
+- Hidden Power [Ground]
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23497 98 Likes 0 Score posted by zf Untitled 1829 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre  
+Ability: Drizzle  
+
+Steelix  
+Ability: Rock Head  
+
+Latias  
+Ability: Levitate  
+
+Omastar  
+Ability: Swift Swim  
+
+Snorlax  
+Ability: Immunity  
+
+Deoxys-Attack  
+Ability: Pressure  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23498 98 Likes 0 Score posted by zf Untitled 1831 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mewtwo @ Lum Berry  
+Ability: Pressure  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Rash Nature  
+- Thunder  
+- Fire Blast  
+- Ice Beam  
+- Self-Destruct  
+
+Groudon @ Salac Berry  
+Ability: Drought  
+EVs: 44 HP / 252 Atk / 212 Spe  
+Adamant Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Swords Dance  
+- Substitute  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 248 HP / 120 Def / 140 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Claw  
+- Refresh  
+- Calm Mind  
+- Recover  
+
+Registeel @ Leftovers  
+Ability: Clear Body  
+IVs: 0 Atk  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Superpower  
+- Shadow Ball  
+- Extreme Speed  
+- Fire Punch  
+
+Exeggutor @ Lum Berry  
+Ability: Chlorophyll  
+EVs: 36 Atk / 252 SpA / 220 Spe  
+Naive Nature  
+- Solar Beam  
+- Hidden Power [Fire]
+- Explosion  
+- Sleep Powder  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23499 98 Likes 0 Score posted by zf Untitled 1832 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latias @ Soul Dew  
+Ability: Levitate  
+IVs: 0 Atk  
+
+Wobbuffet @ Leftovers  
+Ability: Shadow Tag  
+IVs: 0 Atk  
+
+Ninjask @ Leftovers  
+Ability: Speed Boost  
+IVs: 0 Atk  
+- Swords Dance  
+- Substitute  
+- Protect  
+- Baton Pass  
+
+Snorlax @ Choice Band  
+Ability: Thick Fat  
+EVs: 244 Atk / 252 SpD / 12 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Earthquake  
+- Self-Destruct  
+
+Groudon  
+Ability: Drought  
+IVs: 0 Atk  
+
+Magneton  
+Ability: Magnet Pull  
+IVs: 0 Atk  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23500 98 Likes 0 Score posted by zf Untitled 1833 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latias  
+Ability: Levitate  
+
+Snorlax  
+Ability: Immunity  
+
+Groudon  
+Ability: Drought  
+
+Umbreon  
+Ability: Synchronize  
+
+Aerodactyl  
+Ability: Rock Head  
+
+Magneton  
+Ability: Magnet Pull  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23501 98 Likes 0 Score posted by zf Untitled 1834 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Celebi  
+Ability: Natural Cure  
+
+Kyogre  
+Ability: Drizzle  
+
+Forretress  
+Ability: Sturdy  
+
+Blissey  
+Ability: Natural Cure  
+
+Lugia  
+Ability: Pressure  
+
+Gengar  
+Ability: Levitate  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23502 98 Likes 0 Score posted by zf Untitled 1845 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 232 Def / 24 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Roar  
+- Calm Mind  
+- Rest  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Aromatherapy  
+- Soft-Boiled  
+
+Forretress  
+Ability: Sturdy  
+
+Lugia  
+Ability: Pressure  
+
+Metagross  
+Ability: Clear Body  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+IVs: 0 Atk  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23503 98 Likes 0 Score posted by zf Untitled 1846 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 60 Def / 196 SpA  
+Bold Nature  
+- Calm Mind  
+- Surf  
+- Rest  
+- Roar  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 252 SpA / 252 Spe  
+Modest Nature  
+- Dragon Claw  
+- Thunder  
+- Calm Mind  
+- Recover  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 136 Atk / 120 Def / 252 SpD  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Curse  
+- Protect  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 56 Atk / 136 Def / 64 SpD  
+Impish Nature  
+- Pursuit  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+
+Mewtwo @ Leftovers  
+Ability: Pressure  
+EVs: 188 HP / 224 SpA / 96 Spe  
+Timid Nature  
+- Calm Mind  
+- Ice Beam  
+- Thunder  
+- Taunt  
+
+Dugtrio (M) @ Choice Band  
+Ability: Arena Trap  
+EVs: 220 Atk / 36 SpD / 252 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Aerial Ace  
+- Earthquake  
+- Hidden Power [Bug]
+- Rock Slide  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23504 98 Likes 0 Score posted by zf Untitled 1864 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+EVs: 252 HP / 240 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Ice Beam  
+- Calm Mind  
+- Rest  
+
+Umbreon @ Leftovers  
+Ability: Synchronize  
+Shiny: Yes  
+EVs: 252 HP / 44 Def / 212 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Pursuit  
+- Taunt  
+- Mean Look  
+- Baton Pass  
+
+Snorlax @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 212 Def / 152 SpD  
+Careful Nature  
+- Body Slam  
+- Amnesia  
+- Curse  
+- Rest  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Shadow Ball  
+- Superpower  
+- Extreme Speed  
+- Hidden Power [Ground]
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 120 Def / 136 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Substitute  
+- Recover  
+- Baton Pass  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23505 98 Likes 0 Score posted by zf Untitled 1880 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon  
+Ability: Drought  
+
+Ho-Oh  
+Ability: Pressure  
+
+Latias  
+Ability: Levitate  
+
+Blissey  
+Ability: Natural Cure  
+
+Deoxys-Defense  
+Ability: Pressure  
+
+Metagross  
+Ability: Clear Body  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23506 98 Likes 0 Score posted by zf wishmence http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 28 Def / 228 SpD  
+Careful Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Thunder Wave  
+- Swords Dance  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Snorlax @ Choice Band  
+Ability: Thick Fat  
+EVs: 244 Atk / 252 SpD / 12 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Earthquake  
+- Self-Destruct  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunder  
+- Hidden Power [Fire]
+- Metal Sound  
+- Thunder Wave  
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Dragon Claw  
+- Toxic  
+- Wish  
+- Protect  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Double-Edge  
+- Hidden Power [Bug]
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23507 98 Likes 0 Score posted by zf Untitled 1886 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Deoxys-Speed @ Leftovers  
+Ability: Pressure  
+IVs: 0 Atk  
+- Fire Punch  
+- Knock Off  
+- Taunt  
+- Spikes  
+
+Groudon @ Salac Berry  
+Ability: Drought  
+- Earthquake  
+- Hidden Power [Ghost]
+
+Latios @ Soul Dew  
+Ability: Levitate  
+IVs: 0 Atk  
+- Dragon Claw  
+- Calm Mind  
+- Recover  
+- Refresh  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+- Rock Slide  
+- Pursuit  
+- Fire Blast  
+- Roar  
+
+Mewtwo @ Leftovers  
+Ability: Pressure  
+EVs: 36 HP / 252 SpA / 220 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Fire Blast  
+- Ice Beam  
+- Calm Mind  
+
+Snorlax  
+Ability: Immunity  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23508 98 Likes 0 Score posted by zf gengar + skarm http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 28 Def / 228 SpD  
+Careful Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Toxic  
+- Protect  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Toxic  
+- Whirlwind  
+- Protect  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Heal Bell  
+- Soft-Boiled  
+
+Latios @ Soul Dew  
+Ability: Levitate  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunderbolt  
+- Calm Mind  
+- Recover  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Explosion  
+- Focus Punch  
+- Fire Punch  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 80 Atk / 92 Def / 84 SpD  
+Careful Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Toxic  
+- Recover  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23509 98 Likes 0 Score posted by zf forre + cb deoa http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 24 Def / 232 SpD  
+Careful Nature  
+- Earthquake  
+- Hidden Power [Ghost]
+- Toxic  
+- Protect  
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 244 SpD / 12 Spe  
+Calm Nature  
+- Hidden Power [Fire]
+- Explosion  
+- Rapid Spin  
+- Spikes  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 252 Def / 248 SpD  
+Careful Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Toxic  
+- Heal Bell  
+- Soft-Boiled  
+
+Latias @ Soul Dew  
+Ability: Levitate  
+EVs: 252 HP / 192 Def / 64 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 80 Atk / 92 Def / 84 SpD  
+Careful Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Toxic  
+- Recover  
+
+Deoxys-Attack @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Superpower  
+- Shadow Ball  
+- Extreme Speed  
+- Fire Punch  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23510 98 Likes 0 Score posted by zf Untitled 1889 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+LITIOS (Latios) @ Soul Dew  
+Ability: Levitate  
+IVs: 0 Atk  
+
+Skarmory  
+Ability: Keen Eye  
+
+Blissey  
+Ability: Natural Cure  
+
+Kyogre  
+Ability: Drizzle  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23511 98 Likes 0 Score posted by zf Untitled 1911 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Kyogre @ Leftovers  
+Ability: Drizzle  
+IVs: 0 Atk  
+- Surf  
+
+Claydol @ Leftovers  
+Ability: Levitate  
+- Earthquake  
+
+Blissey  
+Ability: Natural Cure  
+IVs: 0 Atk  
+
+Shedinja  
+Ability: Wonder Guard  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+
+Salamence  
+Ability: Intimidate  
+
+
+
+
+
+
+=== [gen3ubers] Gen 3/#23512 98 Likes 0 Score posted by zf Untitled 1912 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Latios  
+Ability: Levitate  
+
+Kyogre  
+Ability: Drizzle  
+
+Snorlax  
+Ability: Immunity  
+
+Mewtwo  
+Ability: Pressure  
+
+Omastar  
+Ability: Swift Swim  
+
+Regice  
+Ability: Clear Body
+
+
+

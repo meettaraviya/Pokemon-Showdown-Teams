@@ -1,0 +1,2660 @@
+=== [gen5lc] Gen 3/#24811 98 Likes 0 Score posted by zf Little Talks http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Murkrow @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 36 HP / 236 Atk / 20 Def / 20 SpD / 188 Spe  
+Jolly Nature  
+- Roost  
+- Substitute  
+- Brave Bird  
+- Sucker Punch  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 76 Atk / 116 Def / 36 SpD / 76 Spe  
+Impish Nature  
+- Fake Out  
+- Drain Punch  
+- U-turn  
+- Knock Off  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 76 SpA / 76 SpD / 76 Spe  
+Bold Nature  
+- Spore  
+- Stun Spore  
+- Giga Drain  
+- Sludge Bomb  
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 4 HP / 212 Atk / 12 Def / 76 SpD / 180 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Waterfall  
+- Shell Smash  
+- Stone Edge  
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+- Thunder Wave  
+- Recover  
+- Tri Attack  
+- Shadow Ball  
+
+Riolu @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 196 HP / 196 Def / 116 SpD  
+Relaxed Nature  
+- Drain Punch  
+- Crunch  
+- Copycat  
+- Substitute  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24812 98 Likes 0 Score posted by zf Bivalve Balance http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 36 HP / 156 Atk / 36 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- Shell Smash  
+- Icicle Spear  
+- Rock Blast  
+- Ice Shard  
+
+Misdreavus @ Life Orb  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Thunderbolt  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Substitute  
+
+Magnemite @ Eviolite  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 156 HP / 36 Def / 160 SpA / 76 SpD / 80 Spe  
+Modest Nature  
+- Magnet Rise  
+- Volt Switch  
+- Flash Cannon  
+- Hidden Power [Fire]
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 164 HP / 188 Def / 148 SpD  
+Careful Nature  
+- Bullet Seed  
+- Leech Seed  
+- Protect  
+- Spikes  
+
+Frillish @ Eviolite  
+Ability: Cursed Body  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Sassy Nature  
+- Surf  
+- Shadow Ball  
+- Will-O-Wisp  
+- Recover  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 76 HP / 196 Atk / 236 SpD  
+Brave Nature  
+- Drain Punch  
+- Ice Punch  
+- Payback  
+- Mach Punch  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24813 98 Likes 0 Score posted by zf Night Visions http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+CASEDVICTORY (Scraggy) @ Eviolite  
+Ability: Shed Skin  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Drain Punch  
+- High Jump Kick  
+- Crunch  
+
+Champion Fizz (Drifloon) @ Flying Gem  
+Ability: Unburden  
+Level: 5  
+EVs: 36 HP / 200 Atk / 8 Def / 40 SpA / 8 SpD / 200 Spe  
+Naive Nature  
+- Acrobatics  
+- Shadow Ball  
+- Hypnosis  
+- Hidden Power [Ground]
+
+Hawkstar (Misdreavus) @ Choice Specs  
+Ability: Levitate  
+Level: 5  
+EVs: 28 Def / 240 SpA / 240 Spe  
+Timid Nature  
+- Nasty Plot  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Trick  
+
+Hikari (Foongus) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Clear Smog  
+- Spore  
+- Stun Spore  
+
+TCR (Pawniard) @ Life Orb  
+Ability: Defiant  
+Level: 5  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+IVs: 0 HP  
+- Swords Dance  
+- Sucker Punch  
+- Iron Head  
+- Psycho Cut  
+
+VADER (Tirtouga) @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 4 HP / 212 Atk / 12 Def / 76 SpD / 180 Spe  
+Adamant Nature  
+- Shell Smash  
+- Aqua Jet  
+- Waterfall  
+- Stone Edge  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24814 98 Likes 0 Score posted by zf Team Betelguese http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 76 Atk / 196 Def / 4 SpD / 76 Spe  
+Impish Nature  
+- Drain Punch  
+- Fake Out  
+- U-turn  
+- Knock Off  
+
+Chinchou @ Choice Scarf  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 232 SpA / 224 Spe  
+Modest Nature  
+- Volt Switch  
+- Hidden Power [Fire]
+- Blizzard  
+- Scald  
+
+Murkrow @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 240 Atk / 80 SpA / 188 SpD  
+Naive Nature  
+- Brave Bird  
+- Heat Wave  
+- Taunt  
+- Sucker Punch  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 240 SpA / 68 SpD / 200 Spe  
+Timid Nature  
+- Shadow Ball  
+- Psyshock  
+- Protect  
+- Hidden Power [Fighting]
+
+Snover @ Choice Scarf  
+Ability: Snow Warning  
+Level: 5  
+EVs: 104 Atk / 184 SpA / 220 Spe  
+Naive Nature  
+- Blizzard  
+- Giga Drain  
+- Ice Shard  
+- Hidden Power [Fire]
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 120 Def / 80 SpD / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Will-O-Wisp  
+- Pain Split  
+- Hidden Power [Fighting]
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24815 98 Likes 0 Score posted by zf Little Talks [Newest] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+death (Murkrow) @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 36 HP / 236 Atk / 20 Def / 20 SpD / 188 Spe  
+Jolly Nature  
+- Roost  
+- Substitute  
+- Brave Bird  
+- Sucker Punch  
+
+taxes (Mienfoo) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 76 Atk / 116 Def / 36 SpD / 76 Spe  
+Impish Nature  
+- Taunt  
+- Drain Punch  
+- U-turn  
+- Knock Off  
+
+decay (Foongus) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Spore  
+- Stun Spore  
+- Giga Drain  
+- Sludge Bomb  
+
+suffering (Tirtouga) @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 4 HP / 212 Atk / 12 Def / 76 SpD / 180 Spe  
+Adamant Nature  
+- Aqua Jet  
+- Waterfall  
+- Shell Smash  
+- Stone Edge  
+
+illusion (Porygon) @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+- Thunder Wave  
+- Recover  
+- Tri Attack  
+- Shadow Ball  
+
+spirit (Riolu) @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 196 HP / 196 Def / 116 SpD  
+Relaxed Nature  
+- Drain Punch  
+- Toxic  
+- Copycat  
+- Protect  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24816 98 Likes 0 Score posted by zf Sun Pony 1 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+mamb0 (Ponyta) @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 156 Def / 76 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+- Fire Blast  
+- Solar Beam  
+- Sunny Day  
+- Morning Sun  
+
+mamb0 (Murkrow) @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 36 HP / 236 Atk / 20 Def / 20 SpD / 188 Spe  
+Jolly Nature  
+- Brave Bird  
+- Sucker Punch  
+- Roost  
+- Substitute  
+
+mamb0 (Staryu) @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Scald  
+- Psychic  
+- Recover  
+- Rapid Spin  
+
+mamb0 (Chinchou) @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 76 HP / 212 Def / 148 SpD / 60 Spe  
+Bold Nature  
+- Discharge  
+- Scald  
+- Rest  
+- Sleep Talk  
+
+mamb0 (Mienfoo) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 116 Def / 196 SpD  
+Impish Nature  
+- Drain Punch  
+- Knock Off  
+- U-turn  
+- Taunt  
+
+mamb0 (Porygon) @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+- Tri Attack  
+- Shadow Ball  
+- Thunder Wave  
+- Recover  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24817 98 Likes 0 Score posted by zf Rowan's Baton Pass Foo http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Riolu (Mienfoo) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 76 Atk / 196 Def / 36 SpD  
+Impish Nature  
+- Swords Dance  
+- Taunt  
+- Baton Pass  
+- Drain Punch  
+
+Machop (Scraggy) @ Eviolite  
+Ability: Shed Skin  
+Level: 5  
+EVs: 236 Atk / 56 SpD / 212 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Drain Punch  
+- Crunch  
+- Zen Headbutt  
+
+Vullaby (Murkrow) @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 36 HP / 236 Atk / 20 Def / 20 SpD / 188 Spe  
+Jolly Nature  
+- Brave Bird  
+- Sucker Punch  
+- Substitute  
+- Roost  
+
+Sandshrew (Drilbur) @ Choice Scarf  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 236 Atk / 36 Def / 212 Spe  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- X-Scissor  
+- Rapid Spin  
+
+Shroomish (Foongus) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 76 SpA / 76 SpD / 76 Spe  
+Bold Nature  
+- Spore  
+- Stun Spore  
+- Giga Drain  
+- Clear Smog  
+
+Omanyte (Tirtouga) @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 84 HP / 172 Def / 12 SpA / 236 SpD  
+Relaxed Nature  
+- Stealth Rock  
+- Scald  
+- Rock Slide  
+- Aqua Jet  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24818 98 Likes 0 Score posted by zf scarf drilbur http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Murkrow @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 36 HP / 236 Atk / 20 Def / 20 SpD / 188 Spe  
+Jolly Nature  
+- Brave Bird  
+- Sucker Punch  
+- Substitute  
+- Roost  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Substitute  
+- Nasty Plot  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Sludge Bomb  
+- Spore  
+- Stun Spore  
+
+Archen @ Eviolite  
+Ability: Defeatist  
+Level: 5  
+EVs: 236 HP / 156 Def / 76 SpD / 36 Spe  
+Impish Nature  
+- Rock Slide  
+- U-turn  
+- Stealth Rock  
+- Roost  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 76 Atk / 116 Def / 36 SpD / 76 Spe  
+Impish Nature  
+- Drain Punch  
+- Knock Off  
+- U-turn  
+- Taunt  
+
+Drilbur @ Choice Scarf  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- X-Scissor  
+- Rapid Spin  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24819 98 Likes 0 Score posted by zf vs tuo http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Murkrow @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 36 HP / 236 Atk / 20 Def / 20 SpD / 188 Spe  
+Jolly Nature  
+- Brave Bird  
+- Sucker Punch  
+- Substitute  
+- Roost  
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+- Tri Attack  
+- Shadow Ball  
+- Thunder Wave  
+- Recover  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Nasty Plot  
+- Hidden Power [Fighting]
+- Taunt  
+
+Archen @ Eviolite  
+Ability: Defeatist  
+Level: 5  
+EVs: 236 HP / 156 Def / 76 SpD / 36 Spe  
+Impish Nature  
+- Rock Slide  
+- U-turn  
+- Stealth Rock  
+- Roost  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 76 Atk / 116 Def / 36 SpD / 76 Spe  
+Impish Nature  
+- Drain Punch  
+- Knock Off  
+- U-turn  
+- Taunt  
+
+Drilbur @ Choice Scarf  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- X-Scissor  
+- Rapid Spin  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24820 98 Likes 0 Score posted by zf vs Splashy http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Archen @ Eviolite  
+Ability: Defeatist  
+Level: 5  
+EVs: 236 HP / 156 Def / 76 SpD / 36 Spe  
+Impish Nature  
+- Stealth Rock  
+- Roost  
+- U-turn  
+- Stone Edge  
+
+Porygon @ Eviolite  
+Ability: Trace  
+Level: 5  
+EVs: 236 HP / 196 Def / 76 SpD  
+Calm Nature  
+- Tri Attack  
+- Shadow Ball  
+- Thunder Wave  
+- Recover  
+
+Mienfoo @ Choice Scarf  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Drain Punch  
+- Stone Edge  
+- U-turn  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Scald  
+- Psychic  
+- Rapid Spin  
+- Recover  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Nasty Plot  
+- Taunt  
+
+Murkrow @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 200 HP / 184 Def / 104 SpD  
+Bold Nature  
+- Hidden Power [Flying]
+- Feather Dance  
+- Calm Mind  
+- Roost  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24821 98 Likes 0 Score posted by zf Eo Stall http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Harry Hippo (Hippopotas) @ Eviolite  
+Ability: Sand Stream  
+Level: 5  
+EVs: 132 HP / 20 Atk / 212 Def / 100 SpD / 20 Spe  
+Impish Nature  
+- Earthquake  
+- Stealth Rock  
+- Slack Off  
+- Whirlwind  
+
+Lily Eep (Lileep) @ Eviolite  
+Ability: Storm Drain  
+Level: 5  
+EVs: 228 HP / 220 Def / 60 SpD  
+Bold Nature  
+- Giga Drain  
+- Toxic  
+- Protect  
+- Recover  
+
+Ted Tacool (Tentacool) @ Eviolite  
+Ability: Liquid Ooze  
+Level: 5  
+EVs: 196 HP / 196 SpD / 116 Spe  
+Calm Nature  
+- Sludge Bomb  
+- Scald  
+- Toxic Spikes  
+- Rapid Spin  
+
+Sir Slowpoke (Slowpoke) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 116 HP / 156 Def / 116 SpA / 116 SpD  
+Bold Nature  
+- Psychic  
+- Scald  
+- Protect  
+- Slack Off  
+
+Tess Shiido (Ferroseed) @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 164 HP / 188 Def / 148 SpD  
+Careful Nature  
+- Leech Seed  
+- Bullet Seed  
+- Spikes  
+- Protect  
+
+Mr. Mienfoo (Mienfoo) @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 76 Atk / 116 Def / 36 SpD / 76 Spe  
+Impish Nature  
+- Drain Punch  
+- U-turn  
+- Knock Off  
+- Taunt  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24822 98 Likes 0 Score posted by zf Sand 1 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 5  
+EVs: 132 HP / 20 Atk / 212 Def / 100 SpD / 20 Spe  
+Impish Nature  
+- Earthquake  
+- Stealth Rock  
+- Whirlwind  
+- Slack Off  
+
+Lileep @ Eviolite  
+Ability: Storm Drain  
+Level: 5  
+EVs: 148 HP / 224 Def / 56 SpA / 64 SpD / 16 Spe  
+Bold Nature  
+- Giga Drain  
+- Toxic  
+- Hidden Power [Rock]
+- Recover  
+
+Drilbur @ Life Orb  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Shadow Claw  
+- Swords Dance  
+
+Vullaby @ Eviolite  
+Ability: Overcoat  
+Level: 5  
+EVs: 196 HP / 156 Def / 156 SpD  
+Careful Nature  
+- Brave Bird  
+- U-turn  
+- Roost  
+- Knock Off  
+
+Wynaut @ Oran Berry  
+Ability: Shadow Tag  
+Level: 5  
+EVs: 76 HP / 212 Def / 212 SpD  
+Careful Nature  
+- Mirror Coat  
+- Counter  
+- Encore  
+- Destiny Bond  
+
+Pawniard @ Life Orb  
+Ability: Defiant  
+Level: 5  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+IVs: 0 HP  
+- Iron Head  
+- Sucker Punch  
+- Psycho Cut  
+- Swords Dance  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24823 98 Likes 0 Score posted by zf NIGHT VISIONS [ZF EDIT] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mienfoo @ Choice Scarf  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Stone Edge  
+- U-turn  
+- Drain Punch  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 240 SpA / 200 Spe  
+Timid Nature  
+- Psychic  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Protect  
+
+Misdreavus @ Choice Specs  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Nasty Plot  
+- Trick  
+
+Scraggy @ Eviolite  
+Ability: Shed Skin  
+Level: 5  
+EVs: 36 HP / 156 Atk / 36 Def / 36 SpD / 212 Spe  
+Adamant Nature  
+- Drain Punch  
+- High Jump Kick  
+- Crunch  
+- Dragon Dance  
+
+Pawniard @ Life Orb  
+Ability: Defiant  
+Level: 5  
+EVs: 236 Atk / 36 Def / 36 SpD / 196 Spe  
+Jolly Nature  
+IVs: 0 HP  
+- Iron Head  
+- Sucker Punch  
+- Psycho Cut  
+- Swords Dance  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Spore  
+- Stun Spore  
+- Clear Smog  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24824 98 Likes 0 Score posted by zf TCR SLAYER http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+bite the bullet (Mienfoo) @ Choice Scarf  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Drain Punch  
+- U-turn  
+- Stone Edge  
+
+crying out (Misdreavus) @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Taunt  
+- Nasty Plot  
+
+beyond the horizon (Abra) @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 240 SpA / 200 Spe  
+Timid Nature  
+- Psychic  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Protect  
+
+heads will roll (Scraggy) @ Eviolite  
+Ability: Shed Skin  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- High Jump Kick  
+- Crunch  
+- Drain Punch  
+- Dragon Dance  
+
+run amok (Drifloon) @ Flying Gem  
+Ability: Unburden  
+Level: 5  
+EVs: 36 HP / 196 Atk / 8 Def / 40 SpA / 12 SpD / 196 Spe  
+Naughty Nature  
+- Acrobatics  
+- Hidden Power [Ground]
+- Will-O-Wisp  
+- Hypnosis  
+
+impending collapse (Omanyte) @ Focus Sash  
+Ability: Weak Armor  
+Level: 5  
+EVs: 36 Def / 200 SpA / 236 Spe  
+Timid Nature  
+- Stealth Rock  
+- Spikes  
+- Hydro Pump  
+- Hidden Power [Grass]
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24825 98 Likes 0 Score posted by zf natu sand http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 5  
+EVs: 132 HP / 20 Atk / 212 Def / 100 SpD / 20 Spe  
+Impish Nature  
+- Earthquake  
+- Whirlwind  
+- Slack Off  
+- Stealth Rock  
+
+Lileep @ Eviolite  
+Ability: Suction Cups  
+Level: 5  
+EVs: 228 HP / 220 Def / 60 SpD  
+Bold Nature  
+- Giga Drain  
+- Ancient Power  
+- Toxic  
+- Recover  
+
+Drilbur @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Shadow Claw  
+- Swords Dance  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 196 HP / 156 Def / 36 SpA / 116 Spe  
+Bold Nature  
+- Psychic  
+- U-turn  
+- Thunder Wave  
+- Roost  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 196 Def / 116 SpD  
+Careful Nature  
+- Drain Punch  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+
+Wynaut @ Oran Berry  
+Ability: Shadow Tag  
+Level: 5  
+EVs: 76 HP / 52 Def / 212 SpD / 92 Spe  
+Timid Nature  
+- Encore  
+- Counter  
+- Mirror Coat  
+- Destiny Bond  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24826 98 Likes 0 Score posted by zf Scarf Vulla+Doduo birdspam http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Cottonee @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 116 HP / 196 Def / 196 SpD  
+Bold Nature  
+- Giga Drain  
+- Knock Off  
+- Encore  
+- Stun Spore  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Thunderbolt  
+- Nasty Plot  
+
+Vullaby @ Choice Scarf  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- U-turn  
+- Punishment  
+- Heat Wave  
+
+Drilbur @ Life Orb  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Rapid Spin  
+- Stealth Rock  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 116 Atk / 156 Def / 236 SpD  
+Careful Nature  
+- Drain Punch  
+- Payback  
+- Mach Punch  
+- Bulk Up  
+
+Doduo @ Life Orb  
+Ability: Early Bird  
+Level: 5  
+EVs: 240 Atk / 236 Spe  
+Naive Nature  
+IVs: 21 HP / 30 Atk / 30 SpA  
+- Brave Bird  
+- Return  
+- Hidden Power [Grass]
+- Quick Attack  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24827 98 Likes 0 Score posted by zf Evio Vulla+Scarf Mag http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Cottonee @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 116 HP / 196 Def / 196 SpD  
+Bold Nature  
+- Giga Drain  
+- Knock Off  
+- Encore  
+- Stun Spore  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Thunderbolt  
+- Nasty Plot  
+
+Vullaby @ Eviolite  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- U-turn  
+- Knock Off  
+- Roost  
+
+Drilbur @ Life Orb  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Rapid Spin  
+- Stealth Rock  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 116 Atk / 156 Def / 236 SpD  
+Careful Nature  
+- Drain Punch  
+- Payback  
+- Mach Punch  
+- Bulk Up  
+
+Magnemite @ Choice Scarf  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Modest Nature  
+- Thunderbolt  
+- Flash Cannon  
+- Volt Switch  
+- Hidden Power [Grass]
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24828 98 Likes 0 Score posted by zf Shellder+ScarfGon http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 196 Def / 116 SpD  
+Careful Nature  
+- Drain Punch  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+
+Drifloon @ Flying Gem  
+Ability: Unburden  
+Level: 5  
+EVs: 36 HP / 196 Atk / 8 Def / 40 SpA / 12 SpD / 196 Spe  
+Naughty Nature  
+- Acrobatics  
+- Hidden Power [Ground]
+- Will-O-Wisp  
+- Hypnosis  
+
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Rapid Spin  
+- Stealth Rock  
+
+Porygon @ Choice Scarf  
+Ability: Trace  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Timid Nature  
+- Tri Attack  
+- Shadow Ball  
+- Ice Beam  
+- Trick  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 36 HP / 156 Atk / 116 Def / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Rock Blast  
+- Ice Shard  
+- Shell Smash  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 240 SpA / 200 Spe  
+Timid Nature  
+- Psychic  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Protect  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24829 98 Likes 0 Score posted by zf Scarf Vullaby VoltTurn http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 196 Def / 116 SpD  
+Careful Nature  
+- Drain Punch  
+- High Jump Kick  
+- Knock Off  
+- U-turn  
+
+Vullaby @ Choice Scarf  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 76 SpD / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Punishment  
+- U-turn  
+- Heat Wave  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+- Scald  
+- Psychic  
+- Rapid Spin  
+- Recover  
+
+Pawniard @ Eviolite  
+Ability: Defiant  
+Level: 5  
+EVs: 156 Atk / 36 Def / 116 SpD / 196 Spe  
+Adamant Nature  
+- Sucker Punch  
+- Pursuit  
+- Iron Head  
+- Stealth Rock  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Nasty Plot  
+- Taunt  
+
+Foongus @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 124 HP / 156 Def / 156 SpD  
+Bold Nature  
+- Giga Drain  
+- Sludge Bomb  
+- Stun Spore  
+- Spore  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24830 98 Likes 0 Score posted by zf SD Pass http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 196 Def / 116 SpD  
+Sassy Nature  
+- Drain Punch  
+- Knock Off  
+- Baton Pass  
+- Swords Dance  
+
+Scraggy @ Eviolite  
+Ability: Shed Skin  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Drain Punch  
+- Crunch  
+- High Jump Kick  
+- Dragon Dance  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Nasty Plot  
+- Taunt  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 240 SpA / 200 Spe  
+Timid Nature  
+- Psychic  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Protect  
+
+Drilbur @ Choice Scarf  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- X-Scissor  
+- Rapid Spin  
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 164 HP / 52 Atk / 12 Def / 16 SpA / 236 SpD / 20 Spe  
+Relaxed Nature  
+- Aqua Jet  
+- Knock Off  
+- Scald  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24831 98 Likes 0 Score posted by zf Sand Offense [Kingler12345] http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Mienfoo @ Choice Scarf  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Drain Punch  
+- High Jump Kick  
+- U-turn  
+- Stone Edge  
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 5  
+EVs: 132 HP / 20 Atk / 212 Def / 100 SpD / 20 Spe  
+Impish Nature  
+- Earthquake  
+- Whirlwind  
+- Slack Off  
+- Stealth Rock  
+
+Tentacool @ Eviolite  
+Ability: Liquid Ooze  
+Level: 5  
+EVs: 196 HP / 76 Def / 116 SpD / 116 Spe  
+Bold Nature  
+- Scald  
+- Knock Off  
+- Rapid Spin  
+- Toxic Spikes  
+
+Drilbur @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Shadow Claw  
+- Swords Dance  
+
+Abra @ Focus Sash  
+Ability: Magic Guard  
+Level: 5  
+EVs: 240 SpA / 200 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Psychic  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Protect  
+
+Lileep @ Eviolite  
+Ability: Storm Drain  
+Level: 5  
+EVs: 228 HP / 220 Def / 60 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Ancient Power  
+- Toxic  
+- Recover  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24832 98 Likes 0 Score posted by zf ScarfFoo+Missy sand http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+Level: 5  
+EVs: 132 HP / 20 Atk / 212 Def / 100 SpD / 20 Spe  
+Impish Nature  
+- Earthquake  
+- Whirlwind  
+- Slack Off  
+- Stealth Rock  
+
+Ferroseed @ Eviolite  
+Ability: Iron Barbs  
+Level: 5  
+EVs: 164 HP / 188 Def / 148 SpD  
+Careful Nature  
+- Bullet Seed  
+- Leech Seed  
+- Thunder Wave  
+- Spikes  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Thunderbolt  
+- Nasty Plot  
+
+Mienfoo @ Choice Scarf  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Drain Punch  
+- Stone Edge  
+- U-turn  
+
+Drilbur @ Eviolite  
+Ability: Sand Rush  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Shadow Claw  
+- Swords Dance  
+
+Tentacool @ Eviolite  
+Ability: Liquid Ooze  
+Level: 5  
+EVs: 196 HP / 76 Def / 116 SpD / 116 Spe  
+Bold Nature  
+- Scald  
+- Knock Off  
+- Toxic Spikes  
+- Rapid Spin  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24833 98 Likes 0 Score posted by zf Scarf Mag+Ghost Spam http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Magnemite @ Choice Scarf  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Flash Cannon  
+- Volt Switch  
+- Hidden Power [Fire]
+
+Riolu @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 196 HP / 196 Def / 116 SpD  
+Relaxed Nature  
+- Drain Punch  
+- Roar  
+- Copycat  
+- Protect  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 36 HP / 156 Atk / 116 Def / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Rock Blast  
+- Ice Shard  
+- Shell Smash  
+
+Drifloon @ Flying Gem  
+Ability: Unburden  
+Level: 5  
+EVs: 36 HP / 196 Atk / 4 Def / 40 SpA / 8 SpD / 196 Spe  
+Naughty Nature  
+- Acrobatics  
+- Hidden Power [Ground]
+- Hypnosis  
+- Will-O-Wisp  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Nasty Plot  
+- Taunt  
+
+Dwebble @ Oran Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+- Rock Blast  
+- Counter  
+- Stealth Rock  
+- Spikes  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24834 98 Likes 0 Score posted by zf Untitled 1077 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Magnemite @ Choice Scarf  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Modest Nature  
+- Thunderbolt  
+- Flash Cannon  
+- Volt Switch  
+- Hidden Power [Fire]
+
+Riolu @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 196 HP / 196 Def / 116 SpD  
+Relaxed Nature  
+- Drain Punch  
+- Crunch  
+- Copycat  
+- Protect  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 36 HP / 156 Atk / 116 Def / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Rock Blast  
+- Ice Shard  
+- Shell Smash  
+
+Drifloon @ Flying Gem  
+Ability: Unburden  
+Level: 5  
+EVs: 36 HP / 196 Atk / 4 Def / 40 SpA / 8 SpD / 196 Spe  
+Naughty Nature  
+- Acrobatics  
+- Hidden Power [Ground]
+- Hypnosis  
+- Will-O-Wisp  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Nasty Plot  
+- Taunt  
+
+Drilbur @ Eviolite  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Swords Dance  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24835 98 Likes 0 Score posted by zf Untitled 1078 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Magnemite @ Choice Scarf  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Modest Nature  
+- Thunderbolt  
+- Flash Cannon  
+- Volt Switch  
+- Hidden Power [Fire]
+
+Riolu @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 196 HP / 196 Def / 116 SpD  
+Relaxed Nature  
+- Drain Punch  
+- Crunch  
+- Copycat  
+- Protect  
+
+Shellder @ Eviolite  
+Ability: Skill Link  
+Level: 5  
+EVs: 36 HP / 156 Atk / 116 Def / 196 Spe  
+Adamant Nature  
+- Icicle Spear  
+- Rock Blast  
+- Ice Shard  
+- Shell Smash  
+
+Drifloon @ Flying Gem  
+Ability: Unburden  
+Level: 5  
+EVs: 36 HP / 196 Atk / 4 Def / 40 SpA / 8 SpD / 196 Spe  
+Naughty Nature  
+- Acrobatics  
+- Hidden Power [Ground]
+- Hypnosis  
+- Will-O-Wisp  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Nasty Plot  
+- Taunt  
+
+Omanyte @ Focus Sash  
+Ability: Weak Armor  
+Level: 5  
+EVs: 36 Def / 200 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 HP / 30 Atk / 30 SpA  
+- Stealth Rock  
+- Spikes  
+- Hydro Pump  
+- Hidden Power [Grass]
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24836 98 Likes 0 Score posted by zf Scarf Scraggy Balance http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Cottonee @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 116 HP / 116 Def / 116 SpD / 148 Spe  
+Calm Nature  
+- Giga Drain  
+- Knock Off  
+- Encore  
+- Sunny Day  
+
+Ponyta @ Eviolite  
+Ability: Flame Body  
+Level: 5  
+EVs: 76 Atk / 156 Def / 76 SpD / 196 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Return  
+- Will-O-Wisp  
+- Morning Sun  
+
+Scraggy @ Choice Scarf  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- High Jump Kick  
+- Crunch  
+- Drain Punch  
+- Zen Headbutt  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 116 Atk / 156 Def / 236 SpD  
+Careful Nature  
+- Drain Punch  
+- Payback  
+- Mach Punch  
+- Bulk Up  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 40 HP / 240 Def / 80 SpD / 116 Spe  
+Timid Nature  
+- Hidden Power [Flying]
+- U-turn  
+- Feather Dance  
+- Roost  
+
+Chinchou @ Eviolite  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 76 HP / 212 Def / 152 SpD / 60 Spe  
+Bold Nature  
+IVs: 3 Atk / 30 SpA / 30 SpD  
+- Scald  
+- Volt Switch  
+- Hidden Power [Ground]
+- Heal Bell  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24837 98 Likes 0 Score posted by zf Untitled 1111 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+spirits (Misdreavus) @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Taunt  
+- Nasty Plot  
+
+young & wild (Zigzagoon) @ Oran Berry  
+Ability: Pickup  
+Level: 5  
+EVs: 196 Atk / 188 Def / 108 SpD  
+Adamant Nature  
+- Extreme Speed  
+- Seed Bomb  
+- Belly Drum  
+- Protect  
+
+the hired band (Cottonee) @ Eviolite  
+Ability: Prankster  
+Level: 5  
+EVs: 116 HP / 196 Def / 196 SpD  
+Bold Nature  
+- Giga Drain  
+- Knock Off  
+- Encore  
+- Memento  
+
+we don't know (Zorua) @ Dread Plate  
+Ability: Illusion  
+Level: 5  
+EVs: 40 Def / 200 SpA / 240 Spe  
+Naive Nature  
+- Knock Off  
+- Extrasensory  
+- Sucker Punch  
+- Hidden Power [Fighting]
+
+shovels & dirt (Dwebble) @ Oran Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Rock Blast  
+- Counter  
+- Stealth Rock  
+- Spikes  
+
+wars (Scraggy) @ Choice Scarf  
+Ability: Moxie  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- High Jump Kick  
+- Crunch  
+- Drain Punch  
+- Zen Headbutt  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24838 98 Likes 0 Score posted by zf Untitled 1151 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Aipom @ Life Orb  
+Ability: Skill Link  
+Level: 5  
+EVs: 76 HP / 196 Atk / 236 Spe  
+Jolly Nature  
+- Fake Out  
+- Fury Swipes  
+- Shadow Claw  
+- Seed Bomb  
+
+Vullaby @ Eviolite  
+Ability: Weak Armor  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Air Slash  
+- Nasty Plot  
+- Roost  
+
+Magnemite @ Choice Scarf  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Flash Cannon  
+- Volt Switch  
+- Hidden Power [Fire]
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Taunt  
+- Nasty Plot  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 132 HP / 28 Atk / 116 Def / 108 SpA / 116 SpD  
+Quiet Nature  
+- Drain Punch  
+- Vacuum Wave  
+- Shadow Ball  
+- Knock Off  
+
+Snover @ Eviolite  
+Ability: Snow Warning  
+Level: 5  
+EVs: 36 HP / 100 Atk / 36 Def / 180 SpA / 116 SpD / 36 Spe  
+Quiet Nature  
+- Blizzard  
+- Giga Drain  
+- Ice Shard  
+- Growth  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24839 98 Likes 0 Score posted by zf Untitled 1153 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Aipom @ Life Orb  
+Ability: Skill Link  
+Level: 5  
+EVs: 76 HP / 196 Atk / 236 Spe  
+Jolly Nature  
+- Fake Out  
+- Fury Swipes  
+- U-turn  
+- Seed Bomb  
+
+Vullaby @ Eviolite  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Air Slash  
+- Nasty Plot  
+- Roost  
+
+Magnemite @ Choice Scarf  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Flash Cannon  
+- Volt Switch  
+- Hidden Power [Fire]
+
+Drilbur @ Life Orb  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Rapid Spin  
+- Stealth Rock  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 132 HP / 28 Atk / 116 Def / 108 SpA / 116 SpD  
+Quiet Nature  
+- Drain Punch  
+- Vacuum Wave  
+- Shadow Ball  
+- Knock Off  
+
+Snover @ Eviolite  
+Ability: Snow Warning  
+Level: 5  
+EVs: 36 HP / 100 Atk / 36 Def / 180 SpA / 116 SpD / 36 Spe  
+Quiet Nature  
+- Blizzard  
+- Giga Drain  
+- Ice Shard  
+- Growth  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24840 98 Likes 0 Score posted by zf vs coco http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Scraggy @ Eviolite  
+Ability: Shed Skin  
+Level: 5  
+EVs: 236 Atk / 36 SpD / 212 Spe  
+Adamant Nature  
+- Drain Punch  
+- Crunch  
+- High Jump Kick  
+- Dragon Dance  
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 84 HP / 252 Def / 156 SpD  
+Careful Nature  
+- Stone Edge  
+- Aqua Jet  
+- Knock Off  
+- Stealth Rock  
+
+Croagunk @ Eviolite  
+Ability: Dry Skin  
+Level: 5  
+EVs: 132 HP / 28 Atk / 116 Def / 108 SpA / 116 SpD  
+Quiet Nature  
+- Drain Punch  
+- Vacuum Wave  
+- Shadow Ball  
+- Knock Off  
+
+Mienfoo @ Flying Gem  
+Ability: Regenerator  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Acrobatics  
+- Substitute  
+- Baton Pass  
+
+Misdreavus @ Choice Scarf  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Trick  
+- Nasty Plot  
+
+Snover @ Life Orb  
+Ability: Snow Warning  
+Level: 5  
+EVs: 100 Atk / 184 SpA / 196 Spe  
+Hasty Nature  
+- Blizzard  
+- Giga Drain  
+- Ice Shard  
+- Hidden Power [Ground]
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24841 98 Likes 0 Score posted by zf Untitled 1770 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Misdreavus  
+Ability: Levitate  
+Level: 5  
+
+Drifloon  
+Ability: Aftermath  
+Level: 5  
+
+Dwebble  
+Ability: Sturdy  
+Level: 5  
+
+Croagunk  
+Ability: Anticipation  
+Level: 5  
+
+Abra  
+Ability: Synchronize  
+Level: 5  
+
+Porygon  
+Ability: Trace  
+Level: 5  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24842 98 Likes 0 Score posted by zf Untitled 1771 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Vullaby @ Choice Scarf  
+Ability: Overcoat  
+Level: 5  
+EVs: 240 Atk / 196 Spe  
+Adamant Nature  
+- Brave Bird  
+- Punishment  
+- U-turn  
+- Hidden Power [Grass]
+
+Magnemite @ Eviolite  
+Ability: Magnet Pull  
+Level: 5  
+EVs: 76 HP / 36 Def / 240 SpA / 156 SpD  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Volt Switch  
+- Flash Cannon  
+- Hidden Power [Fire]
+- Magnet Rise  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 196 Def / 116 SpD  
+Careful Nature  
+- High Jump Kick  
+- Drain Punch  
+- Knock Off  
+- U-turn  
+
+Misdreavus @ Choice Scarf  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Nasty Plot  
+- Trick  
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+Level: 5  
+EVs: 116 HP / 156 Def / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Psychic  
+- Rapid Spin  
+- Recover  
+
+Snover @ Eviolite  
+Ability: Snow Warning  
+Level: 5  
+EVs: 36 HP / 100 Atk / 36 Def / 180 SpA / 116 SpD / 36 Spe  
+Quiet Nature  
+- Blizzard  
+- Giga Drain  
+- Ice Shard  
+- Growth  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24843 98 Likes 0 Score posted by zf Untitled 1899 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Drilbur @ Life Orb  
+Ability: Mold Breaker  
+Level: 5  
+EVs: 36 HP / 236 Atk / 212 Spe  
+- Earthquake  
+- Rock Slide  
+- Rapid Spin  
+- Stealth Rock  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Thunderbolt  
+- Nasty Plot  
+
+Porygon @ Choice Scarf  
+Ability: Trace  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Timid Nature  
+- Tri Attack  
+- Shadow Ball  
+- Ice Beam  
+- Trick  
+
+Vullaby @ Eviolite  
+Ability: Overcoat  
+Level: 5  
+EVs: 236 Atk / 156 Def / 76 SpD / 36 Spe  
+Adamant Nature  
+- Brave Bird  
+- U-turn  
+- Taunt  
+- Roost  
+
+Timburr @ Eviolite  
+Ability: Guts  
+Level: 5  
+EVs: 116 Atk / 156 Def / 236 SpD  
+Careful Nature  
+- Drain Punch  
+- Payback  
+- Mach Punch  
+- Bulk Up  
+
+Omanyte @ Eviolite  
+Ability: Shell Armor  
+Level: 5  
+EVs: 76 HP / 196 SpA / 236 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Earth Power  
+- Shell Smash  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24844 98 Likes 0 Score posted by zf Untitled 1983 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 196 HP / 156 Def / 36 SpA / 76 SpD / 36 Spe  
+Bold Nature  
+- Psychic  
+- Heat Wave  
+- U-turn  
+- Roost  
+
+Snover @ Eviolite  
+Ability: Snow Warning  
+Level: 5  
+EVs: 36 HP / 100 Atk / 36 Def / 184 SpA / 120 SpD  
+Quiet Nature  
+- Blizzard  
+- Giga Drain  
+- Hidden Power [Ground]
+- Ice Shard  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 196 Def / 116 SpD  
+Careful Nature  
+- High Jump Kick  
+- U-turn  
+- Knock Off  
+- Drain Punch  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 240 SpA / 240 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe  
+- Shadow Ball  
+- Hidden Power [Fighting]
+- Taunt  
+- Nasty Plot  
+
+Houndour @ Choice Scarf  
+Ability: Early Bird  
+Level: 5  
+EVs: 36 Atk / 196 SpA / 36 SpD / 236 Spe  
+Hasty Nature  
+- Fire Blast  
+- Dark Pulse  
+- Pursuit  
+- Sucker Punch  
+
+Tirtouga @ Eviolite  
+Ability: Solid Rock  
+Level: 5  
+EVs: 84 HP / 172 Def / 12 SpA / 236 SpD  
+Relaxed Nature  
+- Stone Edge  
+- Knock Off  
+- Aqua Jet  
+- Stealth Rock  
+
+
+
+
+
+
+=== [gen5lc] Gen 3/#24845 98 Likes 0 Score posted by zf Untitled 1984 http://www.smogon.com/forums/threads/fuck-this.3610466/page-1#post-7447158 ===
+
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+Level: 5  
+EVs: 196 HP / 156 Def / 36 SpA / 76 SpD / 36 Spe  
+Bold Nature  
+- Psychic  
+- U-turn  
+- Thunder Wave  
+- Roost  
+
+Diglett @ Life Orb  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Substitute  
+- Stealth Rock  
+
+Bronzor @ Eviolite  
+Ability: Levitate  
+Level: 5  
+EVs: 60 HP / 148 Def / 4 SpA / 228 SpD / 12 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Flash Cannon  
+- Calm Mind  
+- Rest  
+- Sleep Talk  
+
+Mienfoo @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 156 HP / 196 Def / 116 SpD  
+Careful Nature  
+- High Jump Kick  
+- Drain Punch  
+- Knock Off  
+- U-turn  
+
+Porygon @ Choice Scarf  
+Ability: Trace  
+Level: 5  
+EVs: 36 Def / 236 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Tri Attack  
+- Ice Beam  
+- Shadow Ball  
+- Trick  
+
+Slowpoke @ Eviolite  
+Ability: Regenerator  
+Level: 5  
+EVs: 196 HP / 156 Def / 36 SpA / 116 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Psychic  
+- Scald  
+- Thunder Wave  
+- Slack Off
+
+
+
+=== [gen5lc] BW LC/#24846 3 Likes 0 Score posted by danilo http://www.smogon.com/forums/threads/sirs-little-cup-team-peak-1.3466477/page-1#post-4219779 ===
+
+prem (Mienfoo) (M) @ Life Orb
+Trait: Regenerator
+EVs: 236 Atk / 36 Def / 236 Spd
+Jolly Nature (+Spd, -SAtk)
+- Hi Jump Kick
+- Fake Out
+- Stone Edge
+- U-turn
+
+Charmander (Timburr) (F) @ Eviolite
+Trait: Guts
+EVs: 76 HP / 196 Atk / 236 SDef
+Careful Nature (+SDef, -SAtk)
+- Drain Punch
+- Bulk Up
+- Payback
+- Mach Punch
+
+Ray Jay (Ferroseed) (M) @ Eviolite
+Trait: Iron Barbs
+EVs: 84 HP / 36 Atk / 188 Def / 152 SDef
+Sassy Nature (+SDef, -Spd)
+- Bullet Seed
+- Leech Seed
+- Stealth Rock
+- Protect
+
+AlphaJolt (Koffing) (M) @ Eviolite
+Trait: Levitate
+EVs: 196 HP / 156 Def / 156 SDef
+Bold Nature (+Def, -Atk)
+- Pain Split
+- Will-O-Wisp
+- Clear Smog
+- Sludge Bomb
+
+little_gk (Porygon) @ Eviolite
+Trait: Trace
+EVs: 236 HP / 196 Def / 76 SDef
+Bold Nature (+Def, -Atk)
+- Thunder Wave
+- Tri Attack
+- Shadow Ball
+- Recover
+
+emma (Staryu) @ Eviolite
+Trait: Natural Cure
+EVs: 36 HP / 200 SAtk / 240 Spd
+Timid Nature (+Spd, -Atk)
+- Recover
+- Rapid Spin
+- Hydro Pump
+- Psychic
+
+
+
+
+=== [gen5lc] BW LC/#24847 1 Likes 0 Score posted by iss http://www.smogon.com/forums/threads/lc-rising-peaked-1-2.3471244/page-1#post-4364891 ===
+
+Mienfoo @ Eviolite
+Trait: Regenerator
+EVs: 156 HP / 76 Atk / 196 Def / 76 Spd
+Impish Nature
+- Drain Punch
+- U-turn
+- Fake Out
+- Knock Off
+
+Murkrow @ Eviolite
+Trait: Prankster
+EVs: 36 HP / 236 Atk / 20 Def / 20 SDef / 188 Spd
+Jolly Nature
+- Substitute
+- Roost
+- Brave Bird
+- Sucker Punch
+
+Snover @ Choice Scarf
+Trait: Snow Warning
+EVs: 104 Atk / 184 SAtk / 200 Spd
+Hasty Nature
+- Blizzard
+- Giga Drain
+- Ice Shard
+- Hidden Power [Fire]
+
+Drifloon @ Flying Gem
+Trait: Unburden
+EVs: 196 Atk / 116 SAtk / 196 Spd
+Naughty Nature
+- Acrobatics
+- Shadow Ball
+- Substitute
+- Hypnosis
+
+Staryu @ Eviolite
+Trait: Natural Cure
+EVs: 36 HP / 196 SAtk / 236 Spd
+Timid Nature
+- Hydro Pump
+- Thunderbolt
+- Rapid Spin
+- Recover
+
+Porygon @ Eviolite
+Trait: Trace
+EVs: 236 HP / 196 Def / 76 SDef
+Calm Nature
+- Tri Attack
+- Thunder Wave
+- Shadow Ball
+- Recover
+
+
+
+
+=== [gen5lc] BW LC/#24848 0 Likes 0 Score posted by Celestavian http://www.smogon.com/forums/threads/mmmmystery-on-the-lc-express-peaked-1.3469943/page-1#post-4329601 ===
+
+Mienfoo (M) @ Life Orb
+Trait: Regenerator
+EVs: 236 Atk / 36 SDef / 236 Spd
+Jolly Nature (+Spd, -SAtk)
+- Fake Out
+- Hi Jump Kick
+- Stone Edge
+- U-turn
+
+Murkrow (F) @ Eviolite
+Trait: Prankster
+EVs: 40 HP / 236 Atk / 20 Def / 20 SDef / 192 Spd
+Jolly Nature (+Spd, -SAtk)
+- Substitute
+- Roost
+- Sucker Punch
+- Brave Bird
+
+Misdreavus (M) @ Choice Scarf
+Trait: Levitate
+EVs: 240 SAtk / 240 Spd
+Timid Nature (+Spd, -Atk)
+- Shadow Ball
+- Thunderbolt
+- Trick
+- Hidden Power [Fighting]
+
+Chinchou (M) @ Eviolite
+Trait: Volt Absorb
+EVs: 56 Def / 232 SAtk / 220 Spd
+Modest Nature (+SAtk, -Atk)
+- Agility
+- Hydro Pump
+- Thunderbolt
+- Hidden Power [Grass]
+
+Magnemite @ Occa Berry
+Trait: Magnet Pull
+EVs: 112 Def / 240 SAtk / 156 SDef
+Modest Nature (+SAtk, -Atk)
+- Thunderbolt
+- Flash Cannon
+- Hidden Power [Fire]
+- Volt Switch
+
+Deerling (M) @ Choice Scarf
+Trait: Sap Sipper
+EVs: 196 Atk / 36 Def / 36 SDef / 236 Spd
+Adamant Nature (+Atk, -SAtk)
+- Seed Bomb
+- Return
+- Jump Kick
+- Nature Power
+
+
+
+
+=== [gen5lc] BW LC/#24849 0 Likes 0 Score posted by Furai http://www.smogon.com/forums/threads/weve-made-it-peaked-1.3458261/page-1#post-3976718 ===
+
+Platinum (Mienfoo) (M) @ Choice Scarf
+Trait: Regenerator
+EVs: 236 Atk / 36 Def / 236 Spd
+Jolly Nature (+Spd, -SAtk)
+- Drain Punch
+- Hi Jump Kick
+- Stone Edge
+- U-turn
+
+Silver (Bronzor) @ Eviolite
+Trait: Levitate
+EVs: 220 HP / 152 Def / 8 SAtk / 72 SDef / 16 Spd
+Sassy Nature (+SDef, -Spd)
+- Psychic
+- Hidden Power [Fighting]
+- Toxic
+- Stealth Rock
+
+Emerald (Croagunk) (M) @ Eviolite
+Trait: Dry Skin
+EVs: 52 HP / 188 Atk / 116 Def / 116 SDef / 36 Spd
+Adamant Nature (+Atk, -SAtk)
+- Fake Out
+- Sucker Punch
+- Drain Punch
+- Taunt
+
+Sapphire (Chinchou) (M) @ Eviolite
+Trait: Volt Absorb
+EVs: 52 Def / 232 SAtk / 220 Spd
+Modest Nature (+SAtk, -Atk)
+- Volt Switch
+- Hydro Pump
+- Heal Bell
+- Hidden Power [Grass]
+
+Ruby (Larvesta) (M) @ Eviolite
+Trait: Flame Body
+EVs: 76 HP / 156 Atk / 76 Def / 76 SDef / 124 Spd
+Adamant Nature (+Atk, -SAtk)
+- Morning Sun
+- Will-O-Wisp
+- U-turn
+- Flare Blitz
+
+Crystal (Staryu) @ Eviolite
+Trait: Natural Cure
+EVs: 116 HP / 116 SAtk / 236 Spd
+Timid Nature (+Spd, -Atk)
+- Hydro Pump
+- Thunderbolt
+- Rapid Spin
+- Recover
+
+
+
+
+=== [gen5lc] BW LC/#24850 0 Likes 0 Score posted by D4RR3N http://www.smogon.com/forums/threads/lil-kidz-on-the-block-peaked-1.3456893/page-1#post-3925442 ===
+
+Hippopotas (M) @ Eviolite
+Trait: Sand Stream
+EVs: 100 Atk / 212 Def / 180 SDef
+Impish Nature (+Def, -SAtk)
+- Earthquake
+- Stealth Rock
+- Slack Off
+- Crunch
+
+Drilbur (M) @ Eviolite
+Trait: Sand Rush
+EVs: 236 Atk / 36 Def / 212 Spd
+Adamant Nature (+Atk, -SAtk)
+- Swords Dance
+- Rock Slide
+- Earthquake
+- Protect
+
+Lileep (M) @ Eviolite
+Trait: Storm Drain
+EVs: 68 HP / 220 Def / 220 SDef
+Bold Nature (+Def, -Atk)
+- Energy Ball
+- Hidden Power [Fire]
+- Stockpile
+- Recover
+
+Slowpoke (M) @ Eviolite
+Trait: Regenerator
+EVs: 116 HP / 236 Def / 36 SAtk / 116 SDef
+Bold Nature (+Def, -Atk)
+- Scald
+- Psychic
+- Thunder Wave
+- Slack Off
+
+Timburr (M) @ Eviolite
+Trait: Guts
+EVs: 156 HP / 36 Atk / 156 Def / 156 SDef
+Adamant Nature (+Atk, -SAtk)
+- Bulk Up
+- Drain Punch
+- Mach Punch
+- Payback
+
+Gastly (M) @ Eviolite
+Trait: Levitate
+EVs: 36 Def / 196 SAtk / 76 SDef / 200 Spd
+Timid Nature (+Spd, -Atk)
+- Substitute
+- Hypnosis
+- Sludge Bomb
+- Shadow Ball
+
+
+
+

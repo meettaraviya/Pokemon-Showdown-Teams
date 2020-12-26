@@ -1,0 +1,63 @@
+=== [gen7inheritance] OM Archives/#20458 23 Likes 5 Score posted by Chazm Untitled 2 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Questionable (Landorus-Therian) @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Taunt  
+- Glare  
+
+Things (Medicham) @ Medichamite  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Blaze Kick  
+- Extreme Speed  
+- Swords Dance  
+
+From (Celesteela) @ Sky Plate  
+Ability: Compound Eyes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Quiver Dance  
+- Roost  
+- Sleep Powder  
+
+Dual (Tapu Koko) @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Play Rough  
+- Thunder Punch  
+- Swords Dance  
+- Substitute  
+
+Screens (Archeops) @ Flyinium Z  
+Ability: Gale Wings  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Flare Blitz  
+- Swords Dance  
+- Roost  
+
+Blissey @ Light Clay  
+Ability: Magic Bounce  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Reflect  
+- Light Screen  
+- U-turn  
+- Night Shade  
+
+
+
+
+
+

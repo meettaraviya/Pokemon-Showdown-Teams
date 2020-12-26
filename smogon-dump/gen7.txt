@@ -1,0 +1,5224 @@
+=== [gen7] Gen 7/#22578 54 Likes 28 Score posted by Skarph http://www.smogon.com/forums/threads/stars-align-big-bang-usum-ag-2233-elo-98-8-gxe.3671596/page-1#post-8621139 ===
+
+Rayquaza-Mega @ Choice Band  
+Ability: Delta Stream  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Ascent  
+- V-create  
+- Outrage  
+- Extreme Speed  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 248 HP / 56 Def / 204 SpD  
+Careful Nature  
+- Stealth Rock  
+- Toxic  
+- Precipice Blades  
+- Dragon Tail  
+
+Marshadow @ Life Orb  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Spectral Thief  
+- Shadow Sneak  
+- Toxic  
+
+Necrozma-Dusk-Mane @ Solganium Z  
+Ability: Prism Armor  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Sunsteel Strike  
+- Morning Sun  
+- Earthquake  
+- Swords Dance  
+
+Arceus-Fairy @ Pixie Plate  
+Ability: Multitype  
+EVs: 248 HP / 244 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Recover  
+- Defog  
+- Toxic  
+
+Arceus-Dark @ Dread Plate  
+Ability: Multitype  
+EVs: 248 HP / 136 Def / 124 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Judgment  
+- Recover  
+- Perish Song  
+- Whirlpool  
+
+
+
+
+
+=== [gen7] Gen 7/#22579 32 Likes 21 Score posted by maroon http://www.smogon.com/forums/threads/monotype-ghost-im-kinda-stuck.3672795/page-1#post-8647428 ===
+
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 252 HP / 96 Def / 160 SpD  
+Careful Nature  
+- Knock Off  
+- Will-O-Wisp  
+- Recover  
+- Protect  
+
+Mimikyu @ Life Orb  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Play Rough  
+- Drain Punch  
+- Shadow Sneak  
+
+Blacephalon @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Shadow Ball  
+- Hidden Power [Ice]
+- Trick  
+
+Gengar @ Choice Specs  
+Ability: Cursed Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Focus Blast  
+- Thunderbolt  
+
+Jellicent @ Leftovers  
+Ability: Water Absorb  
+EVs: 244 HP / 252 SpD / 12 Spe  
+Calm Nature  
+- Taunt  
+- Scald  
+- Toxic  
+- Recover  
+
+Marowak-Alola @ Thick Club  
+Ability: Lightning Rod  
+EVs: 8 HP / 248 Atk / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Flare Blitz  
+- Shadow Bone  
+- Earthquake  
+
+
+
+
+
+=== [gen7] Gen 7/#22580 29 Likes 17 Score posted by maroon http://www.smogon.com/forums/threads/monotype-water-gen-7-ou-for-an-event.3672364/page-1#post-8639421 ===
+
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+EVs: 248 HP / 36 Def / 224 SpD  
+Bold Nature  
+- Hurricane  
+- U-turn  
+- Roost  
+- Defog  
+
+Swampert-Mega @ Swampertite  
+Ability: Swift Swim  
+EVs: 80 HP / 252 Atk / 4 SpD / 172 Spe  
+Adamant Nature  
+- Earthquake  
+- Waterfall  
+- Ice Punch  
+- Stealth Rock  
+
+Greninja @ Choice Specs  
+Ability: Battle Bond  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Ice Beam 
+
+Keldeo @ Waterium Z  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Secret Sword  
+- Calm Mind  
+- Substitute  
+
+Empoleon @ Leftovers  
+Ability: Torrent  
+EVs: 248 HP / 64 Def / 196 SpD  
+Careful Nature  
+- Scald  
+- Knock Off  
+- Toxic  
+- Roar  
+
+Toxapex @ Eject Button  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Toxic Spikes  
+- Haze  
+
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22581 17 Likes 15 Score posted by Eve http://www.smogon.com/forums/threads/lgpe-metagame-megathread.3671748/page-1#post-8685222 ===
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Timid Nature  
+- Psychic  
+- Roost  
+- Will-O-Wisp  
+- U-turn  
+
+Gengar-Mega @ Gengarite  
+Ability: Shadow Tag  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Sludge Bomb  
+- Disable  
+- Protect  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Adamant Nature  
+- Double Iron Bash  
+- Rock Slide  
+- Thunder Wave  
+- Protect  
+
+Eevee-Starter  
+Ability: Run Away  
+Level: 50  
+Timid Nature  
+- Sizzly Slide  
+- Sparkly Swirl  
+- Glitzy Glow  
+- Helping Hand  
+
+Jolteon  
+Ability: Volt Absorb  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Light Screen  
+- Reflect  
+- Protect  
+
+Aerodactyl-Mega @ Aerodactylite  
+Ability: Tough Claws  
+Level: 50  
+Jolly Nature  
+- Rock Slide  
+- Stealth Rock  
+- Earthquake  
+- Protect  
+
+
+
+
+
+=== [gen7] Gen 7/#22582 22 Likes 11 Score posted by Pujo http://www.smogon.com/forums/threads/national-anthem-hone-claws-z-kyurem-black-bo.3671462/page-1#post-8618531 ===
+
+GODS &amp; MONSTERS (Kyurem-Black) @ Icium Z
+Ability: Teravolt
+EVs: 56 HP / 228 Atk / 224 Spe
+Jolly Nature
+- Substitute
+- Hone Claws
+- Freeze Shock
+- Fusion Bolt
+
+LUCKY ONES (Jirachi) @ Leftovers
+Ability: Serene Grace
+Shiny: Yes
+EVs: 248 HP / 152 SpD / 108 Spe
+Careful Nature
+- Stealth Rock
+- Iron Head
+- U-turn
+- Toxic
+
+RIDE (Ferrothorn) @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 24 Def / 232 SpD
+Impish Nature
+- Spikes
+- Leech Seed
+- Thunder Wave
+- Power Whip
+
+OFF TO THE RACES (Lopunny-Mega) @ Lopunnite
+Ability: Limber
+Happiness: 0
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Frustration
+- High Jump Kick
+- Fake Out
+- Healing Wish
+
+MILLION DOLLAR MAN (Gliscor) (M) @ Toxic Orb
+Ability: Poison Heal
+EVs: 244 HP / 244 SpD / 20 Spe
+Jolly Nature
+- Earthquake
+- U-turn
+- Roost
+- Defog
+
+NATIONAL ANTHEM (Volcarona) @ Iapapa Berry
+Ability: Flame Body
+EVs: 248 HP / 112 Def / 148 Spe
+Timid Nature
+- Quiver Dance
+- Flamethrower
+- Bug Buzz
+- Roost
+
+
+
+
+=== [gen7] Ruins of Alph/#22583 18 Likes 9 Score posted by Eve http://www.smogon.com/forums/threads/lgpe-metagame-megathread.3671748/page-1#post-8624596 ===
+
+Primeape    
+EVs: 20 HP / 20 Atk / 20 Def / 20 SpD / 20 Spe  
+Jolly Nature  
+- Rock Slide
+- Taunt  
+- Brick Break  
+- U-turn
+
+Exeggutor  
+EVs: 20 HP / 20 Def / 20 SpA / 20 SpD / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Psychic
+- Sleep Powder
+- Teleport
+
+Hypno
+EVs: 20 HP / 20 Def / 20 SpA / 20 SpD / 20 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Psychic  
+- Taunt 
+- Rest
+
+Weezing  
+EVs: 20 HP / 20 Def / 20 SpA / 20 SpD / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Clear Smog 
+- Will-O-Wisp  
+- Sludge Bomb  
+- Rest
+
+Electabuzz  
+EVs: 20 HP / 20 Def / 20 SpA / 20 SpD / 20 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Thunderbolt  
+- Psychic
+- Rest 
+
+Magmar  
+Ability: Flame Body  
+EVs: 20 HP / 20 Def / 20 SpA / 20 SpD / 20 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Fire Blast  
+- Clear Smog  
+- Will-O-Wisp
+
+Magmar  
+Ability: Flame Body  
+EVs: 20 HP / 20 Def / 20 SpA / 20 SpD / 20 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Fire Spin  
+- Clear Smog  
+- Toxic
+
+Tentacruel  
+Ability: Clear Body  
+EVs: 20 HP / 20 Def / 20 SpA / 20 SpD / 20 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Haze  
+- Scald  
+- Substitute  
+- Rest
+
+Mr. Mime  
+EVs: 20 HP / 20 Def / 20 SpA / 20 SpD / 20 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Taunt 
+- Rest  
+- Calm Mind
+
+Marowak-Alola  
+EVs: 20 HP / 20 Atk / 20 Def / 20 SpD / 20 Spe  
+Jolly Nature  
+- Swords Dance  
+- Flare Blitz  
+- Stealth Rock  
+- Rock Slide
+
+Marowak  
+EVs: 20 HP / 20 Atk / 20 Def / 20 SpD / 20 Spe  
+Adamant Nature  
+- Swords Dance  
+- Earthquake  
+- Rock Slide  
+- Stealth Rock
+
+Hitmonchan (M)  
+EVs: 20 HP / 20 Atk / 20 Def / 20 SpD / 20 Spe  
+Jolly Nature  
+- Bulk Up  
+- Brick Break  
+- Ice Punch 
+- Rest
+
+Tangela  
+Ability: Chlorophyll  
+EVs: 20 HP / 20 Def / 20 SpA / 20 SpD / 20 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Mega Drain 
+- Sleep Powder 
+- Leech Seed  
+- Rest
+
+
+
+=== [gen7] Ruins of Alph/#22584 16 Likes 9 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-underused.3659882/page-1#post-8636837 ===
+
+Pidgeot-Mega @ Pidgeotite  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Heat Wave  
+- Roost  
+- Toxic  
+
+Jolteon  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Shadow Ball  
+- Reflect  
+- Light Screen  
+
+Golem  
+Level: 50  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Explosion  
+- Stealth Rock  
+
+Magneton  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Flash Cannon  
+- Thunderbolt  
+- Light Screen  
+- Thunder Wave  
+
+Persian-Alola  
+Level: 50  
+Timid Nature  
+- Dark Pulse  
+- Thunderbolt  
+- Nasty Plot  
+- U-turn  
+
+Kingler  
+Level: 50  
+Adamant Nature  
+- Crabhammer  
+- Rock Slide  
+- X-Scissor  
+- Agility  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22585 16 Likes 9 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-underused.3659882/page-1#post-8636837 ===
+
+Blastoise-Mega @ Blastoisinite  
+Level: 50  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Earthquake  
+- Rock Slide  
+
+Tentacruel  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Mega Drain  
+- Toxic  
+
+Exeggutor-Alola  
+Level: 50  
+Modest Nature  
+IVs: 0 Atk  
+- Mega Drain  
+- Dragon Pulse  
+- Flamethrower  
+- Light Screen  
+
+Dugtrio  
+Level: 50  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Sucker Punch  
+- Substitute  
+
+Jolteon  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Shadow Ball  
+- Reflect  
+- Light Screen  
+
+Clefable  
+Level: 50  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Thunderbolt  
+- Thunder Wave  
+- Stealth Rock  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22586 16 Likes 9 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-underused.3659882/page-1#post-8636837 ===
+
+Tentacruel  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Ice Beam  
+- Reflect  
+
+Electrode  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Taunt  
+- Reflect  
+- Light Screen  
+
+Pinsir-Mega @ Pinsirite  
+Level: 50  
+Jolly Nature  
+- X-Scissor  
+- Earthquake  
+- Rock Slide  
+- Swords Dance  
+
+Victreebel  
+Level: 50  
+Adamant Nature  
+- Power Whip  
+- Sucker Punch  
+- Swords Dance  
+- Sleep Powder  
+
+Marowak  
+Level: 50  
+Adamant Nature  
+- Bonemerang  
+- Rock Slide  
+- Swords Dance  
+- Stealth Rock  
+
+Dodrio  
+Level: 50  
+Jolly Nature  
+- Thrash  
+- Jump Kick  
+- Swords Dance  
+- Agility  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22587 16 Likes 9 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-underused.3659882/page-1#post-8636837 ===
+
+Kadabra  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Shadow Ball  
+- Dazzling Gleam  
+- Thunder Wave  
+
+Exeggutor  
+Level: 50  
+Bold Nature  
+IVs: 0 Atk  
+- Mega Drain  
+- Psychic  
+- Sludge Bomb  
+- Sleep Powder  
+
+Hitmonlee  
+Level: 50  
+Jolly Nature  
+- High Jump Kick  
+- Rock Slide  
+- Poison Jab  
+- Bulk Up  
+
+Raticate-Alola  
+Level: 50  
+Adamant Nature  
+- Double-Edge  
+- Sucker Punch  
+- Swords Dance  
+- U-turn  
+
+Blastoise-Mega @ Blastoisinite  
+Level: 50  
+Naive Nature  
+- Hydro Pump  
+- Ice Beam  
+- Earthquake  
+- Rock Slide  
+
+Dugtrio  
+Level: 50  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Stealth Rock  
+- Sucker Punch  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22588 16 Likes 9 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-underused.3659882/page-1#post-8636837 ===
+
+Charizard-Mega-X @ Charizardite X  
+Level: 50  
+Timid Nature  
+- Fire Blast  
+- Dragon Pulse  
+- Dragon Tail  
+- Roost  
+
+Kabutops  
+Level: 50  
+Jolly Nature  
+- Aqua Jet
+- Rock Slide  
+- Leech Life  
+- Stealth Rock  
+
+Jolteon  
+Level: 50  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Shadow Ball  
+- Reflect  
+- Light Screen  
+
+Venomoth  
+Level: 50  
+Modest Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Psychic  
+- Quiver Dance  
+- Roost  
+
+Dugtrio  
+Level: 50  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Sucker Punch  
+- Substitute  
+
+Dodrio  
+Level: 50  
+Jolly Nature  
+- Thrash  
+- Drill Peck  
+- Quick Attack  
+- Swords Dance  
+
+
+
+
+
+=== [gen7] Gen 7/#22589 14 Likes 7 Score posted by maroon http://www.smogon.com/forums/threads/monotype-skarmory-hazards-ho-flying-team.3671771/page-1#post-8625458 ===
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Solar Beam  
+- Focus Blast  
+- Defog 
+
+Aerodactyl @ Focus Sash  
+Ability: Unnerve  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Taunt  
+- Stealth Rock  
+- Earthquake  
+- Rock Slide  
+
+Celesteela @ Metronome  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Giga Drain  
+- Flash Cannon  
+- Autotomize  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Knock Off  
+- Defog  
+
+Thundurus (M) @ Expert Belt  
+Ability: Prankster  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Focus Blast  
+
+Dragonite @ Dragonium Z  
+Ability: Multiscale  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Earthquake  
+- Extreme Speed  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22590 19 Likes 5 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-overused-discussion-thread.3667865/page-1#post-8552756 ===
+
+Aerodactyl-Mega @ Aerodactylite  
+Level: 50  
+Jolly Nature  
+- Wing Attack  
+- Earthquake  
+- Rock Slide  
+- Crunch  
+
+Zapdos  
+Level: 50  
+Bold Nature  
+- Reflect  
+- Roost  
+- U-turn  
+- Thunderbolt  
+
+Dugtrio-Alola  
+Level: 50  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Sucker Punch  
+- Rock Slide  
+
+Muk-Alola  
+Level: 50  
+Sassy Nature  
+- Toxic  
+- Fire Blast  
+- Mega Drain  
+- Crunch  
+
+Mew  
+Level: 50  
+Bold Nature  
+IVs: 15 Spe  
+- Scald  
+- Roost  
+- Stealth Rock  
+- U-turn  
+
+Melmetal  
+Level: 50  
+Adamant Nature  
+- Double Iron Bash  
+- Ice Punch  
+- Earthquake  
+- Thunder Punch  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22591 19 Likes 5 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-overused-discussion-thread.3667865/page-1#post-8552756 ===
+
+Alakazam-Mega @ Alakazite  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psychic  
+- Shadow Ball  
+- Dazzling Gleam  
+
+Muk-Alola  
+Level: 50  
+Sassy Nature  
+- Crunch  
+- Fire Blast  
+- Mega Drain  
+- Toxic  
+
+Nidoqueen  
+Careful Nature  
+- Earthquake  
+- Ice Punch  
+- Stealth Rock  
+- Super Fang  
+
+Zapdos  
+Level: 50  
+Timid Nature  
+- Thunderbolt  
+- Toxic  
+- Roost  
+- U-turn  
+
+Mew  
+Level: 50  
+Jolly Nature  
+- Scald  
+- Self-Destruct  
+- Roost  
+- U-turn  
+
+Melmetal  
+Level: 50  
+Jolly Nature  
+- Double Iron Bash  
+- Earthquake  
+- Ice Punch  
+- Toxic  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22592 19 Likes 5 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-overused-discussion-thread.3667865/page-1#post-8552756 ===
+
+Beedrill-Mega @ Beedrillite  
+Level: 50  
+Jolly Nature  
+IVs: 29 HP
+- Poison Jab  
+- X-Scissor  
+- U-turn  
+- Drill Run  
+
+Dragonite  
+Level: 50  
+Adamant Nature  
+- Agility  
+- Outrage  
+- Earthquake  
+- Roost  
+
+Poliwrath  
+Level: 50  
+Happiness: 70  
+Impish Nature  
+- Superpower  
+- Waterfall  
+- Earthquake  
+- Toxic  
+
+Rhydon  
+Level: 50  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Rock Slide  
+- Toxic  
+
+Mew  
+Level: 50  
+Relaxed Nature  
+IVs: 23 Spe  
+- Psychic  
+- U-turn  
+- Will-O-Wisp  
+- Roost  
+
+Melmetal  
+Level: 50  
+Adamant Nature  
+- Double Iron Bash  
+- Earthquake  
+- Thunder Punch  
+- Thunder Wave  
+
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22593 19 Likes 5 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-overused-discussion-thread.3667865/page-1#post-8552756 ===
+
+Gyarados-Mega @ Gyaradosite  
+Level: 50  
+Jolly Nature  
+- Waterfall  
+- Crunch  
+- Substitute  
+- Earthquake  
+
+Dragonite  
+Level: 50  
+Adamant Nature  
+- Agility  
+- Outrage  
+- Earthquake  
+- Roost  
+
+Clefable  
+Level: 50  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Moonblast  
+- Flamethrower  
+- Encore  
+
+Snorlax  
+Level: 50  
+Careful Nature  
+- Facade  
+- Earthquake  
+- Toxic  
+- Self-Destruct  
+
+Mew  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Ice Beam  
+- Fire Blast  
+- Thunderbolt  
+
+Melmetal  
+Level: 50  
+Adamant Nature  
+- Double Iron Bash  
+- Earthquake  
+- Ice Punch  
+- Thunder Wave  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22594 19 Likes 5 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-overused-discussion-thread.3667865/page-1#post-8552756 ===
+
+Charizard-Mega-X @ Charizardite X  
+Level: 50  
+Calm Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Dragon Pulse  
+- Toxic  
+- Roost  
+
+Eevee-Starter  
+Level: 50  
+Bold Nature  
+- Sappy Seed  
+- Baddy Bad 
+- Sparkly Swirl  
+- Protect  
+
+Sandslash  
+Level: 50  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Stealth Rock  
+- Toxic  
+
+Muk-Alola  
+Level: 50  
+Sassy Nature  
+- Crunch  
+- Fire Blast  
+- Toxic  
+- Rest  
+
+Mew  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Calm Mind  
+- Taunt  
+- Roost  
+
+Melmetal  
+Level: 50  
+Adamant Nature  
+- Double Iron Bash  
+- Ice Punch  
+- Earthquake  
+- Rest  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22595 19 Likes 5 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-overused-discussion-thread.3667865/page-1#post-8552756 ===
+
+Venusaur-Mega @ Venusaurite  
+Level: 50  
+Bold Nature  
+IVs: 0 Atk  
+- Sleep Powder  
+- Leech Seed  
+- Mega Drain  
+- Sludge Bomb
+
+Chansey  
+Level: 50  
+Calm Nature  
+- Thunder Wave  
+- Seismic Toss  
+- Soft-Boiled  
+- Teleport  
+
+Zapdos  
+Level: 50  
+Bold Nature  
+- Thunderbolt  
+- U-turn  
+- Roost  
+- Toxic  
+
+Rhydon  
+Level: 50  
+Impish Nature  
+- Stealth Rock  
+- Rock Slide  
+- Earthquake  
+- Toxic  
+
+Mew  
+Level: 50  
+Bold Nature  
+IVs: 23 Spe  
+- Psychic  
+- Roost  
+- Flamethrower  
+- U-turn  
+
+Melmetal  
+Level: 50  
+Impish Nature  
+- Double Iron Bash  
+- Earthquake  
+- Ice Punch  
+- Toxic  
+
+
+
+
+
+
+=== [gen7] Gen 7/#22596 11 Likes 5 Score posted by Sickist http://www.smogon.com/forums/threads/triple-hazards-a-mega-garchomp-balance-team.3670556/page-1#post-8608625 ===
+
+Garchomp-Mega @ Garchompite  
+Ability: Rough Skin  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Mild Nature  
+- Stealth Rock  
+- Earthquake  
+- Fire Blast  
+- Draco Meteor  
+
+Greninja-Ash (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Spikes  
+- Water Shuriken  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Haze  
+- Baneful Bunker  
+
+Tornadus-Therian (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 224 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Pain Split  
+- Fleur Cannon  
+- Thunderbolt  
+
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Giga Drain  
+- Sludge Bomb  
+- Knock Off  
+- Hidden Power [Ice]
+
+
+
+
+
+=== [gen7] Gen 7/#22597 8 Likes 4 Score posted by Sickist http://www.smogon.com/forums/threads/gen-7-mega-garchomp-sand-balance.3671595/page-1#post-8625128 ===
+
+Garchomp-Mega @ Garchompite  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Stone Edge  
+- Fire Fang 
+
+Hippowdon @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 112 Def / 144 SpD  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Slack Off  
+- Whirlwind  
+
+Tapu Koko @ Choice Specs  
+Ability: Electric Surge  
+EVs: 4 HP / 244 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dazzling Gleam  
+- Volt Switch  
+- Roost  
+
+Toxapex @ Payapa Berry / Black Sludge
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Toxic  
+- Haze  
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 24 Def / 232 SpD  
+Sassy Nature  
+- Heavy Slam  
+- Flamethrower  
+- Leech Seed  
+- Protect  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Taunt  
+- Knock Off  
+- Defog  
+
+
+
+
+
+=== [gen7] Gen 7/#22598 22 Likes 4 Score posted by Jordy http://www.smogon.com/forums/threads/is-psychic-spam-still-a-thing.3665225/page-1#post-8493870 ===
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Psychic  
+- Moonblast  
+- Psyshock  
+- Hidden Power [Fire]
+
+Alakazam-Mega @ Alakazite  
+Ability: Trace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Psychic  
+- Focus Blast  
+- Recover  
+- Knock Off  
+
+Kommo-o @ Leftovers  
+Ability: Bulletproof  
+EVs: 252 HP / 116 SpD / 140 Spe  
+Careful Nature  
+- Stealth Rock  
+- Toxic  
+- Protect  
+- Drain Punch  
+
+Zapdos @ Chilan Berry  
+Ability: Pressure  
+EVs: 248 HP / 188 Def / 72 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Discharge  
+- Roost  
+- Heat Wave  
+- Defog  
+
+Victini @ Choice Scarf  
+Ability: Victory Star  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- V-create  
+- U-turn  
+- Final Gambit  
+- Trick  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 232 SpD  
+Calm Nature  
+IVs: 0 Atk / 6 Spe  
+- Volt Switch  
+- Ice Beam  
+- Heart Swap  
+- Pain Split  
+
+
+
+
+
+=== [gen7] Gen 7/#22599 8 Likes 3 Score posted by Sickist http://www.smogon.com/forums/threads/please-rate-my-gen-7-ou-team.3670005/page-1#post-8609792 ===
+
+Venusaur-Mega @ Venusaurite  
+Ability: Thick Fat  
+EVs: 252 HP / 172 Def / 68 SpD / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Sludge Bomb  
+- Hidden Power [Fire]
+- Synthesis  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 28 Def / 232 SpD  
+Sassy Nature  
+- Leech Seed  
+- Protect  
+- Heavy Slam  
+- Flamethrower  
+
+Landorus-Therian (M) @ Soft Sand  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Swords Dance  
+- Stone Edge  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 16 Def / 12 SpA / 40 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Moonblast  
+- Nature&#39;s Madness  
+- Taunt  
+
+Gyarados @ Flyinium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Waterfall  
+- Bounce  
+- Earthquake  
+- Dragon Dance  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- U-turn  
+- Healing Wish  
+- Fire Punch  
+
+
+
+
+
+=== [gen7] Gen 7/#22600 19 Likes 2 Score posted by cityscapes http://www.smogon.com/forums/threads/bh-immortal-smoke-1-5k.3664221/page-1#post-8465558 ===
+
+Groudon @ Red Orb  
+Ability: Electric Surge  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Adamant Nature  
+- V-create  
+- Will-O-Wisp  
+- Strength Sap  
+- Stealth Rock  
+
+Zygarde-Complete @ Rocky Helmet  
+Ability: Magic Bounce  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Impish Nature  
+- Roost  
+- Thousand Waves  
+- Poison Fang  
+- Refresh  
+
+Xerneas @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Moonblast  
+- Earth Power  
+- Steam Eruption  
+
+Gengar-Mega @ Spooky Plate  
+Ability: Regenerator  
+Happiness: 0  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Rapid Spin  
+- Judgment  
+- Sludge Bomb  
+- Quiver Dance  
+
+Golisopod @ Rocky Helmet  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Haze  
+- Destiny Bond  
+- Shore Up  
+
+Aerodactyl-Mega @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe  
+Jolly Nature  
+- Head Smash  
+- Flare Blitz  
+- Brave Bird  
+- Toxic  
+
+
+
+
+
+=== [gen7] Gen 7/#22601 19 Likes 2 Score posted by cityscapes http://www.smogon.com/forums/threads/bh-immortal-smoke-1-5k.3664221/page-1#post-8465558 ===
+
+From the Ashes (Groudon) @ Red Orb 
+Ability: Electric Surge 
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe 
+Adamant Nature 
+- V-create 
+- Will-O-Wisp 
+- Stealth Rock 
+- Strength Sap 
+
+InfoWars (Chansey) (F) @ Shed Shell 
+Ability: Imposter 
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe 
+Careful Nature 
+- Cotton Guard 
+- Recover 
+- Anchor Shot 
+- Perish Song 
+
+????????????????????????????????? (Suicune) @ Rocky Helmet 
+Ability: Magic Bounce 
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe 
+Jolly Nature 
+- Spectral Thief 
+- Anchor Shot 
+- Heal Order 
+- Entrainment 
+
+Makai Esoteria (Shedinja) @ Protective Pads 
+Ability: Sturdy 
+EVs: 252 HP / 252 Atk 
+Brave Nature 
+IVs: 0 Def / 0 SpD / 0 Spe 
+- Endeavor 
+- Extreme Speed 
+- U-turn 
+- Poison Fang 
+
+Sylvan Sanctuary (Xerneas) @ Fairium Z 
+Ability: Prankster 
+EVs: 252 HP / 252 Def / 252 SpA / 252 SpD / 252 Spe 
+Calm Nature 
+IVs: 0 Atk 
+- Spikes 
+- Moonblast 
+- Haze 
+- Recover 
+
+Teriyaki God (Yveltal) @ Toxic Orb 
+Ability: Poison Heal 
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpD / 252 Spe 
+Adamant Nature 
+- Knock Off 
+- Will-O-Wisp 
+- Dragon Dance 
+- Rapid Spin
+
+
+
+
+=== [gen7] Gen 7/#22602 18 Likes 2 Score posted by Conflux http://www.smogon.com/forums/threads/sm-monoflying-first-post.3663505/page-1#post-8456104 ===
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Solar Beam  
+- Focus Blast  
+- Roost  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Stealth Rock  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 120 SpD / 136 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Toxic  
+- Discharge  
+- Roost  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 20 Def / 132 SpD / 112 Spe  
+Jolly Nature  
+- Defog  
+- Earthquake  
+- Roost  
+- Taunt  
+
+Tornadus-Therian @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 240 HP / 64 Def / 204 Spe  
+Timid Nature  
+- Hurricane  
+- Taunt  
+- U-turn  
+- Defog  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 32 Def / 224 SpD  
+Sassy Nature  
+- Leech Seed  
+- Heavy Slam  
+- Protect  
+- Toxic  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22603 16 Likes 2 Score posted by Eve http://www.smogon.com/forums/threads/lets-go-underused.3659882/page-1#post-8469264 ===
+
+Tentacruel  
+Ability: Clear Body  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Scald  
+- Sludge Bomb  
+- Ice Beam  
+- Toxic  
+
+Electrode  
+Ability: Soundproof  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Taunt  
+- Reflect  
+- Light Screen  
+
+Pinsir-Mega @ Pinsirite  
+Ability: Aerilate  
+Level: 50  
+Jolly Nature  
+- X-Scissor  
+- Earthquake  
+- Rock Slide  
+- Swords Dance  
+
+Pikachu-Starter  
+Ability: Static  
+Level: 50  
+Naive Nature  
+- Thunderbolt  
+- Splishy Splash  
+- Floaty Fall  
+- Zippy Zap  
+
+Marowak  
+Ability: Rock Head  
+Level: 50  
+Adamant Nature  
+- Bonemerang  
+- Rock Slide  
+- Toxic  
+- Stealth Rock  
+
+Persian-Alola  
+Ability: Fur Coat  
+Level: 50  
+Timid Nature  
+- Dark Pulse  
+- Thunderbolt  
+- Nasty Plot  
+- U-turn  
+
+
+
+
+
+=== [gen7] Gen 7/#22604 31 Likes 2 Score posted by Level 51 http://www.smogon.com/forums/threads/ascension.3660260/page-1#post-8371680 ===
+
+Gothitelle @ Choice Scarf  
+Ability: Shadow Tag  
+EVs: 252 HP / 36 Def / 56 SpD / 164 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Skill Swap  
+- Trick  
+- Helping Hand  
+- Ally Switch  
+
+Slaking @ Leftovers  
+Ability: Truant  
+EVs: 16 HP / 156 Atk / 228 SpD / 108 Spe  
+Adamant Nature  
+- Return  
+- Bulk Up  
+- Slack Off  
+- Protect  
+
+Incineroar @ Figy Berry  
+Ability: Intimidate  
+EVs: 252 HP / 104 Atk / 20 Def / 116 SpD / 16 Spe  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Knock Off  
+- U-turn  
+
+Tapu Fini @ Assault Vest  
+Ability: Misty Surge  
+EVs: 252 HP / 140 Def / 56 SpD / 60 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Muddy Water  
+- Moonblast  
+- Icy Wind  
+- Nature&#39;s Madness  
+
+Landorus-Therian @ Iapapa Berry  
+Ability: Intimidate  
+EVs: 252 HP / 44 Def / 176 SpA / 28 SpD / 8 Spe  
+Modest Nature  
+- Earth Power  
+- U-turn  
+- Knock Off  
+- Stealth Rock  
+
+Latias @ Latiasite  
+Ability: Levitate  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Ice Beam  
+- Calm Mind  
+- Recover  
+
+
+
+
+
+=== [gen7] Gen 7/#22605 21 Likes 2 Score posted by Splash http://www.smogon.com/forums/threads/monotype-general-grass.3661641/page-1#post-8403804 ===
+
+Decidueye @ Spooky Plate
+Ability: Long Reach
+EVs: 76 HP / 252 Atk / 180 Spe
+Adamant Nature
+- Shadow Sneak
+- Roost
+- Swords Dance
+- Spirit Shackle
+
+Whimsicott @ Pixie Plate
+Ability: Prankster
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Encore
+- Knock Off
+- Moonblast
+- U-turn
+
+Ferrothorn (F) @ Leftovers
+Ability: Iron Barbs
+EVs: 248 HP / 200 Def / 60 SpD
+Relaxed Nature
+IVs: 0 Spe
+- Leech Seed
+- Stealth Rock
+- Gyro Ball
+- Protect
+
+
+Celebi @ Expert Belt 
+Ability: Natural Cure
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Nasty Plot
+- Earth Power
+- Hidden Power [Fire]
+- Psychic
+
+Venusaur-Mega @ Venusaurite
+Ability: Chlorophyll
+EVs: 252 HP / 136 Def / 120 SpD
+Calm Nature
+IVs: 0 Atk
+- Sludge Bomb
+- Giga Drain
+- Synthesis
+- Hidden Power [Fire]
+Breloom (M) @ Rockium Z
+Ability: Technician
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Stone Edge
+- Swords Dance
+- Mach Punch
+- Bullet Seed
+
+
+
+
+
+=== [gen7] Gen 7/#22606 3 Likes 1 Score posted by Roxiee http://www.smogon.com/forums/threads/monotype-skarmory-hazards-ho-flying-team.3671771/page-1#post-8625328 ===
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Solar Beam  
+- Focus Blast  
+- Roost  
+
+Aerodactyl @ Focus Sash  
+Ability: Unnerve  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Taunt  
+- Stealth Rock  
+- Double-Edge  
+- Tailwind  
+
+Celesteela @ Metronome  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Flamethrower  
+- Flash Cannon  
+- Autotomize  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Knock Off  
+- Defog  
+
+Thundurus (M) @ Life Orb  
+Ability: Prankster  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk / 30 Def  
+- Thunder Wave  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Focus Blast  
+
+Dragonite @ Dragonium Z  
+Ability: Multiscale  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Fire Punch  
+- Extreme Speed  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22607 4 Likes 1 Score posted by Collette http://www.smogon.com/forums/threads/lets-go-overused-discussion-thread.3667865/page-1#post-8588321 ===
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Mold Breaker  
+Level: 50  
+Adamant Nature  
+- Crunch  
+- Waterfall  
+- Earthquake  
+- Dragon Tail  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Calm Nature  
+- Psychic  
+- Roost  
+- U-turn  
+- Will-O-Wisp  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Impish Nature  
+- Toxic  
+- Double Iron Bash  
+- Earthquake  
+- Thunder Wave  
+
+Zapdos  
+Ability: Pressure  
+Level: 50  
+Timid Nature  
+- Roost  
+- Thunderbolt  
+- U-turn  
+- Toxic  
+
+Nidoqueen (F)  
+Ability: Poison Point  
+Level: 50  
+Impish Nature  
+- Stealth Rock  
+- Super Fang  
+- Earthquake  
+- Toxic  
+
+Dragonite  
+Ability: Inner Focus  
+Level: 50  
+Naughty Nature  
+- Agility  
+- Earthquake  
+- Outrage  
+- Fire Blast  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22608 4 Likes 1 Score posted by Collette http://www.smogon.com/forums/threads/lets-go-overused-discussion-thread.3667865/page-1#post-8588321 ===
+
+Persian-Alola  
+Ability: Fur Coat  
+Level: 50  
+Impish Nature  
+- Taunt  
+- U-turn  
+- Foul Play  
+- Toxic  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Impish Nature  
+- Earthquake  
+- Double Iron Bash  
+- Thunder Punch  
+- Toxic  
+
+Beedrill-Mega @ Beedrillite  
+Ability: Adaptability  
+Level: 50  
+Happiness: 70  
+Adamant Nature  
+IVs: 29 HP  
+- U-turn  
+- Poison Jab  
+- Drill Run  
+- Roost  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Modest Nature  
+- Fire Blast  
+- Roost  
+- U-turn  
+- Toxic  
+
+Zapdos  
+Ability: Pressure  
+Level: 50  
+Relaxed Nature  
+- Roost  
+- U-turn  
+- Thunderbolt  
+- Reflect  
+
+Sandslash  
+Ability: Sand Veil  
+Level: 50  
+Happiness: 70  
+Impish Nature  
+- Counter  
+- Earthquake  
+- Stealth Rock  
+- Toxic  
+
+
+
+
+
+=== [gen7] Ruins of Alph/#22609 4 Likes 1 Score posted by Collette http://www.smogon.com/forums/threads/lets-go-overused-discussion-thread.3667865/page-1#post-8588321 ===
+
+Nidoqueen (F)  
+Ability: Poison Point  
+Level: 50  
+Impish Nature  
+- Stealth Rock  
+- Toxic  
+- Super Fang  
+- Earthquake  
+
+Cloyster  
+Ability: Shell Armor  
+Level: 50  
+Naive Nature  
+- Shell Smash  
+- Hydro Pump  
+- Ice Beam  
+- Self-Destruct  
+
+Alakazam-Mega @ Alakazite  
+Ability: Trace  
+Level: 50  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Dazzling Gleam  
+- Psychic  
+- Shadow Ball  
+
+Melmetal  
+Ability: Iron Fist  
+Level: 50  
+Adamant Nature  
+- Double Iron Bash  
+- Earthquake  
+- Toxic  
+- Ice Punch  
+
+Mew  
+Ability: Synchronize  
+Level: 50  
+Impish Nature  
+- Psychic  
+- Scald  
+- Roost  
+- U-turn  
+
+Muk-Alola  
+Ability: Poison Touch  
+Level: 50  
+Calm Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Mega Drain  
+- Fire Blast  
+- Toxic  
+
+
+
+
+
+=== [gen7] Gen 7/#22610 22 Likes 1 Score posted by Splash http://www.smogon.com/forums/threads/monotype-fairy-team.3659566/page-1#post-8362843 ===
+
+Ninetales-Alola @ Light Clay  
+Ability: Snow Warning  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Aurora Veil  
+- Freeze-Dry  
+- Moonblast  
+- Encore  
+
+Mimikyu @ Life Orb  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Shadow Claw  
+- Shadow Sneak  
+- Swords Dance  
+- Play Rough  
+
+Azumarill @ Normalium Z  
+Ability: Huge Power  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Belly Drum  
+- Aqua Jet  
+- Knock Off  
+- Play Rough  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Soft-Boiled  
+- Moonblast  
+- Flamethrower  
+
+Gardevoir @ Gardevoirite  
+Ability: Trace  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Psyshock  
+- Focus Blast  
+- Will-O-Wisp  
+
+Klefki @ Light Clay  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Reflect  
+- Light Screen  
+- Spikes  
+
+
+
+
+
+=== [gen7] Gen 7/#22611 17 Likes 1 Score posted by Splash http://www.smogon.com/forums/threads/bug-monotype-team.3660332/page-1#post-8379769 ===
+
+Galvantula @ Focus Sash  
+Ability: Compound Eyes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sticky Web  
+- Thunder  
+- Energy Ball  
+- Hidden Power [Ice]
+
+Forretress @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Rapid Spin  
+- Volt Switch  
+- Gyro Ball  
+
+Beedrill-Mega @ Beedrillite  
+Ability: Adaptability  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Poison Jab  
+- Drill Run  
+- Knock Off  
+
+Heracross @ Choice Scarf  
+Ability: Moxie  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Megahorn  
+- Stone Edge  
+- Pursuit  
+
+Scizor @ Choice Band  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Bullet Punch  
+- U-turn  
+- Superpower  
+- Pursuit  
+
+Volcarona @ Firium Z  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Fire Blast  
+- Hidden Power [Ground]
+- Giga Drain  
+
+
+
+
+
+=== [gen7] Gen 7/#22612 3 Likes 1 Score posted by Sickist http://www.smogon.com/forums/threads/tapu-tapu-volcarona-team.3667798/page-1#post-8608740 ===
+
+Volcarona @ Buginium Z  
+Ability: Flame Body  
+EVs: 248 HP / 112 Def / 148 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Flamethrower  
+- Bug Buzz  
+- Roost  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 16 Def / 12 SpA / 40 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Nature&#39;s Madness  
+- Moonblast  
+- Scald  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 232 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Power Whip  
+- Leech Seed  
+- Protect  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 232 Atk / 68 Def / 208 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Defog  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 28 Def / 232 SpD  
+Sassy Nature  
+- Leech Seed  
+- Protect  
+- Heavy Slam  
+- Flamethrower  
+
+Latios-Mega (M) @ Latiosite  
+Ability: Levitate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psychic  
+- Earthquake  
+- Ice Beam  
+- Roost  
+
+
+
+
+
+=== [gen7] Gen 7/#22613 3 Likes 1 Score posted by SpookM??N http://www.smogon.com/forums/threads/triple-hazards-a-mega-garchomp-balance-team.3670556/page-1#post-8607876 ===
+
+Garchomp-Mega @ Garchompite  
+Ability: Sand Force  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Mild Nature  
+- Draco Meteor  
+- Stealth Rock  
+- Earthquake  
+- Fire Blast  
+
+Tyranitar @ Assault Vest  
+Ability: Sand Stream  
+EVs: 224 HP / 32 Atk / 252 SpD  
+Careful Nature  
+- Rock Slide  
+- Crunch  
+- Pursuit  
+- Earthquake  
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 224 SpA / 8 SpD  
+Modest Nature  
+- Calm Mind  
+- Pain Split  
+- Fleur Cannon  
+- Thunderbolt  
+
+Greninja-Ash (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Spikes  
+- Water Shuriken  
+- Hydro Pump  
+- Dark Pulse  
+
+Serperior @ Choice Scarf  
+Ability: Contrary  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Leaf Storm  
+- Glare  
+- Knock Off  
+- Hidden Power [Fire]
+
+Tornadus-Therian @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Defog  
+- U-turn  
+- Hurricane  
+- Knock Off  
+
+
+
+
+
+=== [gen7] Gen 7/#22614 6 Likes 1 Score posted by StepC http://www.smogon.com/forums/threads/psychic-spam-z-dig-greninja-looking-to-improve.3666347/page-1#post-8518202 ===
+
+Alakazam @ Alakazite  
+Ability: Magic Guard  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Psychic  
+- Focus Blast  
+- Recover  
+- Shadow Ball  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Psychic  
+- Moonblast  
+- Psyshock  
+- Hidden Power [Fire]
+
+Greninja @ Groundium Z  
+Ability: Protean  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Dig  
+- Gunk Shot  
+- Ice Beam  
+- U-turn  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 52 Def / 76 SpD / 136 Spe  
+Jolly Nature  
+- Earthquake  
+- Defog  
+- Roost  
+- Toxic  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 4 HP / 4 Def / 248 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Flash Cannon  
+- Volt Switch  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 232 SpD  
+Careful Nature  
+- Stealth Rock  
+- Leech Seed  
+- Thunder Wave  
+- Power Whip  
+
+
+
+
+
+=== [gen7] Gen 7/#22615 2 Likes 1 Score posted by KiruxOnTheFlux http://www.smogon.com/forums/threads/rate-my-team-generation-7-ou-stall.3672106/page-1#post-8632796 ===
+
+Sableye @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Knock Off  
+- Will-O-Wisp  
+- Recover  
+- Protect  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Baneful Bunker  
+- Recover  
+- Haze  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Seismic Toss  
+- Toxic  
+- Stealth Rock  
+- Soft-Boiled  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Roost  
+- Spikes  
+- Whirlwind  
+- Counter  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 52 Def / 76 SpD / 136 Spe  
+Jolly Nature  
+- Earthquake  
+- Defog  
+- Roost  
+- Knock Off  
+
+Shedinja @ Focus Sash  
+Ability: Wonder Guard  
+EVs: 252 SpA / 252 Spe  
+Mild Nature  
+IVs: 0 Atk / 0 Def / 0 SpD  
+- Shadow Ball  
+- Protect  
+- Toxic  
+- Will-O-Wisp  
+
+
+
+
+
+=== [gen7] Gen 7/#22616 16 Likes 1 Score posted by Conflux http://www.smogon.com/forums/threads/gen-7-monotype-poisonous-posse-mono-poison-offense.3659881/page-1#post-8362146 ===
+
+GYAHHHHH (Crobat) @ Flyinium Z  
+Ability: Infiltrator  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Roost
+- Taunt  
+- Defog  
+
+Monsanto (Venusaur-Mega) @ Venusaurite  
+Ability: Thick Fat  
+EVs: 252 HP / 240 Def / 16 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Hidden Power [Fire]
+- Synthesis  
+- Leech Seed  
+
+HantreMn (Gengar) @ Choice Scarf  
+Ability: Cursed Body  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Trick  
+- Shadow Ball  
+- Sludge Wave  
+- Thunderbolt  
+
+HALT I AM REPTAR (Nidoking) @ Life Orb  
+Ability: Sheer Force  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Earth Power  
+- Flamethrower  
+- Stealth Rock  
+
+Goop (Muk-Alola) @ Figy Berry  
+Ability: Gluttony  
+Shiny: Yes  
+EVs: 248 HP / 12 Def / 248 SpD  
+Careful Nature  
+- Knock Off  
+- Poison Jab  
+- Curse  
+- Recycle  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Toxic Spikes  
+- Haze  
+
+
+
+
+
+
+=== [gen7] Gen 7/#22617 2 Likes 1 Score posted by shadowpeashooter http://www.smogon.com/forums/threads/sm-ubers-dawn-wings-ultra.3671510/page-1#post-8619532 ===
+
+Death Star (Necrozma-Dawn-Wings) @ Ultranecrozium Z
+Ability: Prism Armor
+EVs: 32 Def / 252 SpA / 224 Spe
+Timid Nature
+- Calm Mind
+- Photon Geyser
+- Moongeist Beam
+- Power Gem
+
+Oh Flip (Kyogre-Primal) @ Blue Orb
+Ability: Drizzle
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+- Calm Mind
+- Origin Pulse
+- Ice Beam
+- Thunder
+
+Fat Chicken (Ho-Oh) @ Leftovers
+Ability: Regenerator
+EVs: 252 HP / 204 Def / 52 SpD
+Impish Nature
+- Sacred Fire
+- Recover
+- Toxic
+- Defog
+
+Chuck Norris (Lucario-Mega) @ Lucarionite
+Ability: Justified
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Swords Dance
+- Meteor Mash
+- Bullet Punch
+- Close Combat
+
+Dumb Pink Tree (Xerneas) @ Choice Scarf
+Ability: Fairy Aura
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+- Moonblast
+- Grass Knot
+- Aromatherapy
+- Defog
+
+Yeetmaster (Arceus-Ground) @ Earth Plate
+Ability: Multitype
+EVs: 252 HP / 40 Def / 24 SpD / 192 Spe
+Timid Nature
+- Judgment
+- Ice Beam
+- Stealth Rock
+- Recover
+
+
+
+
+=== [gen7] Gen 7/#22618 2 Likes 0 Score posted by Sickist http://www.smogon.com/forums/threads/a-newbies-gen-7-ou-team-looking-for-suggestions-on-improvement.3668839/page-1#post-8609856 ===
+
+Scizor @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 16 Def / 244 SpD  
+Impish Nature  
+- Swords Dance  
+- Bullet Punch  
+- Roost  
+- Superpower  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Roar 
+- Toxic  
+
+Tornadus-Therian (M) @ Sharp Beak  
+Ability: Regenerator  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- Defog  
+- U-turn  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Pain Split  
+
+Hydreigon @ Darkinium Z  
+Ability: Levitate  
+EVs: 244 SpA / 32 SpD / 232 Spe  
+Timid Nature  
+- Dark Pulse  
+- Earth Power  
+- Flash Cannon  
+- Roost  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Modest Nature  
+- Moonblast  
+- Thunderbolt  
+- Fire Blast  
+- Soft-Boiled  
+
+
+
+
+
+=== [gen7] Gen 7/#22619 1 Likes 0 Score posted by ShadowRaider65 http://www.smogon.com/forums/threads/kangasquad.3675066/page-1#post-8692186 ===
+
+Kangaskhan-Mega @ Kangaskhanite  
+Ability: Scrappy  
+EVs: 52 HP / 180 Atk / 36 Def / 8 SpD / 232 Spe  
+Jolly Nature  
+- Fake Out  
+- Seismic Toss  
+- Crunch  
+- Body Slam  
+
+Toxapex @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Scald  
+- Haze  
+- Recover  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 252 HP / 80 Def / 176 SpD  
+Sassy Nature  
+- Stealth Rock  
+- Precipice Blades  
+- Lava Plume  
+- Toxic  
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 228 Atk / 28 Def / 252 Spe  
+Adamant Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Superpower  
+
+Arceus-Grass @ Meadow Plate  
+Ability: Multitype  
+EVs: 80 HP / 176 SpA / 252 Spe  
+Timid Nature  
+- Grass Knot  
+- Ice Beam  
+- Fire Blast  
+- Recover  
+
+Xerneas @ Choice Scarf  
+Ability: Fairy Aura  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Moonblast  
+- Focus Blast  
+- Aromatherapy  
+- Defog  
+
+
+
+
+
+=== [gen7] Gen 7/#22620 7 Likes 0 Score posted by StepC http://www.smogon.com/forums/threads/sm-ou-revised-my-team-rmt.3659912/page-1#post-8418931 ===
+
+Medicham @ Medichamite  
+Ability: Telepathy  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Fake Out  
+- High Jump Kick  
+- Ice Punch  
+- Zen Headbutt  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Roost  
+- Hidden Power [Ice]
+- Defog  
+
+Greninja (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 52 Def / 76 SpD / 136 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- Roost  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 28 Def / 232 SpD  
+Sassy Nature  
+- Leech Seed  
+- Protect  
+- Heavy Slam  
+- Flamethrower  
+
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 12 Def / 244 SpD  
+Sassy Nature  
+- Giga Drain  
+- Knock Off  
+- Hidden Power [Ice]
+- Sludge Bomb  
+
+
+
+
+
+=== [gen7] Gen 7/#22621 4 Likes 0 Score posted by StepC http://www.smogon.com/forums/threads/ou-mega-scizor-cb-tyranitar-balance.3665396/page-1#post-8498878 ===
+
+Scizor @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 16 Def / 244 SpD  
+Impish Nature  
+- Swords Dance  
+- Bullet Punch  
+- Roost  
+- Knock Off  
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 40 HP / 252 Atk / 48 SpD / 168 Spe  
+Adamant Nature  
+- Stone Edge  
+- Crunch  
+- Pursuit  
+- Earthquake  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 232 Atk / 68 Def / 208 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Hidden Power [Ice]
+
+Heatran @ Grassium Z  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Solar Beam  
+- Stealth Rock  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 216 SpD / 44 Spe  
+Calm Nature  
+- Scald  
+- Haze  
+- Recover  
+- Toxic  
+
+Tornadus-Therian @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Defog  
+
+
+
+
+
+=== [gen7] Gen 7/#22622 4 Likes 0 Score posted by StepC http://www.smogon.com/forums/threads/ou-mega-scizor-cb-tyranitar-balance.3665396/page-1#post-8498878 ===
+
+Clamps (Scizor-Mega) (M) @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 16 Def / 244 SpD  
+Impish Nature  
+- Swords Dance  
+- Bullet Punch  
+- Roost  
+- U-turn  
+
+Kartana @ Normalium Z  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Leaf Blade  
+- Sacred Sword  
+- Giga Impact  
+
+Supercell (Tornadus-Therian) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- Heat Wave  
+- U-turn  
+
+Venomax (Toxapex) (M) @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 212 SpD / 44 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Haze  
+- Recover  
+- Toxic  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 52 Def / 76 SpD / 136 Spe  
+Jolly Nature  
+- Earthquake  
+- Defog  
+- Roost  
+- Knock Off  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 176 SpD / 80 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Toxic  
+- Protect  
+- Stealth Rock  
+
+
+
+
+
+=== [gen7] Gen 7/#22623 6 Likes 0 Score posted by StepC http://www.smogon.com/forums/threads/gen-7-ou-m-mawile-team.3661246/page-1#post-8407475 ===
+
+Mawile @ Mawilite  
+Ability: Intimidate  
+EVs: 92 HP / 252 Atk / 164 Spe  
+Adamant Nature  
+- Swords Dance  
+- Play Rough  
+- Sucker Punch  
+- Knock Off  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 232 Atk / 68 Def / 208 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Hidden Power [Ice]
+
+Tornadus-Therian @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Heat Wave  
+
+Heatran @ Steelium Z  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Flash Cannon  
+- Stealth Rock  
+
+Rotom-Wash @ Wiki Berry  
+Ability: Levitate  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Defog  
+
+Tapu Bulu @ Leftovers  
+Ability: Grassy Surge  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Swords Dance  
+- Horn Leech  
+- Superpower  
+- Synthesis  
+
+
+
+
+
+=== [gen7] Gen 7/#22624 1 Likes 0 Score posted by HaHAAmirite? http://www.smogon.com/forums/threads/need-help-on-a-gen-7-ou-team.3672322/page-1#post-8642746 ===
+
+Mawile-Mega @ Mawilite  
+Ability: Huge Power
+EVs: 88 HP / 252 Atk / 168 Spe
+Adamant Nature
+- Play Rough
+- Thunder Punch
+- Sucker Punch
+- Fire Fang
+
+Landorus-Therian (M) @ Rocky Helmet
+Ability: Intimidate
+EVs: 252 HP / 244 Def / 16 Spe
+Impish Nature
+- Earthquake
+- Hidden Power [Ice]
+- Stealth Rock
+- U-turn
+
+Kyurem-Black @ Icium Z
+Ability: Teravolt
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naive Nature
+- Ice Beam
+- Fusion Bolt
+- Earth Power
+- Freeze Shock
+
+Magearna @ Assault Vest
+Ability: Soul-Heart
+EVs: 252 HP / 4 Def / 252 SpD 
+Sassy Nature
+- Iron Head
+- Fleur Cannon
+- Hidden Power [Fire]
+- Volt Switch
+
+Tapu Fini @ Leftovers
+Ability: Misty Surge
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Scald
+- Moonblast
+- Taunt
+- Defog
+
+Greninja @ Choice Scarf
+Ability: Protean
+EVs: 176 Atk / 80 SpA / 252 Spe
+Naive Nature
+- Low Kick
+- Ice Beam
+- Rock Slide
+- U-turn
+
+
+
+
+=== [gen7] Gen 7/#22625 3 Likes 0 Score posted by StepC http://www.smogon.com/forums/threads/ou-balance-team-mega-charizard-kartana.3665951/page-1#post-8505179 ===
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Knock Off  
+- Smart Strike  
+
+Charizard @ Charizardite Y  
+Ability: Blaze  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Focus Blast  
+- Solar Beam  
+- Roost  
+
+Greninja @ Life Orb  
+Ability: Protean  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Extrasensory  
+- Gunk Shot  
+- Ice Beam  
+- Hidden Power [Fire]
+
+Garchomp @ Rockium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 16 Def / 12 SpA / 40 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Nature&#39;s Madness  
+- Scald  
+- Taunt  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 248 HP / 28 Def / 232 SpD  
+Calm Nature  
+IVs: 0 Atk / 6 Spe  
+- Heart Swap  
+- Pain Split  
+- Volt Switch  
+- Fleur Cannon  
+
+
+
+
+
+=== [gen7] Gen 7/#22626 1 Likes 0 Score posted by ForstamemasNeetaroOoniqua http://www.smogon.com/forums/threads/rate-my-team-generation-7-ou-stall.3672106/page-1#post-8632438 ===
+
+Sableye @ Sablenite
+Ability: Prankster
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Protect
+- Knock Off
+- Will-O-Wisp
+- Recover
+
+Blissey (F) @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+IVs: 0 Atk
+- Wish
+- Toxic
+- Protect
+- Ice Beam
+
+Toxapex @ Black Sludge
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Scald
+- Haze
+- Recover
+- Baneful Bunker
+
+Landorus-Therian (M) @ Flyinium Z
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Fly
+- U-turn
+- Earthquake
+- Stealth Rock
+
+Tapu Lele @ Choice Scarf
+Ability: Psychic Surge
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Psyshock
+- Moonblast
+- Focus Blast
+
+Skarmory @ Wiki Berry
+Ability: Sturdy
+EVs: 248 HP / 252 Def / 8 SpD
+Impish Nature
+- Roar
+- Defog
+- Roost
+- Spikes
+
+
+
+
+
+=== [gen7] Gen 7/#22627 1 Likes 0 Score posted by Vittorioso http://www.smogon.com/forums/threads/gen-7-mega-garchomp-sand-balance.3671595/page-1#post-8629019 ===
+
+Garchomp-Mega @ Garchompite  
+Ability: Rough Skin  
+EVs: 240 Atk / 16 SpA / 252 Spe  
+Naive Nature  
+- Earthquake  
+- Stone Edge  
+- Hidden Power [Ice]
+- Swords Dance  
+
+Hippowdon @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 112 Def / 144 SpD  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Slack Off  
+- Whirlwind  
+
+Tapu Koko @ Choice Specs  
+Ability: Electric Surge  
+EVs: 16 HP / 236 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dazzling Gleam  
+- Volt Switch  
+- Roost  
+
+Toxapex @ Black Sludge  
+Ability: Beast Boost  
+EVs: 252 HP / 204 SpD / 52 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Recover  
+- Toxic  
+- Haze  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 136 HP / 180 Def / 192 Spe  
+Timid Nature  
+- Hurricane  
+- Taunt
+- Knock Off  
+- Defog  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 24 Def / 232 SpD  
+Sassy Nature  
+- Heavy Slam  
+- Flamethrower  
+- Leech Seed  
+- Protect  
+
+
+
+
+
+=== [gen7] Gen 7/#22628 4 Likes 0 Score posted by Diophantine http://www.smogon.com/forums/threads/scizor-mega-serperior-7g-ou.3663249/page-1#post-8446753 ===
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 232 Atk / 68 Def / 208 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Hidden Power [Ice]
+
+Greninja-Ash (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Dark Pulse  
+- Water Shuriken  
+- Hydro Pump  
+- Spikes  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 16 Def / 12 SpA / 40 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Moonblast  
+- Scald  
+- Taunt  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 176 SpD / 80 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Lava Plume  
+- Toxic  
+- Protect  
+- Stealth Rock  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 240 Def / 20 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Discharge  
+- Roost  
+- Heat Wave  
+- Hidden Power [Ice]
+
+Serperior @ Leftovers  
+Ability: Contrary  
+Hidden Power: Fire  
+EVs: 56 HP / 200 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Hidden Power [Fire]
+- Substitute  
+- Leech Seed  
+
+
+
+
+
+=== [gen7] Gen 7/#22629 5 Likes 0 Score posted by Korago http://www.smogon.com/forums/threads/avaluggs-wild-ride-peaked-1-1974-elo.3661819/page-1#post-8407887 ===
+
+Sableye-Mega @ Sablenite
+Ability: Prankster
+EVs: 248 HP / 252 SpD / 8 Spe
+Careful Nature
+- Knock Off
+- Recover
+- Will-O-Wisp
+- Protect
+
+Chansey @ Eviolite
+Ability: Natural Cure
+EVs: 8 HP / 252 Def / 248 SpD
+Bold Nature
+IVs: 0 Atk
+- Toxic
+- Soft-Boiled
+- Stealth Rock
+- Seismic Toss
+
+Skarmory @ Shed Shell
+Ability: Sturdy
+EVs: 248 HP / 76 Def / 184 Spe
+Bold Nature
+IVs: 0 Atk
+- Counter
+- Roost
+- Defog
+- Toxic
+
+Toxapex @ Black Sludge
+Ability: Regenerator
+EVs: 248 HP / 252 Def / 8 Spe
+Bold Nature
+- Knock Off
+- Haze
+- Scald
+- Recover
+
+Avalugg @ Leftovers
+Ability: Sturdy
+EVs: 248 HP / 68 Def / 192 SpD
+Careful Nature
+- Avalanche
+- Recover
+- Toxic
+- Rapid Spin
+
+Shedinja @ Focus Sash
+Ability: Wonder Guard
+EVs: 252 SpA / 252 Spe
+Mild Nature
+IVs: 0 Atk / 0 Def / 0 SpD
+- Shadow Ball
+- Protect
+- Toxic
+- Will-O-Wisp
+
+
+
+
+=== [gen7] Gen 7/#22630 4 Likes 0 Score posted by Diophantine http://www.smogon.com/forums/threads/ou-mega-beedrill-voltturn.3662969/page-1#post-8438945 ===
+
+Beedrill-Mega @ Beedrillite  
+Ability: Adaptability  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Poison Jab  
+- Knock Off  
+- Drill Run  
+
+Greninja @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- U-turn  
+
+Kommo-o @ Kommonium Z  
+Ability: Bulletproof  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- Stealth Rock  
+- Clanging Scales  
+- Close Combat  
+- Poison Jab  
+
+Rotom-Wash @ Iapapa Berry  
+Ability: Levitate  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Pain Split  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 232 SpD  
+Sassy Nature  
+- Spikes  
+- Leech Seed  
+- Knock Off  
+- Power Whip  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 232 Atk / 68 Def / 208 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Defog
+
+
+
+
+=== [gen7] Gen 7/#22631 1 Likes 0 Score posted by Fc http://www.smogon.com/forums/threads/stall-in-ubers-lmao.3671448/page-1#post-8620571 ===
+
+Sableye @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+- Fake Out  
+- Foul Play  
+- Toxic  
+- Recover  
+
+Blissey @ Shed Shell  
+Ability: Natural Cure  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Soft-Boiled  
+- Heal Bell  
+- Confide  
+- Toxic  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 136 Def / 124 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Toxic  
+- Ice Beam  
+- Judgment  
+- Recover  
+
+Ho-Oh @ Leftovers  
+Ability: Regenerator  
+EVs: 252 HP / 204 Def / 52 SpD  
+Impish Nature  
+- Sacred Fire  
+- Recover  
+- Toxic  
+- Defog  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 136 HP / 168 Atk / 52 SpD / 152 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Swords Dance  
+- Precipice Blades  
+- Rock Tomb  
+
+Giratina @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 208 Def / 52 SpD  
+Relaxed Nature  
+IVs: 0 Atk  
+- Defog  
+- Rest  
+- Toxic  
+- Will-O-Wisp  
+
+
+
+
+
+=== [gen7] Gen 7/#22632 1 Likes 0 Score posted by Fc http://www.smogon.com/forums/threads/stall-in-ubers-lmao.3671448/page-1#post-8620571 ===
+
+Slowbro @ Slowbronite  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Slack Off  
+- Ice Beam  
+- Toxic  
+- Iron Defense  
+
+Muk-Alola @ Assault Vest  
+Ability: Poison Touch  
+EVs: 252 HP / 80 Atk / 176 SpD  
+Adamant Nature  
+- Clear Smog  
+- Knock Off  
+- Pursuit  
+- Shadow Sneak  
+
+Blissey (F) @ Shed Shell  
+Ability: Natural Cure  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Confide  
+- Aromatherapy  
+- Soft-Boiled  
+- Toxic  
+
+Arceus-Ground @ Earth Plate  
+Ability: Multitype  
+EVs: 252 HP / 40 Def / 24 SpD / 192 Spe  
+Timid Nature  
+- Judgment  
+- Recover  
+- Ice Beam  
+- Defog  
+
+Ho-Oh @ Life Orb  
+Ability: Regenerator  
+EVs: 104 HP / 252 Atk / 152 Spe  
+Adamant Nature  
+- Sacred Fire  
+- Brave Bird  
+- Recover  
+- Substitute  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 136 HP / 168 Atk / 52 SpD / 152 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Swords Dance  
+- Precipice Blades  
+- Rock Tomb  
+
+
+
+
+
+=== [gen7] Gen 7/#22633 6 Likes 0 Score posted by Sinkyr http://www.smogon.com/forums/threads/sm-ou-revised-my-team-rmt.3659912/page-1#post-8375332 ===
+
+Excadrill @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Iron Head  
+- Toxic  
+
+Tapu Koko @ Light Clay  
+Ability: Electric Surge  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Hidden Power [Ice]
+- Reflect  
+- Light Screen  
+
+Kommo-o @ Salac Berry  
+Ability: Bulletproof  
+EVs: 48 HP / 208 Atk / 252 Spe  
+Jolly Nature  
+- Belly Drum  
+- Substitute  
+- Drain Punch  
+- Thunder Punch  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 96 HP / 252 Atk / 160 Spe  
+Adamant Nature  
+- High Jump Kick  
+- Acrobatics  
+- Swords Dance  
+- Roost  
+
+Magearna @ Fairium Z  
+Ability: Soul-Heart  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shift Gear  
+- Focus Blast  
+- Fleur Cannon  
+- Thunderbolt  
+
+Greninja-Ash @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+
+
+
+
+=== [gen7] Gen 7/#22634 4 Likes 0 Score posted by Solivagant http://www.smogon.com/forums/threads/rate-this-gen7-ou-rain-team-searching-for-some-tips.3662019/page-1#post-8417153 ===
+
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+EVs: 248 HP / 36 Def / 224 SpD  
+Bold Nature  
+- Scald  
+- U-turn  
+- Roost  
+- Defog  
+
+Swampert @ Swampertite  
+Ability: Damp  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Waterfall  
+- Earthquake  
+- Ice Punch  
+- Substitute  
+
+Greninja (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Ice Beam  
+
+Tapu Koko @ Fairium Z  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dazzling Gleam  
+- Hidden Power [Ice]
+- Roost  
+
+Tornadus-Therian (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+- Taunt  
+- Hurricane  
+- Superpower  
+- U-turn  
+
+Ferrothorn @ Iapapa Berry  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 232 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Spikes  
+- Stealth Rock 
+- Gyro Ball  
+- Power Whip  
+
+
+
+
+
+=== [gen7] Gen 7/#22635 2 Likes 0 Score posted by Diophantine http://www.smogon.com/forums/threads/is-psychic-spam-still-a-thing.3665225/page-1#post-8489323 ===
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Psychic  
+- Moonblast  
+- Focus Blast  
+
+Alakazam-Mega @ Alakazite  
+Ability: Trace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Recover  
+- Focus Blast  
+- Energy Ball  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 100 Def / 28 SpD / 136 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- Roost  
+
+Greninja (M) @ Choice Scarf  
+Ability: Protean  
+EVs: 176 Atk / 80 SpA / 252 Spe  
+Hasty Nature  
+- U-turn  
+- Ice Beam  
+- Rock Slide  
+- Low Kick  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 232 SpD  
+Sassy Nature  
+- Spikes  
+- Leech Seed  
+- Knock Off  
+- Power Whip  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 240 Def / 20 Spe  
+Bold Nature  
+- Discharge  
+- Roost  
+- Heat Wave  
+- Defog  
+
+
+
+
+
+=== [gen7] Gen 7/#22636 2 Likes 0 Score posted by Diophantine http://www.smogon.com/forums/threads/is-psychic-spam-still-a-thing.3665225/page-1#post-8489323 ===
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Psychic  
+- Moonblast  
+- Focus Blast  
+
+Alakazam-Mega @ Alakazite  
+Ability: Trace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Recover  
+- Focus Blast  
+- Energy Ball  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 100 Def / 28 SpD / 136 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- Roost  
+
+Greninja (M) @ Choice Scarf  
+Ability: Protean  
+EVs: 176 Atk / 80 SpA / 252 Spe  
+Hasty Nature  
+- U-turn  
+- Ice Beam  
+- Rock Slide  
+- Low Kick  
+
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+Hidden Power: Ice  
+EVs: 252 HP / 12 Def / 244 SpD  
+Sassy Nature  
+- Giga Drain  
+- Knock Off  
+- Hidden Power [Ice]
+- Earthquake  
+
+Skarmory @ Rocky Helmet  
+Ability: Keen Eye  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Roost  
+- Defog  
+- Spikes  
+- Counter  
+
+
+
+
+
+=== [gen7] Gen 7/#22637 3 Likes 0 Score posted by StepC http://www.smogon.com/forums/threads/sm-ou-my-first-team.3662512/page-1#post-8428202 ===
+
+Latias-Mega @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Stored Power  
+- Roost  
+- Ice Beam  
+
+Toxapex (M) @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 20 Def / 240 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Recover  
+- Haze  
+- Scald  
+
+Ferrothorn (M) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 88 Def / 168 SpD  
+Impish Nature  
+- Stealth Rock  
+- Leech Seed  
+- Power Whip  
+- Thunder Wave  
+
+Magnezone @ Electrium Z  
+Ability: Magnet Pull  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]
+- Substitute  
+
+Weavile (M) @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Low Kick  
+- Icicle Crash  
+- Pursuit  
+- Knock Off  
+
+Gliscor (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 152 SpD / 112 Spe  
+Jolly Nature  
+- Defog  
+- Roost  
+- Earthquake  
+- Knock Off 
+
+
+
+
+
+=== [gen7] Gen 7/#22638 2 Likes 0 Score posted by EdDaBoss http://www.smogon.com/forums/threads/ou-mega-scizor-cb-tyranitar-balance.3665396/page-1#post-8487051 ===
+
+Clamps (Scizor-Mega) (M) @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 16 Def / 244 SpD  
+Impish Nature  
+- Swords Dance  
+- Bullet Punch  
+- Roost  
+- U-turn
+
+Blue ??yster Cult (Tyranitar) (M) @ Choice Band  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 40 HP / 252 Atk / 48 SpD / 168 Spe  
+Adamant Nature  
+- Stone Edge  
+- Fire Punch  
+- Earthquake  
+- Pursuit
+
+Supercell (Tornadus-Therian) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 88 HP / 160 SpA / 8 SpD / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- Defog  
+- Taunt
+
+Venomax (Toxapex) (M) @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Haze  
+- Recover  
+- Toxic
+
+Sparkles (Gliscor) (M) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 52 Def / 76 SpD / 136 Spe  
+Jolly Nature  
+- Earthquake  
+- Toxic  
+- Stealth Rock  
+- Roost
+
+hot mess (Heatran) (M) @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 4 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Toxic  
+- Earth Power  
+- Taunt
+
+
+
+
+=== [gen7] Gen 7/#22639 3 Likes 0 Score posted by maroon http://www.smogon.com/forums/threads/monotype-normal-evio-defense.3662299/page-1#post-8421912 ===
+
+Lopunny-Mega @ Lopunnite
+Ability: Scrappy
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Power-Up Punch
+- Return
+- High Jump Kick
+- Encore
+
+Chansey (F) @ Eviolite
+Ability: Natural Cure
+EVs: 248 HP / 252 Def / 8 SpD
+Bold Nature
+IVs: 0 Atk
+- Toxic
+- Seismic Toss
+- Stealth Rock
+- Soft-Boiled
+
+Porygon2 @ Eviolite
+Ability: Download
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Recover
+- Ice Beam
+- Discharge
+- Hidden Power [Fire]
+
+Staraptor @ Leftovers
+Ability: Intimidate
+EVs: 240 HP / 252 Def / 16 Spe
+Impish Nature
+- Roost
+- Defog
+- Brave Bird
+- U-turn
+
+Porygon-Z @ Normalium Z
+Ability: Download
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Shadow Ball
+- Ice Beam
+- Conversion
+- Thunderbolt
+
+Ditto @ Choice Scarf
+Ability: Imposter
+EVs: 252 HP / 4 Atk / 252 Def
+IVs: 30 Atk / 30 SpA / 0 Spe
+Relaxed Nature
+- Transform
+
+
+
+
+
+
+=== [gen7] Gen 7/#22640 2 Likes 0 Score posted by Ophion http://www.smogon.com/forums/threads/rmt-mega-scizor-ho-team-first-ou-team.3663831/page-1#post-8457266 ===
+
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 16 Def / 244 SpD  
+Impish Nature  
+- U-turn  
+- Bullet Punch  
+- Swords Dance  
+- Roost  
+
+Greninja-Ash (M) @ Waterium Z  
+Ability: Battle Bond  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Kommo-o @ Leftovers  
+Ability: Bulletproof  
+EVs: 252 HP / 116 SpD / 140 Spe  
+Careful Nature  
+- Stealth Rock  
+- Toxic  
+- Protect  
+- Drain Punch  
+
+Rotom-Wash @ Wiki Berry  
+Ability: Levitate  
+EVs: 252 HP / 164 Def / 84 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Defog  
+
+Landorus-Therian (M) @ Choice Scarf  
+Ability: Intimidate  
+EVs: 232 Atk / 68 Def / 208 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Stone Edge  
+- Hidden Power [Ice]
+
+Reuniclus @ Life Orb  
+Ability: Magic Guard  
+EVs: 144 HP / 252 Def / 76 SpA / 36 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Future Sight  
+- Recover  
+
+
+
+
+
+=== [gen7] Gen 7/#22641 2 Likes 0 Score posted by Diophantine http://www.smogon.com/forums/threads/my-first-team-for-gen-7-ou.3663364/page-1#post-8451845 ===
+
+Scizor @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 40 Def / 220 SpD  
+Impish Nature  
+- Swords Dance  
+- Bullet Punch  
+- Roost  
+- Bug Bite  
+
+Excadrill @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Rapid Spin  
+- Earthquake  
+- Rock Tomb  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 96 HP / 252 Atk / 36 SpD / 124 Spe  
+Adamant Nature  
+- Acrobatics  
+- Swords Dance  
+- High Jump Kick  
+- Roost  
+
+Tapu Koko @ Light Clay  
+Ability: Electric Surge  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Taunt  
+- Light Screen  
+- Reflect  
+
+Magearna @ Shuca Berry  
+Ability: Soul-Heart  
+EVs: 20 HP / 252 SpA / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shift Gear  
+- Calm Mind  
+- Ice Beam  
+- Thunderbolt  
+
+Azumarill @ Normalium Z  
+Ability: Huge Power  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Belly Drum  
+- Aqua Jet  
+- Play Rough  
+- Knock Off  
+
+
+
+
+
+=== [gen7] Gen 7/#22642 2 Likes 0 Score posted by Diophantine http://www.smogon.com/forums/threads/rate-improve-my-team-my-last-competitive-matches-haves-been-in-d-p.3663032/page-1#post-8449829 ===
+
+Tapu Bulu @ Leftovers  
+Ability: Grassy Surge  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Swords Dance  
+- Horn Leech  
+- Superpower  
+- Synthesis  
+
+Heatran @ Firium Z  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+- Stealth Rock  
+
+Scizor-Mega @ Scizorite  
+Ability: Technician  
+EVs: 248 HP / 16 Def / 244 SpD  
+Impish Nature  
+- Swords Dance  
+- Bullet Punch  
+- Roost  
+- Superpower  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Defog  
+
+Nidoking (M) @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Ice Beam  
+- Sludge Wave  
+- Stealth Rock  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+
+
+
+
+
+=== [gen7] Gen 7/#22643 2 Likes 0 Score posted by Diophantine http://www.smogon.com/forums/threads/lando-no-mo-a-mega-pinsir-magnezone-balance-team.3662092/page-1#post-8443835 ===
+
+Pinsir-Mega (M) @ Pinsirite  
+Ability: Hyper Cutter  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Return  
+- Quick Attack  
+- Earthquake  
+
+Magnezone @ Assault Vest  
+Ability: Magnet Pull  
+EVs: 116 HP / 252 SpA / 140 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hidden Power [Fire]
+- Flash Cannon  
+- Discharge  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 16 Def / 12 SpA / 40 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Moonblast  
+- Scald  
+- Taunt  
+
+Garchomp @ Rockium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+
+Tornadus-Therian (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+- Knock Off  
+- U-turn  
+- Hurricane  
+- Grass Knot  
+
+Jirachi @ Choice Scarf  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Iron Head  
+- U-turn  
+- Healing Wish  
+- Energy Ball  
+
+
+
+
+
+=== [gen7] Gen 7/#22644 2 Likes 0 Score posted by StepC http://www.smogon.com/forums/threads/sun-moon-scarf-gren-mega-latios-low-1600s.3660521/page-1#post-8437284 ===
+
+ (Greninja) (M) @ Choice Scarf
+Ability: Protean
+EVs: 252 Atk / 4 SpA / 252 Spe
+Hasty Nature
+- U-turn
+- Gunk Shot
+- Ice Beam
+- Low Kick
+
+Latios-Mega (M) @ Latiosite
+Ability: Levitate
+EVs: 8 Def / 248 SpA / 252 Spe
+Naive Nature
+- Draco Meteor
+- Roost
+- Psychic
+- Earthquake
+
+Victini @ Normalium Z
+Ability: Victory Star
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Celebrate
+- Searing Shot
+- Stored Power
+- Focus Blast
+
+Tornadus-Therian (M) @ Rocky Helmet
+Ability: Regenerator
+EVs: 140 HP / 100 Def / 252 Spe
+Timid Nature
+- Defog
+- U-turn
+- Hurricane
+- Heat Weave
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+EVs: 244 HP / 52 Def / 76 SpD / 136 Spe
+Jolly Nature
+- Stealth Rock
+- Earthquake
+- Taunt
+- Roost
+
+Toxapex @ Black Sludge
+Ability: Regenerator
+EVs: 252 HP / 4 Def / 252 SpD
+Calm Nature
+- Scald
+- Haze
+- Recover
+- Toxic Spikes 
+
+
+
+
+
+=== [gen7] Gen 7/#22645 2 Likes 0 Score posted by StepC http://www.smogon.com/forums/threads/new-team-weather-checker-ou.3660010/page-1#post-8411207 ===
+
+Excadrill @ Steelium Z  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Stealth Rock  
+
+Alakazam @ Alakazite  
+Ability: Magic Guard  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Focus Blast  
+- Recover  
+- Calm Mind  
+
+Tyranitar @ Assault Vest  
+Ability: Sand Stream  
+EVs: 224 HP / 32 Atk / 252 SpD  
+Careful Nature  
+- Rock Slide  
+- Crunch  
+- Pursuit  
+- Earthquake  
+
+Magnezone @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 4 HP / 4 Def / 248 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Flash Cannon  
+- Volt Switch  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 188 Def / 72 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hidden Power [Ice]
+- Heat Wave  
+- Roost  
+
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 12 Def / 244 SpD  
+Sassy Nature  
+- Giga Drain  
+- Knock Off  
+- Hidden Power [Ice]
+- Earthquake  
+
+
+
+
+
+=== [gen7] Gen 7/#22646 1 Likes 0 Score posted by Cheezy http://www.smogon.com/forums/threads/usum-ou-reuniclus-team.3664237/page-1#post-8465988 ===
+
+Reuniclus @ Rocky Helmet  
+Ability: Magic Guard  
+EVs: 252 HP / 212 Def / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Acid Armor  
+- Psyshock  
+- Recover  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Haze  
+- Recover  
+- Toxic Spikes  
+
+Tyranitar-Mega @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 132 HP / 252 Atk / 124 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Stone Edge  
+- Pursuit  
+- Fire Punch  
+
+Thundurus-Therian (M) @ Choice Scarf  
+Ability: Volt Absorb  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Focus Blast  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Rapid Spin  
+- Toxic  
+- Recover  
+- Scald  
+
+Kyurem @ Steelium Z  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Roost  
+- Ice Beam  
+- Flash Cannon  
+- Substitute  
+
+
+
+
+
+=== [gen7] Gen 7/#22647 1 Likes 0 Score posted by HaHAAmirite? http://www.smogon.com/forums/threads/ou-mega-beedrill-voltturn.3662969/page-1#post-8442934 ===
+
+Beedrill-Mega @ Beedrillite  
+Ability: Sniper  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+IVs: 0 SpA  
+- Poison Jab  
+- Drill Run  
+- Knock Off  
+- U-turn  
+
+Greninja (M) @ Choice Scarf  
+Ability: Protean  
+EVs: 176 Atk / 80 SpA / 252 Spe  
+Hasty Nature  
+- Low Kick  
+- Ice Beam  
+- Rock Slide  
+- U-turn  
+
+Magnezone @ Choice Specs  
+Ability: Magnet Pull  
+EVs: 4 HP / 4 Def / 248 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Flash Cannon  
+- Hidden Power [Fire]
+- Volt Switch  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 184 SpD / 72 Spe  
+Careful Nature  
+IVs: 0 SpA  
+- Iron Head  
+- Stealth Rock  
+- U-turn  
+- Healing Wish  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 52 Def / 76 SpD / 136 Spe  
+Jolly Nature  
+IVs: 0 SpA  
+- Earthquake  
+- Roost  
+- Defog  
+- U-turn  
+
+Weavile @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Icicle Crash  
+- Pursuit  
+- Ice Shard
+
+
+
+
+=== [gen7] Gen 7/#22648 1 Likes 0 Score posted by Child Squad http://www.smogon.com/forums/threads/lando-no-mo-a-mega-pinsir-magnezone-balance-team.3662092/page-1#post-8416125 ===
+
+Pinsir-Mega (M) @ Pinsirite  
+Ability: Hyper Cutter  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Return  
+- Quick Attack  
+- Earthquake  
+
+Magnezone @ Assault Vest  
+Ability: Magnet Pull  
+EVs: 116 HP / 252 SpA / 140 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hidden Power [Fire]
+- Flash Cannon  
+- Discharge  
+
+Garchomp (M) @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Fire Blast  
+- Toxic  
+
+Starmie @ Colbur Berry  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Psyshock  
+- Rapid Spin  
+
+Porygon-Z @ Normalium Z  
+Ability: Adaptability  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Recover  
+- Conversion  
+
+Zoroark (M) @ Choice Scarf  
+Ability: Illusion  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Trick  
+- Knock Off  
+- Memento
+
+
+
+
+=== [gen7] Gen 7/#22649 1 Likes 0 Score posted by queen&amp;slim5 http://www.smogon.com/forums/threads/sun-moon-scarf-gren-mega-latios-low-1600s.3660521/page-1#post-8377535 ===
+
+FREE BOBBY SHMURDA (Greninja) (M) @ Choice Scarf  
+Ability: Protean  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- U-turn  
+- Gunk Shot  
+- Ice Beam  
+- Toxic Spikes  
+
+SMINO (Latios-Mega) (M) @ Latiosite  
+Ability: Levitate  
+EVs: 8 Def / 248 SpA / 252 Spe  
+Naive Nature  
+- Draco Meteor  
+- Roost  
+- Psychic  
+- Earthquake  
+
+TRINA (Victini) @ Normalium Z  
+Ability: Victory Star  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Celebrate  
+- Searing Shot  
+- Stored Power  
+- Focus Blast  
+
+CAROLINE (Excadrill) (F) @ Air Balloon  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Iron Head  
+- Earthquake  
+- Swords Dance  
+
+brocky balboa (Tornadus-Therian) (M) @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 140 HP / 100 Def / 252 Spe  
+Timid Nature  
+- Defog  
+- U-turn  
+- Hurricane  
+- Hidden Power [Ice]
+
+denice rodman (Toxapex) (F) @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 64 Def / 192 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Block  
+- Spite  
+- Recover  
+- Scald  
+
+
+
+
+
+=== [gen7] Gen 7/#22650 1 Likes 0 Score posted by ExDe707 http://www.smogon.com/forums/threads/sm-ou-revised-my-team-rmt.3659912/page-1#post-8362752 ===
+
+Excadrill @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Rapid Spin  
+- Earthquake  
+- Toxic  
+
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 12 Atk / 244 SpD  
+Sassy Nature  
+- Knock Off  
+- Giga Drain  
+- Sludge Bomb  
+- Hidden Power [Ice]
+
+Tapu Koko @ Shuca Berry  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Ice]
+- U-turn  
+- Taunt  
+
+Magnezone @ Electrium Z  
+Ability: Magnet Pull  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 1 Atk  
+- Hidden Power [Fire]
+- Thunderbolt  
+- Flash Cannon  
+- Substitute  
+
+Rotom-Wash @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Volt Switch  
+- Will-O-Wisp  
+- Pain Split  
+
+Medicham @ Medichamite  
+Ability: Telepathy  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Ice Punch  
+- Fake Out  
+- Zen Headbutt  
+- High Jump Kick  
+
+
+
+
+
+=== [gen7] Gen 7/#22651 1 Likes 0 Score posted by Gen1UUFan http://www.smogon.com/forums/threads/gen-7-monotype-poisonous-posse-mono-poison-offense.3659881/page-1#post-8362116 ===
+
+NSFW (Tentacruel) @ Black Sludge  
+Ability: Liquid Ooze  
+Shiny: Yes  
+EVs: 252 HP / 240 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Rapid Spin  
+- Confuse Ray  
+- Toxic Spikes  
+
+Goop (Muk-Alola) @ Assault Vest  
+Ability: Poison Touch  
+EVs: 4 HP / 252 Atk / 252 SpD  
+Adamant Nature  
+- Shadow Sneak  
+- Knock Off  
+- Fire Punch  
+- Poison Jab  
+
+GYAHHHHH (Crobat) @ Flyinium Z  
+Ability: Infiltrator  
+EVs: 252 HP / 64 Def / 192 Spe  
+Jolly Nature  
+- Brave Bird  
+- U-turn  
+- Roost  
+- Super Fang  
+
+Monsanto (Venusaur-Mega) @ Venusaurite  
+Ability: Thick Fat  
+EVs: 252 HP / 240 Def / 16 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Giga Drain  
+- Hidden Power [Fire]
+- Synthesis  
+- Leech Seed  
+
+HantreMn (Gengar) @ Choice Scarf  
+Ability: Cursed Body  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Trick  
+- Shadow Ball  
+- Sludge Wave  
+- Thunderbolt  
+
+HALT I AM REPTAR (Nidoking) @ Life Orb  
+Ability: Sheer Force  
+Shiny: Yes  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Earth Power  
+- Flamethrower  
+- Sludge Wave
+
+
+
+
+=== [gen7] Gen 7/#22652 1 Likes 0 Score posted by Azalesh http://www.smogon.com/forums/threads/monotype-fairy-team.3659566/page-1#post-8355905 ===
+
+Ninetales-Alola @ Light Clay
+Ability: Snow Warning
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Aurora Veil
+- Dark Pulse
+- Moonblast
+- Ice Beam
+
+Clefable @ Leftovers
+Ability: Unaware
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Cosmic Power
+- Moonlight
+- Toxic
+- Stored Power
+
+Sylveon @ Assault Vest
+Ability: Pixilate
+EVs: 252 HP / 4 SpA / 252 SpD
+IVs: 0 Atk
+- Hidden Power
+- Shadow Ball
+- Psyshock
+- Hyper Voice
+
+Mawile @ Fairium Z
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Swords Dance
+- Sucker Punch
+- Iron Head
+- Play Rough
+
+Gardevoir @ Gardevoirite
+Ability: Synchronize
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Substitute
+- Hidden Power
+- Psyshock
+- Calm Mind
+
+Primarina @ Choice Specs
+Ability: Liquid Voice
+EVs: 252 HP / 4 Atk / 252 SpA
+Quiet Nature
+- Sparkling Aria
+- Moonblast
+- Aqua Jet
+- Ice Beam
+
+
+
+
+=== [gen7] Gen 7/#22653 0 Likes 0 Score posted by dunderguy http://www.smogon.com/forums/threads/banded-sand-rush-excadrill-gravity.3666104/page-1#post-8505581 ===
+
+Excadrill (F) @ Choice Band  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Iron Head  
+- Rock Slide  
+- Fling  
+
+Hippowdon (F) @ Eject Button  
+Ability: Sand Stream  
+EVs: 252 HP / 108 Def / 144 SpD / 4 Spe  
+Impish Nature  
+- Stealth Rock  
+- Slack Off  
+- Earthquake  
+- Stone Edge  
+
+Gigalith (M) @ Eject Button  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Gravity  
+- Rock Blast  
+- Earthquake  
+- Explosion  
+
+Ferrothorn (M) @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Gravity  
+- Leech Seed  
+- Knock Off  
+- Gyro Ball  
+
+Tapu Fini @ Icium Z  
+Ability: Misty Surge  
+EVs: 248 HP / 32 Def / 156 SpD / 72 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Nature&#39;s Madness  
+- Brine  
+- Haze  
+
+Pidgeot (F) @ Pidgeotite  
+Ability: Big Pecks  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Heat Wave  
+- Roost  
+- U-turn  
+
+
+
+
+
+=== [gen7] Gen 7/#22654 0 Likes 0 Score posted by shadowpeashooter http://www.smogon.com/forums/threads/my-best-attempt-to-make-a-team-with-mega-latios-help.3669822/page-1#post-8586410 ===
+
+Chicken Plane (Latios-Mega) (M) @ Latiosite  
+Ability: Levitate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Psychic  
+- Earthquake  
+- Ice Beam  
+- Roost  
+
+Lawnmower (Kartana) @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Blade  
+- Sacred Sword  
+- Smart Strike  
+- Knock Off  
+
+Sunrise (Volcarona) @ Buginium Z  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Quiver Dance  
+- Fire Blast  
+- Bug Buzz  
+- Giga Drain  
+
+Robot (Magearna) @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Sassy Nature  
+IVs: 0 Spe  
+- Volt Switch  
+- Flash Cannon  
+- Fleur Cannon  
+- Focus Blast  
+
+Lightning Stick (Tapu Fini) @ Leftovers  
+Ability: Misty Surge  
+EVs: 252 HP / 12 SpA / 52 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Nature???s Madness  
+- Scald  
+- Taunt  
+
+Flying Scorp (Gliscor) @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 100 Def / 28 SpD / 136 Spe  
+Jolly Nature  
+- Earthquake  
+- Stealth Rock  
+- Toxic  
+- Roost  
+
+
+
+
+
+=== [gen7] Gen 7/#22655 0 Likes 0 Score posted by Van Du http://www.smogon.com/forums/threads/balanced-secret-room-gen-7-ou-usum.3672247/page-1#post-8636635 ===
+
+Treasure (Sableye) @ Sablenite  
+Ability: Prankster  
+Shiny: Yes  
+EVs: 248 HP / 252 Def / 4 SpD / 4 Spe  
+Impish Nature  
+- Knock Off  
+- Foul Play  
+- Will-O-Wisp  
+- Recover  
+
+Fake Chest (Tapu Fini) @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 16 Def / 12 SpA / 40 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Whirlpool  
+- Nature&#39;s Madness  
+- Defog  
+- Taunt  
+
+Acient Flame (Volcarona) @ Firium Z  
+Ability: Flame Body  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Fiery Dance  
+- Hidden Power [Ground]
+- Giga Drain  
+
+Dragonrise (Dragonite) @ Weakness Policy  
+Ability: Multiscale  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Extreme Speed  
+- Earthquake  
+- Fire Punch  
+
+Tomb Raider (Marowak-Alola) (M) @ Thick Club  
+Ability: Lightning Rod  
+Shiny: Yes  
+EVs: 248 HP / 252 Atk / 4 SpD / 4 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Bonemerang  
+- Shadow Bone  
+- Stealth Rock  
+
+Secret Room (Klefki) @ Light Clay  
+Ability: Prankster  
+EVs: 248 HP / 4 Def / 252 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Spikes  
+- Light Screen  
+- Reflect  
+
+
+
+
+
+=== [gen7] Gen 7/#22656 0 Likes 0 Score posted by Subero747 http://www.smogon.com/forums/threads/gen-7-ou-team.3663551/page-1#post-8452759 ===
+
+Alakazam-Mega (M) @ Alakazite
+Ability: Trace
+Shiny: Yes
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Psychic
+- Focus Blast
+- Recover
+- Shadow Ball
+
+Tapu Lele @ Choice Specs
+Ability: Psychic Surge
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Moonblast
+- Psychic
+- Focus Blast
+- Psyshock
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 200 Def / 56 Spe
+Bold Nature
+IVs: 0 Atk
+- Will-O-Wisp
+- Pain Split
+- Hydro Pump
+- Volt Switch
+
+Heatran @ Leftovers
+Ability: Flash Fire
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Earth Power
+- Stealth Rock
+- Magma Storm
+- Flash Cannon
+
+
+Tapu Bulu @ Leftovers  
+Ability: Grassy Surge  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Swords Dance  
+- Horn Leech  
+- Superpower  
+- Synthesis
+
+
+Landorus-Therian @ Choice Scarf
+Ability: Intimidate
+EVs: 80 HP / 148 Atk / 84 Def / 196 Spe
+Jolly Nature
+- Earthquake
+- U-turn
+- Stone Edge
+- Explosion
+
+
+
+
+=== [gen7] Gen 7/#22657 0 Likes 0 Score posted by shadowpeashooter http://www.smogon.com/forums/threads/tapu-tapu-volcarona-team.3667798/page-1#post-8546729 ===
+
+Kokonut (Tapu Koko) @ Shuca Berry 
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Thunderbolt 
+- Volt Switch 
+- Hidden Power [Ice]
+- Roost 
+
+Blockhead (Landorus-Therian) @ Rocky Helmet 
+Ability: Intimidate  
+EVs: 252 HP / 112 Def / 144 Spe 
+Impish Nature 
+- Earthquake 
+- Defog 
+- U-turn 
+- Hidden Power [Ice]
+
+Sunrise (Volcarona) @ Buginium Z 
+Ability: Flame Body 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Quiver Dance 
+- Fire Blast 
+- Bug Buzz 
+- Hidden Power [Ground]
+
+Ugly Pants (Medicham) @ Medichamite 
+Ability: Telepathy 
+Hidden Power: Water 
+EVs: 252 Atk / 4 Def / 252 Spe 
+Jolly Nature 
+- Fake Out 
+- High Jump Kick 
+- Thunder Punch 
+- Ice Punch 
+
+Lightning Stick (Tapu Fini) @ Leftovers 
+Ability: Misty Surge 
+EVs: 248 HP / 16 Def / 12 SpA / 40 SpD / 192 Spe 
+Calm Nature 
+IVs: 0 Atk 
+- Defog 
+- Moonblast 
+- Scald 
+- Taunt
+
+Hug Me (Ferrothorn) @ Leftovers 
+Ability: Iron Barbs 
+EVs: 252 HP / 24 Def / 232 SpD 
+Sassy Nature 
+IVs: 0 Spe 
+- Stealth Rock 
+- Leech Seed 
+- Power Whip 
+- Gyro Ball
+
+
+
+
+=== [gen7] Gen 7/#22658 0 Likes 0 Score posted by Flatemo http://www.smogon.com/forums/threads/stall-in-ubers-lmao.3671448/page-1#post-8618347 ===
+
+Slowbro @ Slowbronite  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Slack Off  
+- Ice Beam  
+- Toxic  
+- Iron Defense  
+
+Muk-Alola @ Assault Vest  
+Ability: Poison Touch  
+EVs: 252 HP / 80 Atk / 176 SpD  
+Adamant Nature  
+- Clear Smog  
+- Knock Off  
+- Pursuit  
+- Shadow Sneak  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 4 HP / 252 Def / 252 SpD  
+Bold Nature  
+- Soft-Boiled  
+- Heal Bell  
+- Toxic  
+- Wish  
+
+Arceus-Water @ Splash Plate  
+Ability: Multitype  
+EVs: 248 HP / 136 Def / 124 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Defog  
+- Ice Beam  
+- Judgment  
+- Recover  
+
+Ho-Oh @ Life Orb  
+Ability: Regenerator  
+EVs: 248 HP / 208 Atk / 52 SpD  
+Adamant Nature  
+- Brave Bird  
+- Sacred Fire  
+- Recover  
+- Substitute  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+EVs: 136 HP / 168 Atk / 52 SpD / 152 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Swords Dance  
+- Precipice Blades  
+- Rock Tomb  
+
+
+
+
+
+=== [gen7] Gen 7/#22659 0 Likes 0 Score posted by shadowpeashooter http://www.smogon.com/forums/threads/which-one-has-z-hyper-offense-suicide-squad.3671263/page-1#post-8621120 ===
+
+Tapu Koko @ Shuca Berry  
+Ability: Electric Surge  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+- Defog  
+- Roost  
+- Taunt  
+- Thunderbolt  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Psychic  
+- Psyshock  
+- Moonblast  
+- Hidden Power [Fire]
+
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Psychic  
+- Focus Blast  
+- Shadow Ball  
+- Recover  
+
+Greninja-Ash (M) @ Waterium Z  
+Ability: Battle Bond  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Hawlucha @ Psychic Seed  
+Ability: Unburden  
+EVs: 104 HP / 252 Atk / 152 Spe  
+Adamant Nature  
+- Substitute  
+- Acrobatics  
+- Swords Dance  
+- High Jump Kick  
+
+Landorus-Therian @ Focus Sash  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Explosion  
+- U-Turn  
+
+
+
+
+
+=== [gen7] Gen 7/#22660 0 Likes 0 Score posted by Diophantine http://www.smogon.com/forums/threads/rate-this-gen7-ou-sand-based-team.3662161/page-1#post-8452733 ===
+
+Tyranitar @ Assault Vest  
+Ability: Sand Stream  
+EVs: 224 HP / 32 Atk / 252 SpD  
+Careful Nature  
+- Rock Slide  
+- Crunch  
+- Pursuit  
+- Earthquake  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 232 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Stealth Rock  
+- Leech Seed  
+- Gyro Ball  
+- Power Whip  
+
+Skarmory @ Shed Shell  
+Ability: Sturdy  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+IVs: 0 Atk  
+- Defog  
+- Roost  
+- Counter  
+- Spikes  
+
+Diancie @ Diancite  
+Ability: Clear Body  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Diamond Storm  
+- Moonblast  
+- Earth Power  
+- Protect  
+
+Excadrill @ Normalium Z  
+Ability: Sand Rush  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Iron Head  
+- Giga Impact  
+
+Magnezone @ Choice Specs  
+Ability: Magnet Pull  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Flash Cannon  
+- Volt Switch  
+
+
+
+
+
+=== [gen7] Gen 7/#22661 0 Likes 0 Score posted by peach_nair http://www.smogon.com/forums/threads/psychic-spam-z-dig-greninja-looking-to-improve.3666347/page-1#post-8513593 ===
+
+Alakazam @ Alakazite  
+Ability: Magic Guard  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Dazzling Gleam  
+- Recover  
+- Shadow Ball  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 112 Def / 144 Spe  
+Impish Nature  
+- Stealth Rock  
+- Defog  
+- Earthquake  
+- U-turn  
+
+Greninja @ Groundium Z  
+Ability: Protean  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Dig  
+- Ice Beam  
+- Gunk Shot  
+- U-turn  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Hidden Power [Fire]
+- Focus Blast  
+
+Magnezone @ Choice Specs  
+Ability: Magnet Pull  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Flash Cannon  
+- Volt Switch  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 232 SpD  
+Careful Nature  
+- Spikes  
+- Leech Seed  
+- Protect  
+- Power Whip  
+
+
+
+
+

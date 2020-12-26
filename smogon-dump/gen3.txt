@@ -1,0 +1,9454 @@
+=== [gen3] Gen 3/#20715 106 Likes 60 Score posted by Teclis http://www.smogon.com/forums/threads/timeless-adventure-a-1k-rmt.3671930/page-1#post-8627548 ===
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 248 HP / 116 Def / 144 Spe
+Impish Nature
+- Hidden Power [Fighting]
+- Swords Dance
+- Baton Pass
+- Recover
+
+Porygon2 @ Leftovers
+Ability: Trace
+EVs: 248 HP / 196 Def / 64 SpD
+Bold Nature
+IVs: 0 Atk
+- Ice Beam
+- Thunder Wave
+- Rain Dance
+- Recover
+
+Heracross @ Salac Berry
+Ability: Swarm
+EVs: 12 HP / 244 Atk / 252 Spe
+Adamant Nature
+- Megahorn
+- Rock Slide
+- Swords Dance
+- Substitute
+
+Magneton @ Magnet
+Ability: Magnet Pull
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Thunderbolt
+- Hidden Power [Fire]
+- Thunder Wave
+- Toxic
+
+Metagross @ Lum Berry
+Ability: Clear Body
+EVs: 252 Atk / 136 Def / 120 Spe
+Adamant Nature
+- Meteor Mash
+- Earthquake
+- Explosion
+- Agility
+
+Snorlax @ Leftovers
+Ability: Immunity
+EVs: 8 HP / 252 Atk / 136 Def / 100 SpD / 12 Spe
+Adamant Nature
+- Body Slam
+- Brick Break
+- Shadow Ball
+- Self-Destruct
+
+
+
+
+
+=== [gen3] Gen 3/#20716 106 Likes 60 Score posted by Teclis http://www.smogon.com/forums/threads/timeless-adventure-a-1k-rmt.3671930/page-1#post-8627548 ===
+
+komodo (Metagross) @ Leftovers  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 112 HP / 244 Atk / 152 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Agility  
+- Explosion  
+
+saddummence (Salamence) @ Leftovers  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Hidden Power [Flying]
+- Earthquake  
+- Rock Slide  
+
+NOTAQTDOL (Claydol) @ Leftovers  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Psychic  
+- Explosion  
+
+The Big Fat Kill (Snorlax) @ Leftovers  
+Ability: Immunity  
+EVs: 16 HP / 176 Atk / 120 Def / 160 SpD / 36 Spe  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Shadow Ball  
+- Self-Destruct  
+
+Magdalene (Magneton) @ Magnet  
+Ability: Magnet Pull  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Toxic  
+
+celeboops! (Celebi) @ Leftovers  
+Ability: Natural Cure  
+EVs: 240 HP / 36 Def / 12 SpD / 220 Spe  
+Jolly Nature  
+- Swords Dance  
+- Hidden Power [Rock]
+- Baton Pass  
+- Recover  
+
+
+
+
+
+=== [gen3] Gen 3/#20717 106 Likes 60 Score posted by Teclis http://www.smogon.com/forums/threads/timeless-adventure-a-1k-rmt.3671930/page-1#post-8627548 ===
+
+dance more (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 16 Def / 240 SpA  
+Quiet Nature  
+- Crunch  
+- Pursuit  
+- Ice Beam  
+- Brick Break  
+
+rainbow girl (Celebi) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 76 Def / 144 SpD / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Recover  
+- Swords Dance  
+- Baton Pass  
+
+friendzoned (Magneton) @ Magnet  
+Ability: Magnet Pull  
+EVs: 252 SpA / 40 SpD / 216 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Thunder Wave  
+- Substitute  
+
+pretty rave girl (Swampert) (F) @ Leftovers  
+Ability: Torrent  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Hydro Pump  
+- Ice Beam  
+- Earthquake  
+- Focus Punch  
+
+scary movie (Metagross) @ Lum Berry  
+Ability: Clear Body  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+- Agility  
+
+click bait (Aerodactyl) @ Liechi Berry  
+Ability: Rock Head  
+EVs: 12 HP / 244 Atk / 252 Spe  
+Jolly Nature  
+- Rock Slide  
+- Double-Edge  
+- Earthquake  
+- Substitute  
+
+
+
+
+
+=== [gen3] Gen 3/#20718 106 Likes 60 Score posted by Teclis http://www.smogon.com/forums/threads/timeless-adventure-a-1k-rmt.3671930/page-1#post-8627548 ===
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 80 Atk / 176 Spe  
+Jolly Nature  
+- Swords Dance  
+- Baton Pass  
+- Shadow Ball  
+- Recover  
+
+Milotic @ Leftovers  
+Ability: Marvel Scale  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Surf  
+- Hypnosis  
+- Recover  
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 252 Atk / 112 SpD / 144 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Hidden Power [Flying]
+- Earthquake  
+- Rock Slide  
+
+Magneton @ Magnet  
+Ability: Magnet Pull  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Thunder Wave  
+- Swagger  
+
+Metagross @ Salac Berry  
+Ability: Clear Body  
+EVs: 52 HP / 252 Atk / 204 Spe  
+Jolly Nature  
+- Endure  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 144 HP / 216 Atk / 68 Def / 80 SpD  
+Adamant Nature  
+- Return  
+- Earthquake  
+- Shadow Ball  
+- Self-Destruct  
+
+
+
+
+
+=== [gen3] Gen 3/#20719 106 Likes 60 Score posted by Teclis http://www.smogon.com/forums/threads/timeless-adventure-a-1k-rmt.3671930/page-1#post-8627548 ===
+
+Boundless Sea (Milotic) @ Leftovers  
+Ability: Marvel Scale  
+EVs: 248 HP / 212 Def / 48 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Hypnosis  
+- Surf  
+- Ice Beam  
+- Recover  
+
+One Autumn Leaf (Celebi) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 36 Def / 220 Spe  
+Jolly Nature  
+- Swords Dance  
+- Hidden Power [Rock]
+- Baton Pass  
+- Recover  
+
+Empty Waves (Magneton) @ Magnet  
+Ability: Magnet Pull  
+EVs: 144 HP / 112 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Toxic  
+
+Demon Subduer (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 116 HP / 252 Atk / 140 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Agility  
+- Explosion  
+
+Receding Tides (Snorlax) @ Leftovers  
+Ability: Immunity  
+EVs: 92 HP / 116 Atk / 144 Def / 144 SpD / 12 Spe  
+Adamant Nature  
+- Body Slam  
+- Earthquake  
+- Shadow Ball  
+- Self-Destruct  
+
+Flowing Cloud (Gyarados) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Hidden Power [Flying]
+- Double-Edge  
+- Earthquake  
+- Dragon Dance  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20720 69 Likes 49 Score posted by watermess http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8655659 ===
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+Hidden Power: Bug  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Focus Punch  
+- Earthquake  
+- Double-Edge  
+
+Porygon2 @ Leftovers  
+Ability: Trace  
+EVs: 252 HP / 200 Def / 56 SpD  
+Bold Nature  
+- Recover  
+- Ice Beam  
+- Thunderbolt  
+- Thunder Wave  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 212 Def / 40 SpA
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Thunder Wave  
+- Recover  
+- Rapid Spin  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 220 SpD / 36 Spe  
+Calm Nature  
+IVs: 2 Atk / 30 SpA  
+- Psychic  
+- Leech Seed  
+- Hidden Power [Grass]
+- Recover  
+
+Metagross @ Choice Band  
+Ability: Clear Body  
+EVs: 128 HP / 252 Atk / 128 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Explosion  
+- Earthquake  
+- Brick Break  
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 24 Atk / 232 SpA / 252 Spe  
+Rash Nature  
+IVs: 30 Def / 30 SpA  
+- Hidden Power [Grass]
+- Fire Blast  
+- Brick Break  
+- Dragon Claw  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20721 69 Likes 49 Score posted by watermess http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8655659 ===
+
+Salamence @ Choice Band  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Hidden Power [Flying]
+- Rock Slide  
+- Earthquake  
+- Brick Break  
+
+Cacturne @ Leftovers  
+Ability: Sand Veil  
+EVs: 20 HP / 252 SpD / 236 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Substitute  
+- Giga Drain  
+- Spikes  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Pursuit  
+- Crunch  
+- Fire Blast  
+- Roar  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 68 HP / 252 SpA / 188 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Substitute  
+- Thunder Wave  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 76 Def / 148 SpD / 32 Spe  
+Careful Nature  
+- Hidden Power [Fighting]
+- Body Slam  
+- Protect  
+- Wish  
+
+Milotic @ Leftovers  
+Ability: Marvel Scale  
+EVs: 252 HP / 252 Def  
+Bold Nature  
+- Surf  
+- Recover  
+- Toxic  
+- Refresh  
+
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20722 69 Likes 49 Score posted by watermess http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8655659 ===
+
+Some strange sin (Venusaur) (M) @ Leftovers  
+Ability: Overgrow  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Sleep Powder  
+- Leech Seed  
+- Hidden Power [Fire]
+- Giga Drain  
+
+SpinMeRightRound (Claydol) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 216 Atk / 32 SpA / 8 Spe  
+Adamant Nature  
+- Rapid Spin  
+- Earthquake  
+- Psychic  
+- Explosion  
+
+The triangles (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Naughty Nature  
+- Substitute  
+- Focus Punch  
+- Crunch  
+- Thunder  
+
+The ugly duckling (Swampert) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Quiet Nature  
+- Hydro Pump  
+- Earthquake  
+- Ice Beam  
+- Focus Punch  
+
+Greninja69lmao (Blissey) (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 Def / 252 SpA  
+Bold Nature  
+- Wish  
+- Soft-Boiled  
+- Seismic Toss  
+- Ice Beam  
+
+Altina :messi: (Skarmory) @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 248 SpD / 12 Spe  
+Careful Nature  
+- Spikes  
+- Whirlwind  
+- Protect  
+- Toxic  
+
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20723 69 Likes 49 Score posted by watermess http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8655659 ===
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 236 Atk / 20 SpA / 252 Spe  
+Lonely Nature  
+- Dragon Dance  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Grass]
+
+Mantine @ Leftovers  
+Ability: Water Absorb  
+EVs: 252 HP / 152 SpA / 104 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Toxic  
+- Confuse Ray  
+
+Jolteon @ Leftovers  
+Ability: Volt Absorb  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Baton Pass  
+- Roar  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Spikes  
+- Roar  
+- Protect  
+- Drill Peck  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 76 HP / 252 Atk / 180 Spe  
+Jolly Nature  
+- Rock Slide  
+- Double-Edge  
+- Earthquake  
+- Hidden Power [Fighting]
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 232 HP / 252 SpA / 20 Spe  
+Quiet Nature  
+- Psychic  
+- Hidden Power [Fire]
+- Meteor Mash  
+- Explosion  
+
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20724 69 Likes 49 Score posted by watermess http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8655659 ===
+
+Hariyama @ Leftovers  
+Ability: Guts  
+EVs: 224 Atk / 252 Def / 32 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Cross Chop  
+- Focus Punch  
+- Knock Off  
+- Hidden Power [Bug]
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Spikes  
+- Drill Peck  
+- Protect  
+- Toxic  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 136 Atk / 100 Def / 20 Spe  
+Adamant Nature  
+- Protect  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+
+Blissey (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 Def / 236 SpA / 20 Spe  
+Bold Nature  
+- Seismic Toss  
+- Ice Beam  
+- Soft-Boiled  
+- Wish  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 184 HP / 196 Atk / 120 Def / 8 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Bug]
+- Roar  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 180 Def / 40 SpA / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Thunder Wave  
+- Recover  
+- Rapid Spin  
+
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20725 69 Likes 49 Score posted by watermess http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8655659 ===
+
+Raikou @ Lum Berry  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Toxic  
+- Substitute  
+- Hidden Power [Grass]
+
+Metagross @ Choice Band  
+Ability: Clear Body  
+EVs: 128 HP / 252 Atk / 128 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Explosion  
+- Earthquake  
+- Rock Slide  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 92 HP / 180 Atk / 112 Def / 112 SpD / 12 Spe  
+Adamant Nature  
+- Self-Destruct  
+- Body Slam  
+- Curse  
+- Shadow Ball  
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Beat Up  
+- Aerial Ace  
+- Hidden Power [Bug]
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Hidden Power [Flying]
+- Earthquake  
+- Rock Slide  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Calm Mind  
+- Psychic  
+- Hidden Power [Grass]
+- Fire Punch  
+
+
+
+
+
+=== [gen3] Gen 3/#20726 63 Likes 27 Score posted by Everything Is Something http://www.smogon.com/forums/threads/guiding-light-the-rise-of-lanturn-in-adv-ou.3670428/page-1#post-8596615 ===
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 176 Atk / 80 Def  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Protect  
+- Explosion  
+
+Lanturn @ Leftovers  
+Ability: Volt Absorb  
+EVs: 8 HP / 88 Def / 168 SpA / 84 SpD / 160 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Confuse Ray  
+
+Moltres @ Leftovers  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Flamethrower  
+- Hidden Power [Grass]
+- Will-O-Wisp  
+- Roar  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 244 SpD / 12 Spe  
+Careful Nature  
+IVs: 0 Atk  
+- Spikes  
+- Whirlwind  
+- Protect  
+- Toxic  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+EVs: 184 Atk / 136 SpA / 188 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Ice Punch  
+- Focus Punch  
+- Explosion  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 88 Def / 20 SpA / 116 SpD / 36 Spe  
+Calm Nature  
+IVs: 2 Atk / 30 SpA  
+- Hidden Power [Grass]
+- Psychic  
+- Recover  
+- Leech Seed  
+
+
+
+
+
+=== [gen3] Gen 3/#20727 63 Likes 27 Score posted by Everything Is Something http://www.smogon.com/forums/threads/guiding-light-the-rise-of-lanturn-in-adv-ou.3670428/page-1#post-8596615 ===
+
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Brick Break  
+- Fire Blast  
+- Ice Beam  
+- Hidden Power [Grass]
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 244 SpD / 12 Spe  
+Careful Nature  
+- Spikes  
+- Whirlwind  
+- Protect  
+- Toxic  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Rock Slide  
+- Double-Edge  
+- Earthquake  
+- Hidden Power [Flying]
+
+Metagross @ Choice Band  
+Ability: Clear Body  
+EVs: 128 HP / 252 Atk / 128 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Explosion  
+- Earthquake  
+- Rock Slide  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+EVs: 40 Def / 216 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Ice Punch  
+- Explosion  
+- Hidden Power [Grass]
+
+Lanturn (F) @ Leftovers  
+Ability: Volt Absorb  
+EVs: 208 SpA / 92 SpD / 208 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Protect  
+
+
+
+
+
+=== [gen3] Gen 3/#20728 63 Likes 27 Score posted by Everything Is Something http://www.smogon.com/forums/threads/guiding-light-the-rise-of-lanturn-in-adv-ou.3670428/page-1#post-8596615 ===
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 184 Atk / 152 SpA / 172 Spe  
+Lonely Nature  
+- Rock Slide  
+- Fire Blast  
+- Hidden Power [Grass]
+- Brick Break  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 248 SpD / 8 Spe  
+Careful Nature  
+IVs: 0 Atk  
+- Spikes  
+- Whirlwind  
+- Protect  
+- Toxic  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 208 HP / 216 Atk / 84 Def  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+- Protect  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+EVs: 40 Def / 216 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Ice Punch  
+- Explosion  
+- Hidden Power [Grass]
+
+Lanturn (F) @ Leftovers  
+Ability: Volt Absorb  
+EVs: 252 SpA / 48 SpD / 208 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Protect  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Rock Slide  
+- Double-Edge  
+- Earthquake  
+- Hidden Power [Flying]
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20729 54 Likes 20 Score posted by McMeghan http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8579585 ===
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 228 HP / 216 Def / 64 Spe  
+Bold Nature  
+- Calm Mind  
+- Surf  
+- Roar  
+- Rest  
+
+L??viator (Gyarados) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 64 Atk / 192 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Hidden Power [Flying]
+- Earthquake  
+- Rest  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 236 HP / 136 Def / 92 SpA / 44 Spe  
+Bold Nature  
+IVs: 2 Atk / 30 SpA  
+- Hidden Power [Grass]
+- Leech Seed  
+- Heal Bell  
+- Recover  
+
+Leuphorie (Blissey) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 Def / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder Wave  
+- Seismic Toss  
+- Soft-Boiled  
+
+Magn??ton (Magneton) @ Leftovers  
+Ability: Magnet Pull  
+EVs: 240 HP / 80 Def / 188 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Substitute  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Rain Dance  
+
+Kaorine (Claydol) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 68 Atk / 176 Def / 12 SpA  
+Impish Nature  
+- Psychic  
+- Earthquake  
+- Explosion  
+- Rapid Spin  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20730 54 Likes 20 Score posted by McMeghan http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8579585 ===
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 228 HP / 216 Def / 64 Spe  
+Bold Nature  
+- Calm Mind  
+- Surf  
+- Rest  
+- Roar  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 240 HP / 224 Def / 12 SpA / 32 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psychic  
+- Fire Punch  
+- Wish  
+
+Tyranocif (Tyranitar) (M) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Crunch  
+- Pursuit  
+- Fire Blast  
+- Ice Beam  
+
+Leuphorie (Blissey) @ Leftovers  
+Ability: Natural Cure  
+EVs: 112 HP / 252 Def / 144 Spe  
+Bold Nature  
+- Seismic Toss  
+- Counter  
+- Soft-Boiled  
+- Aromatherapy  
+
+Triopikeur (Dugtrio) (F) @ Choice Band  
+Ability: Arena Trap  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Bug]
+- Aerial Ace  
+
+Kaorine (Claydol) @ Leftovers  
+Ability: Levitate  
+EVs: 200 HP / 152 Atk / 12 SpA / 144 Spe  
+Jolly Nature  
+- Psychic  
+- Earthquake  
+- Rapid Spin  
+- Explosion  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20731 54 Likes 20 Score posted by McMeghan http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8579585 ===
+
+Tyranocif (Tyranitar) (M) @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 244 SpA / 24 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Pursuit  
+- Crunch  
+- Thunder Wave  
+- Ice Beam  
+
+Cacturne (M) @ Leftovers  
+Ability: Sand Veil  
+EVs: 32 HP / 244 SpD / 232 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Substitute  
+- Leech Seed  
+- Hidden Power [Grass]
+- Spikes  
+
+Magn??ton (Magneton) @ Leftovers  
+Ability: Magnet Pull  
+EVs: 240 HP / 80 Def / 20 SpA / 168 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Toxic  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Protect  
+
+Donphan @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 100 Def / 160 SpD  
+Impish Nature  
+- Earthquake  
+- Toxic  
+- Rapid Spin  
+- Protect  
+
+Milobellus (Milotic) (M) @ Leftovers  
+Ability: Marvel Scale  
+EVs: 252 HP / 240 Def / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Refresh  
+- Toxic  
+- Recover  
+
+Pt??ra (Aerodactyl) (M) @ Choice Band  
+Ability: Rock Head  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Hidden Power [Bug]
+- Double-Edge  
+- Rock Slide  
+- Earthquake  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20732 54 Likes 20 Score posted by McMeghan http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8579585 ===
+
+Tyranocif (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Substitute  
+- Focus Punch  
+- Rock Slide  
+- Hidden Power [Bug]
+
+??lecthor (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 236 HP / 96 SpA / 176 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Thunder Wave  
+- Hidden Power [Ice]
+- Toxic  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 36 Def / 84 SpA / 136 Spe  
+Modest Nature  
+- Body Slam  
+- Fire Punch  
+- Substitute  
+- Hidden Power [Grass]
+
+Staross (Starmie) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 40 Def / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Thunder Wave  
+- Rapid Spin  
+- Recover  
+
+Leuphorie (Blissey) (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 120 HP / 252 Def / 136 Spe  
+Bold Nature  
+- Soft-Boiled  
+- Counter  
+- Seismic Toss  
+- Wish  
+
+Laggron (Swampert) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 232 Def / 24 SpD  
+Relaxed Nature  
+- Earthquake  
+- Ice Beam  
+- Curse  
+- Protect  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20733 54 Likes 20 Score posted by McMeghan http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8579585 ===
+
+Hiemis (Raikou) @ Lum Berry  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 Def  
+- Substitute  
+- Thunderbolt  
+- Toxic  
+- Hidden Power [Ice]
+
+Insidia (Dugtrio) @ Choice Band  
+Ability: Arena Trap  
+EVs: 8 HP / 236 Atk / 40 SpD / 224 Spe  
+Jolly Nature  
+- Earthquake  
+- Aerial Ace  
+- Hidden Power [Bug]
+- Beat Up  
+
+Regnum (Tyranitar) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Hasty Nature  
+- Brick Break  
+- Fire Blast  
+- Ice Beam  
+- Hidden Power [Grass]
+
+Ibis (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Toxic  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Roar  
+
+Sicut (Porygon2) @ Leftovers  
+Ability: Trace  
+EVs: 252 HP / 208 Def / 48 SpD  
+Relaxed Nature  
+- Ice Beam  
+- Hidden Power [Fighting]
+- Thunder Wave  
+- Recover  
+
+Otium (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 40 Def / 152 SpA / 64 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Calm Mind  
+- Psychic  
+- Hidden Power [Grass]
+- Fire Punch  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20734 54 Likes 20 Score posted by McMeghan http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8579585 ===
+
+Aquali (Vaporeon) @ Leftovers  
+Ability: Water Absorb  
+EVs: 12 HP / 20 Def / 252 SpA / 224 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Substitute  
+- Baton Pass  
+
+Electhor (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Agility  
+- Hidden Power [Grass]
+- Baton Pass  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 240 HP / 64 Def / 24 SpA / 180 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Calm Mind  
+- Baton Pass  
+- Giga Drain  
+- Hidden Power [Fire]
+
+Porygon2 @ Leftovers  
+Ability: Trace  
+EVs: 252 HP / 224 Def / 32 SpA  
+Relaxed Nature  
+- Ice Beam  
+- Hidden Power [Fighting]
+- Recover  
+- Thunder Wave  
+
+Raikou @ Leftovers  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Substitute  
+- Thunderbolt  
+- Calm Mind  
+- Hidden Power [Grass]
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Psychic  
+- Hidden Power [Grass]
+- Fire Punch  
+- Calm Mind  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20735 45 Likes 19 Score posted by vapicuno http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8596647 ===
+
+Vaporeon @ Salac Berry  
+Ability: Water Absorb  
+EVs: 12 HP / 244 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Substitute  
+- Baton Pass  
+
+Breloom @ Leftovers  
+Ability: Effect Spore  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Hasty Nature  
+- Spore  
+- Stun Spore  
+- Sky Uppercut  
+- Hidden Power [Grass]
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 100 SpA / 156 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Substitute  
+- Calm Mind  
+- Ice Punch  
+- Thunder  
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+EVs: 8 HP / 252 Atk / 20 SpD / 228 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Aerial Ace  
+- Earthquake  
+- Hidden Power [Bug]
+- Rock Slide  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 16 HP / 176 Atk / 120 Def / 160 SpD / 36 Spe  
+Adamant Nature  
+- Self-Destruct  
+- Shadow Ball  
+- Body Slam  
+- Focus Punch  
+
+Charizard @ Petaya Berry  
+Ability: Blaze  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 30 HP / 30 SpA  
+- Substitute  
+- Fire Blast  
+- Hidden Power [Grass]
+- Focus Punch  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20736 45 Likes 19 Score posted by vapicuno http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8596647 ===
+
+Vaporeon @ Salac Berry  
+Ability: Water Absorb  
+EVs: 12 HP / 244 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Substitute  
+- Baton Pass  
+
+Magneton @ Magnet  
+Ability: Magnet Pull  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Thunder Wave  
+- Swagger  
+
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+EVs: 220 Atk / 36 SpA / 252 Spe  
+Lonely Nature  
+- Dragon Dance  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Grass]
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 80 HP / 184 Atk / 116 Def / 116 SpD / 12 Spe  
+Adamant Nature  
+- Curse  
+- Self-Destruct  
+- Shadow Ball  
+- Body Slam  
+
+Ninjask @ Liechi Berry  
+Ability: Speed Boost  
+Happiness: 0  
+EVs: 228 HP / 240 Atk / 20 SpD / 20 Spe  
+Jolly Nature  
+- Swords Dance  
+- Hidden Power [Rock]
+- Baton Pass  
+- Substitute  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 128 HP / 252 Atk / 128 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Substitute  
+- Rock Slide  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20737 39 Likes 15 Score posted by Mana http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8584595 ===
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 248 HP / 188 Atk / 8 Def / 32 SpD / 32 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Focus Punch  
+- Hidden Power [Grass]
+
+Swampert @ Leftovers  
+Ability: Torrent  
+EVs: 248 HP / 56 Def / 160 SpA / 44 SpD  
+Relaxed Nature  
+- Hydro Pump  
+- Ice Beam  
+- Earthquake  
+- Protect  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Drill Peck  
+- Taunt  
+- Roar  
+- Spikes  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 76 SpD / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Punch  
+- Will-O-Wisp  
+- Taunt  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 76 Def / 60 SpA / 56 SpD / 68 Spe  
+Bold Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Giga Drain  
+- Hidden Power [Fire]
+- Recover  
+- Leech Seed  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Lonely Nature  
+- Thunderbolt  
+- Drill Peck  
+- Hidden Power [Fighting]
+- Agility  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20738 22 Likes 14 Score posted by johnnyg2 http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8648711 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 20 SpA / 100 SpD / 140 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Substitute  
+- Baton Pass  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 40 Def / 152 SpA / 68 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Psychic  
+- Hidden Power [Grass]
+- Calm Mind  
+- Fire Punch  
+
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 16 HP / 120 Atk / 120 Def / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Hidden Power [Bug]
+- Earthquake  
+- Dragon Dance  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 48 HP / 84 Atk / 200 SpD / 176 Spe  
+Hasty Nature  
+- Focus Punch  
+- Ice Punch  
+- Will-O-Wisp  
+- Explosion  
+
+Breloom @ Leftovers  
+Ability: Effect Spore  
+Shiny: Yes  
+EVs: 248 HP / 16 Atk / 56 SpD / 188 Spe  
+Adamant Nature  
+- Spore  
+- Focus Punch  
+- Sky Uppercut  
+- Stun Spore  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+Shiny: Yes  
+EVs: 24 HP / 176 Atk / 108 Def / 184 SpD / 16 Spe  
+Adamant Nature  
+- Return  
+- Self-Destruct  
+- Earthquake  
+- Curse  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20739 22 Likes 14 Score posted by johnnyg2 http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8648711 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 196 SpD / 64 Spe  
+Calm Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Thunder Wave  
+- Hidden Power [Grass]
+- Baton Pass  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Psychic  
+- Calm Mind  
+- Hidden Power [Grass]
+- Fire Punch  
+
+Tyranitar @ Chesto Berry  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 200 HP / 184 Atk / 124 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Focus Punch  
+- Rest  
+
+Heracross  
+Ability: Guts  
+Shiny: Yes  
+EVs: 116 HP / 16 Atk / 192 SpD / 184 Spe  
+Adamant Nature  
+- Thief  
+- Megahorn  
+- Focus Punch  
+- Rock Slide  
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+Shiny: Yes  
+EVs: 8 HP / 232 Atk / 40 SpD / 228 Spe  
+Jolly Nature  
+IVs: 30 SpD / 30 Spe  
+- Earthquake  
+- Beat Up  
+- Aerial Ace  
+- Hidden Power [Bug]
+
+Suicune @ Leftovers  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 72 HP / 252 SpA / 184 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Toxic  
+- Ice Beam  
+- Calm Mind  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20740 24 Likes 14 Score posted by Opchurtle100 http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8636883 ===
+
+Blaziken @ Salac Berry
+Ability: Blaze
+EVs: 252 Atk / 4 SpA / 252 Spe
+Hasty Nature
+- Endure
+- Overheat
+- Rock Slide
+- Sky Uppercut
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 240 HP / 160 Def / 100 SpD / 8 Spe
+Bold Nature
+IVs: 0 Atk
+- Mirror Coat
+- Surf
+- Rest
+- Calm Mind
+
+Claydol @ Leftovers
+Ability: Levitate
+EVs: 108 Atk / 204 Def / 52 SpA / 144 Spe
+Naughty Nature
+- Sunny Day
+- Solar Beam
+- Rapid Spin
+- Earthquake
+
+Dugtrio @ Choice Band
+Ability: Arena Trap
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Aerial Ace
+- Hidden Power [Bug]
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 232 HP / 140 Def / 96 SpA / 40 Spe
+Timid Nature
+IVs: 2 Atk / 30 Def
+- Calm Mind
+- Baton Pass
+- Hidden Power [Ice]
+- Recover
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 144 Def / 112 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Hidden Power [Ice]
+- Agility
+- Roar
+
+
+
+
+=== [gen3] Ruins of Alph/#20741 30 Likes 14 Score posted by Gacu http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8607830 ===
+
+Venusaur @ Leftovers  
+Ability: Overgrow  
+EVs: 60 Def / 252 SpD / 196 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Roar  
+- Giga Drain  
+- Sleep Powder
+
+Swampert @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 216 Def / 40 SpA  
+Relaxed Nature  
+- Hydro Pump  
+- Earthquake  
+- Ice Beam  
+- Protect  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Spikes  
+- Roar  
+- Toxic  
+- Drill Peck  
+
+Magneton @ Magnet  
+Ability: Magnet Pull  
+EVs: 60 HP / 252 SpA / 196 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Crunch  
+- Counter  
+- Hidden Power [Grass]
+- Pursuit  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Earthquake  
+- Hidden Power [Flying]
+- Rock Slide  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20742 30 Likes 14 Score posted by Gacu http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8607830 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 100 HP / 252 SpA / 156 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Thunder Wave  
+- Hidden Power [Grass]
+- Baton Pass  
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+EVs: 8 HP / 252 Atk / 20 SpD / 228 Spe  
+Adamant Nature  
+- Aerial Ace  
+- Earthquake  
+- Hidden Power [Bug]
+- Beat Up  
+
+Jirachi @ Salac Berry  
+Ability: Serene Grace  
+EVs: 100 HP / 252 SpA / 156 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Endure  
+- Ice Punch  
+- Thunder  
+- Rain Dance  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 16 HP / 240 Atk / 116 Def / 116 SpD / 20 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Focus Punch  
+- Self-Destruct  
+
+Kingdra @ Leftovers  
+Ability: Swift Swim  
+EVs: 100 HP / 252 SpA / 156 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Substitute  
+- Ice Beam  
+- Hydro Pump  
+- Rain Dance  
+
+Heracross @ Salac Berry  
+Ability: Swarm  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+IVs: 30 Atk  
+- Substitute  
+- Swords Dance  
+- Megahorn  
+- Rock Slide  
+
+
+
+
+
+=== [gen3] Gen 3/#20743 32 Likes 14 Score posted by Siglut http://www.smogon.com/forums/threads/starmie-balance-hariyama.3670570/page-1#post-8599514 ===
+
+Salamence @ Choice Band  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Hidden Power [Flying]
+- Earthquake  
+- Rock Slide  
+- Brick Break  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 172 Def / 40 SpA / 32 SpD / 16 Spe  
+Bold Nature  
+- Surf  
+- Rapid Spin  
+- Recover  
+- Thunder Wave  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 40 Atk / 216 Def  
+Impish Nature  
+- Meteor Mash  
+- Earthquake  
+- Protect  
+- Explosion  
+
+Blissey (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 Def / 252 SpA / 4 Spe  
+Bold Nature  
+- Soft-Boiled  
+- Ice Beam  
+- Seismic Toss  
+- Wish  
+
+Hariyama @ Leftovers  
+Ability: Guts  
+EVs: 224 Atk / 252 Def / 32 Spe  
+Adamant Nature  
+- Knock Off  
+- Focus Punch  
+- Brick Break  
+- Rock Slide  
+
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Bug]
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20744 35 Likes 10 Score posted by PDC http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8556653 ===
+
+red lucifer rising (Moltres) @ Leftovers  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Roar  
+- Flamethrower  
+- Will-O-Wisp  
+- Hidden Power [Grass]
+
+black rain (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 248 HP / 12 Def / 216 SpA / 32 Spe  
+Quiet Nature  
+- Pursuit  
+- Crunch  
+- Counter  
+- Brick Break  
+
+midnight shooter (Forretress) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Rapid Spin  
+- Earthquake  
+- Explosion  
+- Spikes  
+
+deceitful wings (Salamence) @ Leftovers  
+Ability: Intimidate  
+EVs: 32 Atk / 224 SpA / 252 Spe  
+Rash Nature  
+- Dragon Claw  
+- Fire Blast  
+- Brick Break  
+- Roar  
+
+of the spirit (Swampert) @ Leftovers  
+Ability: Torrent  
+EVs: 248 HP / 216 Def / 44 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Refresh  
+- Surf  
+- Protect  
+- Toxic  
+
+identity (Blissey) (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 56 HP / 252 Def / 200 SpA  
+Bold Nature  
+- Wish  
+- Soft-Boiled  
+- Seismic Toss  
+- Ice Beam  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20745 35 Likes 10 Score posted by PDC http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8556653 ===
+
+ride the crimson (Hariyama) @ Leftovers  
+Ability: Guts  
+EVs: 100 Atk / 192 Def / 168 SpD / 48 Spe  
+Adamant Nature  
+- Brick Break  
+- Knock Off  
+- Hidden Power [Bug]
+- Focus Punch  
+
+momentary life (Celebi) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 36 Def / 20 SpA / 136 SpD / 64 Spe  
+Calm Nature  
+IVs: 2 Atk / 30 SpA  
+- Heal Bell  
+- Hidden Power [Grass]
+- Leech Seed  
+- Recover  
+
+red lucifer rising (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+Shiny: Yes  
+EVs: 252 HP / 216 Def / 4 SpA / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Water Pulse  
+- Psychic  
+- Wish  
+
+deceitful wings (Salamence) (F) @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Protect  
+- Toxic  
+- Wish  
+
+momentary life (Claydol) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 36 Atk / 136 Def / 84 SpD  
+Relaxed Nature  
+- Earthquake  
+- Ice Beam  
+- Psychic  
+- Rapid Spin  
+
+holy orders (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 96 Def / 8 SpD / 152 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Rest  
+- Roar  
+- Surf  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20746 35 Likes 10 Score posted by PDC http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8556653 ===
+
+Weezing @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 140 Def / 104 SpD / 16 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Will-O-Wisp  
+- Pain Split  
+- Haze  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 216 Def / 8 SpA / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psychic  
+- Fire Punch  
+- Calm Mind  
+- Wish  
+
+Moltres @ Leftovers  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Fire Blast  
+- Will-O-Wisp  
+- Hidden Power [Grass]
+- Protect  
+
+Claydol @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 216 Atk / 32 SpA / 8 Spe  
+Adamant Nature  
+- Earthquake  
+- Psychic  
+- Rapid Spin  
+- Explosion  
+
+Blissey (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 Def / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunderbolt  
+- Soft-Boiled  
+- Wish  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 196 Def / 64 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Calm Mind  
+- Roar  
+- Rest  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20747 35 Likes 10 Score posted by PDC http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8556653 ===
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 24 Atk / 252 SpA / 232 Spe  
+Mild Nature  
+- Thunder Punch  
+- Hidden Power [Grass]
+- Explosion  
+- Meteor Mash  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Drill Peck  
+- Hidden Power [Ground]
+- Spikes  
+- Roar  
+
+Blissey (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 48 HP / 252 Def / 200 SpA / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Sing  
+- Soft-Boiled  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Brick Break  
+- Ice Beam  
+- Fire Blast  
+- Hidden Power [Grass]
+
+Swampert @ Leftovers  
+Ability: Torrent  
+EVs: 248 HP / 216 Def / 44 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Toxic  
+- Protect  
+- Roar  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Rock Slide  
+- Double-Edge  
+- Earthquake  
+- Hidden Power [Flying]
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20748 26 Likes 10 Score posted by Dizno http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8592066 ===
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 76 Def / 160 SpD / 20 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic  
+- Fire Punch  
+- Wish  
+- Protect  
+
+Milotic @ Leftovers  
+Ability: Marvel Scale  
+EVs: 252 HP / 208 Def / 48 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Toxic  
+- Refresh  
+- Recover  
+
+Les Grossman (Hariyama) @ Leftovers  
+Ability: Guts  
+EVs: 232 Atk / 148 Def / 56 SpD / 72 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Brick Break  
+- Knock Off  
+- Focus Punch  
+- Hidden Power [Bug]
+
+Claydol @ Leftovers  
+Ability: Levitate  
+EVs: 208 HP / 152 Atk / 148 Spe  
+Jolly Nature  
+- Earthquake  
+- Psychic  
+- Rapid Spin  
+- Explosion  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 248 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Pursuit  
+- Crunch  
+- Fire Blast  
+- Roar  
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+EVs: 8 HP / 248 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Aerial Ace  
+- Hidden Power [Bug]
+- Rock Slide  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20749 26 Likes 10 Score posted by Dizno http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8592066 ===
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 16 Def / 220 SpA / 20 Spe  
+Modest Nature  
+- Substitute  
+- Focus Punch  
+- Crunch  
+- Fire Blast  
+
+Venusaur @ Leftovers  
+Ability: Overgrow  
+EVs: 8 HP / 248 SpA / 112 SpD / 140 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Sleep Powder  
+- Leech Seed  
+- Giga Drain  
+- Hidden Power [Fire]
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 240 HP / 232 SpD / 36 Spe  
+Careful Nature  
+- Spikes  
+- Roar  
+- Drill Peck  
+- Taunt  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Rock Slide  
+- Earthquake  
+- Double-Edge  
+- Hidden Power [Bug]
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Psychic  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 160 HP / 252 Atk / 96 Spe  
+Adamant Nature  
+- Agility  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20750 26 Likes 10 Score posted by Dizno http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8592066 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Thunder Wave  
+- Baton Pass  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 72 SpA / 184 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Substitute  
+- Calm Mind  
+- Ice Punch  
+- Thunder  
+
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+EVs: 244 Atk / 12 SpA / 252 Spe  
+Naughty Nature  
+- Dragon Dance  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Grass]
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Rock Slide  
+- Earthquake  
+- Double-Edge  
+- Hidden Power [Flying]
+
+Vaporeon @ Leftovers  
+Ability: Water Absorb  
+EVs: 12 HP / 244 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Hydro Pump  
+- Ice Beam  
+- Baton Pass  
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+EVs: 8 HP / 248 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Aerial Ace  
+- Hidden Power [Bug]
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20751 26 Likes 10 Score posted by Dizno http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8592066 ===
+
+Stegosaur (Tyranitar) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Hidden Power [Grass]
+- Fire Blast  
+- Brick Break  
+
+Neochanna (Swampert) @ Salac Berry  
+Ability: Torrent  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Substitute  
+- Endeavor  
+
+Crosshair (Metagross) @ Lum Berry  
+Ability: Clear Body  
+EVs: 160 HP / 236 SpA / 112 Spe  
+Quiet Nature  
+- Meteor Mash  
+- Psychic  
+- Hidden Power [Fire]
+- Explosion  
+
+No Mercy (Salamence) @ Leftovers  
+Ability: Intimidate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Dragon Claw  
+- Fire Blast  
+- Hidden Power [Grass]
+- Brick Break  
+
+Ted (Snorlax) @ Leftovers  
+Ability: Immunity  
+EVs: 32 HP / 220 Atk / 96 Def / 160 SpD  
+Adamant Nature  
+- Body Slam  
+- Focus Punch  
+- Shadow Ball  
+- Self-Destruct  
+
+Bell Gargoyle (Aerodactyl) @ Choice Band  
+Ability: Rock Head  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Earthquake  
+- Hidden Power [Bug]
+- Rock Slide  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20752 9 Likes 6 Score posted by kalifguest22 http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-2#post-8657294 ===
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 188 HP / 244 Atk / 76 Spe  
+Naughty Nature  
+- Roar  
+- Rock Slide  
+- Hidden Power [Grass]
+- Earthquake  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+IVs: 0 Atk  
+- Spikes  
+- Whirlwind  
+- Protect  
+- Toxic  
+
+Swampert @ Salac Berry  
+Ability: Torrent  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Endeavor  
+- Hydro Pump  
+- Roar  
+
+Hariyama @ Leftovers  
+Ability: Guts  
+EVs: 252 Atk / 196 Def / 60 SpD  
+Adamant Nature  
+- Knock Off  
+- Whirlwind  
+- Cross Chop  
+- Hidden Power [Bug]
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 68 HP / 252 SpA / 188 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Substitute  
+- Toxic  
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Aerial Ace  
+- Hidden Power [Bug]
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20753 62 Likes 6 Score posted by vapicuno http://www.smogon.com/forums/threads/the-spl-xi-advance-postseason-thread.3661528/page-1#post-8401197 ===
+
+Zapdos @ Leftovers 
+Ability: Pressure 
+EVs: 4 HP / 252 SpA / 252 Spe 
+Timid Nature 
+IVs: 2 Atk / 30 SpA 
+- Thunderbolt 
+- Hidden Power [Grass]
+- Metal Sound  
+- Roar 
+
+Magneton @ Magnet 
+Ability: Magnet Pull 
+EVs: 4 Def / 252 SpA / 252 Spe 
+Modest Nature 
+IVs: 2 Atk / 30 SpA / 30 Spe 
+- Thunderbolt 
+- Hidden Power [Fire]
+- Metal Sound 
+- Substitute 
+
+Celebi @ Leftovers 
+Ability: Natural Cure 
+EVs: 252 HP / 12 Def / 68 SpD / 176 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Psychic 
+- Calm Mind 
+- Leech Seed 
+- Baton Pass 
+
+Swampert @ Salac Berry 
+Ability: Torrent 
+EVs: 252 SpA / 4 SpD / 252 Spe 
+Timid Nature 
+IVs: 0 Atk 
+- Endeavor 
+- Substitute 
+- Surf 
+- Roar 
+
+Porygon2 @ Leftovers 
+Ability: Trace 
+EVs: 252 HP / 224 Def / 32 SpA 
+Relaxed Nature 
+- Ice Beam 
+- Hidden Power [Fighting]
+- Recover 
+- Thunder Wave 
+
+Jirachi @ Leftovers 
+Ability: Serene Grace 
+EVs: 252 HP / 40 Def / 64 SpA / 152 Spe 
+Modest Nature 
+IVs: 2 Atk / 30 Def / 30 SpA 
+- Calm Mind 
+- Psychic 
+- Hidden Power [Water]
+- Substitute
+
+
+
+
+=== [gen3] Ruins of Alph/#20754 46 Likes 4 Score posted by z0mOG http://www.smogon.com/forums/threads/the-spl-xi-advance-postseason-thread.3661528/page-1#post-8399807 ===
+
+dance more (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 16 Def / 240 SpA  
+Quiet Nature  
+- Crunch  
+- Pursuit  
+- Ice Beam  
+- Brick Break  
+
+rainbow girl (Celebi) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 76 Def / 144 SpD / 36 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Recover  
+- Swords Dance  
+- Baton Pass  
+
+friendzoned (Magneton) @ Magnet  
+Ability: Magnet Pull  
+EVs: 252 SpA / 40 SpD / 216 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Thunder Wave  
+- Substitute  
+
+pretty rave girl (Swampert) (F) @ Leftovers  
+Ability: Torrent  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Hydro Pump  
+- Ice Beam  
+- Earthquake  
+- Focus Punch  
+
+scary movie (Metagross) @ Lum Berry  
+Ability: Clear Body  
+EVs: 72 HP / 252 Atk / 184 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Explosion  
+- Agility  
+
+click bait (Aerodactyl) @ Liechi Berry  
+Ability: Rock Head  
+EVs: 12 HP / 244 Atk / 252 Spe  
+Jolly Nature  
+- Rock Slide  
+- Double-Edge  
+- Earthquake  
+- Substitute  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20755 46 Likes 4 Score posted by z0mOG http://www.smogon.com/forums/threads/the-spl-xi-advance-postseason-thread.3661528/page-1#post-8399807 ===
+
+Antonio Esfandiari (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 216 SpD / 40 Spe  
+Calm Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Rest  
+- Toxic  
+
+Phil Hellmuth Jr. (Breloom) @ Leftovers  
+Ability: Effect Spore  
+EVs: 8 HP / 252 Atk / 28 SpD / 220 Spe  
+Adamant Nature  
+- Focus Punch  
+- Spore  
+- Sky Uppercut  
+- Mach Punch  
+
+D-Negz (Swampert) (M) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 192 Def / 64 SpD  
+Relaxed Nature  
+- Earthquake  
+- Surf  
+- Ice Beam  
+- Protect  
+
+Jen Tilly (Blissey) (F) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Seismic Toss  
+- Toxic  
+- Wish  
+- Soft-Boiled  
+
+Tom &#34;Durrr&#34; Dwan (Forretress) @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature  
+- Hidden Power [Bug]
+- Spikes  
+- Rapid Spin  
+- Explosion  
+
+Phil Ivey (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 40 Def / 216 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Crunch  
+- Pursuit  
+- Roar  
+- Counter  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20756 46 Likes 4 Score posted by z0mOG http://www.smogon.com/forums/threads/the-spl-xi-advance-postseason-thread.3661528/page-1#post-8399807 ===
+
+do the krabby leg (Blaziken) @ Leftovers  
+Ability: Blaze  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Fire Blast  
+- Hidden Power [Grass]
+- Substitute  
+- Sky Uppercut  
+
+toxic, spike em (Breloom) @ Leftovers  
+Ability: Effect Spore  
+EVs: 8 HP / 252 Atk / 28 SpD / 220 Spe  
+Adamant Nature  
+- Spore  
+- Focus Punch  
+- Sky Uppercut  
+- Mach Punch  
+
+i&#39;m jiggly-puff (Snorlax) @ Leftovers  
+Ability: Immunity  
+Happiness: 0  
+EVs: 100 HP / 176 Atk / 68 Def / 152 SpD / 12 Spe  
+Adamant Nature  
+- Frustration  
+- Earthquake  
+- Focus Punch  
+- Self-Destruct  
+
+ar-bok ar-bok (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Thunder Wave  
+- Baton Pass  
+
+oooh catch them (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 248 HP / 32 Def / 220 SpA / 8 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Crunch  
+- Pursuit  
+- Ice Beam  
+- Fire Blast  
+
+&#34;daft dance video&#34; (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 248 HP / 76 Atk / 172 SpA / 12 Spe  
+Rash Nature  
+- Psychic  
+- Earthquake  
+- Explosion  
+- Thunder Punch  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20757 46 Likes 4 Score posted by z0mOG http://www.smogon.com/forums/threads/the-spl-xi-advance-postseason-thread.3661528/page-1#post-8399805 ===
+
+BRroROOOoSSzz (Salamence) @ Leftovers
+Ability: Intimidate
+EVs: 24 Atk / 232 SpA / 252 Spe
+Rash Nature
+- Dragon Claw
+- Brick Break
+- Roar
+- Fire Blast
+
+Ii AAMMMM (Gengar) @ Leftovers
+Ability: Levitate
+EVs: 248 HP / 88 Def / 20 SpA / 44 SpD / 108 Spe
+Timid Nature
+IVs: 2 Atk / 30 SpA
+- Fire Punch
+- Hidden Power [Grass]
+- Taunt
+- Will-O-Wisp
+
+SOoOOOIOO (Swampert) @ Leftovers
+Ability: Torrent
+EVs: 252 HP / 216 Def / 40 SpD
+Bold Nature
+IVs: 0 Atk
+- Surf
+- Refresh
+- Protect
+- Toxic
+
+FNURCKINGG (Skarmory) @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 244 SpD / 12 Spe
+Careful Nature
+- Spikes
+- Roar
+- Drill Peck
+- Toxic
+
+DRURNNKNKKKK (Blissey) @ Leftovers
+Ability: Natural Cure
+EVs: 104 HP / 252 Def / 152 SpA
+Bold Nature
+- Ice Beam
+- Toxic
+- Seismic Toss
+- Soft-Boiled
+
+OLOLL Tyarantira (Tyranitar) @ Leftovers
+Ability: Sand Stream
+EVs: 248 HP / 212 Atk / 48 Spe
+Adamant Nature
+- Focus Punch
+- Hidden Power [Bug]
+- Rock Slide
+- Earthquake
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20758 46 Likes 4 Score posted by z0mOG http://www.smogon.com/forums/threads/the-spl-xi-advance-postseason-thread.3661528/page-1#post-8399805 ===
+
+oHooH MyY GODD (Zapdos) @ Leftovers
+Ability: Pressure
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 2 Atk / 30 SpA
+- Thunderbolt
+- Hidden Power [Grass]
+- Thunder Wave
+- Baton Pass
+
+bBROOSSS (Metagross) @ Lum Berry
+Ability: Clear Body
+EVs: 240 HP / 252 Atk / 16 Spe
+Adamant Nature
+- Meteor Mash
+- Earthquake
+- Explosion
+- Hidden Power [Grass]
+
+IiII draneke SO (Snorlax) @ Leftovers
+Ability: Immunity
+Shiny: Yes
+Happiness: 0
+EVs: 52 HP / 176 Atk / 176 Def / 96 SpD / 8 Spe
+Adamant Nature
+- Frustration
+- Earthquake
+- Shadow Ball
+- Self-Destruct
+
+MUUCH BEEEEER (Suicune) @ Leftovers
+Ability: Pressure
+EVs: 248 HP / 96 SpA / 164 Spe
+Modest Nature
+IVs: 0 Atk
+- Surf
+- Ice Beam
+- Rest
+- Calm Mind
+
+BEEERRRRRR (Magneton) @ Magnet
+Ability: Magnet Pull
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA
+- Thunderbolt
+- Hidden Power [Grass]
+- Thunder Wave
+- Toxic
+
+yyep iIm zo drnuk (Salamence) @ Leftovers
+Ability: Intimidate
+EVs: 252 Atk / 76 SpD / 180 Spe
+Adamant Nature
+- Hidden Power [Flying]
+- Rock Slide
+- Earthquake
+- Dragon Dance
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20759 46 Likes 4 Score posted by z0mOG http://www.smogon.com/forums/threads/the-spl-xi-advance-postseason-thread.3661528/page-1#post-8399805 ===
+
+BRuTHERSZ!!! (Snorlax) (F) @ Leftovers
+Ability: Immunity
+Happiness: 0
+EVs: 52 HP / 176 Atk / 136 Def / 136 SpD / 8 Spe
+Adamant Nature
+- Frustration
+- Earthquake
+- Self-Destruct
+- Shadow Ball
+
+ID RUNK I DRUNK (Tyranitar) @ Leftovers
+Ability: Sand Stream
+EVs: 16 HP / 120 Atk / 120 Def / 252 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Hidden Power [Bug]
+- Dragon Dance
+
+BBEEER TIeM!!! (Magneton) @ Leftovers
+Ability: Magnet Pull
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA
+- Thunderbolt
+- Hidden Power [Grass]
+- Toxic
+- Thunder Wave
+
+LOtZa bEErE (Swampert) @ Leftovers
+Ability: Torrent
+EVs: 80 Atk / 176 SpA / 252 Spe
+Rash Nature
+- Hydro Pump
+- Earthquake
+- Ice Beam
+- Focus Punch
+
+B????????????rrRRrr (Gyarados) @ Leftovers
+Ability: Intimidate
+EVs: 52 HP / 252 Atk / 204 Spe
+Adamant Nature
+- Hidden Power [Flying]
+- Earthquake
+- Dragon Dance
+- Taunt
+
+wHiy`d iM drnko? (Metagross) @ Lum Berry
+Ability: Clear Body
+EVs: 240 HP / 252 Atk / 16 Spe
+Adamant Nature
+- Meteor Mash
+- Earthquake
+- Explosion
+- Hidden Power [Grass]
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20760 46 Likes 4 Score posted by z0mOG http://www.smogon.com/forums/threads/the-spl-xi-advance-postseason-thread.3661528/page-1#post-8399805 ===
+
+MyY NN-worDz (Hariyama) @ Leftovers  
+Ability: Thick Fat  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Knock Off  
+- Brick Break  
+- Rest  
+- Sleep Talk  
+
+LmfAO BErR? (Blissey) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Seismic Toss  
+- Thunder Wave  
+- Soft-Boiled  
+- Aromatherapy  
+
+iJDRUUNK druk (Vaporeon) @ Leftovers  
+Ability: Water Absorb  
+EVs: 252 HP / 228 Def / 28 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Haze  
+- Wish  
+- Protect  
+
+iM loOOpy sPinny (Claydol) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 124 Def / 40 SpA / 92 SpD  
+Relaxed Nature  
+- Refresh  
+- Earthquake  
+- Ice Beam  
+- Rapid Spin  
+
+cOrONa BEEr viruz (Skarmory) @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Spikes  
+- Roar  
+- Hidden Power [Ground]
+- Drill Peck  
+
+hwo iW edpu DrUK? (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 248 HP / 252 SpA / 8 Spe  
+Quiet Nature  
+- Crunch  
+- Pursuit  
+- Ice Beam  
+- Earthquake  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20761 46 Likes 4 Score posted by z0mOG http://www.smogon.com/forums/threads/the-spl-xi-advance-postseason-thread.3661528/page-1#post-8399805 ===
+
+Breloom @ Leftovers  
+Ability: Effect Spore  
+EVs: 8 HP / 244 Atk / 72 SpD / 184 Spe  
+Adamant Nature  
+- Spore  
+- Focus Punch  
+- Sky Uppercut  
+- Hidden Power [Ghost]
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Baton Pass  
+- Hidden Power [Grass]
+- Thunder Wave  
+
+Charizard @ Leftovers  
+Ability: Blaze  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Fire Blast  
+- Hidden Power [Grass]
+- Dragon Claw  
+- Focus Punch  
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 212 SpA / 44 SpD  
+Quiet Nature  
+- Psychic  
+- Hidden Power [Fire]
+- Explosion  
+- Pursuit  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+Happiness: 0  
+EVs: 44 HP / 176 Atk / 120 Def / 160 SpD / 8 Spe  
+Adamant Nature  
+- Frustration  
+- Counter  
+- Focus Punch  
+- Self-Destruct  
+
+Swampert @ Leftovers  
+Ability: Torrent  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Hydro Pump  
+- Ice Beam  
+- Earthquake  
+- Focus Punch  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20762 46 Likes 4 Score posted by z0mOG http://www.smogon.com/forums/threads/the-spl-xi-advance-postseason-thread.3661528/page-1#post-8399805 ===
+
+Kennen (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Thunder Wave  
+- Baton Pass  
+
+Malphite (Tyranitar) @ Chesto Berry  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 244 HP / 252 Atk / 12 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Rest  
+- Focus Punch  
+
+Kha&#39;Zix (Heracross) @ Leftovers  
+Ability: Guts  
+Shiny: Yes  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Focus Punch  
+- Megahorn  
+- Rock Slide  
+- Substitute  
+
+Anivia (Suicune) @ Leftovers  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Toxic  
+- Calm Mind  
+
+Lulu (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 72 HP / 252 SpA / 184 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Psychic  
+- Hidden Power [Grass]
+- Calm Mind  
+- Fire Punch  
+
+Taliyah (Dugtrio) @ Choice Band  
+Ability: Arena Trap  
+Shiny: Yes  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Aerial Ace  
+- Hidden Power [Bug]
+- Rock Slide  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20763 46 Likes 4 Score posted by z0mOG http://www.smogon.com/forums/threads/the-spl-xi-advance-postseason-thread.3661528/page-1#post-8399805 ===
+
+The Brutalizer (Salamence) @ Leftovers  
+Ability: Intimidate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+- Dragon Claw  
+- Fire Blast  
+- Brick Break  
+- Hidden Power [Grass]
+
+Sightstone (Claydol) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 184 Atk / 28 Def / 44 Spe  
+Brave Nature  
+- Earthquake  
+- Psychic  
+- Explosion  
+- Rapid Spin  
+
+Giant Slayer (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 236 HP / 216 Atk / 40 Def / 16 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Protect  
+- Explosion  
+
+Choco Chrispis (Snorlax) @ Leftovers  
+Ability: Immunity  
+Happiness: 0  
+EVs: 128 HP / 144 Atk / 124 Def / 96 SpD / 16 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Rest  
+- Self-Destruct  
+
+Ionic Spark (Magneton) @ Magnet  
+Ability: Magnet Pull  
+EVs: 252 SpA / 36 SpD / 220 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Toxic  
+- Thunder Wave  
+
+Frost Queens Claim (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Ice Beam  
+- Rest  
+- Calm Mind  
+
+
+
+
+
+=== [gen3] Gen 3/#20764 5 Likes 1 Score posted by JanieCox http://www.smogon.com/forums/threads/the-seven-cliche-sins-gen-3-ou.3667690/page-1#post-8544709 ===
+
+Gluttony (Metagross) @ Choice Band 
+
+Ability: Clear Body 
+
+EVs: 72 HP / 252 Atk / 184 Spe 
+
+Adamant Nature 
+
+- Meteor Mash 
+
+- Explosion 
+
+- Earthquake 
+
+- Rock Slide 
+
+
+Sloth (Suicune) @ Leftovers 
+
+Ability: Pressure 
+
+EVs: 252 HP / 252 Def / 4 Spe 
+
+Bold Nature 
+
+IVs: 0 Atk 
+
+- Calm Mind 
+
+- Sleep Talk 
+
+- Rest 
+
+- Surf 
+
+
+Lust (Regice) @ Leftovers 
+
+Ability: Clear Body 
+
+EVs: 252 HP / 252 SpA / 4 SpD 
+
+Modest Nature 
+
+IVs: 2 Atk / 30 SpA / 30 Spe 
+
+- Ice Beam 
+
+- Thunderbolt 
+
+- Hidden Power [Fire]
+
+- Thunder Wave 
+
+
+Greed (Salamence) @ Lum Berry 
+
+Ability: Intimidate 
+
+EVs: 76 HP / 252 Atk / 180 Spe 
+
+Jolly Nature 
+
+- Earthquake 
+
+- Dragon Dance 
+
+- Rock Slide 
+
+- Hidden Power [Flying]
+
+
+Wrath (Gengar) @ Leftovers 
+
+Ability: Levitate 
+
+EVs: 252 SpA / 4 SpD / 252 Spe 
+
+Timid Nature 
+
+IVs: 0 Atk 
+
+- Thunderbolt 
+
+- Giga Drain 
+
+- Psychic 
+
+- Ice Punch 
+
+
+Envy (Poliwrath) @ Choice Band 
+
+Ability: Damp 
+
+Happiness: 0 
+
+EVs: 92 HP / 60 Atk / 252 SpD / 104 Spe 
+
+Jolly Nature 
+
+- Brick Break 
+
+- Earthquake 
+
+- Body Slam 
+
+- Hidden Power [Ghost]
+
+
+
+
+=== [gen3] Ruins of Alph/#20765 120 Likes 0 Score posted by Sadlysius http://www.smogon.com/forums/threads/a-deep-look-at-rain-offense.3649565/page-1#post-8108874 ===
+
+Standard (Kingdra) @ Leftovers  
+Ability: Swift Swim  
+EVs: 68 HP / 252 SpA / 188 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Grass]
+- Rain Dance
+
+Bulky Lum (Kingdra) @ Lum Berry  
+Ability: Swift Swim  
+EVs: 104 HP / 72 Def / 252 SpA / 80 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Grass]
+- Rain Dance
+
+EndPetaya (Kingdra) @ Petaya Berry  
+Ability: Swift Swim  
+EVs: 68 HP / 252 SpA / 188 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Endure  
+- Rain Dance
+
+Standard (Ludicolo) @ Leftovers  
+Ability: Swift Swim  
+EVs: 56 HP / 252 SpA / 200 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Grass]
+- Rain Dance
+
+Standard (Omastar) @ Leftovers
+Ability: Swift Swim
+EVs: 116 HP / 252 SpA / 140 Spe
+Modest Nature
+- Rain Dance
+- Hydro Pump
+- Ice Beam
+- Hidden Power Grass 
+
+Spiker (Omastar) @ Leftovers
+Ability: Shell Armor
+EVs: 252 HP / 200 Def / 56 SpA
+Bold Nature
+- Spikes
+- Surf
+- Ice Beam
+- Thief
+
+
+
+
+
+=== [gen3] Gen 3/#20766 23 Likes 0 Score posted by Heika http://www.smogon.com/forums/threads/hot-girl-bummer-an-adv-rmt.3655953/page-1#post-8270009 ===
+
+Enlil (Metagross) @ Leftovers
+Ability: Clear Body
+EVs: 184 HP / 56 Atk / 240 SpA / 28 Spe
+Quiet Nature
+- Meteor Mash
+- Thunder Punch
+- Hidden Power [Grass]
+- Explosion
+
+Misharu (Magneton) @ Magnet
+Ability: Magnet Pull
+EVs: 152 HP / 252 SpA / 4 SpD / 100 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Thunderbolt
+- Hidden Power [Fire]
+- Toxic
+- Protect
+
+Tlaltecuhtli (Steelix) @ Leftovers
+Ability: Rock Head
+EVs: 252 HP / 132 Atk / 124 SpD
+Impish Nature
+- Protect
+- Earthquake
+- Rock Slide
+- Explosion
+
+Adad (Gyarados) @ Leftovers
+Ability: Intimidate
+EVs: 252 HP / 60 Def / 188 SpD / 8 Spe
+Adamant Nature
+- Rest
+- Hidden Power [Flying]
+- Earthquake
+- Dragon Dance
+
+Ningirsu (Celebi) @ Leftovers
+Ability: Natural Cure
+EVs: 248 HP / 48 Def / 72 SpA / 120 SpD / 20 Spe
+Calm Nature
+IVs: 0 Atk
+- Psychic
+- Leech Seed
+- Recover
+- Calm Mind
+
+Chalchiuhtlicue (Suicune) @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 192 SpA / 64 Spe
+Modest Nature
+IVs: 0 Atk
+- Surf
+- Calm Mind
+- Rest
+- Sleep Talk
+
+
+
+
+=== [gen3] Gen 3/#20767 23 Likes 0 Score posted by Heika http://www.smogon.com/forums/threads/hot-girl-bummer-an-adv-rmt.3655953/page-1#post-8270009 ===
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 240 HP / 16 Def / 224 SpA / 28 Spe  
+Quiet Nature  
+- Meteor Mash  
+- Psychic  
+- Pursuit  
+- Explosion  
+
+Magneton @ Magnet  
+Ability: Magnet Pull  
+EVs: 240 HP / 252 SpA / 16 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Sunny Day  
+- Protect  
+
+Steelix @ Leftovers  
+Ability: Rock Head  
+EVs: 252 HP / 132 Atk / 124 SpD  
+Impish Nature  
+- Protect  
+- Earthquake  
+- Rock Slide  
+- Explosion  
+
+Gyarados @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 84 Atk / 164 SpD / 8 Spe  
+Adamant Nature  
+- Hidden Power [Flying]
+- Earthquake  
+- Dragon Dance  
+- Rest  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 48 Def / 72 SpA / 120 SpD / 20 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Psychic  
+- Leech Seed  
+- Recover  
+- Calm Mind  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 192 SpA / 64 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Calm Mind  
+- Rest  
+- Sleep Talk  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20768 122 Likes 0 Score posted by thelinearcurve http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-1#post-8078691 ===
+
+HP Fighting (Aerodactyl) @ Choice Band  
+Ability: Rock Head  
+EVs: 76 HP / 252 Atk / 180 Spe  
+Jolly Nature  
+- Double-Edge  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Fighting]
+
+Bold CM (Blissey) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+- Calm Mind  
+- Ice Beam  
+- Thunderbolt  
+- Soft-Boiled  
+
+179 Fire Ice (Blissey) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 Def / 124 SpA / 132 Spe  
+Modest Nature  
+- Ice Beam  
+- Fire Blast  
+- Toxic  
+- Soft-Boiled  
+
+168 Fire Ice (Blissey) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 Def / 168 SpA / 88 Spe  
+Modest Nature  
+- Fire Blast  
+- Ice Beam  
+- Soft-Boiled  
+- Toxic  
+
+Wish Bold (Blissey) @ Leftovers  
+Ability: Natural Cure  
+EVs: 224 HP / 252 Def / 32 Spe  
+Bold Nature  
+- Seismic Toss  
+- Thunder Wave  
+- Wish  
+- Soft-Boiled  
+
+SuperSpeed (Blissey) @ Leftovers  
+Ability: Natural Cure  
+EVs: 4 HP / 252 Def / 252 Spe  
+Bold Nature  
+- Seismic Toss  
+- Sing  
+- Toxic  
+- Soft-Boiled  
+
+CM Psychic Recover (Celebi) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 220 Def / 12 SpA / 24 Spe  
+Bold Nature  
+- Calm Mind  
+- Leech Seed  
+- Psychic  
+- Recover  
+
+Bulk Dual STAB (Celebi) @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 76 Def / 104 SpA / 48 SpD / 32 Spe  
+Bold Nature  
+IVs: 2 Atk / 30 SpA  
+- Psychic  
+- Hidden Power [Grass]
+- Leech Seed  
+- Recover  
+
+Superbi (Celebi) @ Leftovers  
+Ability: Natural Cure  
+EVs: 92 HP / 196 SpA / 220 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Psychic  
+- Giga Drain  
+- Hidden Power [Fire]
+- Calm Mind  
+
+Perish Song (Celebi) @ Leftovers  
+Ability: Natural Cure  
+EVs: 240 HP / 36 Def / 88 SpA / 76 SpD / 68 Spe  
+Calm Nature  
+IVs: 2 Atk / 30 SpA  
+- Hidden Power [Grass]
+- Perish Song  
+- Leech Seed  
+- Recover  
+
+CM Sub (Celebi) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 112 SpA / 144 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Substitute  
+- Calm Mind  
+- Giga Drain  
+- Hidden Power [Fire]
+
+Standard (Claydol) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 56 Atk / 96 Def / 96 SpD / 12 Spe  
+Relaxed Nature  
+- Earthquake  
+- Psychic  
+- Rapid Spin  
+- Explosion  
+
+Brave (Claydol) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 228 Atk / 32 Spe  
+Brave Nature  
+- Earthquake  
+- Explosion  
+- Psychic  
+- Rapid Spin  
+
+Timid (Cloyster) @ Leftovers  
+Ability: Shell Armor  
+EVs: 240 HP / 80 SpD / 188 Spe  
+Timid Nature  
+- Spikes  
+- Surf  
+- Rapid Spin  
+- Explosion  
+
+Standard Calm (Cloyster) @ Leftovers  
+Ability: Shell Armor  
+EVs: 144 HP / 228 SpD / 136 Spe  
+Calm Nature  
+- Surf  
+- Rapid Spin  
+- Explosion  
+- Spikes  
+
+Standard (Donphan) @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 28 Def / 160 SpD / 72 Spe  
+Impish Nature  
+- Earthquake  
+- Hidden Power [Rock]
+- Rapid Spin  
+- Protect  
+
+Jolly Max (Dugtrio) @ Choice Band  
+Ability: Arena Trap  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Aerial Ace  
+- Earthquake  
+- Hidden Power [Bug]
+- Rock Slide  
+
+SpDef evs (Dugtrio) @ Choice Band  
+Ability: Arena Trap  
+EVs: 32 HP / 220 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Aerial Ace  
+- Earthquake  
+- Hidden Power [Bug]
+- Rock Slide  
+
+Fat Adamant (Dugtrio) @ Choice Band  
+Ability: Arena Trap  
+EVs: 136 HP / 208 Atk / 24 SpD / 140 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Aerial Ace  
+- Earthquake  
+- Hidden Power [Bug]
+- Rock Slide  
+
+Fat Jolly (Dugtrio) @ Choice Band  
+Ability: Arena Trap  
+EVs: 136 HP / 228 Atk / 36 SpD / 108 Spe  
+Jolly Nature  
+IVs: 30 SpD / 30 Spe  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Bug]
+- Aerial Ace  
+
+Standard Adamant (Dugtrio) @ Choice Band  
+Ability: Arena Trap  
+EVs: 8 HP / 252 Atk / 20 SpD / 228 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Aerial Ace  
+- Earthquake  
+- Hidden Power [Bug]
+- Rock Slide  
+
+Soft Sand Weather (Dugtrio) @ Soft Sand  
+Ability: Arena Trap  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Sunny Day  
+- Charm  
+- Aerial Ace  
+
+Sub Fire Toxic (Flygon) @ Leftovers  
+Ability: Levitate  
+EVs: 148 Atk / 224 SpA / 136 Spe  
+Rash Nature  
+- Earthquake  
+- Toxic  
+- Fire Blast  
+- Substitute  
+
+ProTox Naive (Flygon) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 96 Atk / 108 Def / 16 SpA / 40 Spe  
+Naive Nature  
+- Earthquake  
+- Fire Blast  
+- Toxic  
+- Protect  
+
+Protox Jolly (Flygon) @ Leftovers  
+Ability: Levitate  
+EVs: 16 HP / 128 Atk / 180 Def / 184 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Toxic  
+- Protect  
+
+Impish 248 (Flygon) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 16 Atk / 196 Def / 48 Spe  
+Impish Nature  
+- Earthquake  
+- Fire Blast  
+- Toxic  
+- Protect  
+
+Band Naive (Flygon) @ Choice Band  
+Ability: Levitate  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Bug]
+- Fire Blast  
+
+Band Jolly (Flygon) @ Choice Band  
+Ability: Levitate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Bug]
+- toxicgust  
+
+Standard Bug (Forretress) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+IVs: 30 SpD / 30 Spe  
+- Spikes  
+- Rapid Spin  
+- Hidden Power [Bug]
+- Earthquake  
+
+Standard BOOM (Forretress) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Earthquake  
+- Explosion  
+
+Fire + BOOM (Forretress) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Explosion  
+- Hidden Power [Fire]
+- Rapid Spin  
+- Spikes  
+
+Ghost w Att evs (Forretress) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 76 Atk / 4 Def / 176 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Earthquake  
+- Hidden Power [Ghost]
+
+Naive Ice Fire Grass Boom (Gengar) @ Leftovers  
+Ability: Levitate  
+EVs: 40 Def / 252 SpA / 216 Spe  
+Naive Nature  
+- Explosion  
+- Ice Punch  
+- Fire Punch  
+- Hidden Power [Grass]
+
+Rash Ice Fire Grass Boom (Gengar) @ Leftovers  
+Ability: Levitate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+IVs: 30 Def / 30 SpA  
+- Explosion  
+- Ice Punch  
+- Fire Punch  
+- Hidden Power [Grass]
+
+Def w SpDef (Gengar) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 52 Def / 112 SpD / 96 Spe  
+Timid Nature  
+- Thunderbolt  
+- Ice Punch  
+- Giga Drain  
+- Explosion  
+
+Hypno + 3att Modest (Gengar) @ Leftovers  
+Ability: Levitate  
+EVs: 132 HP / 80 Def / 72 SpA / 8 SpD / 216 Spe  
+Modest Nature  
+- Thunderbolt  
+- Ice Punch  
+- Giga Drain  
+- Hypnosis  
+
+Sp Def (Gengar) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 60 SpD / 200 Spe  
+Timid Nature  
+- Thunderbolt  
+- Explosion  
+- Will-O-Wisp  
+- Mean Look  
+
+Def (Gengar) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 72 Def / 188 Spe  
+Timid Nature  
+- Thunderbolt  
+- Ice Punch  
+- Will-O-Wisp  
+- Taunt  
+
+Adamant Standard (Gyarados) @ Leftovers  
+Ability: Intimidate  
+EVs: 68 HP / 252 Atk / 188 Spe  
+Adamant Nature  
+IVs: 30 SpA / 30 SpD / 30 Spe  
+- Dragon Dance  
+- Hidden Power [Flying]
+- Earthquake  
+- Double-Edge  
+
+Jolly Rock (Gyarados) @ Leftovers  
+Ability: Intimidate  
+EVs: 76 HP / 252 Atk / 180 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Hidden Power [Rock]
+- Earthquake  
+- Double-Edge  
+
+40 HP Jolly (Heracross) @ Chesto Berry  
+Ability: Guts  
+EVs: 40 HP / 252 Atk / 216 Spe  
+Jolly Nature  
+- Megahorn  
+- Focus Punch  
+- Rock Slide  
+- Hidden Power [Ghost]
+
+MaxMax Ada CB (Heracross) @ Choice Band  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Focus Punch  
+- Rock Slide  
+- Megahorn  
+- Brick Break  
+
+Salac (Heracross) @ Salac Berry  
+Ability: Swarm  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+IVs: 30 HP  
+- Megahorn  
+- Rock Slide  
+- Substitute  
+- Swords Dance  
+
+MaxMax (Houndoom) @ Leftovers  
+Ability: Early Bird  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Pursuit  
+- Fire Blast  
+- Will-O-Wisp  
+- Hidden Power [Grass]
+
+SpD Investment (Houndoom) @ Leftovers  
+Ability: Early Bird  
+EVs: 252 SpA / 184 SpD / 72 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Hidden Power [Grass]
+- Fire Blast  
+- Pursuit  
+- Will-O-Wisp  
+
+HP (Jolteon) @ Leftovers  
+Ability: Volt Absorb  
+EVs: 76 HP / 180 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Roar  
+- Baton Pass  
+
+FearRachi (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 184 Def / 24 SpA / 32 SpD / 20 Spe  
+Bold Nature  
+- Wish  
+- Protect  
+- Toxic  
+- Fire Punch  
+
+AstaRachi (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 44 Atk / 68 Def / 148 SpD  
+Sassy Nature  
+- Body Slam  
+- Fire Punch  
+- Protect  
+- Wish  
+
+Bulky CM Fire Wish (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 148 Def / 88 SpA / 24 Spe  
+Bold Nature  
+- Psychic  
+- Fire Punch  
+- Calm Mind  
+- Wish  
+
+Bulky CM Thunder Wish (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 136 Def / 88 SpA / 32 Spe  
+Bold Nature  
+- Calm Mind  
+- Psychic  
+- Thunder  
+- Wish  
+
+Bulky Modest Superachi (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 40 Def / 152 SpA / 68 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Psychic  
+- Fire Punch  
+- Hidden Power [Grass]
+- Calm Mind  
+
+Mixed 328 (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+IVs: 30 Def / 30 SpA  
+- Dynamic Punch  
+- Thunder  
+- Ice Punch  
+- Hidden Power [Grass]
+
+Mixed 299 (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Mild Nature  
+IVs: 30 Def / 30 SpA  
+- Fire Punch  
+- Hidden Power [Grass]
+- Dynamic Punch  
+- Body Slam  
+
+MaxMax Superachi (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Ice Punch  
+- Psychic  
+- Hidden Power [Grass]
+- Fire Punch  
+
+Speedy Grass (Kingdra) @ Leftovers  
+Ability: Swift Swim  
+EVs: 80 HP / 252 SpA / 176 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Rain Dance  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Grass]
+
+Salac (Magneton) @ Salac Berry  
+Ability: Magnet Pull  
+EVs: 48 HP / 252 SpA / 208 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Endure  
+- Rain Dance  
+
+Max Speed 24SpD (Magneton) @ Leftovers  
+Ability: Magnet Pull  
+EVs: 232 SpA / 24 SpD / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+Magnet (Magneton) @ Magnet  
+Ability: Magnet Pull  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+Super Fat Magnet (Magneton) @ Magnet  
+Ability: Magnet Pull  
+EVs: 152 HP / 252 SpA / 4 SpD / 100 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Protect  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Toxic  
+
+Speed Creeped (Milotic) @ Leftovers  
+Ability: Marvel Scale  
+EVs: 248 HP / 212 Def / 48 Spe  
+Bold Nature  
+- Surf  
+- Toxic  
+- Refresh  
+- Recover  
+
+Impish Protox (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 248 HP / 192 Def / 60 SpD / 8 Spe  
+Impish Nature  
+- Protect  
+- Meteor Mash  
+- Earthquake  
+- Toxic  
+
+Mixed Evs (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 184 HP / 56 Atk / 240 SpA / 28 Spe  
+Quiet Nature  
+IVs: 30 Def / 30 SpA / 30 Spe  
+- Meteor Mash  
+- Psychic  
+- Hidden Power [Fire]
+- Explosion  
+
+Mixed 180 (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 184 HP / 224 SpA / 100 Spe  
+Quiet Nature  
+- Meteor Mash  
+- Hidden Power [Fire]
+- Psychic  
+- Explosion  
+
+223 CB (Metagross) @ Choice Band  
+Ability: Clear Body  
+EVs: 88 HP / 232 Atk / 188 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Rock Slide  
+- Explosion  
+
+223 always lives fire blast (Metagross) @ Choice Band  
+Ability: Clear Body  
+EVs: 112 HP / 208 Atk / 188 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Rock Slide  
+- Explosion  
+
+Max HP CB (Metagross) @ Choice Band  
+Ability: Clear Body  
+EVs: 252 HP / 196 Atk / 20 Def / 40 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Rock Slide  
+- Explosion  
+
+4 att (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 248 HP / 220 Atk / 16 Def / 24 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Rock Slide  
+- Explosion  
+
+Agility (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 120 HP / 252 Atk / 136 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Agility  
+- Explosion  
+
+Bulkier Agility (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 192 HP / 228 Atk / 88 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Agility  
+- Explosion  
+
+Special only (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 192 HP / 252 SpA / 64 Spe  
+Quiet Nature  
+IVs: 30 Def / 30 SpA  
+- Pursuit  
+- Psychic  
+- Hidden Power [Grass]
+- Explosion  
+
+Mixed (Moltres) @ Leftovers  
+Ability: Pressure  
+EVs: 252 Atk / 12 SpA / 244 Spe  
+Lonely Nature  
+- Hidden Power [Fighting]
+- Overheat  
+- Will-O-Wisp  
+- Roar  
+
+MaxMax Timid (Moltres) @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Fire Blast  
+- Hidden Power [Grass]
+- Will-O-Wisp  
+- Roar  
+
+MaxMax Timid Overheat (Moltres) @ Leftovers  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Flamethrower  
+- Hidden Power [Grass]
+- Will-O-Wisp  
+- Overheat  
+
+P2 Standard (Porygon2) @ Leftovers  
+Ability: Trace  
+EVs: 252 HP / 200 Def / 56 SpD  
+Bold Nature  
+- Thunder  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+Fire + Boom (Regice) @ Leftovers  
+Ability: Clear Body  
+EVs: 248 HP / 60 Atk / 84 Def / 116 SpA  
+Quiet Nature  
+- Ice Beam  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Explosion  
+
+Mix 299 (Salamence) @ Leftovers  
+Ability: Intimidate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+IVs: 30 Def / 30 SpA  
+- Dragon Claw  
+- Fire Blast  
+- Hidden Power [Grass]
+- Brick Break  
+
+Mix 328 (Salamence) @ Leftovers  
+Ability: Intimidate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+IVs: 30 Def / 30 SpA  
+- Dragon Claw  
+- Fire Blast  
+- Hidden Power [Grass]
+- Brick Break  
+
+Adamant CB (Salamence) @ Choice Band  
+Ability: Intimidate  
+EVs: 244 Atk / 12 Def / 252 Spe  
+Adamant Nature  
+- Brick Break  
+- Earthquake  
+- Hidden Power [Flying]
+- Rock Slide  
+
+Jolly CB (Salamence) @ Choice Band  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Brick Break  
+- Earthquake  
+- Hidden Power [Flying]
+- Rock Slide  
+
+MaxMax DD (Salamence) @ Leftovers  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Earthquake  
+- Hidden Power [Flying]
+- Rock Slide  
+
+SpD DD (Salamence) @ Leftovers  
+Ability: Intimidate  
+EVs: 180 Atk / 212 SpD / 116 Spe  
+Adamant Nature  
+IVs: 30 SpA / 30 SpD / 30 Spe  
+- Dragon Dance  
+- Hidden Power [Flying]
+- Earthquake  
+- Rock Slide  
+
+SpD Mix (Salamence) @ Leftovers  
+Ability: Intimidate  
+EVs: 8 HP / 40 Atk / 200 SpA / 112 SpD / 148 Spe  
+Mild Nature  
+IVs: 30 Def / 30 SpA  
+- Brick Break  
+- Rock Slide  
+- Fire Blast  
+- Hidden Power [Grass]
+
+MaxMax Boom (Smeargle) @ Salac Berry  
+Ability: Own Tempo  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Spore  
+- Substitute  
+- Spikes  
+- Explosion  
+
+Slight Bulk boom (Smeargle) @ Salac Berry  
+Ability: Own Tempo  
+EVs: 12 HP / 188 Atk / 56 SpD / 252 Spe  
+Jolly Nature  
+- Spore  
+- Substitute  
+- Spikes  
+- Explosion  
+
+Curse EQ Return (Snorlax) @ Leftovers  
+Ability: Immunity  
+EVs: 144 HP / 96 Atk / 132 Def / 136 SpD  
+Careful Nature  
+- Curse  
+- Return  
+- Earthquake  
+- Rest  
+
+Curse Slam Rest with Creep (Snorlax) @ Leftovers  
+Ability: Immunity  
+EVs: 144 HP / 112 Atk / 128 Def / 96 SpD / 28 Spe  
+Careful Nature  
+- Curse  
+- Rest  
+- Shadow Ball  
+- Body Slam  
+
+Phys Destruct (Snorlax) @ Leftovers  
+Ability: Immunity  
+EVs: 80 HP / 96 Atk / 140 Def / 168 SpD / 24 Spe  
+Adamant Nature  
+- Body Slam  
+- Focus Punch  
+- Shadow Ball  
+- Self-Destruct  
+
+MaxAtt Curse Boom (Snorlax) @ Leftovers  
+Ability: Immunity  
+EVs: 80 HP / 252 Atk / 136 Def / 28 SpD / 12 Spe  
+Adamant Nature  
+- Body Slam  
+- Shadow Ball  
+- Curse  
+- Self-Destruct  
+
+Fire Blast Offensive (Snorlax) @ Leftovers  
+Ability: Immunity  
+EVs: 16 HP / 216 Atk / 136 Def / 92 SpA / 44 SpD / 4 Spe  
+Brave Nature  
+- Body Slam  
+- Brick Break  
+- Self-Destruct  
+- Fire Blast  
+
+Fire Blast Bulkier (Snorlax) @ Leftovers  
+Ability: Immunity  
+EVs: 96 HP / 56 Atk / 136 Def / 80 SpA / 140 SpD  
+Brave Nature  
+- Body Slam  
+- Brick Break  
+- Self-Destruct  
+- Fire Blast  
+
+Max HP (Starmie) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 40 SpA / 216 Spe  
+Timid Nature  
+- Rapid Spin  
+- Recover  
+- Surf  
+- Thunder Wave  
+
+HP Psychic (Starmie) @ Leftovers  
+Ability: Natural Cure  
+EVs: 156 HP / 136 SpA / 216 Spe  
+Timid Nature  
+- Surf  
+- Psychic  
+- Recover  
+- Rapid Spin  
+
+Bold (Starmie) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 240 Def / 16 Spe  
+Bold Nature  
+- Rapid Spin  
+- Recover  
+- Surf  
+- Thunder Wave  
+
+Offensive Star (Starmie) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Rapid Spin  
+
+Cursepert (Swampert) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 56 Atk / 44 Def / 156 SpD  
+Careful Nature  
+- Curse  
+- Earthquake  
+- Hidden Power [Rock]
+- Rest  
+
+162 speed (Swampert) @ Leftovers  
+Ability: Torrent  
+EVs: 248 HP / 124 Def / 40 SpA / 96 Spe  
+Relaxed Nature  
+- Earthquake  
+- Ice Beam  
+- Hydro Pump  
+- Protect  
+
+Monopert (Swampert) @ Leftovers  
+Ability: Torrent  
+EVs: 248 HP / 184 Def / 44 SpA / 32 Spe  
+Bold Nature  
+- Surf  
+- Roar  
+- Toxic  
+- Protect  
+
+EndPert (Swampert) @ Salac Berry  
+Ability: Torrent  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Substitute  
+- Endeavor  
+
+Mixed Rash 213speed (Swampert) @ Leftovers  
+Ability: Torrent  
+EVs: 28 Atk / 252 SpA / 228 Spe  
+Rash Nature  
+- Hydro Pump  
+- Ice Beam  
+- Earthquake  
+- Focus Punch  
+
+Mixed Bulky 168 speed (Swampert) @ Leftovers  
+Ability: Torrent  
+EVs: 44 HP / 124 Def / 216 SpA / 124 Spe  
+Quiet Nature  
+- Hydro Pump  
+- Ice Beam  
+- Earthquake  
+- Focus Punch  
+
+Fat Roarcune 224 (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 240 HP / 196 Def / 72 Spe  
+Bold Nature  
+- Calm Mind  
+- Rest  
+- Roar  
+- Surf  
+
+BoldMax (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+- Calm Mind  
+- Rest  
+- Roar  
+- Surf  
+
+Sub Hydro Ice 222 (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 176 SpA / 16 SpD / 64 Spe  
+Modest Nature  
+- Calm Mind  
+- Hydro Pump  
+- Substitute  
+- Ice Beam  
+
+Sub Roar 244 (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 104 SpA / 152 Spe  
+Modest Nature  
+- Substitute  
+- Calm Mind  
+- Roar  
+- Surf  
+
+MaxMax Timid Grass (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Grass]
+
+255 Bulky Offensive Roar (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 136 HP / 176 SpA / 196 Spe  
+Modest Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Roar  
+
+MaxMax Modest (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Roar  
+
+Modest Rest IB (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 28 Def / 228 SpA  
+Modest Nature  
+- Calm Mind  
+- Surf  
+- Ice Beam  
+- Rest  
+
+182 speed (Skarmory) @ Leftovers  
+Ability: Keen Eye  
+EVs: 240 HP / 244 SpD / 24 Spe  
+Careful Nature  
+- Protect  
+- Toxic  
+- Whirlwind  
+- Spikes  
+
+SpD Taunt (Skarmory) @ Leftovers  
+Ability: Keen Eye  
+EVs: 248 HP / 192 SpD / 68 Spe  
+Careful Nature  
+- Spikes  
+- Taunt  
+- Whirlwind  
+- Toxic  
+
+MaxMax Adamant (Skarmory) @ Leftovers  
+Ability: Keen Eye  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Hidden Power [Ground]
+- Drill Peck  
+- Spikes  
+- Taunt  
+
+Special 184 (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 184 HP / 220 SpA / 104 Spe  
+Modest Nature  
+- Crunch  
+- Pursuit  
+- Fire Blast  
+- Ice Beam  
+
+Special 172 (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 200 HP / 252 SpA / 56 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Crunch  
+- Fire Blast  
+- Pursuit  
+- Ice Beam  
+
+Def DD Bug (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 16 HP / 192 Atk / 120 Def / 180 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Dragon Dance  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Bug]
+
+DD Fat Tect (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 8 Atk / 80 Def / 180 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Rock Slide  
+- Earthquake  
+- Protect  
+
+DD 243 Coverage (Tyranitar) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 244 Atk / 12 SpA / 252 Spe  
+Naive Nature  
+IVs: 30 Def / 30 SpA  
+- Dragon Dance  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Grass]
+
+CB 185 (Tyranitar) @ Choice Band  
+Ability: Sand Stream  
+EVs: 120 HP / 228 Atk / 48 Def / 112 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Bug]
+- Focus Punch  
+
+Max Adamant CB (Tyranitar) @ Choice Band  
+Ability: Sand Stream  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Focus Punch  
+- Hidden Power [Bug]
+
+TT Dark 185 (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 176 HP / 224 SpA / 108 Spe  
+Modest Nature  
+- Crunch  
+- Pursuit  
+- Taunt  
+- Toxic  
+
+TT Physical 191 (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 232 HP / 144 Atk / 132 Spe  
+Adamant Nature  
+- Taunt  
+- Rock Slide  
+- Earthquake  
+- Toxic  
+
+188 Fat Roar (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 240 HP / 148 Atk / 120 Spe  
+Adamant Nature  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Bug]
+- Roar  
+
+170 Fat Roar (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 200 HP / 252 Atk / 56 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Bug]
+- Roar  
+
+Physical HP (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 220 HP / 252 Atk / 36 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Focus Punch  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Bug]
+
+Mixed 162 (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 184 HP / 12 Atk / 224 SpA / 88 Spe  
+Quiet Nature  
+- Crunch  
+- Pursuit  
+- Fire Blast  
+- Rock Slide  
+
+Mixed QuakeSlide 162 (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 184 HP / 12 Atk / 224 SpA / 88 Spe  
+Quiet Nature  
+- Rock Slide  
+- Earthquake  
+- Crunch  
+- Pursuit  
+
+Mixed IB BB 162 (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 184 HP / 20 Atk / 216 SpA / 88 Spe  
+Quiet Nature  
+- Crunch  
+- Pursuit  
+- Ice Beam  
+- Brick Break  
+
+Mixed Quiet Fast 187 (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 104 HP / 36 Atk / 168 SpA / 200 Spe  
+Quiet Nature  
+- Crunch  
+- Pursuit  
+- Brick Break  
+- Fire Blast  
+
+FireGrass RS FP Naughty 184 (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 116 HP / 104 Atk / 32 Def / 140 SpA / 12 SpD / 104 Spe  
+Naughty Nature  
+- Fire Blast  
+- Hidden Power [Grass]
+- Rock Slide  
+- Focus Punch  
+
+Rash Element BB (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 28 Atk / 252 SpA / 228 Spe  
+Rash Nature  
+IVs: 30 Def / 30 SpA  
+- Fire Blast  
+- Hidden Power [Grass]
+- Ice Beam  
+- Brick Break  
+
+Naive Element BB (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 32 Atk / 224 SpA / 252 Spe  
+Naive Nature  
+IVs: 30 Def / 30 SpA  
+- Fire Blast  
+- Hidden Power [Grass]
+- Ice Beam  
+- Brick Break  
+
+Physical 4 Attacks 191 (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 184 HP / 192 Atk / 132 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Focus Punch  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Bug]
+
+Umbreon @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 196 SpA / 52 SpD / 8 Spe  
+Calm Nature  
+- Wish  
+- Protect  
+- Pursuit  
+- Toxic  
+
+Vaporeon @ Leftovers  
+Ability: Water Absorb  
+EVs: 240 HP / 216 Def / 28 SpD / 24 Spe  
+Bold Nature  
+- Surf  
+- Wish  
+- Protect  
+- Roar  
+
+Mixed Bulky (Venusaur) @ Leftovers  
+Ability: Overgrow  
+EVs: 180 HP / 28 Atk / 80 Def / 104 SpD / 116 Spe  
+Calm Nature  
+- Sleep Powder  
+- Sludge Bomb  
+- Leech Seed  
+- Giga Drain  
+
+UD Modest Fire (Venusaur) @ Leftovers  
+Ability: Overgrow  
+EVs: 68 Def / 164 SpA / 56 SpD / 220 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Razor Leaf  
+- Leech Seed  
+- Sleep Powder  
+- Hidden Power [Fire]
+
+Timid Ice (Venusaur) @ Leftovers  
+Ability: Overgrow  
+EVs: 8 HP / 192 SpA / 56 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Razor Leaf  
+- Leech Seed  
+- Sleep Powder  
+- Hidden Power [Ice]
+
+162 (Weezing) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 172 Def / 64 SpD / 24 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Taunt  
+- Will-O-Wisp  
+- Pain Split  
+
+185 (Weezing) @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 16 Def / 124 SpD / 116 Spe  
+Impish Nature  
+- Taunt  
+- Will-O-Wisp  
+- Sludge Bomb  
+- Pain Split  
+
+Sp Def Rest 241 (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 240 SpD / 20 Spe  
+Calm Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Toxic  
+- Rest  
+
+260 Creep (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 164 SpD / 96 Spe  
+Calm Nature  
+- Thunderbolt  
+- Roar  
+- Toxic  
+- Rest  
+
+Sunny 251 (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 36 Def / 164 SpD / 60 Spe  
+Calm Nature  
+- Thunderbolt  
+- Light Screen  
+- Roar  
+- Rest  
+
+ProTox Modest (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 216 HP / 136 SpA / 156 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Toxic  
+- Protect  
+
+ProTox Timid (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 192 HP / 100 SpA / 216 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Protect  
+- Toxic  
+
+Sub Pass (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 124 HP / 236 SpA / 148 Spe  
+Timid Nature  
+- Baton Pass  
+- Hidden Power [Ice]
+- Substitute  
+- Thunderbolt  
+
+CB lmao (Zapdos) @ Choice Band  
+Ability: Pressure  
+EVs: 252 Atk / 12 SpA / 244 Spe  
+Lonely Nature  
+- Drill Peck  
+- Hidden Power [Fighting]
+- Thunderbolt  
+- Baton Pass  
+
+Max Modest (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Toxic  
+- Roar  
+
+Max Timid (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Thunder Wave  
+- Toxic  
+
+Mix Fighting (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 252 Atk / 12 SpA / 244 Spe  
+Lonely Nature  
+- Drill Peck  
+- Hidden Power [Fighting]
+- Thunderbolt  
+- Toxic  
+
+Mix Grass (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 228 Atk / 124 SpA / 156 Spe  
+Mild Nature  
+IVs: 30 Def / 30 SpA  
+- Agility  
+- Drill Peck  
+- Hidden Power [Grass]
+- Thunderbolt
+
+
+
+=== [gen3] Gen 3/#20769 16 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/hot-girl-bummer-an-adv-rmt.3655953/page-1#post-8270515 ===
+
+Metagross @ Leftovers  
+Ability: Clear Body  
+EVs: 240 HP / 16 Def / 224 SpA / 28 Spe  
+Quiet Nature  
+- Meteor Mash  
+- Psychic  
+- Pursuit  
+- Explosion  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 248 HP / 64 Def / 36 SpA / 128 SpD / 32 Spe  
+Calm Nature  
+IVs: 2 Atk / 30 SpA  
+- Hidden Power [Grass]
+- Leech Seed  
+- Heal Bell  
+- Recover  
+
+Gyarados @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 84 Atk / 164 SpD / 8 Spe  
+Adamant Nature  
+- Hidden Power [Flying]
+- Earthquake  
+- Dragon Dance  
+- Rest  
+
+Magneton @ Magnet  
+Ability: Magnet Pull  
+EVs: 240 HP / 252 SpA / 16 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Sunny Day  
+- Protect  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Surf  
+- Ice Beam  
+- Calm Mind  
+- Rest  
+
+Claydol @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 156 Atk / 36 SpD / 64 Spe  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Rapid Spin  
+- Explosion  
+
+
+
+
+
+=== [gen3] Gen 3/#20770 29 Likes 0 Score posted by RMT Staff http://www.smogon.com/forums/threads/dragon-dance-tyranitar-offense-by-mcmeghan.3653511/page-1#post-8211616 ===
+
+M??talosse (Metagross) @ Choice Band  
+Ability: Clear Body  
+EVs: 168 HP / 212 Atk / 16 Def / 112 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Rock Slide  
+- Explosion  
+
+Tyranocif (Tyranitar) @ Lum Berry  
+Ability: Sand Stream  
+EVs: 252 HP / 32 Atk / 48 Def / 176 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Bug]
+
+Crustabri (Cloyster) @ Leftovers  
+Ability: Shell Armor  
+EVs: 72 HP / 244 SpD / 192 Spe  
+Timid Nature  
+- Surf  
+- Ice Beam  
+- Explosion  
+- Spikes  
+
+??lecthor (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 244 HP / 220 SpD / 44 Spe  
+Calm Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Thunder Wave  
+- Baton Pass  
+- Hidden Power [Grass]
+
+Kaorine (Claydol) @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 176 Atk / 84 Spe  
+Adamant Nature  
+- Earthquake  
+- Explosion  
+- Rapid Spin  
+- Psychic  
+
+Ronflex (Snorlax) @ Leftovers  
+Ability: Immunity  
+EVs: 176 Atk / 80 Def / 236 SpD / 16 Spe  
+Adamant Nature  
+- Curse  
+- Body Slam  
+- Shadow Ball  
+- Self-Destruct  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20771 95 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/spl-team-dump.3648142/page-1#post-8065748 ===
+
+marcop (Moltres) @ Leftovers
+Ability: Pressure
+EVs: 104 HP / 176 SpA / 228 Spe
+Timid Nature
+IVs: 0 Atk
+- Will-O-Wisp
+- Flamethrower
+- Sunny Day
+- Morning Sun
+
+king charles iv (Metagross) @ Leftovers
+Ability: Clear Body
+EVs: 252 HP / 228 Def / 28 Spe
+Impish Nature
+- Meteor Mash
+- Earthquake
+- Protect
+- Explosion
+
+superonion (Celebi) @ Leftovers
+Ability: Natural Cure
+EVs: 248 HP / 32 Def / 92 SpA / 136 Spe
+Bold Nature
+IVs: 2 Atk / 30 SpA
+- Psychic
+- Hidden Power [Grass]
+- Leech Seed
+- Recover
+
+esperanto (Magneton) @ Magnet
+Ability: Magnet Pull
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Thunderbolt
+- Hidden Power [Fire]
+- Toxic
+- Thunder Wave
+
+big rick (Snorlax) @ Leftovers
+Ability: Immunity
+EVs: 56 HP / 80 Atk / 144 Def / 216 SpD / 12 Spe
+Careful Nature
+- Curse
+- Body Slam
+- Shadow Ball
+- Rest
+
+quali (Suicune) @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 192 SpA / 64 Spe
+Modest Nature
+IVs: 0 Atk
+- Hydro Pump
+- Ice Beam
+- Calm Mind
+- Rest
+
+
+
+
+=== [gen3] Ruins of Alph/#20772 95 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/spl-team-dump.3648142/page-1#post-8065748 ===
+
+big dan (Tyranitar) @ Choice Band
+Ability: Sand Stream
+EVs: 56 HP / 252 Atk / 200 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Double-Edge
+- Focus Punch
+
+pappy o'daniel (Blissey) @ Leftovers
+Ability: Natural Cure
+EVs: 16 HP / 252 Def / 240 SpA
+Bold Nature
+IVs: 0 Atk
+- Seismic Toss
+- Ice Beam
+- Wish
+- Soft-Boiled
+
+pete (Dugtrio) @ Choice Band
+Ability: Arena Trap
+EVs: 136 HP / 252 Atk / 24 SpD / 96 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Hidden Power [Bug]
+- Aerial Ace
+
+delmar (Starmie) @ Leftovers
+Ability: Natural Cure
+EVs: 248 HP / 56 SpA / 40 SpD / 164 Spe
+Timid Nature
+- Surf
+- Psychic
+- Rapid Spin
+- Recover
+
+everett (Swampert) @ Leftovers
+Ability: Torrent
+EVs: 248 HP / 252 Def / 8 Spe
+Bold Nature
+- Surf
+- Refresh
+- Toxic
+- Protect
+
+the sheriff (Skarmory) @ Leftovers
+Ability: Keen Eye
+EVs: 248 HP / 208 SpD / 52 Spe
+Careful Nature
+- Toxic
+- Spikes
+- Whirlwind
+- Taunt
+
+
+
+
+=== [gen3] Ruins of Alph/#20773 95 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/spl-team-dump.3648142/page-1#post-8065748 ===
+
+Jynx
+Ability: Oblivious
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Ice Beam
+- Thief
+- Taunt
+- Lovely Kiss
+
+Cloyster @ Leftovers
+Ability: Shell Armor
+EVs: 248 HP / 200 SpD / 60 Spe
+Timid Nature
+- Surf
+- Hidden Power [Grass]
+- Explosion
+- Spikes
+
+Tyranitar @ Leftovers
+Ability: Sand Stream
+EVs: 216 HP / 152 SpA / 140 Spe
+Modest Nature
+- Crunch
+- Fire Blast
+- Ice Beam
+- Brick Break
+
+Aerodactyl @ Choice Band
+Ability: Rock Head
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Double-Edge
+- Hidden Power [Bug]
+- Earthquake
+
+Swampert @ Leftovers
+Ability: Torrent
+EVs: 28 Atk / 252 SpA / 228 Spe
+Rash Nature
+- Hydro Pump
+- Earthquake
+- Ice Beam
+- Focus Punch
+
+Gengar @ Leftovers
+Ability: Levitate
+EVs: 64 HP / 96 Atk / 56 Def / 96 SpA / 8 SpD / 188 Spe
+Naive Nature
+- Fire Punch
+- Ice Punch
+- Hidden Power [Grass]
+- Explosion
+
+
+
+
+=== [gen3] Ruins of Alph/#20774 95 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/spl-team-dump.3648142/page-1#post-8065748 ===
+
+microsoftpaint (Swampert) @ Leftovers
+Ability: Torrent
+EVs: 248 HP / 252 Def / 8 SpD
+Bold Nature
+IVs: 0 Atk
+- Surf
+- Toxic
+- Refresh
+- Protect
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 248 HP / 188 Def / 72 Spe
+Bold Nature
+IVs: 0 Atk
+- Surf
+- Roar
+- Calm Mind
+- Rest
+
+Blissey @ Leftovers
+Ability: Natural Cure
+EVs: 252 Def / 252 SpA / 4 SpD
+Modest Nature
+- Seismic Toss
+- Ice Beam
+- Wish
+- Soft-Boiled
+
+Magneton @ Magnet
+Ability: Magnet Pull
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Thunderbolt
+- Hidden Power [Fire]
+- Toxic
+- Metal Sound
+
+Claydol @ Leftovers
+Ability: Levitate
+EVs: 160 HP / 216 Atk / 32 SpA / 100 Spe
+Adamant Nature
+- Earthquake
+- Psychic
+- Explosion
+- Rapid Spin
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 120 Def / 92 SpA / 44 Spe
+Bold Nature
+IVs: 2 Atk / 30 SpA
+- Hidden Power [Grass]
+- Leech Seed
+- Reflect
+- Recover
+
+
+
+
+=== [gen3] Ruins of Alph/#20775 95 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/spl-team-dump.3648142/page-1#post-8065748 ===
+
+Skarmory @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+- Drill Peck
+- Toxic
+- Spikes
+- Roar
+
+Dugtrio @ Choice Band
+Ability: Arena Trap
+EVs: 8 HP / 248 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Hidden Power [Bug]
+- Aerial Ace
+
+Blissey @ Leftovers
+Ability: Natural Cure
+EVs: 40 HP / 252 Def / 216 SpA
+Bold Nature
+IVs: 0 Atk
+- Seismic Toss
+- Ice Beam
+- Thunder Wave
+- Soft-Boiled
+
+Claydol @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 216 Atk / 32 SpA / 8 Spe
+Adamant Nature
+- Earthquake
+- Psychic
+- Refresh
+- Rapid Spin
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 32 Def / 224 SpD
+Calm Nature
+IVs: 0 Atk
+- Thunderbolt
+- Toxic
+- Roar
+- Rest
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 120 Def / 92 SpA / 44 Spe
+Bold Nature
+IVs: 2 Atk / 30 SpA
+- Hidden Power [Grass]
+- Leech Seed
+- Reflect
+- Recover
+
+
+
+
+=== [gen3] Ruins of Alph/#20776 95 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/spl-team-dump.3648142/page-1#post-8065748 ===
+
+$pooky (Gengar) @ Leftovers
+Ability: Levitate
+Shiny: Yes
+EVs: 60 HP / 80 Atk / 52 Def / 108 SpA / 8 SpD / 200 Spe
+Naive Nature
+- Thunderbolt
+- Hypnosis
+- Will-O-Wisp
+- Explosion
+
+maximu$ (Raikou) @ Leftovers
+Ability: Pressure
+EVs: 216 HP / 88 SpA / 44 SpD / 160 Spe
+Timid Nature
+IVs: 2 Atk / 30 SpA
+- Thunderbolt
+- Hidden Power [Grass]
+- Substitute
+- Calm Mind
+
+$uerte (Jirachi) @ Leftovers
+Ability: Serene Grace
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Psychic
+- Thunderbolt
+- Ice Punch
+- Calm Mind
+
+a$$eater (Porygon2) @ Leftovers
+Ability: Trace
+Shiny: Yes
+EVs: 248 HP / 192 Def / 68 SpD
+Bold Nature
+IVs: 0 Atk
+- Thunderbolt
+- Toxic
+- Thunder Wave
+- Recover
+
+p$ycho (Dugtrio) @ Choice Band
+Ability: Arena Trap
+Shiny: Yes
+EVs: 8 HP / 248 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Hidden Power [Bug]
+- Aerial Ace
+
+$uicune (Suicune) @ Leftovers
+Ability: Pressure
+Shiny: Yes
+EVs: 136 HP / 220 SpA / 152 Spe
+Modest Nature
+IVs: 0 Atk
+- Hydro Pump
+- Ice Beam
+- Toxic
+- Calm Mind
+
+
+
+
+=== [gen3] Ruins of Alph/#20777 95 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/spl-team-dump.3648142/page-1#post-8065748 ===
+
+Venusaur @ Leftovers
+Ability: Overgrow
+EVs: 68 Def / 164 SpA / 56 SpD / 220 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Razor Leaf
+- Hidden Power [Fire]
+- Leech Seed
+- Sleep Powder
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 2 Atk / 30 Def
+- Thunderbolt
+- Hidden Power [Ice]
+- Toxic
+- Protect
+
+Tyranitar @ Choice Band
+Ability: Sand Stream
+EVs: 48 HP / 252 Atk / 208 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Brick Break
+- Focus Punch
+
+Swampert @ Leftovers
+Ability: Torrent
+EVs: 28 Atk / 252 SpA / 228 Spe
+Rash Nature
+- Hydro Pump
+- Earthquake
+- Focus Punch
+- Ice Beam
+
+Jirachi @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 108 SpA / 148 Spe
+Timid Nature
+IVs: 0 Atk
+- Thunderbolt
+- Ice Punch
+- Substitute
+- Calm Mind
+
+Dugtrio @ Choice Band
+Ability: Arena Trap
+EVs: 8 HP / 248 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Hidden Power [Bug]
+- Aerial Ace
+- Rock Slide
+
+
+
+
+=== [gen3] Ruins of Alph/#20778 95 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/spl-team-dump.3648142/page-1#post-8065748 ===
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 112 HP / 252 SpA / 144 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA
+- Thunderbolt
+- Hidden Power [Grass]
+- Thunder Wave
+- Baton Pass
+
+Ludicolo @ Leftovers
+Ability: Swift Swim
+EVs: 104 HP / 252 SpA / 152 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA
+- Hydro Pump
+- Ice Beam
+- Hidden Power [Grass]
+- Rain Dance
+
+Dugtrio @ Choice Band
+Ability: Arena Trap
+EVs: 136 HP / 252 Atk / 24 SpD / 96 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Hidden Power [Bug]
+- Aerial Ace
+
+Tyranitar @ Lum Berry
+Ability: Sand Stream
+EVs: 252 HP / 64 Atk / 16 SpA / 176 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Hidden Power [Grass]
+- Dragon Dance
+
+Metagross @ Choice Band
+Ability: Clear Body
+EVs: 252 Atk / 136 Def / 120 Spe
+Adamant Nature
+- Meteor Mash
+- Earthquake
+- Explosion
+- Rock Tomb
+
+Starmie @ Leftovers
+Ability: Natural Cure
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Hydro Pump
+- Psychic
+- Ice Beam
+- Thunderbolt
+
+
+
+
+=== [gen3] Ruins of Alph/#20779 95 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/spl-team-dump.3648142/page-1#post-8065748 ===
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 112 HP / 252 SpA / 144 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA
+- Thunderbolt
+- Hidden Power [Grass]
+- Thunder Wave
+- Baton Pass
+
+Smeargle @ Salac Berry
+Ability: Own Tempo
+EVs: 68 HP / 188 SpD / 252 Spe
+Jolly Nature
+- Spore
+- Will-O-Wisp
+- Explosion
+- Spikes
+
+Gengar @ Leftovers
+Ability: Levitate
+EVs: 56 HP / 44 Atk / 52 Def / 148 SpA / 8 SpD / 200 Spe
+Naive Nature
+- Fire Punch
+- Ice Punch
+- Hidden Power [Grass]
+- Explosion
+
+Tyranitar @ Leftovers
+Ability: Sand Stream
+EVs: 216 HP / 152 SpA / 140 Spe
+Modest Nature
+- Crunch
+- Fire Blast
+- Ice Beam
+- Brick Break
+
+Aerodactyl @ Choice Band
+Ability: Rock Head
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Double-Edge
+- Earthquake
+- Hidden Power [Bug]
+
+Swampert @ Salac Berry
+Ability: Torrent
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Surf
+- Endeavor
+- Swagger
+- Substitute
+
+
+
+
+=== [gen3] Ruins of Alph/#20780 95 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/spl-team-dump.3648142/page-1#post-8065748 ===
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 248 HP / 116 Def / 144 Spe
+Impish Nature
+- Hidden Power [Fighting]
+- Swords Dance
+- Baton Pass
+- Recover
+
+Porygon2 @ Leftovers
+Ability: Trace
+EVs: 248 HP / 196 Def / 64 SpD
+Bold Nature
+IVs: 0 Atk
+- Ice Beam
+- Thunder Wave
+- Rain Dance
+- Recover
+
+Heracross @ Salac Berry
+Ability: Swarm
+EVs: 12 HP / 244 Atk / 252 Spe
+Adamant Nature
+- Megahorn
+- Rock Slide
+- Swords Dance
+- Substitute
+
+Magneton @ Magnet
+Ability: Magnet Pull
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Thunderbolt
+- Hidden Power [Fire]
+- Thunder Wave
+- Toxic
+
+Metagross @ Lum Berry
+Ability: Clear Body
+EVs: 252 Atk / 136 Def / 120 Spe
+Adamant Nature
+- Meteor Mash
+- Earthquake
+- Explosion
+- Agility
+
+Snorlax @ Leftovers
+Ability: Immunity
+EVs: 8 HP / 252 Atk / 136 Def / 100 SpD / 12 Spe
+Adamant Nature
+- Body Slam
+- Brick Break
+- Shadow Ball
+- Self-Destruct
+
+
+
+
+=== [gen3] Ruins of Alph/#20781 95 Likes 0 Score posted by zf http://www.smogon.com/forums/threads/spl-team-dump.3648142/page-1#post-8065748 ===
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 104 Def / 152 Spe
+Timid Nature
+IVs: 0 Atk
+- Substitute
+- Leech Seed
+- Recover
+- Baton Pass
+
+Dugtrio @ Choice Band
+Ability: Arena Trap
+EVs: 8 HP / 252 Atk / 36 SpD / 212 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Hidden Power [Bug]
+- Aerial Ace
+
+Magneton @ Leftovers
+Ability: Magnet Pull
+EVs: 112 HP / 252 SpA / 144 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Thunderbolt
+- Hidden Power [Fire]
+- Toxic
+- Protect
+
+Claydol @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 216 Atk / 32 SpA / 8 Spe
+Adamant Nature
+- Earthquake
+- Psychic
+- Explosion
+- Rapid Spin
+
+Jirachi @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 192 Def / 64 Spe
+Bold Nature
+IVs: 0 Atk
+- Psychic
+- Calm Mind
+- Wish
+- Protect
+
+Milotic @ Leftovers
+Ability: Marvel Scale
+EVs: 240 HP / 228 Def / 40 Spe
+Bold Nature
+IVs: 0 Atk
+- Ice Beam
+- Surf
+- Toxic
+- Recover
+
+
+
+
+=== [gen3] Gen 3/#20782 49 Likes 0 Score posted by Exiline http://www.smogon.com/forums/threads/iconic.3650061/page-1#post-8124014 ===
+
+Groudon @ Leftovers  
+Ability: Drought  
+EVs: 252 HP / 152 Def / 104 SpD  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Thunder Wave  
+- Swords Dance  
+
+Blissey @ Leftovers  
+Ability: Natural Cure  
+EVs: 8 HP / 248 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Thunder  
+- Ice Beam  
+- Calm Mind  
+- Soft-Boiled  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 120 Def / 136 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Leech Seed  
+- Substitute  
+- Recover  
+- Baton Pass  
+
+Deoxys-Attack @ Spell Tag  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Lonely Nature  
+- Shadow Ball  
+- Superpower  
+- Extreme Speed  
+- Fire Punch  
+
+Ho-Oh @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 80 Atk / 100 Def / 76 SpD  
+Impish Nature  
+- Shadow Ball  
+- Sacred Fire  
+- Whirlwind  
+- Recover  
+
+Forretress (M) @ Leftovers  
+Ability: Sturdy  
+EVs: 248 HP / 244 SpD / 16 Spe  
+Calm Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Hidden Power [Fire]
+- Toxic  
+- Spikes  
+- Rapid Spin
+
+
+
+
+=== [gen3] Ruins of Alph/#20783 8 Likes 0 Score posted by knickstape52 http://www.smogon.com/forums/threads/a-deep-look-at-rain-offense.3649565/page-1#post-8296323 ===
+
+Zapdos @ Leftovers    
+Ability: Pressure  
+EVs: 116 HP / 252 SpA / 140 Spe  
+Modest Nature
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power Grass
+- Thunder Wave  
+- Roar
+
+Jirachi @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 224 Def / 32 SpA
+Bold Nature
+- Thunder
+- Rain Dance
+- Protect
+- Wish
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature
+- Calm Mind
+- Surf
+- Rest
+- Sleep Talk
+
+
+Snorlax @ Leftovers
+Ability: Thick Fat
+EVs: 144 HP / 68 Atk / 132 Def / 164 SpD
+Adamant Nature
+- Curse
+- Body Slam
+- Shadow Ball
+- Rest
+Tyranitar @ Leftovers
+Ability: Sand Stream
+EVs: 16 HP / 200 Atk / 120 Def / 172 Spe
+Adamant Nature
+- Dragon Dance
+- Rock Slide
+- Earthquake
+- Hidden Power Bug
+
+
+Kingdra @ Leftovers
+Ability: Swift Swim
+EVs: 160 HP / 252 SpA / 96 Spe
+Modest Nature
+- Rain Dance
+- Hydro Pump
+- Ice Beam
+- Hidden Power [Electric]
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20784 41 Likes 0 Score posted by Stockings http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-1#post-8079273 ===
+
+S (Salamence) (M) @ Leftovers  
+Ability: Intimidate  
+Shiny: Yes  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Rash Nature  
+IVs: 30 Atk / 30 Def / 30 SpD  
+- Brick Break  
+- Dragon Claw  
+- Fire Blast  
+- Toxic  
+
+T (Tyranitar) (M) @ Leftovers  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 16 HP / 200 Atk / 120 Def / 172 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Earthquake  
+- Taunt  
+- Rock Slide  
+
+Sn (Snorlax) (M) @ Leftovers  
+Ability: Immunity  
+Shiny: Yes  
+EVs: 80 HP / 252 Atk / 136 Def / 28 SpD / 12 Spe  
+Adamant Nature  
+- Curse  
+- Self-Destruct  
+- Body Slam  
+- Shadow Ball  
+
+Sw (Swampert) (M) @ Salac Berry  
+Ability: Torrent  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Substitute  
+- Hydro Pump  
+- Ice Beam  
+- Endeavor  
+
+A (Aerodactyl) (F) @ Choice Band  
+Ability: Rock Head  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Double-Edge  
+- Hidden Power [Bug]
+
+M (Metagross) @ Lum Berry  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 152 HP / 240 Atk / 16 Def / 100 Spe  
+Adamant Nature  
+- Meteor Mash  
+- Earthquake  
+- Agility  
+- Explosion  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20785 41 Likes 0 Score posted by Stockings http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-1#post-8079273 ===
+
+H (Heracross) @ Leftovers  
+Ability: Guts  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Focus Punch  
+- Rock Slide  
+- Megahorn  
+
+M (Moltres) @ Leftovers  
+Ability: Pressure  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Flamethrower  
+- Hidden Power [Grass]
+- Sunny Day  
+- Will-O-Wisp  
+
+T (Tyranitar) @ Lum Berry  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 80 HP / 172 Atk / 76 Def / 180 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Rock Slide  
+- Earthquake  
+- Taunt  
+
+Me (Metagross) @ Lum Berry  
+Ability: Clear Body  
+Shiny: Yes  
+EVs: 152 HP / 240 Atk / 16 Def / 100 Spe  
+Adamant Nature  
+- Agility  
+- Earthquake  
+- Meteor Mash  
+- Explosion  
+
+S (Swampert) @ Salac Berry  
+Ability: Torrent  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Ice Beam  
+- Substitute  
+- Endeavor  
+
+A (Aerodactyl) @ Choice Band  
+Ability: Rock Head  
+Shiny: Yes  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Flying]
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20786 41 Likes 0 Score posted by Stockings http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-1#post-8079273 ===
+
+Gengar @ Leftovers  
+Ability: Levitate  
+EVs: 248 HP / 56 Atk / 24 Def / 112 SpD / 68 Spe  
+Timid Nature  
+- Thunderbolt  
+- Ice Punch  
+- Hypnosis  
+- Explosion  
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+EVs: 8 HP / 228 Atk / 40 SpD / 232 Spe  
+Adamant Nature  
+IVs: 30 SpD / 30 Spe  
+- Earthquake  
+- Rock Slide  
+- Aerial Ace  
+- Hidden Power [Bug]
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 112 HP / 252 SpA / 144 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Surf  
+- Ice Beam  
+- Hidden Power [Grass]
+- Calm Mind  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 80 HP / 248 SpA / 180 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Psychic  
+- Giga Drain  
+- Hidden Power [Fire]
+- Calm Mind  
+
+Porygon2 @ Leftovers  
+Ability: Trace  
+EVs: 248 HP / 192 Def / 68 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Toxic  
+- Recover  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 40 Def / 152 SpA / 68 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Psychic  
+- Fire Punch  
+- Hidden Power [Grass]
+- Calm Mind  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20787 41 Likes 0 Score posted by Stockings http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-1#post-8079273 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 124 HP / 240 SpA / 144 Spe  
+Modest Nature  
+IVs: 30 HP / 30 SpA  
+- Thunderbolt  
+- Baton Pass  
+- Hidden Power [Grass]
+- Toxic  
+
+Dugtrio (F) @ Choice Band  
+Ability: Arena Trap  
+EVs: 32 HP / 252 Atk / 224 Spe  
+Adamant Nature  
+- Earthquake  
+- Aerial Ace  
+- Hidden Power [Bug]
+- Rock Slide  
+
+Tyranitar (M) @ Choice Band  
+Ability: Sand Stream  
+EVs: 160 HP / 252 Atk / 96 Spe  
+Adamant Nature  
+- Focus Punch  
+- Hidden Power [Bug]
+- Earthquake  
+- Rock Slide  
+
+Lunatone @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 236 Def / 20 Spe  
+Bold Nature  
+- Baton Pass  
+- Calm Mind  
+- Ice Beam  
+- Hypnosis  
+
+Vaporeon (M) @ Leftovers  
+Ability: Water Absorb  
+EVs: 100 HP / 252 SpA / 156 Spe  
+Modest Nature  
+- Hydro Pump  
+- Ice Beam  
+- Baton Pass  
+- Hidden Power [Electric]
+
+Regice @ Leftovers  
+Ability: Clear Body  
+EVs: 232 HP / 252 SpA / 24 Spe  
+Modest Nature  
+- Ice Beam  
+- Thunderbolt  
+- Thunder Wave  
+- Rest  
+
+
+
+
+
+=== [gen3] Gen 3/#20788 9 Likes 0 Score posted by Kurai Hada Ichi http://www.smogon.com/forums/threads/hi-first-time-here-rate-my-team-please.3650780/page-1#post-8177018 ===
+
+Salamence @ Leftovers  
+Ability: Intimidate  
+EVs: 36 Atk / 220 SpA / 252 Spe  
+Rash Nature  
+- Dragon Claw  
+- Hidden Power [Grass]
+- Fire Blast  
+- Brick Break  
+
+Tyranitar @ Lum Berry  
+Ability: Sand Stream  
+EVs: 244 Atk / 12 SpA / 252 Spe  
+Naive Nature  
+- Earthquake  
+- Ice Beam  
+- Rock Slide  
+- Dragon Dance  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Calm Mind  
+- Hidden Power [Grass]
+- Fire Punch  
+- Substitute  
+
+Heracross @ Choice Band  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Focus Punch  
+- Rock Slide  
+- Brick Break  
+- Megahorn  
+
+Cloyster @ Leftovers  
+Ability: Shell Armor  
+- Surf  
+- Explosion  
+- Spikes  
+- Hidden Power [Grass]
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 120 HP / 68 Atk / 136 Def / 176 SpD / 8 Spe  
+Adamant Nature  
+- Self-Destruct  
+- Earthquake  
+- Body Slam  
+- Shadow Ball  
+
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20789 13 Likes 0 Score posted by Triangles http://www.smogon.com/forums/threads/set-dump-team-dump-and-general-metagame-discussion.3648620/page-1#post-8085682 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Substitute  
+- Swagger  
+- Roar  
+
+Gardevoir @ Leftovers  
+Ability: Trace  
+EVs: 240 HP / 16 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Taunt  
+- Torment  
+- Icy Wind  
+- Memento  
+
+Smeargle @ Salac Berry  
+Ability: Own Tempo  
+EVs: 244 HP / 12 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Spore  
+- Belly Drum  
+- Baton Pass  
+
+Cradily @ Lum Berry  
+Ability: Suction Cups  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Rock Slide  
+- Substitute  
+- Earthquake  
+- Hidden Power [Bug]
+
+Medicham @ Leftovers  
+Ability: Pure Power  
+EVs: 252 Atk / 76 SpD / 180 Spe  
+Jolly Nature  
+- Substitute  
+- Hidden Power [Rock]
+- Shadow Ball  
+- Brick Break  
+
+Dianna (Aggron) @ Salac Berry  
+Ability: Rock Head  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Endure  
+- Double-Edge  
+- Rock Slide  
+- Earthquake  
+
+
+
+
+
+=== [gen3] Gen 3/#20790 2 Likes 0 Score posted by daywalkin http://www.smogon.com/forums/threads/dugtrapio-special-sweeping.3655865/page-1#post-8267105 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 240 HP / 236 SpA / 32 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Baton Pass  
+- Roar  
+
+Regice @ Leftovers  
+Ability: Clear Body  
+EVs: 100 HP / 156 Atk / 252 SpA  
+Quiet Nature  
+- Explosion  
+- Ice Beam  
+- Thunderbolt  
+- Hidden Power [Fire]
+
+Dugtrio @ Choice Band  
+Ability: Arena Trap  
+Shiny: Yes  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Bug]
+- Aerial Ace  
+
+Starmie @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Rapid Spin  
+
+Skarmory (F) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 76 Def / 180 Spe  
+Impish Nature  
+- Spikes  
+- Roar  
+- Substitute  
+- Drill Peck  
+
+Swampert @ Leftovers  
+Ability: Torrent  
+EVs: 240 HP / 208 Def / 56 SpA / 4 Spe  
+Relaxed Nature  
+- Earthquake  
+- Ice Beam  
+- Protect  
+- Hydro Pump
+
+
+
+=== [gen3] Ruins of Alph/#20791 1 Likes 0 Score posted by knickstape52 http://www.smogon.com/forums/threads/a-deep-look-at-rain-offense.3649565/page-1#post-8342486 ===
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 32 Def / 224 SpD
+Calm Nature
+- Rest
+- Sleep Talk
+- Thunderbolt
+- Hidden Power Ice
+
+Jirachi @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 224 Def / 32 SpA
+Bold Nature
+- Thunder
+- Rain Dance
+- Protect
+- Wish
+ 
+Swampert @ Leftovers
+Ability: Torrent
+EVs: 252 HP / 216 Def / 40 SpA
+Relaxed Nature
+- Earthquake
+- Toxic
+- Hydro Pump
+- Protect
+
+Snorlax @ Leftovers
+Ability: Immunity
+EVs: 144 HP / 68 Atk / 132 Def / 164 SpD
+Adamant Nature
+- Curse
+- Body Slam
+- Shadow Ball
+- Rest
+
+Dugtrio @ Choice Band
+Ability: Arena Trap
+EVs: 4 HP / 252 Atk / 252 Spe
+IVs: 30 Atk / 30 Def / 30 SpD
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Aerial Ace
+- Hidden Power Bug
+
+Standard (Ludicolo) @ Leftovers  
+Ability: Swift Swim  
+EVs: 56 HP / 252 SpA / 200 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Grass]
+- Rain Dance
+
+
+
+
+
+=== [gen3] Gen 3/#20792 16 Likes 0 Score posted by Aaronboyer http://www.smogon.com/forums/threads/grovyle-offense-adv-pu-1k-rmt.3645851/page-1#post-8007134 ===
+
+Furret @ Choice Band  
+Ability: Keen Eye  
+Happiness: 0  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Shadow Ball  
+- Brick Break  
+- Quick Attack  
+
+Minun @ Petaya Berry  
+Ability: Minus  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Baton Pass  
+- Substitute  
+
+Grovyle @ Petaya Berry  
+Ability: Overgrow  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Leaf Blade  
+- Crunch  
+- Substitute  
+- Hidden Power [Ice]
+
+Sealeo @ Leftovers  
+Ability: Thick Fat  
+EVs: 252 HP / 252 Def / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Surf  
+- Rest  
+- Sleep Talk  
+
+Gastly @ Leftovers  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Psychic  
+- Destiny Bond  
+
+Yanma @ Liechi Berry  
+Ability: Speed Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Substitute  
+- Reversal  
+- Hidden Power [Flying]
+- Protect  
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20793 73 Likes 0 Score posted by UD http://www.smogon.com/forums/threads/spl-9-team-dump-review.3633122/page-1#post-7762386 ===
+
+ShadowToMyLight (Metagross) @ Leftovers
+Ability: Clear Body
+EVs: 184 HP / 44 Atk / 252 SpA / 28 Spe
+Rash Nature
+- Thunder Punch
+- Explosion
+- Meteor Mash
+- Hidden Power [Grass]
+
+I'm faded..so lost (Zapdos) @ Leftovers
+Ability: Pressure
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 2 Atk / 30 SpA
+- Toxic
+- Hidden Power [Grass]
+- Thunder Wave
+- Thunderbolt
+
+You fade away (Starmie) @ Leftovers
+Ability: Natural Cure
+Shiny: Yes
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Hydro Pump
+- Ice Beam
+- Psychic
+- Thunderbolt
+
+Where are you now? (Aerodactyl) (F) @ Choice Band
+Ability: Rock Head
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Earthquake
+- Hidden Power [Flying]
+- Rock Slide
+
+Breathing..alive.. (Tyranitar) (F) @ Lum Berry
+Ability: Sand Stream
+Shiny: Yes
+EVs: 20 HP / 192 Atk / 44 SpA / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Earthquake
+- Ice Beam
+- Rock Slide
+
+Eternal silence (Snorlax) @ Leftovers
+Ability: Immunity
+EVs: 252 Atk / 100 Def / 88 SpA / 64 SpD / 4 Spe
+Brave Nature
+- Body Slam
+- Earthquake
+- Fire Blast
+- Self-Destruct
+
+
+
+
+=== [gen3] Ruins of Alph/#20794 73 Likes 0 Score posted by UD http://www.smogon.com/forums/threads/spl-9-team-dump-review.3633122/page-1#post-7762386 ===
+
+LightThatCigarette (Skarmory) (F) @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 232 SpD / 24 Spe
+Careful Nature
+IVs: 0 Atk
+- Protect
+- Spikes
+- Toxic
+- Roar
+
+Popping Percocet (Tyranitar) (F) @ Leftovers
+Ability: Sand Stream
+Shiny: Yes
+EVs: 248 HP / 220 Atk / 40 Spe
+Adamant Nature
+- Earthquake
+- Focus Punch
+- Hidden Power [Bug]
+- Rock Slide
+
+OverdidTheLiquor (Celebi) @ Leftovers
+Ability: Natural Cure
+EVs: 64 HP / 252 SpA / 192 Spe
+Timid Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Calm Mind
+- Giga Drain
+- Hidden Power [Fire]
+- Psychic
+
+BillionDollarSmile (Gengar) (F) @ Leftovers
+Ability: Levitate
+Shiny: Yes
+EVs: 36 Atk / 252 SpA / 220 Spe
+Hasty Nature
+- Fire Punch
+- Hidden Power [Grass]
+- Thunderbolt
+- Explosion
+
+PulledTheTrigger (Aerodactyl) (F) @ Choice Band
+Ability: Rock Head
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Earthquake
+- Hidden Power [Flying]
+- Rock Slide
+
+YourHeadIsSoNumb (Swampert) (F) @ Leftovers
+Ability: Torrent
+EVs: 248 HP / 76 Def / 176 SpA / 8 Spe
+Quiet Nature
+- Earthquake
+- Hydro Pump
+- Ice Beam
+- Protect
+
+
+
+
+=== [gen3] Ruins of Alph/#20795 73 Likes 0 Score posted by UD http://www.smogon.com/forums/threads/spl-9-team-dump-review.3633122/page-1#post-7762386 ===
+
+YouOnlyNeed1Heart (Cloyster) (F) @ Leftovers
+Ability: Shell Armor
+Shiny: Yes
+EVs: 248 HP / 4 Atk / 4 Def / 120 SpA / 104 SpD / 28 Spe
+Calm Nature
+- Explosion
+- Ice Beam
+- Spikes
+- Surf
+
+YouOnlyNeed1Spark (Jolteon) (F) @ Leftovers
+Ability: Volt Absorb
+EVs: 48 HP / 208 SpA / 252 Spe
+Timid Nature
+IVs: 2 Atk / 30 SpA
+- Baton Pass
+- Roar
+- Thunderbolt
+- Hidden Power [Grass]
+
+ItOnlyTakesOneWord (Moltres) @ Leftovers
+Ability: Pressure
+EVs: 252 SpA / 20 SpD / 236 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA
+- Flamethrower
+- Hidden Power [Grass]
+- Roar
+- Will-O-Wisp
+
+WhenIThinkOfLove (Swampert) @ Leftovers
+Ability: Torrent
+EVs: 248 HP / 148 Def / 64 SpA / 4 SpD / 44 Spe
+Relaxed Nature
+- Earthquake
+- Hydro Pump
+- Ice Beam
+- Protect
+
+RevealTheMystery (Tyranitar) (F) @ Choice Band
+Ability: Sand Stream
+Shiny: Yes
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Focus Punch
+- Earthquake
+- Hidden Power [Bug]
+- Rock Slide
+
+RewroteMyHistory (Gengar) (F) @ Leftovers
+Ability: Levitate
+Shiny: Yes
+EVs: 40 Atk / 252 SpA / 216 Spe
+Hasty Nature
+- Explosion
+- Hidden Power [Grass]
+- Fire Punch
+- Thunderbolt
+
+
+
+
+=== [gen3] Ruins of Alph/#20796 73 Likes 0 Score posted by UD http://www.smogon.com/forums/threads/spl-9-team-dump-review.3633122/page-1#post-7762386 ===
+
+Turn it up (Salamence) (F) @ Leftovers
+Ability: Intimidate
+EVs: 4 Atk / 252 SpA / 252 Spe
+Rash Nature
+- Fire Blast
+- Dragon Claw
+- Hidden Power [Grass]
+- Brick Break
+
+Make it stop (Weezing) (F) @ Leftovers
+Ability: Levitate
+Shiny: Yes
+EVs: 224 HP / 12 Atk / 156 SpA / 116 Spe
+Modest Nature
+- Will-O-Wisp
+- Fire Blast
+- Thunder
+- Explosion
+
+Sound so good (Gyarados) (F) @ Leftovers
+Ability: Intimidate
+EVs: 28 HP / 252 Atk / 56 SpD / 172 Spe
+Jolly Nature
+- Taunt
+- Dragon Dance
+- Hidden Power [Rock]
+- Earthquake
+
+Turn it down (Metagross) @ Leftovers
+Ability: Clear Body
+EVs: 248 HP / 176 Atk / 12 Def / 36 SpD / 36 Spe
+Adamant Nature
+- Toxic
+- Meteor Mash
+- Earthquake
+- Explosion
+
+Beating so loud (Tyranitar) (F) @ Leftovers
+Ability: Sand Stream
+Shiny: Yes
+EVs: 252 HP / 148 SpA / 108 Spe
+Mild Nature
+- Substitute
+- Focus Punch
+- Crunch
+- Fire Blast
+
+Put u on repeat (Jolteon) (F) @ Leftovers
+Ability: Volt Absorb
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 2 Atk / 30 Def
+- Thunderbolt
+- Hidden Power [Ice]
+- Toxic
+- Baton Pass
+
+
+
+
+=== [gen3] Ruins of Alph/#20797 73 Likes 0 Score posted by UD http://www.smogon.com/forums/threads/spl-9-team-dump-review.3633122/page-1#post-7762386 ===
+
+You shut me down (Tyranitar) (F) @ Lum Berry
+Ability: Sand Stream
+Shiny: Yes
+EVs: 40 Atk / 248 SpA / 220 Spe
+Rash Nature
+- Brick Break
+- Hidden Power [Grass]
+- Ice Beam
+- Fire Blast
+
+U like the control (Flygon) (F) @ Leftovers
+Ability: Levitate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Substitute
+- Rock Slide
+- Earthquake
+- Hidden Power [Bug]
+
+ITriedToPlayNice (Weezing) (F) @ Leftovers
+Ability: Levitate
+Shiny: Yes
+EVs: 232 HP / 8 Atk / 152 SpA / 116 Spe
+Rash Nature
+- Fire Blast
+- Will-O-Wisp
+- Sludge Bomb
+- Explosion
+
+Don't kill my vibe (Metagross) @ Leftovers
+Ability: Clear Body
+EVs: 248 HP / 176 Atk / 12 Def / 36 SpD / 36 Spe
+Adamant Nature
+- Explosion
+- Earthquake
+- Protect
+- Meteor Mash
+
+Tear me down (Celebi) @ Leftovers
+Ability: Natural Cure
+EVs: 144 HP / 184 SpA / 180 Spe
+Timid Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Calm Mind
+- Hidden Power [Fire]
+- Psychic
+- Giga Drain
+
+Pick me apart (Zapdos) @ Leftovers
+Ability: Pressure
+EVs: 248 HP / 28 Def / 96 SpA / 136 Spe
+Modest Nature
+IVs: 2 Atk / 30 Def
+- Thunderbolt
+- Protect
+- Hidden Power [Ice]
+- Toxic
+
+
+
+
+=== [gen3] Ruins of Alph/#20798 73 Likes 0 Score posted by UD http://www.smogon.com/forums/threads/spl-9-team-dump-review.3633122/page-1#post-7762386 ===
+
+Hello there (Hariyama) (F) @ Leftovers
+Ability: Thick Fat
+EVs: 24 HP / 252 Def / 180 SpD / 52 Spe
+Impish Nature
+- Cross Chop
+- Knock Off
+- Counter
+- Rest
+
+StopThePainTonight (Claydol) @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 232 Atk / 24 SpD
+Sassy Nature
+- Earthquake
+- Rapid Spin
+- Psychic
+- Refresh
+
+HalloweenOnXMas (Salamence) (F) @ Leftovers
+Ability: Intimidate
+EVs: 252 HP / 200 Def / 28 SpA / 28 Spe
+Bold Nature
+IVs: 0 Atk
+- Wish
+- Protect
+- Flamethrower
+- Toxic
+
+I miss you (Celebi) @ Leftovers
+Ability: Natural Cure
+EVs: 248 HP / 36 Def / 92 SpA / 112 SpD / 20 Spe
+Calm Nature
+IVs: 2 Atk / 30 SpA
+- Perish Song
+- Recover
+- Leech Seed
+- Hidden Power [Grass]
+
+I cannot sleep (Jirachi) @ Leftovers
+Ability: Serene Grace
+EVs: 252 HP / 36 Def / 80 SpA / 4 SpD / 136 Spe
+Calm Nature
+IVs: 0 Atk
+- Wish
+- Substitute
+- Calm Mind
+- Fire Punch
+
+And I'm so sorry (Heracross) (F) @ Salac Berry
+Ability: Swarm
+EVs: 12 HP / 252 Atk / 244 Spe
+Adamant Nature
+- Substitute
+- Swords Dance
+- Megahorn
+- Rock Slide
+
+
+
+
+=== [gen3] Ruins of Alph/#20799 73 Likes 0 Score posted by UD http://www.smogon.com/forums/threads/spl-9-team-dump-review.3633122/page-1#post-7762386 ===
+
+I just had sex (Skarmory) (F) @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 236 SpD / 20 Spe
+Careful Nature
+- Spikes
+- Protect
+- Whirlwind
+- Toxic
+
+AndItFeltSoGood (Blissey) @ Leftovers
+Ability: Natural Cure
+Shiny: Yes
+EVs: 252 Def / 112 SpA / 144 Spe
+Modest Nature
+IVs: 0 Atk
+- Soft-Boiled
+- Ice Beam
+- Toxic
+- Fire Blast
+
+30SecondsOfMyLife (Tyranitar) (F) @ Leftovers
+Ability: Sand Stream
+EVs: 248 HP / 252 Atk / 8 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide
+- Hidden Power [Bug]
+- Focus Punch
+
+DoesntMatterHadSex (Swampert) (F) @ Leftovers
+Ability: Torrent
+EVs: 248 HP / 160 Def / 84 SpA / 4 SpD / 12 Spe
+Relaxed Nature
+- Earthquake
+- Ice Beam
+- Hydro Pump
+- Protect
+
+PutABagOnMyHead (Gengar) (F) @ Leftovers
+Ability: Levitate
+Shiny: Yes
+EVs: 248 HP / 8 Atk / 44 Def / 12 SpA / 100 SpD / 96 Spe
+Timid Nature
+- Fire Punch
+- Giga Drain
+- Explosion
+- Will-O-Wisp
+
+Still counts! (Starmie) @ Leftovers
+Ability: Natural Cure
+Shiny: Yes
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Hydro Pump
+- Ice Beam
+- Thunderbolt
+- Rapid Spin
+
+
+
+
+=== [gen3] Ruins of Alph/#20800 73 Likes 0 Score posted by UD http://www.smogon.com/forums/threads/spl-9-team-dump-review.3633122/page-1#post-7762386 ===
+
+CominOuttaMyCage (Venusaur) (F) @ Leftovers
+Ability: Overgrow
+Shiny: Yes
+EVs: 68 Def / 252 SpA / 56 SpD / 132 Spe
+Timid Nature
+IVs: 2 Atk / 30 SpA / 30 Spe
+- Razor Leaf
+- Leech Seed
+- Sleep Powder
+- Hidden Power [Fire]
+
+StartedOutWithKiss (Swampert) (F) @ Leftovers
+Ability: Torrent
+EVs: 248 HP / 116 Def / 96 SpA / 4 SpD / 44 Spe
+Quiet Nature
+- Hydro Pump
+- Ice Beam
+- Protect
+- Earthquake
+
+NowI'mFallinAsleep (Snorlax) @ Leftovers
+Ability: Immunity
+EVs: 252 Atk / 100 Def / 88 SpA / 68 SpD
+Brave Nature
+- Body Slam
+- Fire Blast
+- Focus Punch
+- Self-Destruct
+
+It'sAllInMyHead (Zapdos) @ Leftovers
+Ability: Pressure
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 2 Atk / 30 Def
+- Thunderbolt
+- Hidden Power [Ice]
+- Protect
+- Toxic
+
+I Just Can't Look (Metagross) @ Choice Band
+Ability: Clear Body
+EVs: 220 HP / 252 Atk / 36 Spe
+Adamant Nature
+- Double-Edge
+- Earthquake
+- Explosion
+- Meteor Mash
+
+I'm Mr. Brightside (Moltres) @ Leftovers
+Ability: Pressure
+EVs: 252 SpA / 20 SpD / 236 Spe
+Timid Nature
+IVs: 2 Atk / 30 SpA
+- Flamethrower
+- Hidden Power [Grass]
+- Roar
+- Will-O-Wisp
+
+
+
+
+=== [gen3] Gen 3/#20801 78 Likes 0 Score posted by UD http://www.smogon.com/forums/threads/special-offense-spikes.3632230/page-1#post-7751507 ===
+
+AlmostHadMeFooled (Tyranitar) (F) @ Leftovers  
+Ability: Sand Stream  
+Shiny: Yes  
+EVs: 248 HP / 252 Atk / 4 SpD / 4 Spe  
+Adamant Nature  
+- Earthquake  
+- Focus Punch  
+- Hidden Power [Bug]
+- Rock Slide  
+
+OnlyGodCanForgive (Skarmory) (F) @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Drill Peck  
+- Spikes  
+- Toxic  
+- Roar  
+
+NothinWithoutYou (Jolteon) (F) @ Leftovers  
+Ability: Volt Absorb  
+Shiny: Yes  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Baton Pass  
+- Hidden Power [Ice]
+- Roar  
+- Thunderbolt  
+
+TruthICouldTell (Gengar) (F) @ Leftovers  
+Ability: Levitate  
+Shiny: Yes  
+EVs: 40 Atk / 252 SpA / 216 Spe  
+Hasty Nature  
+IVs: 30 Def / 30 SpA  
+- Dynamic Punch  
+- Hidden Power [Grass]
+- Ice Punch  
+- Fire Punch  
+
+HopeUFindUrPeace (Zapdos) @ Leftovers  
+Ability: Pressure  
+EVs: 228 Atk / 140 SpA / 140 Spe  
+Mild Nature  
+- Agility  
+- Drill Peck  
+- Hidden Power [Grass]
+- Thunderbolt  
+
+TheyWontKnowUrName (Flygon) (F) @ Leftovers  
+Ability: Levitate  
+EVs: 208 HP / 136 Atk / 144 Def / 20 Spe  
+Adamant Nature  
+- Earthquake  
+- Protect  
+- Rock Slide  
+- Toxic
+
+
+
+
+=== [gen3] Gen 3/#20802 50 Likes 0 Score posted by eden http://www.smogon.com/forums/threads/komm-s%C3%BC%C3%9Fer-tod-a-guide-to-venupert.3611254/page-1#post-7458722 ===
+
+Sleep in Sin (Venusaur) (M) @ Leftovers
+Ability: Overgrow
+EVs: 180 HP / 28 Atk / 80 Def / 108 SpD / 112 Spe
+Calm Nature
+- Sleep Powder
+- Sludge Bomb
+- Leech Seed
+- Giga Drain
+
+Sayonara Sunrise (Tyranitar) (M) @ Leftovers
+Ability: Sand Stream
+EVs: 240 HP / 12 Def / 252 SpA / 4 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA
+- Crunch
+- Pursuit
+- Hidden Power [Grass]
+- Flamethrower
+
+Twisting Fate (Forretress) (M) @ Leftovers
+Ability: Sturdy
+EVs: 252 HP / 4 Atk / 252 SpD
+Sassy Nature
+- Spikes
+- Rapid Spin
+- Explosion
+- Earthquake
+
+Broken Dreams (Aerodactyl) (M) @ Choice Band
+Ability: Rock Head
+EVs: 224 Atk / 32 SpD / 252 Spe
+Jolly Nature
+- Rock Slide
+- Earthquake
+- Hidden Power [Bug]
+- Double-Edge
+
+Heaven's Herald (Zapdos) @ Leftovers
+Ability: Pressure
+EVs: 248 HP / 36 Def / 164 SpD / 60 Spe
+Calm Nature
+IVs: 2 Atk / 30 SpA
+- Thunderbolt
+- Toxic
+- Thunder Wave
+- Hidden Power [Grass]
+
+Riptide Resonance (Swampert) (M) @ Leftovers
+Ability: Torrent
+EVs: 240 HP / 176 Def / 44 SpD / 48 Spe
+Relaxed Nature
+- Earthquake
+- Ice Beam
+- Rest
+- Protect
+
+
+
+
+=== [gen3] Gen 3/#20803 9 Likes 0 Score posted by Aaronboyer http://www.smogon.com/forums/threads/a-fresh-start-er-adv-pu-balance-offense.3620022/page-1#post-7572635 ===
+
+Minun (F) @ Leftovers
+Ability: Minus
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Hidden Power [Ice]
+- Quick Attack
+- Toxic
+
+Dragonair (M) @ Leftovers
+Ability: Shed Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Double-Edge
+- Iron Tail
+- Hidden Power [Ground]
+
+Marshtomp (F) @ Leftovers
+Ability: Torrent
+EVs: 252 HP / 252 Def / 4 SpD
+Relaxed Nature
+- Earthquake
+- Surf
+- Toxic
+- Protect
+
+Quilava @ Leftovers
+Ability: Blaze
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+- Fire Blast
+- Hidden Power [Grass]
+- Toxic
+- Quick Attack
+
+Yanma (F) @ Liechi Berry
+Ability: Speed Boost
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Substitute
+- Reversal
+- Hidden Power [Flying]
+- Shadow Ball
+
+Ivysaur @ Leftovers
+Ability: Overgrow
+EVs: 252 HP / 224 SpD / 32 Spe
+Careful Nature
+- Leech Seed
+- Synthesis
+- Curse
+- Sludge Bomb
+
+
+
+
+=== [gen3] Gen 3/#20804 2 Likes 0 Score posted by Cowboy Dan http://www.smogon.com/forums/threads/sandstorm-spikes-my-first-team.3632442/page-1#post-7763882 ===
+
+Helga (Tyranitar) (F) @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 240 Atk / 16 Spe  
+Brave Nature  
+- Substitute  
+- Focus Punch  
+- Rock Slide  
+- Hidden Power [Grass]
+
+Gengar @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 48 Def / 8 SpA / 112 SpD / 88 Spe  
+Timid Nature  
+- Thunderbolt  
+- Will-O-Wisp  
+- Ice Punch  
+- Explosion  
+
+Genie (Jirachi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 224 Def / 32 SpD  
+Bold Nature  
+- Calm Mind  
+- Psychic  
+- Fire Punch  
+- Wish  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Careful Nature  
+- Spikes  
+- Whirlwind  
+- Toxic  
+- Protect  
+
+Jolteon @ Leftovers  
+Ability: Volt Absorb  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 3 Atk  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Roar  
+- Baton Pass  
+
+Flygon @ Leftovers  
+EVs: 188 HP / 180 Atk / 140 Spe  
+Naughty Nature  
+- Earthquake  
+- Rock Slide  
+- Fire Blast  
+- Hidden Power [Bug]
+
+
+
+
+=== [gen3] Gen 3/#20805 33 Likes 0 Score posted by Foggi http://www.smogon.com/forums/threads/explosion-is-an-art.3583380/page-1#post-7008171 ===
+
+Metagross @ Leftovers
+Ability: Clear Body
+EVs: 208 HP / 252 SpA / 48 SpD
+Quiet Nature
+- Meteor Mash
+- Psychic
+- Hidden Power [Fire]
+- Explosion
+
+Cloyster (M) @ Leftovers
+Ability: Shell Armor
+EVs: 252 HP / 40 SpA / 204 SpD / 12 Spe
+Relaxed Nature
+- Explosion
+- Ice Beam
+- Rapid Spin
+- Spikes
+
+Gengar @ Leftovers
+Ability: Levitate
+EVs: 112 HP / 84 Atk / 124 Def / 188 Spe
+Naive Nature
+- Thunderbolt
+- Ice Punch
+- Hypnosis
+- Explosion
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 80 SpA / 176 Spe
+Modest Nature
+IVs: 0 Atk
+- Calm Mind
+- Surf
+- Substitute
+- Roar
+
+Snorlax @ Leftovers
+Ability: Immunity
+EVs: 96 HP / 56 Atk / 136 Def / 80 SpA / 140 SpD
+Brave Nature
+- Body Slam
+- Brick Break
+- Self-Destruct
+- Fire Blast
+
+Camerupt @ Leftovers
+Ability: Magma Armor
+EVs: 252 HP / 20 Atk / 124 SpA / 112 SpD
+Quiet Nature
+- Fire Blast
+- Earthquake
+- Toxic
+- Protect
+
+
+
+
+=== [gen3] Gen 3/#20806 48 Likes 0 Score posted by Astamatitos http://www.smogon.com/forums/threads/late-game-zapdos-team-analysis.3578828/page-1#post-6933974 ===
+
+Tyranitar @ Choice Band
+Ability: Sand Stream
+EVs: 80 HP / 188 Atk / 80 Def / 160 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Hidden Power [Bug]
+- Focus Punch
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 112 HP / 252 SpA / 144 Spe
+Modest Nature
+IVs: 2 Atk / 30 SpA
+- Thunderbolt
+- Hidden Power [Grass]
+- Agility
+- Baton Pass
+
+Blissey @ Leftovers
+Ability: Natural Cure
+EVs: 252 Def / 180 SpA / 76 Spe
+Bold Nature
+IVs: 0 Atk
+- Seismic Toss
+- Ice Beam
+- Aromatherapy
+- Soft-Boiled
+
+Dugtrio @ Choice Band
+Ability: Arena Trap
+EVs: 8 HP / 228 Atk / 40 SpD / 232 Spe
+Adamant Nature
+IVs: 30 SpD / 30 Spe
+- Earthquake
+- Rock Slide
+- Aerial Ace
+- Hidden Power [Bug]
+
+Swampert @ Salac Berry
+Ability: Torrent
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+- Surf
+- Substitute
+- Endeavor
+- Roar
+
+Claydol @ Leftovers
+Ability: Levitate
+EVs: 248 HP / 196 Def / 24 SpD / 40 Spe
+Sassy Nature
+- Earthquake
+- Psychic
+- Rapid Spin
+- Explosion
+
+
+
+
+=== [gen3] Gen 3/#20807 26 Likes 0 Score posted by 0kay http://www.smogon.com/forums/threads/long-live-the-king.3584538/page-1#post-7029965 ===
+
+Slaking @ Choice Band
+Ability: Truant
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Double-Edge
+- Shadow Ball
+- Return
+- Focus Punch
+
+Snorlax @ Leftovers
+Ability: Immunity
+EVs: 80 HP / 252 Atk / 176 SpD
+Adamant Nature
+- Body Slam
+- Shadow Ball
+- Curse
+- Protect
+
+Groudon @ Leftovers
+Ability: Drought
+EVs: 224 HP / 252 SpD / 32 Spe
+Careful Nature
+- Earthquake
+- Hidden Power [Ghost]
+- Fire Blast
+- Thunder Wave
+
+Latios @ Soul Dew
+Ability: Levitate
+EVs: 252 HP / 4 SpA / 252 SpD
+Modest Nature
+IVs: 0 Atk
+- Calm Mind
+- Recover
+- Ice Beam
+- Thunder
+
+Kyogre @ Leftovers
+Ability: Drizzle
+EVs: 252 HP / 4 Def / 252 SpA
+Modest Nature
+IVs: 0 Atk
+- Hydro Pump
+- Ice Beam
+- Thunder Wave
+- Calm Mind
+
+Metagross @ Lum Berry
+Ability: Clear Body
+EVs: 252 HP / 180 Atk / 20 Def / 56 SpD
+Brave Nature
+- Meteor Mash
+- Explosion
+- Hidden Power [Fire]
+- Pursuit
+
+
+
+
+=== [gen3] Gen 3/#20808 53 Likes 0 Score posted by Golden Sun http://www.smogon.com/forums/threads/team-dump.3576354/page-1#post-6881510 ===
+
+Skarmory (M) @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Impish Nature  
+- Protect  
+- Spikes  
+- Toxic  
+- Whirlwind  
+
+Gyarados (M) @ Leftovers  
+Ability: Intimidate  
+Happiness: 0  
+EVs: 88 HP / 224 Atk / 196 Spe  
+Jolly Nature  
+IVs: 30 HP / 30 Atk / 30 SpD / 30 Spe  
+- Dragon Dance  
+- Earthquake  
+- Frustration  
+- Hidden Power [Rock]
+
+Snorlax (M) @ Leftovers  
+Ability: Immunity  
+EVs: 148 HP / 64 Atk / 116 Def / 176 SpD / 4 Spe  
+Adamant Nature  
+- Body Slam  
+- Curse  
+- Rest  
+- Shadow Ball  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 160 HP / 196 Def / 152 Spe  
+Jolly Nature  
+- Hidden Power [Fighting]
+- Recover  
+- Baton Pass  
+- Swords Dance  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 80 HP / 232 SpA / 196 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power [Fire]
+- Toxic  
+- Protect  
+
+Swampert (M) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 136 Def / 120 SpA  
+Relaxed Nature  
+- Earthquake  
+- Ice Beam  
+- Protect  
+- Toxic
+
+
+
+=== [gen3] Gen 3/#20809 53 Likes 0 Score posted by Golden Sun http://www.smogon.com/forums/threads/team-dump.3576354/page-1#post-6881510 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 160 HP / 196 SpA / 152 Spe  
+Modest Nature  
+- Toxic  
+- Hidden Power [Ice]
+- Baton Pass  
+- Thunderbolt  
+
+Celebi @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 80 SpD / 176 Spe  
+Timid Nature  
+- Calm Mind  
+- Psychic  
+- Baton Pass  
+- Recover  
+
+Metagross @ Choice Band  
+Ability: Clear Body  
+EVs: 216 HP / 252 Atk / 40 Spe  
+Adamant Nature  
+- Earthquake  
+- Meteor Mash  
+- Explosion  
+- Rock Slide  
+
+Swampert @ Leftovers  
+Ability: Torrent  
+EVs: 216 HP / 124 Def / 132 SpA / 36 Spe  
+Quiet Nature  
+- Hydro Pump  
+- Ice Beam  
+- Roar  
+- Earthquake  
+
+Tyranitar (F) @ Leftovers  
+Ability: Sand Stream  
+EVs: 108 HP / 124 Atk / 160 SpA / 116 Spe  
+Naughty Nature  
+IVs: 30 HP / 30 SpA  
+- Earthquake  
+- Fire Blast  
+- Rock Slide  
+- Hidden Power [Grass]
+
+Aerodactyl (M) @ Choice Band  
+Ability: Rock Head  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Double-Edge  
+- Hidden Power [Bug]
+
+
+
+=== [gen3] Gen 3/#20810 53 Likes 0 Score posted by Golden Sun http://www.smogon.com/forums/threads/team-dump.3576354/page-1#post-6881510 ===
+
+Heracross (F) @ Chesto Berry
+Ability: Guts
+EVs: 180 HP / 252 Atk / 76 Spe
+Adamant Nature
+- Megahorn
+- Focus Punch
+- Rock Slide
+- Hidden Power [Ghost]
+
+Magneton @ Leftovers
+Ability: Magnet Pull
+EVs: 104 HP / 252 SpA / 152 Spe
+Modest Nature
+- Thunderbolt
+- Hidden Power [Fire]
+- Toxic
+- Protect
+
+Flygon @ Choice Band
+Ability: Levitate
+EVs: 92 HP / 252 Atk / 164 Spe
+Jolly Nature
+- Earthquake
+- Rock Slide
+- Hidden Power [Ghost]
+- Toxic
+
+Tyranitar @ Leftovers
+Ability: Sand Stream
+EVs: 252 HP / 72 Atk / 184 Spe
+Adamant Nature
+- Dragon Dance
+- Earthquake
+- Rock Slide
+- Hidden Power [Bug]
+
+Porygon2 @ Leftovers
+Ability: Trace
+EVs: 252 HP / 244 Def / 12 Spe
+Bold Nature
+- Recover
+- Toxic
+- Thunder Wave
+- Ice Beam
+
+Celebi @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 184 Def / 72 Spe
+Bold Nature
+- Leech Seed
+- Hidden Power [Grass]
+- Recover
+- Baton Pass
+
+
+
+=== [gen3] Gen 3/#20811 53 Likes 0 Score posted by Golden Sun http://www.smogon.com/forums/threads/team-dump.3576354/page-1#post-6881510 ===
+
+Metagross @ Choice Band
+Ability: Clear Body
+EVs: 208 HP / 252 Atk / 20 Def / 28 Spe
+Adamant Nature
+- Earthquake
+- Explosion
+- Meteor Mash
+- Rock Slide
+
+Tyranitar (M) @ Leftovers
+Ability: Sand Stream
+EVs: 176 HP / 4 Def / 252 SpA / 76 SpD
+Modest Nature
+IVs: 30 Atk / 30 SpA
+- Crunch
+- Flamethrower
+- Toxic
+- Pursuit
+
+Aerodactyl (M) @ Choice Band
+Ability: Rock Head
+EVs: 8 HP / 252 Atk / 24 SpD / 224 Spe
+Adamant Nature
+IVs: 30 SpA / 30 SpD / 30 Spe
+- Double-Edge
+- Earthquake
+- Hidden Power [Flying]
+- Rock Slide
+
+Blissey @ Leftovers
+Ability: Natural Cure
+EVs: 252 Def / 252 SpA / 4 Spe
+Bold Nature
+- Ice Beam
+- Seismic Toss
+- Soft-Boiled
+- Thunder Wave
+
+Forretress (F) @ Leftovers
+Ability: Sturdy
+EVs: 252 HP / 16 Def / 240 SpD
+Relaxed Nature
+- Counter
+- Explosion
+- Rapid Spin
+- Spikes
+
+Swampert (M) @ Leftovers
+Ability: Torrent
+EVs: 252 HP / 136 Def / 40 SpA / 76 SpD / 4 Spe
+Relaxed Nature
+- Earthquake
+- Ice Beam
+- Protect
+- Roar
+
+
+
+=== [gen3] Gen 3/#20812 53 Likes 0 Score posted by Golden Sun http://www.smogon.com/forums/threads/team-dump.3576354/page-1#post-6881510 ===
+
+Skarmory (M) @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 252 SpD / 4 Spe
+Careful Nature
+- Protect
+- Spikes
+- Toxic
+- Whirlwind
+
+Jolteon (F) @ Leftovers
+Ability: Volt Absorb
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Baton Pass
+- Hidden Power [Grass]
+- Roar
+- Thunderbolt
+
+Gengar (M) @ Leftovers
+Ability: Levitate
+EVs: 220 Atk / 96 SpA / 192 Spe
+Mild Nature
+- Explosion
+- Ice Punch
+- Hypnosis
+- Thunderbolt
+
+Dugtrio (M) @ Choice Band
+Ability: Arena Trap
+EVs: 8 HP / 208 Atk / 40 SpD / 252 Spe
+Jolly Nature
+- Aerial Ace
+- Earthquake
+- Hidden Power [Bug]
+- Rock Slide
+
+Swampert (M) @ Leftovers
+Ability: Torrent
+EVs: 252 HP / 136 Def / 120 SpA
+Relaxed Nature
+- Earthquake
+- Hydro Pump
+- Ice Beam
+- Protect
+
+Starmie @ Leftovers
+Ability: Natural Cure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Hydro Pump
+- Ice Beam
+- Rapid Spin
+- Thunderbolt
+
+
+
+=== [gen3] Gen 3/#20813 53 Likes 0 Score posted by Golden Sun http://www.smogon.com/forums/threads/team-dump.3576354/page-1#post-6881510 ===
+
+Skarmory (M) @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 252 SpD / 4 Spe
+Careful Nature
+- Protect
+- Spikes
+- Toxic
+- Whirlwind
+
+Magneton @ Leftovers
+Ability: Magnet Pull
+EVs: 100 HP / 212 SpA / 196 Spe
+Modest Nature
+- Hidden Power [Fire]
+- Protect
+- Thunderbolt
+- Toxic
+
+Tyranitar (M) @ Leftovers
+Ability: Sand Stream
+EVs: 176 HP / 4 Def / 252 SpA / 76 SpD
+Modest Nature
+- Crunch
+- Flamethrower
+- Hidden Power [Grass]
+- Pursuit
+
+Snorlax (M) @ Leftovers
+Ability: Immunity
+EVs: 144 HP / 108 Atk / 116 Def / 136 SpD / 4 Spe
+Careful Nature
+- Body Slam
+- Curse
+- Earthquake
+- Rest
+
+Flygon (M) @ Choice Band
+Ability: Levitate
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Hidden Power [Bug]
+- Rock Slide
+- Toxic
+
+Milotic (F) @ Leftovers
+Ability: Marvel Scale
+EVs: 252 HP / 228 Def / 28 Spe
+Bold Nature
+- Hypnosis
+- Recover
+- Surf
+- Toxic
+
+
+
+=== [gen3] Gen 3/#20814 38 Likes 0 Score posted by Hogg http://www.smogon.com/forums/threads/sinnerman-gen3uu.3575179/page-1#post-6858585 ===
+
+Nidoking @ Soft Sand
+Ability: Poison Point
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Earthquake
+- Megahorn
+- Shadow Ball
+- Ice Beam
+
+Sharpedo @ Salac Berry
+Ability: Rough Skin
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+IVs: 0 Atk
+- Endure
+- Hydro Pump
+- Ice Beam
+- Crunch
+
+Kangaskhan @ Leftovers
+Ability: Early Bird
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Earthquake
+- Shadow Ball
+- Focus Punch
+
+Scyther @ Salac Berry
+Ability: Swarm
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Swords Dance
+- Aerial Ace
+- Hidden Power [Ground]
+- Baton Pass
+
+Hypno @ Leftovers
+Ability: Insomnia
+EVs: 252 HP / 156 Def / 100 SpD
+Sassy Nature
+- Psychic
+- Reflect
+- Toxic 
+- Wish
+
+Omastar @ Mystic Water
+Ability: Swift Swim
+EVs: 40 HP / 252 SpA / 216 Spe
+Modest Nature
+- Rain Dance
+- Hydro Pump
+- Ice Beam
+- Hidden Power [Grass]
+
+
+
+
+=== [gen3] Gen 3/#20815 30 Likes 0 Score posted by eden http://www.smogon.com/forums/threads/once-upon-a-time-2k-double-rmt.3574711/page-1#post-6849967 ===
+
+Salamence @ Choice Band
+Ability: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Fire Blast
+- Hidden Power [Flying]
+- Earthquake
+- Rock Slide
+
+Regice @ Leftovers
+Ability: Clear Body
+EVs: 252 HP / 112 Def / 64 SpA / 60 SpD / 20 Spe
+Calm Nature
+IVs: 0 Atk
+- Ice Beam
+- Thunderbolt
+- Rest
+- Psych Up
+
+Suicune @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 196 Def / 60 Spe
+Bold Nature
+IVs: 0 Atk
+- Roar
+- Calm Mind
+- Surf
+- Rest
+
+Milotic @ Leftovers
+Ability: Marvel Scale
+EVs: 252 HP / 252 Def
+Bold Nature
+IVs: 0 Atk
+- Hypnosis
+- Surf
+- Recover
+- Toxic
+
+Flygon @ Leftovers
+Ability: Levitate
+EVs: 252 Atk / 4 SpA / 252 Spe
+Jolly Nature
+- Toxic
+- Fire Blast
+- Earthquake
+- Hidden Power [Flying]
+
+Skarmory @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 224 SpD / 32 Spe
+Careful Nature
+IVs: 0 Atk
+- Spikes
+- Taunt
+- Whirlwind
+- Toxic
+
+
+
+
+=== [gen3] Gen 3/#20816 30 Likes 0 Score posted by eden http://www.smogon.com/forums/threads/once-upon-a-time-2k-double-rmt.3574711/page-1#post-6849967 ===
+
+Jolteon @ Leftovers
+Ability: Volt Absorb
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk / 30 Def
+- Substitute
+- Thunderbolt
+- Baton Pass
+- Hidden Power [Ice]
+
+Swampert @ Leftovers
+Ability: Torrent
+EVs: 252 HP / 216 Def / 40 Spe
+Relaxed Nature
+- Earthquake
+- Hydro Pump
+- Ice Beam
+- Protect
+
+Metagross @ Lum Berry
+EVs: 252 HP / 228 Atk / 20 Def / 8 SpA
+Brave Nature
+- Meteor Mash
+- Hidden Power [Grass]
+- Explosion
+- Psychic
+
+Medicham @ Choice Band
+Ability: Pure Power
+EVs: 252 Atk / 4 SpA / 252 Spe
+Adamant Nature
+- Brick Break
+- Rock Slide
+- Focus Punch
+- Shadow Ball
+
+Salamence @ Leftovers
+Ability: Intimidate
+EVs: 252 Atk / 4 SpA / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Hidden Power [Flying]
+- Earthquake
+- Fire Blast
+
+Snorlax @ Leftovers/Lum Berry
+EVs: 124 HP / 68 Atk / 124 Def / 36 SpA / 156 SpD
+Brave Nature
+- Shadow Ball
+- Earthquake
+- Self-Destruct
+- Curse
+
+
+
+
+=== [gen3] Gen 3/#20817 3 Likes 0 Score posted by topdeckedhaxo_o http://www.smogon.com/forums/threads/paralysis-rhydon.3590352/page-1#post-7148334 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 202 HP / 172 SpA / 136 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Hidden Power [Grass]
+- Thunder Wave  
+- Thunderbolt  
+- Baton Pass  
+
+Salamence @ Silk Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 116 SpA / 140 Spe  
+Naughty Nature  
+- Hidden Power [Grass]
+- Double-Edge  
+- Brick Break  
+- Fire Blast  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 96 HP / 56 Atk / 136 Def / 80 SpA / 140 SpD  
+Brave Nature  
+- Self-Destruct  
+- Earthquake  
+- Body Slam  
+- Fire Blast  
+
+Rhydon @ Leftovers  
+Ability: Rock Head  
+EVs: 212 HP / 122 Atk / 176 Spe  
+Adamant Nature  
+- Swords Dance  
+- Earthquake  
+- Rock Slide  
+- Substitute  
+
+Magneton @ Salac Berry  
+Ability: Magnet Pull  
+EVs: 48 HP / 252 SpA / 208 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Hidden Power [Grass]
+- Thunder Wave  
+- Thunderbolt  
+- Endure  
+
+Gyarados @ Leftovers  
+Ability: Intimidate  
+EVs: 68 HP / 252 Atk / 188 Spe  
+Adamant Nature  
+- Hidden Power [Flying]
+- Thunder Wave  
+- Dragon Dance  
+- Earthquake
+
+
+
+
+=== [gen3] Gen 3/#20818 2 Likes 0 Score posted by topdeckedhaxo_o http://www.smogon.com/forums/threads/paralysis-rhydon.3590352/page-1#post-7176795 ===
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 202 HP / 172 SpA / 136 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Hidden Power [Grass]
+- Thunder Wave  
+- Thunderbolt  
+- Baton Pass  
+
+Salamence @ Choice Band  
+Ability: Intimidate  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Hidden Power [Flying]
+- Brick Break  
+- Earthquake  
+- Rock Slide  
+
+Snorlax @ Leftovers  
+Ability: Immunity  
+EVs: 16 HP / 184 Atk / 140 Def / 168 SpD  
+Adamant Nature  
+- Self-Destruct  
+- Focus Punch  
+- Shadow Ball  
+- Body Slam  
+
+Rhydon @ Leftovers  
+Ability: Rock Head  
+EVs: 212 HP / 122 Atk / 176 Spe  
+Adamant Nature  
+- Swords Dance  
+- Earthquake  
+- Rock Slide  
+- Substitute  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 64 HP / 252 SpA / 192 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Hidden Power [Fire]
+- Thunder Wave  
+- Thunderbolt  
+- Toxic  
+
+Gyarados @ Leftovers  
+Ability: Intimidate  
+EVs: 68 HP / 252 Atk / 188 Spe  
+Adamant Nature  
+- Hidden Power [Flying]
+- Thunder Wave  
+- Dragon Dance  
+- Earthquake
+
+
+
+=== [gen3] Gen 3/#20819 12 Likes 0 Score posted by Cheryl. http://www.smogon.com/forums/threads/breaking-point.3572952/page-1#post-6817367 ===
+
+Sparks Fly (Jolteon) @ Leftovers  
+Ability: Volt Absorb  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Grass]
+- Substitute  
+- Baton Pass  
+
+Break (Medicham) @ Choice Band  
+Ability: Pure Power  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Brick Break  
+- Shadow Ball  
+- Rock Slide  
+- Focus Punch  
+
+Reptar (Tyranitar) @ Leftovers  
+Ability: Sand Stream  
+EVs: 16 HP / 200 Atk / 120 Def / 172 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Bug]
+
+X Marks The Spot (Metagross) @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 228 Atk / 20 Def / 8 SpA  
+Brave Nature  
+- Meteor Mash  
+- Hidden Power [Grass]
+- Explosion  
+- Earthquake  
+
+Lapis (Suicune) @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 192 SpA / 64 Spe  
+Modest Nature  
+- Calm Mind  
+- Surf  
+- Ice Beam  
+- Substitute  
+
+Sir Duckington (Porygon2) @ Leftovers  
+Ability: Trace  
+EVs: 252 HP / 148 Def / 108 SpA  
+Modest Nature  
+- Thunderbolt  
+- Ice Beam  
+- Recover  
+- Thunder Wave
+
+
+
+
+=== [gen3] Gen 3/#20820 4 Likes 0 Score posted by MeepBard http://www.smogon.com/forums/threads/deception-and-destruction.3582030/page-1#post-6986258 ===
+
+Swampert @ Leftovers
+Ability: Torrent
+EVs: 252 HP / 216 Def / 40 SpA
+Relaxed Nature
+- Earthquake
+- Ice Beam
+- Hydro Pump
+- Protect
+
+Magneton @ Salac Berry
+Ability: Magnet Pull
+EVs: 52 HP / 252 SpA / 204 Spe
+Timid Nature
+IVs: 2 Atk / 30 Def
+- Thunderbolt
+- Hidden Power [Fire]
+- Endure
+- Screech
+
+Salamence @ Leftovers
+Ability: Intimidate
+EVs: 24 Atk / 232 SpA / 252 Spe
+Rash Nature
+- Hidden Power [Grass]
+- Fire Blast
+- Brick Break
+- Dragon Claw
+
+Aerodactyl @ Choice Band
+Ability: Rock Head
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Rock Slide
+- Double-Edge
+- Earthquake
+- Hidden Power [Flying]
+
+Snorlax @ Leftovers
+Ability: Thick Fat
+EVs: 144 HP / 68 Atk / 132 Def / 164 SpD
+Adamant Nature
+- Curse
+- Selfdestruct
+- Earthquake
+- Shadow Ball
+
+Metagross @ Leftovers
+Ability: Clear Body
+EVs: 184 HP / 180 Atk / 16 SpA / 128 Spe
+Adamant Nature
+- Meteor Mash
+- Earthquake
+- Hidden Power [Grass]
+- Explosion
+
+
+
+
+=== [gen3] Gen 3/#20821 1 Likes 0 Score posted by topdeckedhaxo_o http://www.smogon.com/forums/threads/spikes-kabutops-aerodactyl.3596590/page-1#post-7244573 ===
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Crunch  
+- Taunt  
+- Toxic  
+
+Kabutops @ Salac Berry  
+Ability: Swift Swim  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Rock Slide  
+- Endure  
+- Flail  
+
+Aerodactyl @ Choice Band  
+Ability: Rock Head  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Hidden Power [Bug]
+- Double-Edge  
+- Earthquake  
+- Rock Slide  
+
+Skarmory @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 HP / 48 SpD / 208 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Whirlwind  
+- Spikes  
+- Taunt  
+- Toxic  
+
+Gengar @ Leftovers  
+Ability: Levitate  
+EVs: 68 HP / 152 Def / 104 SpA / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Will-O-Wisp  
+- Ice Punch  
+- Hypnosis  
+
+Swampert @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 216 Def / 40 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Toxic  
+- Roar  
+- Surf
+
+
+
+
+=== [gen3] Gen 3/#20822 34 Likes 0 Score posted by Fireburn http://www.smogon.com/forums/threads/adv-ubers-double-rmt.3544033/page-1#post-6321142 ===
+
+Groudon @ Leftovers
+Ability: Drought
+EVs: 252 HP / 156 Atk / 100 SpD
+Adamant Nature
+IVs: 30 Spe
+- Swords Dance
+- Earthquake
+- Rock Slide
+- Thunder Wave
+
+Ho-Oh @ Choice Band
+Ability: Pressure
+EVs: 172 HP / 252 Atk / 84 Spe
+Lonely Nature
+- Hidden Power [Flying]
+- Earthquake
+- Shadow Ball
+- Sacred Fire
+
+Latios @ Soul Dew
+Ability: Levitate
+EVs: 252 SpA / 112 SpD / 144 Spe
+Timid Nature
+- Calm Mind
+- Dragon Claw
+- Recover
+- Refresh
+
+Snorlax @ Leftovers
+Ability: Thick Fat
+EVs: 252 Atk / 4 Def / 252 SpD
+Brave Nature
+- Body Slam
+- Fire Blast
+- Earthquake
+- Self-Destruct
+
+Registeel @ Leftovers
+Ability: Clear Body
+EVs: 252 HP / 112 Atk / 144 SpD
+Careful Nature
+- Curse
+- Hidden Power [Ghost]
+- Earthquake
+- Explosion
+
+Aerodactyl @ Choice Band
+Ability: Rock Head
+EVs: 252 Atk / 32 SpD / 224 Spe
+Adamant Nature
+- Double-Edge
+- Rock Slide
+- Earthquake
+- Hidden Power [Ghost]
+
+
+
+
+=== [gen3] Gen 3/#20823 34 Likes 0 Score posted by Fireburn http://www.smogon.com/forums/threads/adv-ubers-double-rmt.3544033/page-1#post-6321142 ===
+
+Latios @ Soul Dew
+Ability: Levitate
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature
+- Calm Mind
+- Ice Beam
+- Thunder
+- Recover
+
+Kyogre @ Lum Berry
+Ability: Drizzle
+EVs: 248 HP / 252 SpA / 8 Spe
+Modest Nature
+- Calm Mind
+- Hydro Pump
+- Ice Beam
+- Thunder Wave
+
+Metagross @ Choice Band
+Ability: Clear Body
+EVs: 252 HP / 116 Atk / 140 SpD / 16 Spe
+Adamant Nature
+- Meteor Mash
+- Earthquake
+- Pursuit
+- Explosion
+
+Mewtwo @ Leftovers
+Ability: Pressure
+EVs: 4 Atk / 252 SpA / 252 Spe
+Rash Nature
+- Calm Mind
+- Ice Beam
+- Thunder
+- Self-Destruct
+
+Skarmory @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 232 Def / 24 Spe
+Bold Nature
+- Spikes
+- Toxic
+- Taunt
+- Drill Peck
+
+Blissey @ Leftovers
+Ability: Natural Cure
+EVs: 252 Def / 4 SpA / 252 SpD
+Calm Nature
+- Wish
+- Protect
+- Toxic
+- Seismic Toss
+
+
+
+
+=== [gen3] Gen 3/#20824 14 Likes 0 Score posted by Oglemi http://www.smogon.com/forums/threads/adv-nu-dos-team-expos%C3%A9.3542135/page-1#post-6292726 ===
+
+Glalie (F) @ Leftovers
+Ability: Inner Focus
+EVs: 252 HP / 4 Atk / 252 Spe
+Naive Nature
+- Spikes
+- Taunt
+- Ice Beam
+- Explosion
+
+Hitmonchan (M) @ Choice Band
+Ability: Keen Eye
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Sky Uppercut
+- Hidden Power [Ghost]
+- Mach Punch
+- Rock Slide
+
+Relicanth @ Leftovers
+Ability: Swift Swim
+EVs: 252 HP / 252 Def / 4 Spe
+Impish Nature
+- Rock Slide
+- Toxic
+- Rest
+- Sleep Talk
+
+Kecleon (M) @ Leftovers
+Ability: Color Change
+EVs: 252 HP / 4 Atk / 252 SpD
+Sassy Nature
+- Toxic
+- Body Slam
+- Shadow Ball
+- Icy Wind
+
+Chimecho @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 252 SpA / 4 Spe
+Modest Nature
+- Psychic
+- Protect
+- Toxic
+- Reflect
+
+Bellossom (F) @ Leftovers
+Ability: Chlorophyll
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Sleep Powder
+- Sunny Day
+- Solar Beam
+- Hidden Power [Fire]
+
+
+
+
+=== [gen3] Gen 3/#20825 14 Likes 0 Score posted by Oglemi http://www.smogon.com/forums/threads/adv-nu-dos-team-expos%C3%A9.3542135/page-1#post-6292726 ===
+
+Seadra @ Petaya Berry
+Ability: Poison Point
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Hydro Pump
+- Ice Beam
+- Hidden Power [Grass]
+- Endure
+
+Murkrow @ Choice Band
+Ability: Insomnia
+EVs: 4 HP / 252 Atk / 252 Spe
+Naive Nature
+- Drill Peck
+- Double-Edge
+- Shadow Ball
+- Hidden Power [Grass]
+
+Flareon @ Leftovers
+Ability: Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Fire Blast
+- Baton Pass
+- Overheat
+- Hidden Power [Grass]
+
+Dewgong @ Leftovers
+Ability: Thick Fat
+EVs: 252 HP / 252 SpD / 4 Spe
+Calm Nature
+- Ice Beam
+- Toxic
+- Rest
+- Sleep Talk
+
+Hitmonchan (M) @ Leftovers
+Ability: Keen Eye
+EVs: 192 HP / 252 Atk / 64 Spe
+Adamant Nature
+- Rapid Spin
+- Sky Uppercut
+- Hidden Power [Ghost]
+- Toxic
+
+Vigoroth @ Salac Berry
+Ability: Vital Spirit
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Endure
+- Earthquake
+- Flail
+- Shadow Ball
+
+
+
+
+=== [gen3] Gen 3/#20826 96 Likes 0 Score posted by McMeghan http://www.smogon.com/forums/threads/querencia.3521102/page-1#post-5833489 ===
+
+Tyranitar (M) @ Choice Band
+Trait: Sand Stream
+EVs: 48 HP / 252 Atk / 208 Spd
+Adamant Nature (+Atk, -SAtk)
+- Rock Slide
+- Earthquake
+- Focus Punch
+- Hidden Power [Bug]
+
+Starmie @ Leftovers
+Trait: Natural Cure
+EVs: 4 HP / 252 SAtk / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Hydro Pump
+- Thunderbolt
+- Ice Beam
+- Recover
+
+Gengar (F) @ Leftovers
+Trait: Levitate
+EVs: 124 Atk / 200 SAtk / 184 Spd
+Hasty Nature (+Spd, -Def)
+- Thunderbolt
+- Explosion
+- Ice Punch
+- Giga Drain
+
+Swampert (F) @ Leftovers
+Trait: Torrent
+EVs: 252 HP / 224 Def / 32 Spd
+Relaxed Nature (+Def, -Spd)
+- Rest
+- Protect
+- Ice Beam
+- Earthquake
+
+Magneton @ Leftovers
+Trait: Magnet Pull
+EVs: 112 HP / 252 SAtk / 44 SDef / 100 Spd
+Modest Nature (+SAtk, -Atk)
+- Thunderbolt
+- Hidden Power [Fire]
+- Sleep Talk
+- Rest
+
+Flygon (M) @ Choice Band
+Trait: Levitate
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Earthquake
+- Rock Slide
+- Hidden Power [Flying]
+- Toxic
+
+
+
+
+=== [gen3] Gen 3/#20827 8 Likes 0 Score posted by Talenheim http://www.smogon.com/forums/threads/tals-stop-at-hoenn.3547863/page-1#post-6395431 ===
+
+Cloyster (M) @ Leftovers
+Trait: Shell Armor
+EVs: 252 HP / 16 Def / 88 SAtk / 148 SDef / 4 Spd
+IVs: 0 Atk
+Bold Nature (+Def, -Atk)
+- Spikes
+- Rapid Spin
+- Surf
+- Explosion
+
+Metagross @ Choice Band
+Trait: Clear Body
+EVs: 252 HP / 236 Atk / 12 Def / 8 Spd
+IVs: 30 Def / 30 SAtk / 30 Spd
+Adamant Nature (+Atk, -SAtk)
+- Earthquake
+- Explosion
+- Hidden Power [Fire]
+- Meteor Mash
+
+Tyranitar (M) @ Leftovers
+Trait: Sand Stream
+EVs: 188 HP / 240 SAtk / 80 Spd
+IVs: 30 HP / 2 Atk / 30 SAtk
+Modest Nature (+SAtk, -Atk)
+- Fire Blast
+- Hidden Power [Grass]
+- Ice Beam
+- Pursuit
+
+Salamence (F) @ Choice Band
+Trait: Intimidate
+EVs: 252 Atk / 4 Def / 252 Spd
+IVs: 30 HP / 30 Atk / 30 Def / 30 SAtk / 30 SDef
+Jolly Nature (+Spd, -SAtk)
+- Brick Break
+- Earthquake
+- Hidden Power [Flying]
+- Rock Slide
+
+Snorlax (M) @ Leftovers
+Trait: Thick Fat
+EVs: 144 HP / 68 Atk / 132 Def / 164 SDef
+Adamant Nature (+Atk, -SAtk)
+- Body Slam
+- Curse
+- Earthquake
+- Rest
+
+Magneton @ Leftovers
+Trait: Magnet Pull
+EVs: 68 HP / 252 SAtk / 188 Spd
+IVs: 30 HP / 2 Atk / 30 SAtk
+Modest Nature (+SAtk, -Atk)
+- Hidden Power [Grass]
+- Substitute
+- Thunderbolt
+- Toxic
+
+
+
+
+=== [gen3] Gen 3/#20828 8 Likes 0 Score posted by Talenheim http://www.smogon.com/forums/threads/tals-stop-at-hoenn.3547863/page-1#post-6395431 ===
+
+Swampert (M) @ Leftovers
+Ability: Torrent
+EVs: 252 HP / 216 Def / 40 SpD
+Relaxed Nature
+- Protect
+- Curse
+- Earthquake
+- Rock Slide
+
+Metagross @ Lum Berry
+Ability: Clear Body
+EVs: 252 HP / 4 Atk / 252 SpA
+Quiet Nature
+- Pursuit
+- Explosion
+- Psychic
+- Meteor Mash
+
+Flygon (F) @ Choice Band
+Ability: Levitate
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naive Nature
+- Earthquake
+- Rock Slide
+- Hidden Power [Bug]
+- Fire Blast
+
+Salamence (F) @ Leftovers
+Ability: Intimidate
+EVs: 24 Atk / 232 SpA / 252 Spe
+Rash Nature
+- Hidden Power [Grass]
+- Fire Blast
+- Brick Break
+- Dragon Claw
+
+Snorlax (M) @ Leftovers
+Ability: Thick Fat
+EVs: 144 HP / 68 Atk / 132 Def / 164 SpD
+Adamant Nature
+- Body Slam
+- Curse
+- Earthquake
+- Rest
+
+Magneton @ Leftovers
+Ability: Magnet Pull
+EVs: 68 HP / 252 SpA / 188 Spe
+Modest Nature
+IVs: 30 HP / 2 Atk / 30 SpA
+- Hidden Power [Grass]
+- Substitute
+- Thunderbolt
+- Toxic
+
+
+
+
+=== [gen3] Gen 3/#20829 70 Likes 0 Score posted by BKC http://www.smogon.com/forums/threads/n%C3%A6r-s%C3%B3len-gar-ni%C3%BEer-for-evogher.3521490/page-1#post-5843765 ===
+
+Gengar (M) @ Leftovers
+Shiny: Yes
+Trait: Levitate
+EVs: 56 HP / 44 Atk / 52 Def / 148 SAtk / 8 SDef / 200 Spd
+Naive Nature (+Spd, -SDef)
+- Explosion
+- Hypnosis
+- Ice Punch
+- Thunderbolt
+
+Celebi @ Leftovers
+Shiny: Yes
+Trait: Natural Cure
+EVs: 120 HP / 248 SAtk / 140 Spd
+Modest Nature (+SAtk, -Atk)
+- Baton Pass
+- Calm Mind
+- Giga Drain
+- Hidden Power [Fire]
+
+Dugtrio (M) @ Choice Band
+Shiny: Yes
+Trait: Arena Trap
+EVs: 252 Atk / 36 SDef / 220 Spd
+Jolly Nature (+Spd, -SAtk)
+- Aerial Ace
+- Earthquake
+- Hidden Power [Bug]
+- Rock Slide
+
+Porygon2 @ Leftovers
+Shiny: Yes
+Trait: Trace
+EVs: 248 HP / 228 Def / 32 SAtk
+Bold Nature (+Def, -Atk)
+- Ice Beam
+- Recover
+- Thunder Wave
+- Thunderbolt
+
+Charizard (M) @ Petaya Berry
+Shiny: Yes
+Trait: Blaze
+EVs: 252 SAtk / 4 SDef / 252 Spd
+Modest Nature (+SAtk, -Atk)
+- Fire Blast
+- Hidden Power [Grass]
+- Substitute
+- Sunny Day
+
+Suicune @ Leftovers
+Shiny: Yes
+Trait: Pressure
+EVs: 136 HP / 228 SAtk / 144 Spd
+Modest Nature (+SAtk, -Atk)
+- Calm Mind
+- Hydro Pump
+- Ice Beam
+- Roar
+
+
+
+
+=== [gen3] Gen 3/#20830 13 Likes 0 Score posted by Cowboy Dan http://www.smogon.com/forums/threads/offensive-starmie.3538221/page-1#post-6217705 ===
+
+Tyranitar @ Choice Band
+Ability: Sand Stream
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Hidden Power [Bug]
+- Focus Punch
+
+Gengar @ Leftovers
+Ability: Levitate
+EVs: 124 HP / 160 Atk / 116 Def / 12 SpA / 24 SpD / 72 Spe
+Timid Nature
+- Thunderbolt
+- Ice Punch
+- Will-O-Wisp
+- Explosion
+
+Skarmory @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 156 SpD / 100 Spe
+Careful Nature
+- Toxic
+- Taunt
+- Spikes
+- Whirlwind
+
+Blissey (F) @ Leftovers
+Ability: Natural Cure
+EVs: 4 HP / 252 Def / 248 SpA / 4 Spe
+Modest Nature
+- Calm Mind
+- Soft-Boiled
+- Thunderbolt
+- Ice Beam
+
+Dugtrio @ Choice Band
+Ability: Arena Trap
+EVs: 8 HP / 252 Atk / 20 SpD / 228 Spe
+Adamant Nature
+IVs: 30 SpD / 30 Spe
+- Earthquake
+- Rock Slide
+- Aerial Ace
+- Hidden Power [Bug]
+
+Starmie @ Leftovers
+Ability: Natural Cure
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Surf
+- Ice Beam
+- Thunderbolt
+- Recover
+
+
+
+
+=== [gen3] Gen 3/#20831 5 Likes 0 Score posted by ThriceElite http://www.smogon.com/forums/threads/supernova-adv-nu.3532123/page-1#post-6096652 ===
+
+Glalie (M) @ Leftovers
+Trait: Inner Focus
+EVs: 252 Atk / 4 Def / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Spikes
+- Earthquake
+- Shadow Ball
+- Explosion
+
+Haunter (F) @ Leftovers
+Trait: Levitate
+EVs: 252 SAtk / 4 SDef / 252 Spd
+IVs: 30 Atk / 30 SAtk / 30 Spd
+Timid Nature (+Spd, -Atk)
+- Substitute
+- Thunderbolt
+- Hidden Power [Fire]
+- Psychic
+
+Sudowoodo (F) @ Leftovers
+Trait: Rock Head
+EVs: 252 HP / 252 Atk / 4 Spd
+Adamant Nature (+Atk, -SAtk)
+- Substitute
+- Focus Punch
+- Rock Slide
+- Explosion
+
+Chimecho (F) @ Leftovers
+Trait: Levitate
+EVs: 252 HP / 252 Def / 4 SDef
+Bold Nature (+Def, -Atk)
+- Calm Mind
+- Psychic
+- Rest
+- Sleep Talk
+
+Torkoal (F) @ Leftovers
+Trait: White Smoke
+EVs: 252 HP / 184 Atk / 72 SDef
+Relaxed Nature (+Def, -Spd)
+- Curse
+- Fire Blast
+- Rock Slide
+- Explosion
+
+Tangela (M) @ Leftovers
+Trait: Chlorophyll
+EVs: 228 HP / 252 SAtk / 28 Spd
+IVs: 30 Atk / 30 SAtk / 30 Spd
+Modest Nature (+SAtk, -Atk)
+- Sunny Day
+- Solar Beam
+- Hidden Power [Fire]
+- Sleep Powder
+
+
+
+
+=== [gen3] Gen 3/#20832 1 Likes 0 Score posted by Talenheim http://www.smogon.com/forums/threads/tals-stop-at-hoenn.3547863/page-1#post-6426010 ===
+
+Swampert (M) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 216 Def / 40 SpD  
+Relaxed Nature  
+- Protect  
+- Curse  
+- Earthquake  
+- Rock Slide  
+
+Metagross @ Lum Berry  
+Ability: Clear Body  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+- Pursuit  
+- Explosion  
+- Psychic  
+- Meteor Mash  
+
+Flygon (F) @ Choice Band  
+Ability: Levitate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power [Bug]
+- Fire Blast  
+
+Salamence (F) @ Leftovers  
+Ability: Intimidate  
+EVs: 24 Atk / 232 SpA / 252 Spe  
+Rash Nature  
+- Hidden Power [Grass]
+- Fire Blast  
+- Brick Break  
+- Dragon Claw  
+
+Snorlax (M) @ Leftovers  
+Ability: Thick Fat  
+EVs: 144 HP / 68 Atk / 132 Def / 164 SpD  
+Adamant Nature  
+- Body Slam  
+- Curse  
+- Earthquake  
+- Rest  
+
+Magneton @ Leftovers  
+Ability: Magnet Pull  
+EVs: 68 HP / 252 SpA / 188 Spe  
+Modest Nature  
+IVs: 30 HP / 2 Atk / 30 SpA  
+- Hidden Power [Grass]
+- Substitute  
+- Thunderbolt  
+- Toxic
+
+
+
+
+=== [gen3] Gen 3/#20833 4 Likes 0 Score posted by Cowboy Dan http://www.smogon.com/forums/threads/nu-stall-attempt.3532303/page-1#post-6099108 ===
+
+Hitmonchan (M) @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 252 Atk / 4 Spe
+Adamant Nature
+- Rapid Spin
+- Sky Uppercut
+- Hidden Power [Ghost]
+- Mach Punch
+
+Roselia (F) @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 60 SpA / 196 SpD
+Calm Nature
+- Spikes
+- Leech Seed
+- Hidden Power [Grass]
+- Synthesis
+
+Sableye (M) @ Leftovers
+Ability: Keen Eye
+EVs: 252 HP / 8 Atk / 208 Def / 36 SpD / 4 Spe
+Impish Nature
+- Shadow Ball
+- Toxic
+- Knock Off
+- Recover
+
+Chimecho (F) @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 248 Def / 8 Spe
+Bold Nature
+- Psychic
+- Calm Mind
+- Heal Bell
+- Hidden Power [Dark]
+
+Flareon (F) @ Leftovers
+Ability: Flash Fire
+EVs: 252 HP / 252 SpD / 4 Spe
+Calm Nature
+- Flamethrower
+- Roar
+- Wish
+- Protect
+
+Relicanth (M) @ Leftovers
+Ability: Swift Swim
+EVs: 252 HP / 168 Atk / 88 Spe
+Adamant Nature
+- Rock Slide
+- Earthquake
+- Rest
+- Sleep Talk
+
+
+
+
+=== [gen3] Gen 3/#20834 1 Likes 0 Score posted by Disaster Area http://www.smogon.com/forums/threads/adv-nu-backflow.3526946/page-1#post-5988481 ===
+
+TurnAround (Hitmonchan) (M) @ Leftovers
+Trait: Keen Eye
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature (+Def, -SAtk)
+- Rapid Spin
+- Sky Uppercut
+- Mach Punch
+- Hidden Power [Ghost]
+
+Eliza (Flareon) (M) @ Leftovers
+Trait: Flash Fire
+EVs: 252 HP / 52 Def / 56 SAtk / 12 SDef / 136 Spd
+Timid Nature (+Spd, -Atk)
+- Flamethrower
+- Wish
+- Toxic
+- Protect
+
+Lil' One (Lileep) (F) @ Leftovers
+Trait: Suction Cups
+EVs: 252 HP / 196 Def / 60 SDef
+Bold Nature (+Def, -Atk)
+- Recover
+- Giga Drain
+- Protect
+- Toxic
+
+Fable (Sableye) (F) @ Leftovers
+Trait: Keen Eye
+EVs: 252 HP / 8 Atk / 60 Def / 184 SDef / 4 Spd
+Careful Nature (+SDef, -SAtk)
+- Recover
+- Toxic
+- Protect
+- Shadow Ball
+
+Chime (Chimecho) (M) @ Leftovers
+Trait: Levitate
+EVs: 252 HP / 252 Def / 4 Spd
+Bold Nature (+Def, -Atk)
+- Psychic
+- Heal Bell
+- Protect
+- Calm Mind
+
+virtualboy (Dewgong) (M) @ Leftovers
+Trait: Thick Fat
+EVs: 252 HP / 156 Def / 100 SDef
+Bold Nature (+Def, -Atk)
+- Perish Song
+- Sleep Talk
+- Surf
+- Rest
+
+
+
+
+=== [gen3] Ruins of Alph/#20835 1 Likes 0 Score posted by BKC http://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/page-1#post-4307699 ===
+
+Aerodactyl (M) @ Choice Band
+Trait: Rock Head
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Double-Edge
+- Earthquake
+- Hidden Power [Flying]
+- Rock Slide
+
+Tyranitar (M) @ Leftovers
+Trait: Sand Stream
+EVs: 252 HP / 240 Atk / 16 Spd
+Adamant Nature (+Atk, -SAtk)
+- Focus Punch
+- Hidden Power [Bug]
+- Rock Slide
+- Substitute
+
+Flygon (M) @ Leftovers
+Trait: Levitate
+EVs: 252 Atk / 252 Spd / 6 SAtk
+Jolly Nature (+Spd, -SAtk)
+- Earthquake
+- Fire Blast
+- Hidden Power [Bug]
+- Rock Slide
+
+Swampert (M) @ Leftovers
+Trait: Torrent
+EVs: 252 HP / 136 Def / 4 Spd / 116 SAtk
+Relaxed Nature (+Def, -Spd)
+- Earthquake
+- Ice Beam
+- Rest
+- Sleep Talk
+
+Skarmory (M) @ Leftovers
+Trait: Sturdy
+EVs: 252 HP / 48 Def / 16 Spd / 192 SDef
+Impish Nature (+Def, -SAtk)
+- Rest
+- Sleep Talk
+- Spikes
+- Whirlwind
+
+Zapdos @ Leftovers
+Trait: Pressure
+EVs: 236 HP / 44 Spd / 228 SDef
+Calm Nature (+SDef, -Atk)
+- Hidden Power [Grass]
+- Rest
+- Sleep Talk
+- Thunderbolt
+
+
+
+
+=== [gen3] Ruins of Alph/#20836 1 Likes 0 Score posted by BKC http://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/page-1#post-4307699 ===
+
+Gengar (M) @ Leftovers
+Trait: Levitate
+EVs: 172 HP / 200 Spd / 136 SAtk
+Timid Nature (+Spd, -Atk)
+- Giga Drain
+- Hypnosis
+- Ice Punch
+- Thunderbolt
+
+Zapdos @ Leftovers
+Trait: Pressure
+EVs: 252 HP / 28 Spd / 228 SDef
+Calm Nature (+SDef, -Atk)
+- Hidden Power [Grass]
+- Rest
+- Sleep Talk
+- Thunderbolt
+
+Salamence (M) @ Choice Band
+Trait: Intimidate
+EVs: 4 HP / 252 Atk / 252 Spd
+Adamant Nature (+Atk, -SAtk)
+- Earthquake
+- Fire Blast
+- Hidden Power [Flying]
+- Rock Slide
+
+Skarmory (M) @ Leftovers
+Trait: Keen Eye
+EVs: 252 HP / 48 Def / 12 Spd / 198 SDef
+Impish Nature (+Def, -SAtk)
+- Rest
+- Sleep Talk
+- Spikes
+- Whirlwind
+
+Blissey (F) @ Leftovers
+Trait: Natural Cure
+EVs: 56 HP / 252 Def / 200 SAtk
+Bold Nature (+Def, -Atk)
+- Ice Beam
+- Protect
+- Seismic Toss
+- Wish
+
+Swampert (M) @ Leftovers
+Trait: Torrent
+EVs: 252 HP / 128 Def / 8 Spd / 120 SAtk
+Relaxed Nature (+Def, -Spd)
+- Earthquake
+- Ice Beam
+- Rest
+- Sleep Talk
+
+
+
+
+=== [gen3] Ruins of Alph/#20837 0 Likes 0 Score posted by kd24 http://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/page-3#post-4326664 ===
+
+Cloyster (M) @ Leftovers
+- Explosion
+- Spikes
+- Surf
+- Ice Beam
+
+Nidoking (M) @ Leftovers
+- Lovely Kiss
+- Earthquake
+- Ice Beam
+- Fire Blast
+
+Snorlax (M) @ Leftovers
+- Curse
+- Selfdestruct
+- Earthquake
+- Body Slam 
+
+Gengar (M) @ Leftovers
+- DynamicPunch
+- Ice Punch
+- Thunderbolt
+- Explosion
+
+Steelix (M) @ Leftovers
+- Roar
+- Earthquake
+- Curse
+- Explosion
+
+Exeggutor (M) @ Leftovers
+- Explosion
+- Psychic
+- Sleep Powder
+- Stun Spore
+
+
+
+
+=== [gen3] Gen 3/#20838 0 Likes 0 Score posted by Amaranth http://www.smogon.com/forums/threads/adv-ou-a-very-manly-rse-team.3545034/page-1#post-6339957 ===
+
+Gyarados (F) @ Leftovers
+Ability: Intimidate
+EVs: 156 HP / 252 SpA / 100 Spe
+Modest Nature
+- Fire Blast
+- Ice Beam
+- Thunder
+- Hydro Pump
+
+Flygon @ Leftovers
+Ability: Levitate
+EVs: 188 HP / 184 Atk / 136 Spe
+Serious Nature
+- Earthquake
+- Rock Slide
+- Fire Blast
+- Toxic
+
+Aerodactyl (M) @ Choice Band
+Ability: Rock Head
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Hidden Power [Flying]
+- Rock Slide
+- Earthquake
+- Double-Edge
+
+Vaporeon (M) @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 228 Def / 28 SpD
+Bold Nature
+- Protect
+- Surf
+- Wish
+- Haze
+
+Venusaur (F) @ Leftovers
+Ability: Overgrow
+EVs: 252 HP / 80 Def / 176 SpD
+Sassy Nature
+- Sleep Powder
+- Razor Leaf
+- Leech Seed
+- Sludge Bomb
+
+Houndoom (F) @ Leftovers
+Ability: Early Bird
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Pursuit
+- Fire Blast
+- Will-O-Wisp
+- Crunch
+
+
+
+
+
+=== [gen3] Ruins of Alph/#20839 0 Likes 0 Score posted by M Dragon http://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/page-2#post-4319078 ===
+
+Raikou @ Leftovers
+- Thunderbolt
+- Reflect
+- Roar
+- Rest
+
+Skarmory (M) @ Leftovers
+- Curse
+- Drill Peck
+- Rest
+- Whirlwind
+
+Cloyster (M) @ Leftovers
+- Spikes
+- Toxic
+- Surf
+- Rapid Spin
+
+Snorlax (M) @ Leftovers
+- Frustration
+- Flamethrower
+- Toxic
+- Rest
+
+Tentacruel (M) @ Leftovers
+- Swords Dance
+- Sludge Bomb
+- Hydro Pump
+- Substitute
+
+Tyranitar (M) @ Leftovers
+- Curse
+- Rock Slide
+- Pursuit
+- Roar
+
+A stall team with Tentacruel
+
+
+
+
+=== [gen3] Ruins of Alph/#20840 0 Likes 0 Score posted by M Dragon http://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/page-2#post-4319078 ===
+
+Cloyster (M) @ Leftovers
+- Explosion
+- Spikes
+- Surf
+- Ice Beam
+
+Zapdos (F) @ Leftovers
+- Thunder
+- Hidden Power [Ice]
+- Rest
+- Sleep Talk
+
+Exeggutor (M) @ Leftovers
+- Sleep Powder
+- Psychic
+- Giga Drain
+- Explosion
+
+Gengar (M) @ Leftovers
+- Explosion
+- Thunderbolt
+- Ice Punch
+- DynamicPunch
+
+Snorlax (M) @ Leftovers
+- Double-Edge
+- Earthquake
+- Fire Blast
+- Selfdestruct
+
+Steelix (M) @ Leftovers
+- Curse
+- Earthquake
+- Explosion
+- Roar
+
+
+
+
+=== [gen3] Ruins of Alph/#20841 0 Likes 0 Score posted by gene http://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/page-1#post-4308358 ===
+
+Zapdos @ Leftovers
+Trait: Pressure
+EVs: 252 HP / 30 Spd / 228 SDef
+Calm Nature (+SDef, -Atk)
+- Hidden Power [Grass]
+- Rest
+- Sleep Talk
+- Thunderbolt
+
+Skarmory (M) @ Leftovers
+Trait: Keen Eye
+EVs: 252 HP / 192 Def / 64 Spd
+Impish Nature (+Def, -SAtk)
+- Drill Peck
+- Rest
+- Roar
+- Spikes
+
+Suicune @ Leftovers
+Trait: Pressure
+EVs: 240 HP / 212 Def / 56 Spd
+Bold Nature (+Def, -Atk)
+- Calm Mind
+- Ice Beam
+- Rest
+- Surf
+
+Blissey (F) @ Leftovers
+Trait: Natural Cure
+EVs: 252 Def / 4 Spd / 216 SAtk / 38 SDef
+Bold Nature (+Def, -Atk)
+- Aromatherapy
+- Ice Beam
+- Seismic Toss
+- Softboiled
+
+Dusclops (M) @ Leftovers
+Trait: Pressure
+EVs: 252 HP / 32 Atk / 128 Def / 96 SDef
+Impish Nature (+Def, -SAtk)
+- Rest
+- Shadow Ball
+- Sleep Talk
+- Will-O-Wisp
+
+Claydol @ Leftovers
+Trait: Levitate
+EVs: 236 HP / 96 Atk / 82 Def / 96 SAtk
+Relaxed Nature (+Def, -Spd)
+- Earthquake
+- Ice Beam
+- Psychic
+- Rapid Spin
+
+
+
+
+=== [gen3] Ruins of Alph/#20842 0 Likes 0 Score posted by gene http://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/page-1#post-4308358 ===
+
+Forretress (M) @ Leftovers
+- Curse
+- Hidden Power [Bug]
+- Rest
+- Spikes
+
+Slowbro (M) @ Leftovers
+- Flamethrower
+- Growl
+- Rest
+- Toxic
+
+Raikou @ Leftovers
+- Crunch
+- Reflect
+- Rest
+- Thunderbolt
+
+Suicune @ Leftovers
+- Rest
+- Roar
+- Surf
+- Toxic
+
+Blissey (F) @ Leftovers
+- Growl
+- Heal Bell
+- Softboiled
+- Toxic
+
+Donphan (M) @ Leftovers
+- Earthquake
+- Rapid Spin
+- Rest
+- Roar
+
+
+
+
+=== [gen3] Ruins of Alph/#20843 0 Likes 0 Score posted by Borat http://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/page-2#post-4317799 ===
+
+Forretress (M) @ Leftovers
+- Explosion
+- Rapid Spin
+- Reflect
+- Spikes
+
+Gengar (M) @ Leftovers
+- Explosion
+- Ice Punch
+- Mean Look
+- Thunderbolt
+
+Snorlax (M) @ Leftovers
+- Curse
+- Double-Edge
+- Lovely Kiss
+- Rest
+
+Tyranitar (M) @ Leftovers
+- Curse
+- Pursuit
+- Roar
+- Rock Slide
+
+Vaporeon (F) @ Leftovers
+- Growth
+- Rest
+- Sleep Talk
+- Surf
+
+Exeggutor (M) @ Leftovers
+- Explosion
+- Hidden Power [Fire]
+- Psychic
+- Stun Spore
+
+
+
+
+=== [gen3] Ruins of Alph/#20844 0 Likes 0 Score posted by shrapn3l http://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/page-2#post-4314785 ===
+
+Jolteon (F) @ Leftovers
+Trait: Volt Absorb
+EVs: 72 HP / 184 SAtk / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Thunderbolt
+- Hidden Power [Ice]
+- Substitute
+- Baton Pass
+
+Salamence (M) @ Leftovers
+Trait: Intimidate
+EVs: 84 HP / 252 Atk / 16 Def / 156 Spd
+Adamant Nature (+Atk, -SAtk)
+- Dragon Dance
+- Hidden Power [Flying]
+- Earthquake
+- Rock Slide
+
+Dugtrio (F) @ Choice Band
+Trait: Arena Trap
+EVs: 252 Atk / 4 SDef / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Earthquake
+- Hidden Power [Bug]
+- Rock Slide
+- Aerial Ace
+
+Metagross @ Lum Berry
+Trait: Clear Body
+EVs: 152 HP / 180 Atk / 160 SAtk / 16 Spd
+Naughty Nature (+Atk, -SDef)
+- Meteor Mash
+- Earthquake
+- Hidden Power [Fire]
+- Explosion
+
+Gengar (F) @ Leftovers
+Trait: Levitate
+EVs: 252 HP / 52 Def / 100 SAtk / 104 Spd
+Timid Nature (+Spd, -Atk)
+- Ice Punch
+- Giga Drain
+- Hypnosis
+- Thunderbolt
+
+Suicune @ Leftovers
+Trait: Pressure
+EVs: 252 HP / 176 SAtk / 16 SDef / 64 Spd
+Modest Nature (+SAtk, -Atk)
+- Calm Mind
+- Hydro Pump
+- Substitute
+- Ice Beam
+
+
+
+
+=== [gen3] Ruins of Alph/#20845 0 Likes 0 Score posted by shrapn3l http://www.smogon.com/forums/threads/3rd-gen-teams-archive.3469111/page-1#post-4308467 ===
+
+Hitmonlee (M) @ Choice Band ** Manly Hits
+Trait: Limber
+EVs: 252 Atk / 4 Def / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Double-Edge
+- Hi Jump Kick
+- Hidden Power [Ghost]
+- Mach Punch
+
+Sharpedo (F) @ Salac Berry ** Sharpedro
+Trait: Rough Skin
+EVs: 4 HP / 252 Spd / 252 SAtk
+Timid Nature (+Spd, -Atk) 
+- Crunch
+- Endure
+- Hidden Power [Grass]
+- Hydro Pump
+
+Quagsire (M) @ Leftovers ** Life Aquatic
+Trait: Water Absorb
+EVs: 252 HP / 88 Atk / 168 Def
+Brave Nature (+Atk, -Spd) / Adamant Nature (+Atk, -SAtk)
+- Curse
+- Earthquake
+- Ice Beam 
+- Rest
+
+Grumpig (M) @ Leftovers ** Kickin Screamin
+Trait: Thick Fat
+EVs: 252 HP / 96 Def / 20 Spd / 140 SDef
+Calm Nature (+SDef, -Atk)
+- Calm Mind
+- Psychic
+- Rest
+- Sleep Talk
+
+Nidoking (M) @ Leftovers ** Needleking
+Trait: Poison Point
+EVs: 4 HP / 252 Atk / 252 Spd
+Hasty Nature (+Spd, -Def)
+- Earthquake
+- Fire Blast
+- Ice Beam
+- Megahorn
+
+Solrock @ Leftovers ** Lolrock
+Trait: Levitate
+EVs: 252 HP / 136 Atk / 120 Def
+Adamant Nature (+Atk, -SAtk)
+- Earthquake
+- Explosion
+- Reflect
+- Rock Slide
+
+
+
+
+=== [gen3] Gen 3/#20846 0 Likes 0 Score posted by teal6 http://www.smogon.com/forums/threads/yamato.3566113/page-1#post-6690305 ===
+
+Swampert @ Leftovers 
+Ability: Torrent 
+EVs: 252 HP / 144 Def / 68 SpA / 44 SpD 
+Relaxed Nature 
+- Curse 
+- Earthquake 
+- Ice Beam 
+- Protect 
+
+Aerodactyl @ Choice Band 
+Ability: Rock Head 
+EVs: 4 HP / 252 Atk / 252 Spe 
+Jolly Nature 
+- Double-Edge 
+- Hidden Power [Flying]
+- Rock Slide 
+- Earthquake 
+
+Tyranitar @ Leftovers 
+Ability: Sand Stream 
+EVs: 252 HP / 252 Atk / 4 Def 
+Adamant Nature 
+- Rock Slide 
+- Earthquake 
+- Roar 
+- Hidden Power [Bug]
+
+Gengar @ Leftovers 
+Ability: Levitate 
+EVs: 248 HP / 44 Def / 28 SpA / 188 Spe 
+Timid Nature 
+- Thunderbolt 
+- Ice Punch 
+- Giga Drain 
+- Hypnosis 
+
+Celebi @ Leftovers 
+Ability: Natural Cure 
+EVs: 252 HP / 72 Def / 48 SpD / 136 Spe 
+Bold Nature 
+- Psychic 
+- Leech Seed 
+- Calm Mind 
+- Recover 
+
+Skarmory @ Leftovers 
+Ability: Keen Eye 
+EVs: 252 HP / 232 Def / 24 Spe 
+Impish Nature 
+- Toxic 
+- Taunt 
+- Spikes 
+- Whirlwind
+
+
+
+

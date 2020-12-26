@@ -1,0 +1,613 @@
+=== [gen5uu] Ruins of Alph/#23568 11 Likes 0 Score posted by Arai BW UU Sample 1 http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Golurk @ Leftovers  
+Ability: Iron Fist  
+EVs: 236 HP / 252 Atk / 20 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Protect  
+- Ice Punch  
+
+Druddigon @ Choice Band  
+Ability: Rough Skin  
+EVs: 196 HP / 252 Atk / 60 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- Fire Punch  
+- Sleep Talk  
+
+Heracross @ Choice Scarf  
+Ability: Moxie  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Megahorn  
+- Stone Edge  
+- Earthquake  
+
+Zapdos @ Life Orb  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Heat Wave  
+- Hidden Power [Grass]
+- Roost  
+
+Bisharp @ Life Orb  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Iron Head  
+- Sucker Punch  
+- Pursuit  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]
+
+
+
+
+
+
+=== [gen5uu] Ruins of Alph/#23569 11 Likes 0 Score posted by Arai Stallbreaker Mew Balance - choolio and dodmen http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 248 HP / 84 SpD / 176 Spe  
+Timid Nature  
+- Soft-Boiled  
+- Will-O-Wisp  
+- Taunt  
+- Psyshock  
+
+Rhyperior (M) @ Leftovers  
+Ability: Solid Rock  
+EVs: 244 HP / 16 Atk / 248 SpD  
+Adamant Nature  
+- Rock Blast  
+- Earthquake  
+- Stealth Rock  
+- Dragon Tail  
+
+Qwilfish (F) @ Black Sludge  
+Ability: Intimidate  
+EVs: 248 HP / 200 Def / 60 Spe  
+Bold Nature  
+- Spikes  
+- Scald  
+- Pain Split  
+- Taunt  
+
+Heracross (F) @ Leftovers  
+Ability: Guts  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Megahorn  
+- Stone Edge  
+- Close Combat  
+
+Togekiss (M) @ Leftovers  
+Ability: Serene Grace  
+EVs: 248 HP / 160 Def / 100 Spe  
+Bold Nature  
+- Air Slash  
+- Heal Bell  
+- Roost  
+- Nasty Plot  
+
+Umbreon (M) @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
+- Wish  
+- Foul Play  
+- Protect  
+- Toxic  
+
+
+
+
+
+
+=== [gen5uu] Ruins of Alph/#23570 11 Likes 0 Score posted by Arai Sash Cacturne + Endure Hitmonlee HO - dodmen http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Rhyperior @ Life Orb  
+Ability: Solid Rock  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Rock Polish  
+- Stone Edge  
+- Earthquake  
+- Megahorn  
+
+Cacturne @ Focus Sash  
+Ability: Water Absorb  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Spikes  
+- Counter  
+- Dark Pulse  
+- Focus Blast  
+
+Hitmonlee @ Liechi Berry  
+Ability: Unburden  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Endure  
+- Reversal  
+- Stone Edge  
+- Mach Punch  
+
+Azelf @ Life Orb  
+Ability: Levitate  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Psychic  
+- Fire Blast  
+- Shadow Ball  
+- Explosion  
+
+Venomoth @ Insect Plate  
+Ability: Tinted Lens  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Quiver Dance  
+- Sleep Powder  
+- Bug Buzz  
+- Psychic  
+
+Cobalion @ Expert Belt  
+Ability: Justified  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Stealth Rock  
+- Volt Switch  
+- Hidden Power [Ice]
+- Close Combat  
+
+
+
+
+
+
+=== [gen5uu] Ruins of Alph/#23571 11 Likes 0 Score posted by Arai Charge Beam Zapdos Stall - choolio and Kushalos http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 80 SpD / 176 Spe  
+Timid Nature  
+IVs: 30 HP / 2 Atk / 30 Def / 30 SpA / 30 SpD  
+- Thunderbolt  
+- Hidden Power [Flying]
+- Charge Beam  
+- Roost  
+
+Slowking @ Leftovers  
+Ability: Regenerator  
+EVs: 248 HP / 16 Atk / 244 Def  
+Relaxed Nature  
+- Scald  
+- Calm Mind  
+- Dragon Tail  
+- Slack Off  
+
+Roserade @ Black Sludge  
+Ability: Natural Cure  
+EVs: 248 HP / 220 SpD / 40 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Spikes  
+- Giga Drain  
+- Sludge Bomb  
+- Rest  
+
+Gligar @ Eviolite  
+Ability: Immunity  
+EVs: 232 HP / 216 Def / 60 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Knock Off  
+- Roost  
+
+Umbreon @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Foul Play  
+- Wish  
+- Protect  
+- Heal Bell  
+
+Hitmontop @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 252 Def / 4 Spe  
+Impish Nature  
+- Rapid Spin  
+- Toxic  
+- Rest  
+- Close Combat  
+
+
+
+
+
+
+=== [gen5uu] Ruins of Alph/#23572 11 Likes 0 Score posted by Arai CM Spam - Hogg http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Raikou @ Leftovers  
+Ability: Pressure  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Volt Switch  
+- Thunderbolt  
+- Hidden Power [Ice]
+- Calm Mind  
+
+Cresselia @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 176 Def / 80 Spe  
+Bold Nature  
+IVs: 30 HP / 2 Atk / 30 SpA / 30 SpD / 30 Spe  
+- Calm Mind  
+- Psyshock  
+- Hidden Power [Fighting]
+- Substitute  
+
+Togekiss @ Leftovers  
+Ability: Serene Grace  
+EVs: 176 HP / 80 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Air Slash  
+- Thunder Wave  
+- Roost  
+
+Umbreon @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+- Wish  
+- Foul Play  
+- Heal Bell  
+- Protect  
+
+Gligar @ Eviolite  
+Ability: Immunity  
+EVs: 236 HP / 216 Def / 56 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Aerial Ace  
+- Roost  
+
+Blastoise @ Leftovers  
+Ability: Rain Dish  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Scald  
+- Toxic  
+- Rapid Spin  
+- Roar  
+
+
+
+
+
+
+=== [gen5uu] Ruins of Alph/#23573 11 Likes 0 Score posted by Arai Tailwind Offense - Hogg http://www.smogon.com/forums/threads/roa-resources.3659267/page-1#post-8347622 ===
+
+
+Mew @ Normal Gem  
+Ability: Synchronize  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Taunt  
+- Tailwind  
+- Explosion  
+
+Victini @ Charcoal  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Lonely Nature  
+- V-create  
+- Zen Headbutt  
+- Brick Break  
+- Grass Knot  
+
+Tornadus @ Life Orb  
+Ability: Prankster  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Hurricane  
+- Superpower  
+- Grass Knot  
+- Tailwind  
+
+Suicune @ Leftovers  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Electric]
+
+Nidoking @ Life Orb  
+Ability: Sheer Force  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Earth Power  
+- Ice Beam  
+- Fire Blast  
+- Shadow Ball  
+
+Druddigon @ Choice Band  
+Ability: Mold Breaker  
+EVs: 132 HP / 240 Atk / 4 SpD / 132 Spe  
+Adamant Nature  
+- Outrage  
+- Earthquake  
+- Dragon Claw  
+- Sucker Punch
+
+
+
+=== [gen5uu] BW UU/#23574 2 Likes 0 Score posted by PK Gaming http://www.smogon.com/forums/threads/big-scale-magic-show-peaked-4.3470092/page-1#post-4333727 ===
+
+Rhyperior @ Leftovers
+Trait: Solid Rock
+EVs: 248 HP / 16 Atk / 244 SDef
+Adamant Nature
+- Earthquake
+- Rock Blast
+- Stealth Rock
+- Dragon Tail
+
+Qwilfish @ Leftovers
+Trait: Intimidate
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Waterfall
+- Haze
+- Pain Split
+- Spikes
+
+Shaymin @ Life Orb
+Trait: Natural Cure
+EVs: 252 SAtk / 4 SDef / 252 Spd
+Timid Nature
+- Seed Flare
+- Psychic
+- Synthesis
+- Earth Power
+
+Snorlax @ Choice Band
+Trait: Thick Fat
+EVs: 252 Atk / 252 SDef / 4 Spd
+Adamant Nature
+- Return
+- Fire Punch
+- Pursuit
+- Earthquake
+
+Zoroark @ Choice Specs
+Trait: Illusion
+EVs: 252 SAtk / 4 SDef / 252 Spd
+Timid Nature
+- Dark Pulse
+- Flamethrower
+- Trick
+- Focus Blast
+
+Heracross @ Choice Scarf
+Trait: Moxie
+EVs: 252 Atk / 4 Def / 252 Spd
+Jolly Nature
+- Megahorn
+- Close Combat
+- Earthquake
+- Stone Edge
+
+
+
+
+=== [gen5uu] BW UU/#23575 1 Likes 0 Score posted by Davy Jones http://www.smogon.com/forums/threads/100-million-volts-peaked-2-on-the-smogon-uu-ladder.3460772/page-1#post-4064621 ===
+
+Deoxys-D @ Leftovers
+Trait: Pressure
+EVs: 252 HP / 4 Def / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Stealth Rock
+- Spikes
+- Night Shade
+- Taunt
+
+Chandelure (M) @ Leftovers
+Trait: Flash Fire
+EVs: 48 HP / 208 SAtk / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Substitute
+- Fire Blast
+- Shadow Ball
+- Energy Ball
+
+Heracross (M) @ Choice Band
+Trait: Guts
+EVs: 72 HP / 220 Atk / 216 Spd
+Adamant Nature (+Atk, -SAtk)
+- Close Combat
+- Megahorn
+- Stone Edge
+- Pursuit
+
+Flygon (M) @ Choice Scarf
+Trait: Levitate
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Outrage
+- Earthquake
+- U-turn
+- Stone Edge
+
+Suicune @ Leftovers
+Trait: Pressure
+EVs: 236 HP / 56 SAtk / 216 Spd
+Modest Nature (+SAtk, -Atk)
+- Calm Mind
+- Scald
+- Ice Beam
+- Roar
+
+Raikou @ Leftovers
+Trait: Pressure
+EVs: 128 HP / 76 Def / 52 SAtk / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Substitute
+- Calm Mind
+- Thunderbolt
+- Hidden Power [Ice]
+
+
+
+
+=== [gen5uu] BW UU/#23576 1 Likes 0 Score posted by Snunch http://www.smogon.com/forums/threads/blazefire-saber.3454629/page-1#post-3788509 ===
+
+Moltres @ Choice Specs
+Trait: Pressure
+EVs: 252 SAtk / 4 SDef / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Fire Blast
+- Air Slash
+- Hidden Power [Grass]
+- U-turn
+
+Raikou @ Leftovers
+Trait: Pressure
+EVs: 128 HP / 76 Def / 52 SAtk / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Substitute
+- Calm Mind
+- Thunderbolt
+- Hidden Power [Ice]
+
+Heracross (M) @ Choice Scarf
+Trait: Guts
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Close Combat
+- Megahorn
+- Stone Edge
+- Pursuit
+
+Blastoise (M) @ Leftovers
+Trait: Torrent
+EVs: 252 HP / 252 Def / 4 SDef
+Bold Nature (+Def, -Atk)
+- Scald
+- Roar
+- Rapid Spin
+- Ice Beam
+
+Golurk @ Leftovers
+Trait: Iron Fist
+EVs: 248 HP / 252 Atk / 8 Spd
+Adamant Nature (+Atk, -SAtk)
+- Substitute
+- Focus Punch
+- Shadow Punch
+- Earthquake
+
+Deoxys-D @ Leftovers
+Trait: Pressure
+EVs: 252 HP / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Stealth Rock
+- Spikes
+- Taunt
+- Night Shade
+
+
+
+
+=== [gen5uu] BW UU/#23577 0 Likes 0 Score posted by PK Gaming http://www.smogon.com/forums/threads/straw-hat-pirates-peaked-11.3460678/page-1#post-4060955 ===
+
+Luffy (Darmanitan) (M) @ Life Orb
+Trait: Sheer Force
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Flare Blitz
+- Superpower
+- Earthquake
+- U-turn
+
+Zoro (Rhyperior) (M) @ Leftovers
+Trait: Solid Rock
+EVs: 160 HP / 252 Atk / 92 Spd
+Adamant Nature (+Atk, -SAtk)
+- Stealth Rock
+- Earthquake
+- Stone Edge
+- Megahorn
+
+Nami (Roserade) (F) @ Life Orb
+Trait: Natural Cure
+EVs: 4 HP / 252 SAtk / 252 Spd
+Timid Nature (+Spd, -Atk)
+- Sludge Bomb
+- Leaf Storm
+- Sleep Powder
+- Rest
+
+Usopp (Blastoise) (M) @ Leftovers
+Trait: Torrent
+EVs: 252 HP / 252 Def / 4 SDef
+Bold Nature (+Def, -Atk)
+- Scald
+- Rapid Spin
+- Ice Beam
+- Roar
+
+Sanji (Krookodile) (M) @ Choice Scarf
+Trait: Moxie
+EVs: 4 HP / 252 Atk / 252 Spd
+Jolly Nature (+Spd, -SAtk)
+- Earthquake
+- Crunch
+- Pursuit
+- Stone Edge
+
+Chopper (Mew) @ Leftovers
+Trait: Synchronize
+EVs: 76 HP / 252 SAtk / 180 Spd
+Timid Nature (+Spd, -Atk)
+- Nasty Plot
+- Psyshock
+- Aura Sphere
+- Flamethrower
+
+
+
+

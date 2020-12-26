@@ -1,0 +1,63 @@
+=== [gen7linked] OM Archives/#20470 23 Likes 5 Score posted by Chazm Untitled 98 http://www.smogon.com/forums/threads/post-ompl-vii-thread.3654332/page-1#post-8232462 ===
+
+Klefki @ Light Clay  
+Ability: Prankster  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Reflect  
+- Light Screen  
+- Thunder Wave  
+- Play Rough  
+
+Landorus-Therian @ Rockium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Rock Polish  
+- Earthquake  
+- Stone Edge  
+
+Magearna @ Leftovers  
+Ability: Soul-Heart  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunderbolt  
+- Calm Mind  
+- Shift Gear  
+
+Gyarados @ Gyaradosite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Crunch  
+- Taunt  
+- Waterfall  
+
+Serperior @ Leftovers  
+Ability: Contrary  
+EVs: 56 HP / 200 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Leaf Storm  
+- Glare  
+- Hidden Power [Fire]
+
+Aerodactyl @ Focus Sash  
+Ability: Rock Head  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Taunt  
+- Earthquake  
+- Stone Edge  
+
+
+
+
+
+
