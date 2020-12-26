@@ -1,7 +1,6 @@
 === [gen8monotype] HO Bug - Splash ===
 
 Shuckle @ Mental Herb
-Ability: Sturdy
 EVs: 248 HP / 252 Def / 8 SpD
 Bold Nature
 IVs: 0 Atk
@@ -655,7 +654,7 @@ IVs: 0 Atk
 - Nasty Plot
 - Thunderbolt
 - Overheat
-- Substitute / Defog
+- Defog
 
 
 === [gen8monotype] Balanced Flying - Attribute ===
@@ -758,7 +757,7 @@ IVs: 0 Atk
 - Foul Play
 - Roost
 - Defog
-- Toxic / U-turn
+- Toxic
 
 Togekiss @ Leftovers
 Ability: Serene Grace
@@ -910,7 +909,7 @@ Timid Nature
 - Sunny Day
 - Moonblast
 - Encore
-- Memento / U-turn
+- Memento
 
 Shiftry @ Black Glasses
 Ability: Chlorophyll
@@ -979,7 +978,7 @@ Calm Nature
 - Apple Acid
 - Recover
 - Leech Seed
-- Dragon Pulse / Protect
+- Dragon Pulse
 
 Rillaboom @ Life Orb
 Ability: Grassy Surge
@@ -1161,7 +1160,7 @@ Diggersby @ Choice Band
 Ability: Huge Power
 EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature
-- Mega Kick / Facade / Body Slam
+- Body Slam
 - Earthquake
 - Fire Punch
 - Quick Attack
@@ -1385,7 +1384,7 @@ Jolly Nature
 - Stone Edge
 - Close Combat
 - Earthquake
-- Iron Head / Megahorn
+- Iron Head
 
 Tyranitar @ Lum Berry
 Ability: Sand Stream
@@ -1413,7 +1412,7 @@ Impish Nature
 - Sticky Web
 - Stealth Rock
 - Encore
-- Knock Off / Final Gambit
+- Final Gambit
 
 Rhyperior @ Leftovers
 Ability: Solid Rock
